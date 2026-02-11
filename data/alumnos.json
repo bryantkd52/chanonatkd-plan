@@ -1,1 +1,6 @@
-{}
+{
+  "rafa_hernandez": {
+    "nombre": "Rafa Hernandez",
+    "plan": "plan_rafa.json"
+  }
+}
