@@ -1,21 +1,93 @@
 {
-  "updated_at": "Actualizado hoy",
-  "nivel": "Plan en preparación",
-  "ciclo": "—",
-  "enfoque_corto": "—",
-  "enfoque": "Tu plan será cargado aquí. Si ves esto, significa que el sistema funciona correctamente ✅",
-  "isometricoDias": "—",
-  "isometrico": [],
-  "pateoDias": "—",
-  "pateoTecnico": [],
-  "poomsaeDias": "—",
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Fuerza isométrica + Combo de pateo",
+  "enfoque": "El enfoque de esta semana es sensacional ya que iremos forjando las bases importantes desde la raiz para lograr nuestra secuencia de pateo y giro, por lo que es muy importante que no nos saltemos ningun entrenamiento ya que esto será la clave para nuestro exito en nuestros objetivos trasados",
+ "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+     {
+      "titulo": "Yop Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Dollyo Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "***",
+      "tags": ["NO EN ESTA SEMANA"]
+    }
+  ],
+  "pateoDias": "LUNES A SÁBADO",
+  "pateoTecnico": [
+     {
+      "titulo": "Circular + gancho - paso 1",
+      "enfoque": "Entendimiento de la transición y pasos",
+      "reps": "20 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dxGkeYcgNYQ5QpCRkGlkEoC-tLRAoZL-/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circular + gancho - paso 2",
+      "enfoque": "Entendimiento de la transición y pasos",
+      "reps": "20 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1IeTgB0ZNrlNfBHtCY6kn8DKkPvgCsb0n/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circular + gancho - paso 3",
+      "enfoque": "Entendimiento de la transición y pasos",
+      "reps": "20 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/12IT_szZP7D1nemfGt3S8g_F-6udGtrYJ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circular + gancho - paso 4",
+      "enfoque": "Entendimiento de la transición y pasos",
+      "reps": "20 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1vwN_z2xRabP-Kmo0sP5JCYNIgiwWmbPQ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Torsión de cadera con banda",
+      "enfoque": "Fortalecimiento y precisión de movimiento en cadera, glúteo, ingle e isquiotibiales",
+      "reps": "Fallo y después 30 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Fortalecimiento de tobillo con banda",
+      "enfoque": "Fortalecimiento de tobillo para mejorar la estabilidad y evitar lesiones",
+      "reps": "30 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
   "poomsae": [],
-  "extras": [],
   "apuntes": [
-    "Este plan aún está en preparación.",
-    "Cuando el coach lo actualice, aparecerán aquí tus ejercicios y links."
+    "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Cualquier duda, comenta con tu coach. ✅"
+    "Esta semana tuvimos un buen avance en referencia a nuestra patada de giro con gancho, vamos avanzando poco a poco con nuestro combo, continúa de manera consistente y con disciplina todos los dpias posibles, que la constancia es la que nos llevará al éxito en todas las áreas de nuestra vida.",
+    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento!"
   ]
 }
