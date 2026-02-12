@@ -12,10 +12,13 @@
     <!-- SIDEBAR -->
     <aside class="sidebar" id="sidebar">
       <div class="brand">
-        <div class="logo" aria-hidden="true"></div>
+        <img class="logoImg" id="logoImg" alt="ChanonaTKD Logo" />
         <div class="brandText">
           <h1>ChanonaTKD • Plan</h1>
-          <p id="brandSub">Cargando alumno…</p>
+          <div class="brandRow">
+            <p id="brandSub">Cargando alumno…</p>
+            <div class="brandMeta" id="brandMeta"></div>
+          </div>
         </div>
       </div>
 
@@ -24,13 +27,11 @@
         <button class="btn" data-tab="isometrico"><span class="dot"></span> Isométrico Activo</button>
         <button class="btn" data-tab="pateo"><span class="dot"></span> Trabajo Técnico Pateo</button>
         <button class="btn" data-tab="poomsae"><span class="dot"></span> Trabajo Técnico Poomsae</button>
-        <button class="btn" data-tab="extras"><span class="dot"></span> Extras</button>
-        <button class="btn" data-tab="apuntes"><span class="dot"></span> Apuntes</button>
         <button class="btn" data-tab="notas"><span class="dot"></span> Notas Finales</button>
       </div>
 
       <div class="mini">
-        Tip: toca un ejercicio y usa <b>“Reproducir”</b>. El reproductor se abre como una ventana pro dentro del plan.
+        Tip: toca un ejercicio y usa <b>“Reproducir”</b>. Se abrirá en Drive en otra pestaña.
       </div>
     </aside>
 
@@ -56,64 +57,6 @@
         </div>
       </div>
     </main>
-  </div>
-
-  <!-- MODAL PLAYER (ventana pro) -->
-  <div class="modal" id="modal" aria-hidden="true">
-    <div class="modalBackdrop" id="modalBackdrop"></div>
-
-    <div class="modalPanel" role="dialog" aria-modal="true">
-      <div class="modalHead">
-        <div>
-          <div class="modalTitle" id="modalTitle">Reproductor Chanona</div>
-          <div class="modalSub" id="modalSub">—</div>
-        </div>
-
-        <div class="modalHeadActions">
-          <a class="action" id="openDriveBtn" href="#" target="_blank" rel="noreferrer">↗ Abrir en Drive</a>
-          <button class="action danger" id="closeModal" type="button">✕ Cerrar</button>
-        </div>
-      </div>
-
-      <div class="modalBody">
-        <!-- VIDEO -->
-        <div class="mediaBox" id="videoBox" style="display:none;">
-          <iframe id="videoFrame" title="Reproductor de video" src="about:blank"></iframe>
-        </div>
-
-        <!-- AUDIO -->
-        <div class="mediaBox" id="audioBox" style="display:none;">
-          <audio id="audioPlayer" controls preload="none"></audio>
-        </div>
-
-        <!-- CONTROLES -->
-        <div class="controls">
-          <div class="controlGroup">
-            <label class="label">Velocidad</label>
-            <div class="speedRow" id="speedRow">
-              <button class="pillBtn" data-speed="0.5">0.5x</button>
-              <button class="pillBtn" data-speed="0.75">0.75x</button>
-              <button class="pillBtn active" data-speed="1">1x</button>
-              <button class="pillBtn" data-speed="1.25">1.25x</button>
-              <button class="pillBtn" data-speed="1.5">1.5x</button>
-              <button class="pillBtn" data-speed="2">2x</button>
-            </div>
-          </div>
-
-          <div class="controlGroup" id="loopGroup" style="display:none;">
-            <label class="label">Audio</label>
-            <label class="toggle">
-              <input type="checkbox" id="loopToggle">
-              Repetir en bucle (Loop)
-            </label>
-          </div>
-
-          <div class="hint" id="modalHint">
-            Tip: Si Drive bloquea audio, usa “Abrir en Drive” o usa mp3 directo.
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 
   <script src="./app.js"></script>
