@@ -1,6 +1,10 @@
 {
   "rafa_hernandez": {
     "nombre": "Rafa Hernandez",
-    "plan": "plan_rafa.json"
+    "plan": "plan_rafa.json",
+    "alumno_desde": "Enero 2026",
+    "plan_activo": "Avanzado de campeones",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Olimpiada Nacional"
   }
 }
