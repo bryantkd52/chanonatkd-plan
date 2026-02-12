@@ -34,7 +34,7 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "No programado para esta semana",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
       "titulo": "Ap hold 3 + L2 Koryo",
@@ -79,88 +79,8 @@
       "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUN A SAB / 1 serie",
-  "poomsae": [
-    {
-      "titulo": "Timing línea por línea de Taeguk 5",
-      "dia": "LUNES",
-      "reps": "5 min por línea",
-      "tipo": "folder",
-      "url": "https://drive.google.com/drive/folders/1c3MVG4yfvbg1s_uqfqETtrOzOEvtsX9m?usp=drive_link"
-    },
-    {
-      "titulo": "Timing línea por línea de Taeguk 6",
-      "dia": "LUNES",
-      "reps": "5 min por línea",
-      "tipo": "folder",
-      "url": "https://drive.google.com/drive/folders/17-zXtY7_DmVSGEfr-RXZy_2xY3Z44CXc?usp=drive_link"
-    },
-    {
-      "titulo": "Timing línea por línea de Taeguk 7",
-      "dia": "MARTES",
-      "reps": "5 min por línea",
-      "tipo": "folder",
-      "url": "https://drive.google.com/drive/folders/1DoPP6IW8CktmIpwCtC7_mVwjBzzeqO6A?usp=drive_link"
-    },
-    {
-      "titulo": "Timing línea por línea de Taeguk 8",
-      "dia": "MARTES",
-      "reps": "5 min por línea",
-      "tipo": "folder",
-      "url": "https://drive.google.com/drive/folders/1b-gMObf3ABxQN4w-Nke5zg_1035GRDDk?usp=drive_link"
-    },
-    {
-      "titulo": "Timing línea por línea de Koryo",
-      "dia": "MIERCOLES",
-      "reps": "5 min por línea",
-      "tipo": "folder",
-      "url": "https://drive.google.com/drive/folders/1UXKfb3MQssefOQOoMw77dCTfaeFhJhzg?usp=drive_link"
-    },
-    {
-      "titulo": "Timing línea por línea de Taebaek",
-      "dia": "MIERCOLES",
-      "reps": "5 min por línea",
-      "tipo": "folder",
-      "url": "https://drive.google.com/drive/folders/1Y79RfidiYvw59mG2z4q7JeLlhS2VW_gy?usp=drive_link"
-    },
-    {
-      "titulo": "Timing línea por línea de Keumgang",
-      "dia": "JUEVES",
-      "reps": "10 min por línea",
-      "tipo": "folder",
-      "url": "https://drive.google.com/drive/folders/1rnDWJzfIpynwZayuTEuOA6zZhYIpwVJr?usp=drive_link"
-    },
-    {
-      "titulo": "Timing línea por línea de Pyonwong",
-      "dia": "VIERNES",
-      "reps": "10 min por línea",
-      "tipo": "folder",
-      "url": "https://drive.google.com/drive/folders/1XZYsGE2LrLw_r-Hm_hNsPipesXFXSjB2?usp=drive_link"
-    }
-  ],
-  "extras": [
-    {
-      "titulo": "Giro correcto Keumgang - pies",
-      "enfoque": "Correcta transición de los pies en el giro",
-      "reps": "30 reps por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
-    },
-    {
-      "titulo": "Giro Keumgang - Brazos",
-      "enfoque": "Correcta encapsulación de brazos",
-      "reps": "30 reps por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-/view?usp=drive_link"
-    },
-    {
-      "titulo": "Keumgang position + Yop Chagui - Pyonwong",
-      "enfoque": "Posición, tiempos, aterrizaje y cámara",
-      "reps": "10 min por línea",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ePjQf4z7o0MsxC0D3yYTRhBevbpwOtFe/view?usp=drive_link"
-    }
-  ],
+  "poomsaeDias": "AUN SIN DESBLOQUEAR ESTE NIVEL",
+  "poomsae": [],
   "apuntes": [
     "En la línea 5 de T5 bajamos al timing, debemos mantener el ritmo en todo momento.",
     "En la última línea debemos torcer el torso cuando preparamos para el golpe al revés.",
