@@ -2,93 +2,168 @@
   "rafa_hernandez": {
     "nombre": "Rafa Hernandez",
     "plan": "plan_rafa.json",
-    "alumno_desde": "Enero 2026",
     "plan_activo": "Avanzado de campeones",
     "suscripcion_activa": "Febrero",
     "objetivo_proximo": "Olimpiada Nacional"
   },
+
   "mtro_edison_guallichico": {
     "nombre": "Mtro Edison Guallichico",
-    "plan": "plan_grupo_edison_nadia.json"
+    "plan": "plan_mtro_edison_guallichico.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Renovar suscripción",
+    "objetivo_proximo": "Aprender bases de poomsae y pateo"
   },
+
   "mtra_nadia_uxmal": {
     "nombre": "Mtra Nadia Uxmal",
-    "plan": "plan_grupo_edison_nadia.json"
+    "plan": "plan_mtra_nadia_uxmal.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Renovar suscripción",
+    "objetivo_proximo": "Aprender bases de poomsae y pateo"
   },
+
   "sr_jeremias": {
     "nombre": "Sr. Jeremías",
-    "plan": "plan_grupo_jeremias_evan_alma.json"
+    "plan": "plan_sr_jeremias.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Aprender bases de pateo y mejorar flexibilidad"
   },
+
   "evan_mael": {
     "nombre": "Evan Mael",
-    "plan": "plan_grupo_jeremias_evan_alma.json"
+    "plan": "plan_evan_mael.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Forjar bases en flexibilidad, pateo y fuerza para lograr la cinta negra"
   },
+
   "alma_patricia": {
     "nombre": "Alma Patricia",
-    "plan": "plan_grupo_jeremias_evan_alma.json"
+    "plan": "plan_alma_patricia.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Forjar las bases de la flexibilidad y el pateo"
   },
-  "mtro_miguel": {
-    "nombre": "Mtro Miguel",
-    "plan": "plan_grupo_miguel_teresa.json"
+
+  "grupo_miguel_teresa": {
+    "nombre": "Mtro Miguel y Mtra Teresa",
+    "plan": "plan_grupo_miguel_teresa.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Renovar suscripción",
+    "objetivo_proximo": "Aprender bases de poomsae y pateo"
   },
-  "mtra_teresa": {
-    "nombre": "Mtra Teresa",
-    "plan": "plan_grupo_miguel_teresa.json"
-  },
+
   "patricio_leigh": {
     "nombre": "Patricio Leigh",
-    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json"
+    "plan": "plan_patricio_leigh.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Renovar suscripción",
+    "objetivo_proximo": "Aprender bases de poomsae, flexibilidad y pateo"
   },
+
   "yaini_orozco": {
     "nombre": "Yaini Orozco",
-    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json"
+    "plan": "plan_yaini_orozco.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Renovar suscripción",
+    "objetivo_proximo": "Desarrollar bases de poomsae, flexibilidad y pateo"
   },
+
   "ruben_guerrero": {
     "nombre": "Ruben Guerrero",
-    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json"
+    "plan": "plan_ruben_guerrero.json",
+    "plan_activo": "Forjando bases 2",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Desarrollar bases de poomsae, flexibilidad y pateo"
   },
+
   "fabian_burgoa": {
     "nombre": "Fabián Burgoa",
-    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json"
+    "plan": "plan_fabian_burgoa.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Renovar suscripción",
+    "objetivo_proximo": "Desarrollar bases de poomsae y pateo"
   },
+
   "daniele_biasetti": {
     "nombre": "Daniele Biasetti",
-    "plan": "plan_daniele_biasetti.json"
+    "plan": "plan_daniele_biasetti.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Renovar suscripción",
+    "objetivo_proximo": "Desarrollar bases de flexibilidad y pateo"
   },
+
   "diana_rodriguez": {
     "nombre": "Diana Rodriguez",
-    "plan": "plan_diana_rodriguez.json"
+    "plan": "plan_diana_rodriguez.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Forjar bases de poomsae para el examen de cinta negra 2026"
   },
+
   "david_miranda": {
     "nombre": "David Miranda",
-    "plan": "plan_david_miranda.json"
+    "plan": "plan_david_miranda.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Desarrollar bases de flexibilidad y pateo"
   },
+
   "lia_mia": {
     "nombre": "Lía y Mía",
-    "plan": "plan_lia_mia.json"
+    "plan": "plan_lia_mia.json",
+    "plan_activo": "Avanzado de campeones",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Desarrollar bases elite de poomsae de competencia"
   },
+
   "rodrigo_gonzalez": {
     "nombre": "Rodrigo Gonzalez",
-    "plan": "plan_rodrigo_gonzalez.json"
+    "plan": "plan_rodrigo_gonzalez.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Desarrollar bases de poomsae y pateo para el poomsae de élite"
   },
+
   "emma_natalia": {
     "nombre": "Emma Natalia",
-    "plan": "plan_emma_natalia.json"
+    "plan": "plan_emma_natalia.json",
+    "plan_activo": "Avanzado de campeones",
+    "suscripcion_activa": "Renovar suscripción",
+    "objetivo_proximo": "Desarrollo y preparación para competencias de élite"
   },
+
   "mtro_mariano_agustina": {
     "nombre": "Mtro Mariano y Agustina",
-    "plan": "plan_mtro_mariano_agustina.json"
+    "plan": "plan_mtro_mariano_agustina.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Desarrollo de la flexibilidad, fuerza isométrica en pateo y técnica"
   },
+
   "karen_sanchez": {
     "nombre": "Karen Sanchez",
-    "plan": "plan_karen_sanchez.json"
+    "plan": "plan_karen_sanchez.json",
+    "plan_activo": "Forjando bases 2",
+    "suscripcion_activa": "Feb - Mar",
+    "objetivo_proximo": "Desarrollar bases de poomsae de élite"
   },
+
   "victor_salmeron": {
     "nombre": "Victor Salmerón",
-    "plan": "plan_victor_salmeron.json"
+    "plan": "plan_victor_salmeron.json",
+    "plan_activo": "Avanzado de campeones",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Desarrollar bases de flexibilidad, poomsae y pateo"
   },
+
   "sydney_patricia": {
     "nombre": "Sydney Patricia",
-    "plan": "plan_sydney_patricia.json"
+    "plan": "plan_sydney_patricia.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Preparación para competencia proxima en marzo"
   }
 }
