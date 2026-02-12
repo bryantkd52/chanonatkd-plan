@@ -25,7 +25,6 @@ const logoImg = document.getElementById("logoImg");
 
 // Logo (tu drive directo)
 const LOGO_URL = "https://drive.google.com/uc?export=view&id=1sUJc__J1kjflVPqB-Pgy4-f48F0iBVG7";
-
 // Render helpers
 function section(title, innerHtml){
   return `
