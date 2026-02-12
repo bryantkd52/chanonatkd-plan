@@ -1,31 +1,31 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
-  "nivel": "Avanzado",
-  "ciclo": "Lunes 16 al viernes 13 febrero del 2026",
-  "enfoque_corto": "Timing + precisión + Enfoque competivo",
-  "enfoque": "Esta es la última semana antes de nuestro estatal, el enfoque será 100% timing y precisión de nuestros movimientos, por lo que vamos a darle la completa prioridad y enfoque a eso, cualquier duda siempre consúlteme campeón",
-  "isometricoDias": "OMITIR - NO PROGRAMADO PARA ESTA SEMANA",
+  "updated_at": "Actualizado hoy",
+  "nivel": "Nivel intermedio y avanzado",
+  "ciclo": "Lunes 9 al sábado 14 febrero del 2026",
+  "enfoque_corto": "Timing + armonía + pateo técnico",
+  "enfoque": "Perfeccionamiento del timing, armonía y tiempos correctos por cada línea de poomsae desde taeguk hasta pyonwong. También continuamos fortaleciendo otras áreas de nuestro pateo para mejorar de forma técnica y postural ya que en yop chaguis aún seguimos llevando la rodilla en flexión vertical y debe ser como tronquito 1 en donde dejamos \"colgada\" la rodilla al frente, el enfoque debe de ser 100% de llevar esa rodilla al abdomen",
+  "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
       "titulo": "Yop Chagui",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["OMITIR - NO PROGRAMADO PARA ESTA SEMANA"]
+      "tags": ["Isométrico", "Pateo", "Rodilla al abdomen"]
     },
     {
       "titulo": "Ap Chagui",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["OMITIR - NO PROGRAMADO PARA ESTA SEMANA"]
+      "tags": ["Isométrico", "Pateo"]
     },
     {
       "titulo": "Dollyo Chagui",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
-      "tags": ["OMITIR - NO PROGRAMADO PARA ESTA SEMANA"]
+      "tags": ["Isométrico", "Pateo"]
     }
   ],
-  "pateoDias": "OMITIR - NO PROGRAMADO PARA ESTA SEMANA ",
+  "pateoDias": "MAR - JUE - SAB / 1 serie Banda elástica del 1 al 5",
   "pateoTecnico": [
     {
       "titulo": "Ap hold 3 + L2 Koryo",
