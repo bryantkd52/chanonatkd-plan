@@ -1,6 +1,3 @@
-// ===============================
-// 0) Utils
-// ===============================
 function qs(name){
   const url = new URL(location.href);
   return url.searchParams.get(name) || "";
@@ -12,35 +9,9 @@ async function loadJson(path){
   return await r.json();
 }
 
-function getDriveId(url){
-  const m1 = url.match(/\/file\/d\/([^\/]+)/);
-  if(m1) return m1[1];
-  const m2 = url.match(/[?&]id=([^&]+)/);
-  if(m2) return m2[1];
-  return null;
-}
-function drivePreviewUrl(url){
-  const id = getDriveId(url);
-  if(!id) return null;
-  return `https://drive.google.com/file/d/${id}/preview`;
-}
-function driveDirectDownload(url){
-  const id = getDriveId(url);
-  if(!id) return null;
-  return `https://drive.google.com/uc?export=download&id=${id}`;
-}
 function safeText(s){ return String(s ?? ""); }
 
-// ===============================
-// 1) State
-// ===============================
-let alumno = null; // {nombre, plan}
-let plan = null;   // plan json
-let lastUpdated = "";
-
-// ===============================
-// 2) DOM refs
-// ===============================
+// DOM
 const content = document.getElementById("content");
 const menu = document.getElementById("menu");
 
@@ -48,30 +19,14 @@ const planTitle = document.getElementById("planTitle");
 const planSub = document.getElementById("planSub");
 const chipFocus = document.getElementById("chipFocus");
 const brandSub = document.getElementById("brandSub");
+const brandMeta = document.getElementById("brandMeta");
 const chipUpdated = document.getElementById("chipUpdated");
+const logoImg = document.getElementById("logoImg");
 
-// Modal
-const modal = document.getElementById("modal");
-const modalBackdrop = document.getElementById("modalBackdrop");
-const closeModalBtn = document.getElementById("closeModal");
-const modalTitle = document.getElementById("modalTitle");
-const modalSub = document.getElementById("modalSub");
-const openDriveBtn = document.getElementById("openDriveBtn");
+// Logo (tu drive directo)
+const LOGO_URL = "https://drive.google.com/uc?export=view&id=1sUJc__J1kjflVPqB-Pgy4-f48F0iBVG7";
 
-const videoBox = document.getElementById("videoBox");
-const audioBox = document.getElementById("audioBox");
-const videoFrame = document.getElementById("videoFrame");
-const audioPlayer = document.getElementById("audioPlayer");
-const loopGroup = document.getElementById("loopGroup");
-const loopToggle = document.getElementById("loopToggle");
-const speedRow = document.getElementById("speedRow");
-
-let currentMedia = { tipo:"", url:"" };
-let currentSpeed = 1;
-
-// ===============================
-// 3) Render helpers
-// ===============================
+// Render helpers
 function section(title, innerHtml){
   return `
     <section class="section">
@@ -85,7 +40,6 @@ function section(title, innerHtml){
   `;
 }
 
-// items in ordered list style
 function itemRow(item, badgeText, index){
   const idxBadge = `<span class="badge">${index}</span>`;
   const tipoBadge =
@@ -100,13 +54,10 @@ function itemRow(item, badgeText, index){
   const reps = item.reps ? `<div class="meta"><b>Reps:</b> ${safeText(item.reps)}</div>` : "";
   const dia = item.dia ? `<div class="meta"><b>Día:</b> ${safeText(item.dia)}</div>` : "";
 
-  const canPlay = (item.tipo === "video" || item.tipo === "audio");
-  const playBtn = canPlay
-    ? `<button class="action primary" type="button" data-play='${encodeURIComponent(JSON.stringify(item))}'>▶ Reproducir</button>`
-    : "";
-
-  const driveBtn = item.url
-    ? `<a class="action" href="${item.url}" target="_blank" rel="noreferrer">↗ Abrir en Drive</a>`
+  // ✅ Reproducir = abrir en otra pestaña (Drive)
+  const labelBtn = (item.tipo === "folder") ? "📁 Abrir carpeta" : "▶ Reproducir";
+  const playBtn = item.url
+    ? `<a class="action primary" href="${item.url}" target="_blank" rel="noreferrer">${labelBtn}</a>`
     : "";
 
   return `
@@ -129,13 +80,12 @@ function itemRow(item, badgeText, index){
 
       <div class="actions">
         ${playBtn}
-        ${driveBtn}
       </div>
     </div>
   `;
 }
 
-function renderResumen(){
+function renderResumen(plan){
   const enfoqueTxt = safeText(plan.enfoque || "—");
 
   const freq = `
@@ -146,21 +96,15 @@ function renderResumen(){
     </ul>
   `;
 
-  // atajos: primeras 2 cards de cada bloque si existen
-  const iso = Array.isArray(plan.isometrico) ? plan.isometrico.slice(0,2) : [];
-  const pat = Array.isArray(plan.pateoTecnico) ? plan.pateoTecnico.slice(0,2) : [];
-
-  const atajos = `
-    <div class="listWrap">
-      ${(iso.length ? iso.map((x,i)=>itemRow(x,"Isométrico", i+1)).join("") : `<div class="meta">—</div>`)}
-      ${(pat.length ? pat.map((x,i)=>itemRow(x,"Pateo", i+1+iso.length)).join("") : ``)}
-    </div>
-  `;
+  // ✅ Aquí cambiamos “Atajos” por “Apuntes de poomsae”
+  const apuntes = Array.isArray(plan.apuntes) && plan.apuntes.length
+    ? `<ol>${plan.apuntes.map(x=>`<li>${safeText(x)}</li>`).join("")}</ol>`
+    : `<div class="meta">Aún no hay apuntes.</div>`;
 
   content.innerHTML = [
     section("🎯 Enfoque del ciclo", `<div>${enfoqueTxt}</div>`),
     section("📌 Frecuencia rápida", freq),
-    section("⚡ Atajos", atajos),
+    section("📌 Apuntes de poomsae", apuntes)
   ].join("");
 }
 
@@ -169,169 +113,52 @@ function renderListBlock(title, list, badge){
   const html = items.length
     ? `<div class="listWrap">${items.map((x,i)=>itemRow(x,badge, i+1)).join("")}</div>`
     : `<div class="meta">Aún no hay ejercicios aquí.</div>`;
-
-  content.innerHTML = [ section(title, html) ].join("");
+  content.innerHTML = section(title, html);
 }
 
-function renderApuntes(){
-  const arr = Array.isArray(plan.apuntes) ? plan.apuntes : [];
-  const html = arr.length
-    ? `<ol>${arr.map(x=>`<li>${safeText(x)}</li>`).join("")}</ol>`
-    : `<div class="meta">Sin apuntes.</div>`;
-  content.innerHTML = [ section("Apuntes de poomsae", html) ].join("");
-}
-
-function renderNotas(){
+function renderNotas(plan){
   const arr = Array.isArray(plan.notasFinales) ? plan.notasFinales : [];
   const html = arr.length
     ? `<ul>${arr.map(x=>`<li>${safeText(x)}</li>`).join("")}</ul>`
     : `<div class="meta">Sin notas.</div>`;
-  content.innerHTML = [ section("Notas finales", html) ].join("");
+  content.innerHTML = section("Notas finales", html);
 }
 
-function renderTab(tab){
-  if(!plan){
-    content.innerHTML = `<div class="loaderCard"><div class="loaderTitle">No hay plan cargado.</div></div>`;
-    return;
-  }
-
-  if(tab === "resumen") return renderResumen();
+function renderTab(tab, plan){
+  if(tab === "resumen") return renderResumen(plan);
   if(tab === "isometrico") return renderListBlock("Isométrico activo de pateo", plan.isometrico, "Isométrico");
   if(tab === "pateo") return renderListBlock("Trabajo técnico de pateo", plan.pateoTecnico, "Pateo");
-  if(tab === "poomsae") return renderListBlock("Trabajo técnico de poomsae", plan.poomsae, "Poomsae");
-  if(tab === "extras") return renderListBlock("Extras", plan.extras, "Extra");
-  if(tab === "apuntes") return renderApuntes();
-  if(tab === "notas") return renderNotas();
 
-  renderResumen();
-}
-
-// ===============================
-// 4) Modal player logic
-// ===============================
-function openModal(){
-  modal.classList.add("show");
-  modal.setAttribute("aria-hidden","false");
-  document.body.style.overflow = "hidden";
-}
-function closeModal(){
-  modal.classList.remove("show");
-  modal.setAttribute("aria-hidden","true");
-  document.body.style.overflow = "";
-
-  // stop media
-  videoFrame.src = "about:blank";
-  audioPlayer.pause();
-  audioPlayer.removeAttribute("src");
-  audioPlayer.load();
-}
-
-function setSpeed(speed){
-  currentSpeed = speed;
-
-  // audio speed
-  try{ audioPlayer.playbackRate = speed; }catch(e){}
-
-  // video iframe (Drive) no permite controlar speed desde iframe.
-  // Por eso, para video: mostramos el selector pero solo afecta audio.
-  // (Si luego quieres velocidad real en video: necesitamos usar video mp4 directo o YouTube player API.)
-  document.querySelectorAll(".pillBtn").forEach(b=>{
-    b.classList.toggle("active", Number(b.dataset.speed) === Number(speed));
-  });
-}
-
-function showVideo(url){
-  audioBox.style.display = "none";
-  loopGroup.style.display = "none";
-
-  audioPlayer.pause();
-  audioPlayer.removeAttribute("src");
-  audioPlayer.load();
-
-  videoBox.style.display = "block";
-  videoFrame.src = url;
-}
-
-function showAudio(url){
-  videoBox.style.display = "none";
-  audioBox.style.display = "block";
-  loopGroup.style.display = "block";
-
-  videoFrame.src = "about:blank";
-
-  audioPlayer.src = url;
-  audioPlayer.loop = loopToggle.checked;
-  audioPlayer.playbackRate = currentSpeed;
-  setTimeout(()=> audioPlayer.play().catch(()=>{}), 200);
-}
-
-function playItem(item){
-  currentMedia = { tipo: item.tipo, url: item.url || "" };
-
-  modalTitle.textContent = "Reproductor Chanona";
-  modalSub.textContent = safeText(item.titulo || "");
-
-  openDriveBtn.href = item.url || "#";
-
-  // reset speed UI to 1x when opening
-  setSpeed(currentSpeed || 1);
-
-  if(item.tipo === "video"){
-    const preview = drivePreviewUrl(item.url) || item.url;
-    showVideo(preview);
-    openModal();
-    return;
+  // ✅ Poomsae incluye “extras” al final
+  if(tab === "poomsae"){
+    const poom = Array.isArray(plan.poomsae) ? plan.poomsae : [];
+    const extras = Array.isArray(plan.extras) ? plan.extras.map(x=>({
+      ...x,
+      tags: Array.isArray(x.tags) ? x.tags : ["Extra"]
+    })) : [];
+    const combinado = [...poom, ...extras];
+    return renderListBlock("Trabajo técnico de poomsae", combinado, "Poomsae");
   }
 
-  if(item.tipo === "audio"){
-    const direct = driveDirectDownload(item.url) || item.url;
-    showAudio(direct);
-    openModal();
-    return;
-  }
-
-  // folders: open drive only (no modal)
-  if(item.url) window.open(item.url, "_blank", "noopener,noreferrer");
+  if(tab === "notas") return renderNotas(plan);
+  return renderResumen(plan);
 }
 
-modalBackdrop.addEventListener("click", closeModal);
-closeModalBtn.addEventListener("click", closeModal);
-document.addEventListener("keydown", (e)=>{ if(e.key === "Escape") closeModal(); });
-
-loopToggle.addEventListener("change", ()=>{ audioPlayer.loop = loopToggle.checked; });
-
-speedRow.addEventListener("click", (e)=>{
-  const btn = e.target.closest(".pillBtn");
-  if(!btn) return;
-  const sp = Number(btn.dataset.speed);
-  setSpeed(sp);
-});
-
-// Delegated click for play buttons
-content.addEventListener("click", (e)=>{
-  const btn = e.target.closest("[data-play]");
-  if(!btn) return;
-  const decoded = decodeURIComponent(btn.getAttribute("data-play"));
-  const item = JSON.parse(decoded);
-  playItem(item);
-});
-
-// ===============================
-// 5) Tabs
-// ===============================
+// Tabs UI
 menu.addEventListener("click", (e)=>{
   const btn = e.target.closest(".btn");
   if(!btn) return;
   document.querySelectorAll(".btn").forEach(b=>b.classList.remove("active"));
   btn.classList.add("active");
-  renderTab(btn.dataset.tab);
+  renderTab(btn.dataset.tab, window.__PLAN__);
 });
 
-// ===============================
-// 6) Load alumno + plan from JSON
-// ===============================
+// INIT
 (async function init(){
   try{
+    // logo
+    logoImg.src = LOGO_URL;
+
     const alumnoId = qs("alumno");
     if(!alumnoId){
       content.innerHTML = `<div class="loaderCard"><div class="loaderTitle">Falta el alumno en el link</div><div class="loaderSub">Usa: <b>?alumno=rafa_hernandez</b></div></div>`;
@@ -340,7 +167,7 @@ menu.addEventListener("click", (e)=>{
     }
 
     const alumnosMap = await loadJson("../data/alumnos.json");
-    alumno = alumnosMap[alumnoId];
+    const alumno = alumnosMap[alumnoId];
 
     if(!alumno){
       content.innerHTML = `<div class="loaderCard"><div class="loaderTitle">Alumno no encontrado</div><div class="loaderSub">Revisa el parámetro <b>?alumno=</b></div></div>`;
@@ -348,9 +175,10 @@ menu.addEventListener("click", (e)=>{
       return;
     }
 
-    plan = await loadJson(`../data/planes/${alumno.plan}`);
+    const plan = await loadJson(`../data/planes/${alumno.plan}`);
+    window.__PLAN__ = plan;
 
-    // Header UI
+    // Header
     const nivel = safeText(plan.nivel || "Plan");
     const ciclo = safeText(plan.ciclo || "—");
     const para = safeText(alumno.nombre || "Alumno");
@@ -358,14 +186,19 @@ menu.addEventListener("click", (e)=>{
     planTitle.textContent = `Plan • ${nivel}`;
     planSub.textContent = `Ciclo: ${ciclo} • Para: ${para}`;
     chipFocus.textContent = `🎯 Enfoque: ${safeText(plan.enfoque_corto || "Timing + armonía + pateo técnico")}`;
+    chipUpdated.textContent = plan.updated_at ? `🕒 ${safeText(plan.updated_at)}` : "🕒 Actualizado";
+
     brandSub.textContent = `Modo alumno • ${para}`;
 
-    // Optional: show updated time if you add "updated_at" in plan JSON
-    lastUpdated = plan.updated_at ? `🕒 ${safeText(plan.updated_at)}` : "🕒 Actualizado";
-    chipUpdated.textContent = lastUpdated;
+    // ✅ Meta a la derecha
+    brandMeta.innerHTML = `
+      <div><b>Alumno desde:</b> ${safeText(alumno.alumno_desde || "—")}</div>
+      <div><b>Plan activo:</b> ${safeText(alumno.plan_activo || "—")}</div>
+      <div><b>Suscripción activa:</b> ${safeText(alumno.suscripcion_activa || "—")}</div>
+      <div><b>Objetivo próximo:</b> ${safeText(alumno.objetivo_proximo || "—")}</div>
+    `;
 
-    renderTab("resumen");
-
+    renderTab("resumen", plan);
   }catch(err){
     content.innerHTML = `<div class="loaderCard"><div class="loaderTitle">Error cargando</div><div class="loaderSub">${safeText(err.message)}</div></div>`;
     brandSub.textContent = "Error";
