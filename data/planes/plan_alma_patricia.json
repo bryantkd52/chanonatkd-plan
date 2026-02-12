@@ -1,137 +1,112 @@
 {
   "updated_at": "Actualizado dom 15 feb",
-  "nivel": "Forjando Bases · Alma Patricia",
-  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
-  "enfoque_corto": "Flexibilidad + base en pateo de giro + fortalecimiento",
-  "enfoque": "Esta semana es importante porque comenzaremos a forjar las bases de nuestro giro y combo de pateo de forma más específica y profunda para el entendimiento completo de nuestro pateo, por lo que es super importante que siempre se ponga mucha atención a los detalles de cada video y ejercicio que pondré para ti, disfrútalos y toma nota de lo que debes de mejorar y atacar directamente al problema.",
-
-  "chanonaflexDias": "LUN A SAB · 1 serie",
-"chanonaflex": [
-  {
-    "titulo": "Apertura frontal progresiva",
-    "dia": "LUNES",
-    "reps": "3 x 40 segundos",
-    "tipo": "flexibilidad"
-  },
-  {
-    "titulo": "Rana activa (control de cadera)",
-    "dia": "MIERCOLES",
-    "reps": "3 x 45 segundos",
-    "tipo": "flexibilidad"
-  }
-]
-  
-  "isometricoDias": "LUN / MIE / VIE · 1 serie",
-  "isometrico": [
-    {
-      "titulo": "Yop Chagui",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["OMITIR - NO PROGRAMADO PARA ESTA SEMANA"]
-    },
-    {
-      "titulo": "Yop Chagui",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["OMITIR - NO PROGRAMADO PARA ESTA SEMANA"]
-    },
-    {
-      "titulo": "Yop Chagui",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["OMITIR - NO PROGRAMADO PARA ESTA SEMANA"]
-    }
-  ],
-
-  "pateoDias": "MAR / JUE / SAB · 1 serie",
-  "pateoTecnico": [
-    {
-      "titulo": "Ap Chagui técnico (sube rodilla → extiende → regresa en cámara)",
-      "dia": "MARTES",
-      "reps": "5 rondas x 10 repeticiones por pierna",
-      "tipo": "tecnica"
-    },
-    {
-      "titulo": "Dollyo Chagui controlado (cadera + mirada + regreso limpio)",
-      "dia": "JUEVES",
-      "reps": "5 rondas x 8 repeticiones por pierna",
-      "tipo": "tecnica"
-    },
-    {
-      "titulo": "Yop Chagui base (talón fuerte + tronco estable)",
-      "dia": "SABADO",
-      "reps": "6 rondas x 6 repeticiones por pierna",
-      "tipo": "tecnica"
-    }
-  ],
-
-  "poomsaeDias": "LUN A SAB · 1 serie",
+  "nivel": "Nivel avanzado",
+  "ciclo": "Lunes 16 al viernes 15 febrero del 2026",
+  "enfoque_corto": "Timing + Precisión + Preparación competitiva",
+  "enfoque": "Darle prioridad esta semana al timing de nuestras poomsaes ya que ahí es en donde podremos trabajar nuestra presentación, pero siempre recordando lo importante que es el marcar cada movimiento com se debe",
+  "isometricoDias": "No programado para esta semana",
+  "isometrico": [],
+  "pateoDias": "No programado para esta semana",
+  "pateoTecnico": [],
+  "poomsaeDias": "LUN A SAB / 1 serie",
   "poomsae": [
     {
-      "titulo": "Taeguk 4 líneas 1 y 2 (postura + cámara correcta)",
+      "titulo": "Timing línea por línea de Taeguk 5",
       "dia": "LUNES",
-      "reps": "8 minutos continuos",
-      "tipo": "poomsae"
+      "reps": "5 min por línea",
+      "tipo": "folder",
+      "url": "https://drive.google.com/drive/folders/1c3MVG4yfvbg1s_uqfqETtrOzOEvtsX9m?usp=drive_link"
     },
     {
-      "titulo": "Taeguk 4 líneas 3 y 4 (timing + freno limpio)",
+      "titulo": "Timing línea por línea de Taeguk 6",
+      "dia": "LUNES",
+      "reps": "5 min por línea",
+      "tipo": "folder",
+      "url": "https://drive.google.com/drive/folders/17-zXtY7_DmVSGEfr-RXZy_2xY3Z44CXc?usp=drive_link"
+    },
+    {
+      "titulo": "Timing línea por línea de Taeguk 7",
       "dia": "MARTES",
-      "reps": "8 minutos continuos",
-      "tipo": "poomsae"
+      "reps": "5 min por línea",
+      "tipo": "folder",
+      "url": "https://drive.google.com/drive/folders/1DoPP6IW8CktmIpwCtC7_mVwjBzzeqO6A?usp=drive_link"
     },
     {
-      "titulo": "Taeguk 5 líneas 1 y 2 (fuerza sin rigidez)",
+      "titulo": "Timing línea por línea de Taeguk 8",
+      "dia": "MARTES",
+      "reps": "5 min por línea",
+      "tipo": "folder",
+      "url": "https://drive.google.com/drive/folders/1b-gMObf3ABxQN4w-Nke5zg_1035GRDDk?usp=drive_link"
+    },
+    {
+      "titulo": "Timing línea por línea de Koryo",
       "dia": "MIERCOLES",
-      "reps": "8 minutos continuos",
-      "tipo": "poomsae"
+      "reps": "5 min por línea",
+      "tipo": "folder",
+      "url": "https://drive.google.com/drive/folders/1UXKfb3MQssefOQOoMw77dCTfaeFhJhzg?usp=drive_link"
     },
     {
-      "titulo": "Taeguk 5 líneas 3 y 4 (transiciones limpias)",
+      "titulo": "Timing línea por línea de Taebaek",
+      "dia": "MIERCOLES",
+      "reps": "5 min por línea",
+      "tipo": "folder",
+      "url": "https://drive.google.com/drive/folders/1Y79RfidiYvw59mG2z4q7JeLlhS2VW_gy?usp=drive_link"
+    },
+    {
+      "titulo": "Timing línea por línea de Keumgang",
       "dia": "JUEVES",
-      "reps": "8 minutos continuos",
-      "tipo": "poomsae"
+      "reps": "10 min por línea",
+      "tipo": "folder",
+      "url": "https://drive.google.com/drive/folders/1rnDWJzfIpynwZayuTEuOA6zZhYIpwVJr?usp=drive_link"
     },
     {
-      "titulo": "Taeguk 4 completo (presentación técnica)",
+      "titulo": "Timing línea por línea de Pyonwong",
       "dia": "VIERNES",
-      "reps": "4 rondas completas",
-      "tipo": "poomsae"
-    },
-    {
-      "titulo": "Taeguk 5 completo (control + respiración)",
-      "dia": "SABADO",
-      "reps": "4 rondas completas",
-      "tipo": "poomsae"
+      "reps": "10 min por línea",
+      "tipo": "folder",
+      "url": "https://drive.google.com/drive/folders/1XZYsGE2LrLw_r-Hm_hNsPipesXFXSjB2?usp=drive_link"
     }
   ],
-
   "extras": [
     {
-      "titulo": "Movilidad de cadera y tobillo",
-      "enfoque": "Mejorar rango sin perder postura",
-      "reps": "6 minutos totales",
-      "tipo": "movilidad"
+      "titulo": "Giro correcto Keumgang - pies",
+      "enfoque": "Correcta transición de los pies en el giro",
+      "reps": "30 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
     },
     {
-      "titulo": "Core básico para estabilidad",
-      "enfoque": "Abdomen activo para mayor firmeza en pateo",
-      "reps": "3 rondas",
-      "tipo": "fisico"
+      "titulo": "Giro Keumgang - Brazos",
+      "enfoque": "Correcta encapsulación de brazos",
+      "reps": "30 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-/view?usp=drive_link"
+    },
+    {
+      "titulo": "Keumgang position + Yop Chagui - Pyonwong",
+      "enfoque": "Posición, tiempos, aterrizaje y cámara",
+      "reps": "10 min por línea",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ePjQf4z7o0MsxC0D3yYTRhBevbpwOtFe/view?usp=drive_link"
     }
   ],
-
   "apuntes": [
-    "Primero limpio, después rápido.",
-    "La rodilla debe subir antes de extender la pierna.",
-    "El regreso de la patada es igual de importante que el golpe.",
-    "En poomsae marca micro pausa antes del siguiente movimiento.",
-    "Cuello largo, hombros relajados, abdomen activo."
+    "En la línea 5 de T5 bajamos al timing, debemos mantener el ritmo en todo momento.",
+    "En la última línea debemos torcer el torso cuando preparamos para el golpe al revés.",
+    "Apretar abdomen en ap kubi y olgul makki. Llevar mayor fuerza a la yop en esa posición.",
+    "En T6 a partir de la línea 4 comenzamos a bajar ritmo: no permitir que se contagie.",
+    "En transiciones de dollyo chagui marcar con velocidad cada movimiento.",
+    "En T7 talones arriba: dominar con mayor velocidad y entender timing manos–talones.",
+    "En T7 línea 5 evitar saltito en doble golpe: hacerlo en 2 partes.",
+    "En T8 línea 4 sonnal montong bakkat makki: evitar preparación circular.",
+    "En Koryo dobles yop chaguis bajan velocidad: mantener timing.",
+    "En Taebaek transiciones bajan por dificultad: encapsulación inteligente.",
+    "En Pyonwong en haktari + yop vamos muy rápido: darle espacio y control.",
+    "En Keumgang primera línea: evitar zig zag y alinear rodilla; el giro nace de cadera."
   ],
-
   "notasFinales": [
-    "Realiza una sola serie diaria.",
-    "Si un día no puedes entrenar, retoma al siguiente sin ansiedad.",
-    "Grábate al menos una ronda completa el viernes o sábado para revisión.",
-    "Cualquier duda me escribes y ajustamos."
+    "Nuestro trabajo se centrará en timing, potencia y explosividad para una mejor presentación.",
+    "La calificación se basa mucho en la presentación: técnica + presencia.",
+    "Cualquier duda coméntame campeón, ¡feliz entrenamiento!"
   ]
 }
