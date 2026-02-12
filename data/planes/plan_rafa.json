@@ -1,76 +1,14 @@
 {
-  "updated_at": "Actualizado hoy",
-  "nivel": "Nivel intermedio y avanzado",
-  "ciclo": "Lunes 9 al sábado 14 febrero del 2026",
-  "enfoque_corto": "Timing + armonía + pateo técnico",
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Nivel avanzado",
+  "ciclo": "Lunes 16 al viernes 20 febrero del 2026",
+  "enfoque_corto": "Timing + precisión + preparación competitiva",
   "enfoque": "Perfeccionamiento del timing, armonía y tiempos correctos por cada línea de poomsae desde taeguk hasta pyonwong. También continuamos fortaleciendo otras áreas de nuestro pateo para mejorar de forma técnica y postural ya que en yop chaguis aún seguimos llevando la rodilla en flexión vertical y debe ser como tronquito 1 en donde dejamos \"colgada\" la rodilla al frente, el enfoque debe de ser 100% de llevar esa rodilla al abdomen",
-  "isometricoDias": "LUN - MIE - VIE",
-  "isometrico": [
-    {
-      "titulo": "Yop Chagui",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["Isométrico", "Pateo", "Rodilla al abdomen"]
-    },
-    {
-      "titulo": "Ap Chagui",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["Isométrico", "Pateo"]
-    },
-    {
-      "titulo": "Dollyo Chagui",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
-      "tags": ["Isométrico", "Pateo"]
-    }
-  ],
-  "pateoDias": "MAR - JUE - SAB / 1 serie Banda elástica del 1 al 5",
-  "pateoTecnico": [
-    {
-      "titulo": "Ap hold 3 + L2 Koryo",
-      "enfoque": "Equilibrio, precisión e intensidad",
-      "reps": "10 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Tuep3FQZCHwcQuziQAnDoSbwnwCugKYz/view?usp=drive_link"
-    },
-    {
-      "titulo": "Camara + Pyonwong + T7 + Camara + T6",
-      "enfoque": "Equilibrio, cámara y correcta preparación",
-      "reps": "10 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1FkwN47UEeHLbhMDURk9JtL3srML0Ugb5/view?usp=drive_link"
-    },
-    {
-      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 Koryo",
-      "enfoque": "Equilibrio, cámara y correcta preparación",
-      "reps": "10 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
-    },
-    {
-      "titulo": "Circuito hold con banda L2 Koryo",
-      "enfoque": "Equilibrio, cámara, estabilidad del pie, extensión de pierna de apoyo y correcta preparación",
-      "reps": "10 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
-    },
-    {
-      "titulo": "Torsión de cadera con banda",
-      "enfoque": "Fortalecimiento y precisión de movimiento en cadera, glúteo, ingle e isquiotibiales",
-      "reps": "Fallo y después 30 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Fortalecimiento de tobillo con banda",
-      "enfoque": "Fortalecimiento de tobillo para mejorar la estabilidad y evitar lesiones",
-      "reps": "30 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
-    }
-  ],
-  "poomsaeDias": "LUN A SAB / 1 serie",
+  "isometricoDias": "No programado esta semana",
+  "isometrico": [],
+  "pateoDias": "No programado esta semana",
+  "pateoTecnico": [],
+  "poomsaeDias": "LUN A VIE / 1 serie",
   "poomsae": [
     {
       "titulo": "Timing línea por línea de Taeguk 5",
