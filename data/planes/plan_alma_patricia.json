@@ -4,6 +4,15 @@
   "ciclo": "Lunes 16 al sábado 16 febrero del 2026",
   "enfoque_corto": "Flexibilidad + Fuerza isométrica + Combo de pateo",
   "enfoque": "El enfoque de esta semana es sensacional ya que iremos forjando las bases importantes desde la raiz para lograr nuestra secuencia de pateo y giro, por lo que es muy importante que no nos saltemos ningun entrenamiento ya que esto será la clave para nuestro exito en nuestros objetivos trasados",
+ "chanonaflexDias": "LUN - MIE - VIE",
+  "chanonaflex": [
+     {
+      "titulo": "ChanonaFlex - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["Flexibilidad, movilidad"]
+    }
+  ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
      {
