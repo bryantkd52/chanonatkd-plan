@@ -6,188 +6,89 @@
     "plan_activo": "Avanzado de campeones",
     "suscripcion_activa": "Febrero",
     "objetivo_proximo": "Olimpiada Nacional"
-  }
-},
+  },
   "mtro_edison_guallichico": {
     "nombre": "Mtro Edison Guallichico",
-    "plan": "plan_grupo_edison_nadia.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_edison_nadia.json"
   },
   "mtra_nadia_uxmal": {
     "nombre": "Mtra Nadia Uxmal",
-    "plan": "plan_grupo_edison_nadia.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_edison_nadia.json"
   },
-
   "sr_jeremias": {
     "nombre": "Sr. Jeremías",
-    "plan": "plan_grupo_jeremias_evan_alma.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_jeremias_evan_alma.json"
   },
   "evan_mael": {
     "nombre": "Evan Mael",
-    "plan": "plan_grupo_jeremias_evan_alma.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_jeremias_evan_alma.json"
   },
   "alma_patricia": {
     "nombre": "Alma Patricia",
-    "plan": "plan_grupo_jeremias_evan_alma.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_jeremias_evan_alma.json"
   },
-
   "mtro_miguel": {
     "nombre": "Mtro Miguel",
-    "plan": "plan_grupo_miguel_teresa.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_miguel_teresa.json"
   },
   "mtra_teresa": {
     "nombre": "Mtra Teresa",
-    "plan": "plan_grupo_miguel_teresa.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_miguel_teresa.json"
   },
-
   "patricio_leigh": {
     "nombre": "Patricio Leigh",
-    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json"
   },
   "yaini_orozco": {
     "nombre": "Yaini Orozco",
-    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json"
   },
   "ruben_guerrero": {
     "nombre": "Ruben Guerrero",
-    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json"
   },
   "fabian_burgoa": {
     "nombre": "Fabián Burgoa",
-    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_grupo_patricio_yaini_ruben_fabian.json"
   },
-
   "daniele_biasetti": {
     "nombre": "Daniele Biasetti",
-    "plan": "plan_daniele_biasetti.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
-  },
-  "david_miranda": {
-    "nombre": "David Miranda",
-    "plan": "plan_david_miranda.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
-  },
-  "lia_mia": {
-    "nombre": "Lía y Mía",
-    "plan": "plan_lia_mia.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
-  },
-  "rodrigo_gonzalez": {
-    "nombre": "Rodrigo Gonzalez",
-    "plan": "plan_rodrigo_gonzalez.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
-  },
-
-  "rafa_hernandez": {
-    "nombre": "Rafa Hernandez",
-    "plan": "plan_rafa.json",
-    "alumno_desde": "Enero 2026",
-    "plan_activo": "Avanzado de campeones",
-    "suscripcion_activa": "Febrero",
-    "objetivo_proximo": "Olimpiada Nacional"
-  },
-
-  "emma_natalia": {
-    "nombre": "Emma Natalia",
-    "plan": "plan_emma_natalia.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
-  },
-  "mtro_mariano_agustina": {
-    "nombre": "Mtro Mariano y Agustina",
-    "plan": "plan_mtro_mariano_agustina.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
-  },
-  "karen_sanchez": {
-    "nombre": "Karen Sanchez",
-    "plan": "plan_karen_sanchez.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
-  },
-  "victor_salmeron": {
-    "nombre": "Victor Salmerón",
-    "plan": "plan_victor_salmeron.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_daniele_biasetti.json"
   },
   "diana_rodriguez": {
     "nombre": "Diana Rodriguez",
-    "plan": "plan_diana_rodriguez.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_diana_rodriguez.json"
+  },
+  "david_miranda": {
+    "nombre": "David Miranda",
+    "plan": "plan_david_miranda.json"
+  },
+  "lia_mia": {
+    "nombre": "Lía y Mía",
+    "plan": "plan_lia_mia.json"
+  },
+  "rodrigo_gonzalez": {
+    "nombre": "Rodrigo Gonzalez",
+    "plan": "plan_rodrigo_gonzalez.json"
+  },
+  "emma_natalia": {
+    "nombre": "Emma Natalia",
+    "plan": "plan_emma_natalia.json"
+  },
+  "mtro_mariano_agustina": {
+    "nombre": "Mtro Mariano y Agustina",
+    "plan": "plan_mtro_mariano_agustina.json"
+  },
+  "karen_sanchez": {
+    "nombre": "Karen Sanchez",
+    "plan": "plan_karen_sanchez.json"
+  },
+  "victor_salmeron": {
+    "nombre": "Victor Salmerón",
+    "plan": "plan_victor_salmeron.json"
   },
   "sydney_patricia": {
     "nombre": "Sydney Patricia",
-    "plan": "plan_sydney_patricia.json",
-    "alumno_desde": "—",
-    "plan_activo": "—",
-    "suscripcion_activa": "—",
-    "objetivo_proximo": "—"
+    "plan": "plan_sydney_patricia.json"
   }
 }
