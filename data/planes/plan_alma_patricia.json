@@ -1,0 +1,137 @@
+{
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Forjando Bases · Alma Patricia",
+  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + base en pateo de giro + fortalecimiento",
+  "enfoque": "Esta semana es importante porque comenzaremos a forjar las bases de nuestro giro y combo de pateo de forma más específica y profunda para el entendimiento completo de nuestro pateo, por lo que es super importante que siempre se ponga mucha atención a los detalles de cada video y ejercicio que pondré para ti, disfrútalos y toma nota de lo que debes de mejorar y atacar directamente al problema.",
+
+  "chanonaflexDias": "LUN A SAB · 1 serie",
+"chanonaflex": [
+  {
+    "titulo": "Apertura frontal progresiva",
+    "dia": "LUNES",
+    "reps": "3 x 40 segundos",
+    "tipo": "flexibilidad"
+  },
+  {
+    "titulo": "Rana activa (control de cadera)",
+    "dia": "MIERCOLES",
+    "reps": "3 x 45 segundos",
+    "tipo": "flexibilidad"
+  }
+]
+  
+  "isometricoDias": "LUN / MIE / VIE · 1 serie",
+  "isometrico": [
+    {
+      "titulo": "Yop Chagui",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["OMITIR - NO PROGRAMADO PARA ESTA SEMANA"]
+    },
+    {
+      "titulo": "Yop Chagui",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["OMITIR - NO PROGRAMADO PARA ESTA SEMANA"]
+    },
+    {
+      "titulo": "Yop Chagui",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["OMITIR - NO PROGRAMADO PARA ESTA SEMANA"]
+    }
+  ],
+
+  "pateoDias": "MAR / JUE / SAB · 1 serie",
+  "pateoTecnico": [
+    {
+      "titulo": "Ap Chagui técnico (sube rodilla → extiende → regresa en cámara)",
+      "dia": "MARTES",
+      "reps": "5 rondas x 10 repeticiones por pierna",
+      "tipo": "tecnica"
+    },
+    {
+      "titulo": "Dollyo Chagui controlado (cadera + mirada + regreso limpio)",
+      "dia": "JUEVES",
+      "reps": "5 rondas x 8 repeticiones por pierna",
+      "tipo": "tecnica"
+    },
+    {
+      "titulo": "Yop Chagui base (talón fuerte + tronco estable)",
+      "dia": "SABADO",
+      "reps": "6 rondas x 6 repeticiones por pierna",
+      "tipo": "tecnica"
+    }
+  ],
+
+  "poomsaeDias": "LUN A SAB · 1 serie",
+  "poomsae": [
+    {
+      "titulo": "Taeguk 4 líneas 1 y 2 (postura + cámara correcta)",
+      "dia": "LUNES",
+      "reps": "8 minutos continuos",
+      "tipo": "poomsae"
+    },
+    {
+      "titulo": "Taeguk 4 líneas 3 y 4 (timing + freno limpio)",
+      "dia": "MARTES",
+      "reps": "8 minutos continuos",
+      "tipo": "poomsae"
+    },
+    {
+      "titulo": "Taeguk 5 líneas 1 y 2 (fuerza sin rigidez)",
+      "dia": "MIERCOLES",
+      "reps": "8 minutos continuos",
+      "tipo": "poomsae"
+    },
+    {
+      "titulo": "Taeguk 5 líneas 3 y 4 (transiciones limpias)",
+      "dia": "JUEVES",
+      "reps": "8 minutos continuos",
+      "tipo": "poomsae"
+    },
+    {
+      "titulo": "Taeguk 4 completo (presentación técnica)",
+      "dia": "VIERNES",
+      "reps": "4 rondas completas",
+      "tipo": "poomsae"
+    },
+    {
+      "titulo": "Taeguk 5 completo (control + respiración)",
+      "dia": "SABADO",
+      "reps": "4 rondas completas",
+      "tipo": "poomsae"
+    }
+  ],
+
+  "extras": [
+    {
+      "titulo": "Movilidad de cadera y tobillo",
+      "enfoque": "Mejorar rango sin perder postura",
+      "reps": "6 minutos totales",
+      "tipo": "movilidad"
+    },
+    {
+      "titulo": "Core básico para estabilidad",
+      "enfoque": "Abdomen activo para mayor firmeza en pateo",
+      "reps": "3 rondas",
+      "tipo": "fisico"
+    }
+  ],
+
+  "apuntes": [
+    "Primero limpio, después rápido.",
+    "La rodilla debe subir antes de extender la pierna.",
+    "El regreso de la patada es igual de importante que el golpe.",
+    "En poomsae marca micro pausa antes del siguiente movimiento.",
+    "Cuello largo, hombros relajados, abdomen activo."
+  ],
+
+  "notasFinales": [
+    "Realiza una sola serie diaria.",
+    "Si un día no puedes entrenar, retoma al siguiente sin ansiedad.",
+    "Grábate al menos una ronda completa el viernes o sábado para revisión.",
+    "Cualquier duda me escribes y ajustamos."
+  ]
+}
