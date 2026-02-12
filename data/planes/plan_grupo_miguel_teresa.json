@@ -2,8 +2,8 @@
   "updated_at": "Actualizado dom 15 feb",
   "nivel": "Nivel Dragones",
   "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
-  "enfoque_corto": "Flexibilidad + Fuerza isométrica + Combo de pateo",
-  "enfoque": "El enfoque de esta semana es sensacional ya que iremos forjando las bases importantes desde la raiz para lograr nuestra secuencia de pateo y giro, por lo que es muy importante que no nos saltemos ningun entrenamiento ya que esto será la clave para nuestro exito en nuestros objetivos trasados",
+  "enfoque_corto": "Trabajo técnico de taeguk 7 en la línea 5 y 6",
+  "enfoque": "En esta semana vimos puntos muy importantes de taeguk 7, lo cual vimos cosas que muchas veces se pasan por alto o simplemente no se puede notar tan facilmente, es por eso que vamos a trabajar en base a los  detalles  finos que vimos en nuestras clases, todo esto puede ser aplicable a  nuestros alumnos hoy mismo, pero si sugiero antes practicar y entender los movimientos con la mayor claridad para poder enseñarlo con total convicción",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -15,55 +15,33 @@
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
-     {
-      "titulo": "Yop Chagui - NIVEL 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
+     {},
     {
       "titulo": "Ap Chagui - NIVEL 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
-    {
-      "titulo": "Dollyo Chagui - NIVEL 1",
-      "tipo": "video",
-      "url": "***",
-      "tags": ["NO EN ESTA SEMANA"]
-    }
+    {}
   ],
   "pateoDias": "LUNES A SÁBADO",
   "pateoTecnico": [
      {
-      "titulo": "Circular + gancho - paso 1",
-      "enfoque": "Entendimiento de la transición y pasos",
-      "reps": "20 reps",
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Fortalecimiento y preparación de la técnica a un nivel más exigente",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dxGkeYcgNYQ5QpCRkGlkEoC-tLRAoZL-/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
     },
     {
-      "titulo": "Circular + gancho - paso 2",
-      "enfoque": "Entendimiento de la transición y pasos",
-      "reps": "20 reps",
+      "titulo": "Ap Chaguis Dos Bloques",
+      "enfoque": "Nivel de exigencia con bloques para desarrollar la concentración, coordinación y el equilibrio",
+      "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1IeTgB0ZNrlNfBHtCY6kn8DKkPvgCsb0n/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa/view?usp=drive_link"
     },
-    {
-      "titulo": "Circular + gancho - paso 3",
-      "enfoque": "Entendimiento de la transición y pasos",
-      "reps": "20 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/12IT_szZP7D1nemfGt3S8g_F-6udGtrYJ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Circular + gancho - paso 4",
-      "enfoque": "Entendimiento de la transición y pasos",
-      "reps": "20 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1vwN_z2xRabP-Kmo0sP5JCYNIgiwWmbPQ/view?usp=drive_link"
-    },
+    {},
+    {},
     {
       "titulo": "Torsión de cadera con banda",
       "enfoque": "Fortalecimiento y precisión de movimiento en cadera, glúteo, ingle e isquiotibiales",
@@ -79,14 +57,40 @@
       "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
-  "poomsae": [],
+  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Línea 5 - Taeguk 7 - Brazos",
+      "reps": "15 min por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/13WNzHHj7NHueKdgebU79zpNh8rNS56DA/view?usp=drive_link"
+    },
+    {
+      "titulo": "Línea 5 - Taeguk 7 - rodilla, inclinación y aterrizaje",
+      "reps": "15 min por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/13T-QruLrWivCxecAgtFUgCdjlVbhhOyb/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap chagui mano - taeguk 7",
+      "reps": "15 min por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1xuJ7A-iRPcnT_xPOU1YeTHHNR_iDYp9l/view?usp=sharing"
+    },
+    {
+      "titulo": "Codazo mano - taeguk 7",
+      "reps": "15 min por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1v5Be8DBZ_nbdPyRaeywtNGO0_9098m3M/view?usp=drive_link"
+    }
+  ],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Esta semana tuvimos un buen avance en referencia a nuestra patada de giro con gancho, vamos avanzando poco a poco con nuestro combo, continúa de manera consistente y con disciplina todos los dpias posibles, que la constancia es la que nos llevará al éxito en todas las áreas de nuestra vida.",
+    "En esta semana vimos puntos super importantes en nuestro taeguk 7 en donde pudimos notar como muchas cosas cambian hasta con un simple ajuste de cadera y torso, pero bien, lo importante es comenzar a formar hábitos de poomsae que nos lleven justamente a mejorar lo que tenemos como objetivo",
     "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Este plan se actualiza cada semana, por lo que ya no lo volverás a ver después de cada actualización, así que si quieres conservar algunos de los videos puedes copiar y guardar el link de cada video en alguna carpeta personal que tengas",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
