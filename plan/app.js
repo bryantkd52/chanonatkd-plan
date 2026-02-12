@@ -25,6 +25,7 @@ const logoImg = document.getElementById("logoImg");
 
 // Logo (tu drive directo)
 const LOGO_URL = "https://drive.google.com/uc?export=view&id=1sUJc__J1kjflVPqB-Pgy4-f48F0iBVG7";
+
 // Render helpers
 function section(title, innerHtml){
   return `
@@ -53,7 +54,6 @@ function itemRow(item, badgeText, index){
   const reps = item.reps ? `<div class="meta"><b>Reps:</b> ${safeText(item.reps)}</div>` : "";
   const dia = item.dia ? `<div class="meta"><b>Día:</b> ${safeText(item.dia)}</div>` : "";
 
-  // ✅ Reproducir = abrir en otra pestaña (Drive)
   const labelBtn = (item.tipo === "folder") ? "📁 Abrir carpeta" : "▶ Reproducir";
   const playBtn = item.url
     ? `<a class="action primary" href="${item.url}" target="_blank" rel="noreferrer">${labelBtn}</a>`
@@ -92,10 +92,12 @@ function renderResumen(plan){
       <li><b>Isométrico activo:</b> ${safeText(plan.isometricoDias || "—")}</li>
       <li><b>Trabajo técnico pateo:</b> ${safeText(plan.pateoDias || "—")}</li>
       <li><b>Trabajo técnico poomsae:</b> ${safeText(plan.poomsaeDias || "—")}</li>
+
+      <!-- ✅ NUEVO -->
+      <li><b>ChanonaFlex:</b> ${safeText(plan.chanonaflexDias || "—")}</li>
     </ul>
   `;
 
-  // ✅ Aquí cambiamos “Atajos” por “Apuntes de poomsae”
   const apuntes = Array.isArray(plan.apuntes) && plan.apuntes.length
     ? `<ol>${plan.apuntes.map(x=>`<li>${safeText(x)}</li>`).join("")}</ol>`
     : `<div class="meta">Aún no hay apuntes.</div>`;
@@ -128,7 +130,6 @@ function renderTab(tab, plan){
   if(tab === "isometrico") return renderListBlock("Isométrico activo de pateo", plan.isometrico, "Isométrico");
   if(tab === "pateo") return renderListBlock("Trabajo técnico de pateo", plan.pateoTecnico, "Pateo");
 
-  // ✅ Poomsae incluye “extras” al final
   if(tab === "poomsae"){
     const poom = Array.isArray(plan.poomsae) ? plan.poomsae : [];
     const extras = Array.isArray(plan.extras) ? plan.extras.map(x=>({
@@ -137,6 +138,11 @@ function renderTab(tab, plan){
     })) : [];
     const combinado = [...poom, ...extras];
     return renderListBlock("Trabajo técnico de poomsae", combinado, "Poomsae");
+  }
+
+  // ✅ NUEVO TAB: ChanonaFlex
+  if(tab === "chanonaflex"){
+    return renderListBlock("ChanonaFlex", plan.chanonaflex, "ChanonaFlex");
   }
 
   if(tab === "notas") return renderNotas(plan);
@@ -155,7 +161,6 @@ menu.addEventListener("click", (e)=>{
 // INIT
 (async function init(){
   try{
-    // logo
     logoImg.src = LOGO_URL;
 
     const alumnoId = qs("alumno");
@@ -177,7 +182,6 @@ menu.addEventListener("click", (e)=>{
     const plan = await loadJson(`../data/planes/${alumno.plan}`);
     window.__PLAN__ = plan;
 
-    // Header
     const nivel = safeText(plan.nivel || "Plan");
     const ciclo = safeText(plan.ciclo || "—");
     const para = safeText(alumno.nombre || "Alumno");
@@ -189,7 +193,6 @@ menu.addEventListener("click", (e)=>{
 
     brandSub.textContent = `Modo alumno • ${para}`;
 
-    // ✅ Meta a la derecha
     brandMeta.innerHTML = `
       <div><b>Alumno desde:</b> ${safeText(alumno.alumno_desde || "—")}</div>
       <div><b>Plan activo:</b> ${safeText(alumno.plan_activo || "—")}</div>
