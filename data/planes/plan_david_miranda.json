@@ -1,21 +1,74 @@
 {
-  "updated_at": "Actualizado hoy",
-  "nivel": "Plan en preparación",
-  "ciclo": "—",
-  "enfoque_corto": "—",
-  "enfoque": "Tu plan será cargado aquí. Si ves esto, significa que el sistema funciona correctamente ✅",
-  "isometricoDias": "—",
-  "isometrico": [],
-  "pateoDias": "—",
-  "pateoTecnico": [],
-  "poomsaeDias": "—",
-  "poomsae": [],
-  "extras": [],
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
+  "enfoque": "Continuar trabajando en nuestra flexibilidad, fortaleza y secuencia de pateo",
+ "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+     {
+      "titulo": "Yop Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {}
+  ],
+  "pateoDias": "LUN - MIE - VIE",
+  "pateoTecnico": [
+     {
+      "titulo": "Pucho + Ap Chagui",
+      "enfoque": "Control, precisión y desarrollo de coordinación",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1EfSyQwOzZ9HrzP1QX9EA-XBXEAyWDncp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circular + Gancho - Paso 1",
+      "enfoque": "Paso a paso a profundidad",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dxGkeYcgNYQ5QpCRkGlkEoC-tLRAoZL-/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circular + Gancho - Paso 2",
+      "enfoque": "Paso a paso a profundidad nivel 2",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1IeTgB0ZNrlNfBHtCY6kn8DKkPvgCsb0n/view?usp=drive_link"
+    },
+    {},
+    {},
+    {}
+  ],
+  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
+  "poomsae": [
+    {},
+    {},
+    {}
+  ],
   "apuntes": [
-    "Este plan aún está en preparación.",
-    "Cuando el coach lo actualice, aparecerán aquí tus ejercicios y links."
+    "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Cualquier duda, comenta con tu coach. ✅"
+    "En esta semana comenzaremos a entrenar una secuencia de pateo que exige más a nivel coordinación, vista y equilibrio, por favor siempre hacerlo con CALMA no seguido como usualmente se hace en el combate, aquí tenemos que aprender desde el principio, desde el fondo de la técnica para dominarlo",
+    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento!"
   ]
 }
