@@ -1,16 +1,112 @@
 {
-  "updated_at": "Actualizado hoy",
-  "nivel": "Personal · Ruben Guerrero",
-  "ciclo": "—",
-  "enfoque_corto": "—",
-  "enfoque": "—",
-  "isometricoDias": "—",
-  "isometrico": [],
-  "pateoDias": "—",
-  "pateoTecnico": [],
-  "poomsaeDias": "—",
-  "poomsae": [],
-  "extras": [],
-  "apuntes": [],
-  "notasFinales": []
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo de poomsae Sipjin",
+  "enfoque": "En esta semana aparte de nuestro entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, también comenzaremos a forjar las bases importantes de sipjin desde la mayor profundidad para garantizar la mejora de esta poomsae",
+ "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "ChanonaFlex • Avanzado",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+     {
+      "titulo": "Yop Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {}
+  ],
+  "pateoDias": "MAR - JUE - SAB / BANDA ELÁSTICA Y APOYO BARRA (O SILLA)",
+  "pateoTecnico": [
+     {
+      "titulo": "Propuesta + Empuje - Cuádriceps",
+      "enfoque": "Fortalecimiento de cuádriceps",
+      "reps": "30 reps / 2 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
+    },
+    {
+      "titulo": "Propuesta + Ap Chagui reps",
+      "enfoque": "Fortalecimiento de cuádriceps en ap chagui",
+      "reps": "20 reps / 2 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 12  - Yop Chagui / Banda (1 a la 5)",
+      "enfoque": "Estabilidad + técnica + fuerza",
+      "reps": "10 reps / 3 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1rWkqFQhFatE3TgXkKwOeS4jRQiUeECuO/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 11  - Yop Chagui / Banda (1 a la 5)",
+      "enfoque": "Repetición + técnica + fuerza",
+      "reps": "10 reps / 3 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1RKv0EEWwS8ufeaAKt5BoiqD0PPVVWIxf/view?usp=drive_link"
+    },
+    {},
+    {}
+  ],
+  "poomsaeDias": "LUN - MIE - JUE",
+  "poomsae": [
+    {
+      "titulo": "Codazo y giro transición  - Sipjin",
+      "enfoque": "Repetición + técnica + precisión",
+      "reps": "30 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1l1FslN_EqKiSAWoftVnr3lU3RWYDCTVD/view?usp=drive_link"
+    },
+    {
+      "titulo": "Golpe lateral - Sipjin",
+      "enfoque": "Repetición + técnica + precisión",
+      "reps": "30 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Gud8KNuejyuRFyckdV_bmVOEBwtOQR18/view?usp=drive_link"
+    },
+    {
+     "titulo": "Segundo Movimiento - Sipjin",
+      "enfoque": "Repetición + técnica + precisión + precisión",
+      "reps": "30 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
+    },
+    {
+     "titulo": "Poomsae completa - Pyonwong / MAR - JUE / NO INCLUYE VIDEO",
+      "enfoque": "Repetición + técnica + velocidad",
+      "reps": "5 reps maxima velocidad / mancuernas 1kg / 3 series",
+      "tipo": "Ejercicio",
+      "url": ""
+    },
+    {
+     "titulo": "Poomsae línea 1 - Sipjin / MAR - JUE / NO INCLUYE VIDEO",
+      "enfoque": "Repetición + técnica + velocidad",
+      "reps": "5 reps maxima velocidad / mancuernas 1kg / 3 series",
+      "tipo": "Ejercicio",
+      "url": ""
+    }
+  ],
+  "apuntes": [
+    "LEER NOTAS FINALES"
+  ],
+  "notasFinales": [
+    "En esta semana veremos puntos específicos de sipjin y entrenamiento de velocidady resistencia con mancuernas, esto sin dejar de un lado nuestro avance en flexibilidad, fuerza isométrica y técnica de pateo progresivo, solamente tener la especial atención de darle mucho foco al pie ya que es en donde queremos de igual forma recuperar/desarrollar la confianza para nuestras posiciones y pateo",
+    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento!"
+  ]
 }
