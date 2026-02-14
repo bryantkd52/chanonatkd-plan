@@ -1,16 +1,87 @@
 {
-  "updated_at": "Actualizado hoy",
-  "nivel": "Personal · Fabián Burgoa",
-  "ciclo": "—",
-  "enfoque_corto": "—",
-  "enfoque": "—",
-  "isometricoDias": "—",
-  "isometrico": [],
-  "pateoDias": "—",
-  "pateoTecnico": [],
-  "poomsaeDias": "—",
-  "poomsae": [],
-  "extras": [],
-  "apuntes": [],
-  "notasFinales": []
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo de poomsae Sipjin",
+  "enfoque": "En esta semana aparte de nuestro entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, también comenzaremos a forjar las bases importantes de sipjin desde la mayor profundidad para garantizar la mejora de esta poomsae",
+ "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+     {},
+    {
+      "titulo": "Ap Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {}
+  ],
+  "pateoDias": "MAR - JUE - SAB",
+  "pateoTecnico": [
+     {
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Fortalecimiento de cuádriceps",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+    },
+    {
+      "titulo": "L2 Koryo - hold en Ap Chagui",
+      "enfoque": "Fortalecimiento de cuádriceps en ap chagui con base a una poomsae",
+      "reps": "10 reps / 2 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1lww5GhU6ZYxtSnnqkniIr04Snu6H3A-L/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap hold 3 - L2 Koryo",
+      "enfoque": "Estabilidad + técnica + fuerza",
+      "reps": "10 reps / 3 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Tuep3FQZCHwcQuziQAnDoSbwnwCugKYz/view?usp=drive_link"
+    },
+    {},
+    {},
+    {}
+  ],
+  "poomsaeDias": "LUN - MIE - JUE",
+  "poomsae": [
+    {
+      "titulo": "Codazo y giro transición  - Sipjin",
+      "enfoque": "Repetición + técnica + precisión",
+      "reps": "30 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1l1FslN_EqKiSAWoftVnr3lU3RWYDCTVD/view?usp=drive_link"
+    },
+    {
+      "titulo": "Golpe lateral - Sipjin",
+      "enfoque": "Repetición + técnica + precisión",
+      "reps": "30 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Gud8KNuejyuRFyckdV_bmVOEBwtOQR18/view?usp=drive_link"
+    },
+    {
+     "titulo": "Segundo Movimiento - Sipjin",
+      "enfoque": "Repetición + técnica + precisión + precisión",
+      "reps": "30 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
+    }
+  ],
+  "apuntes": [
+    "LEER NOTAS FINALES"
+  ],
+  "notasFinales": [
+    "En esta semana veremos puntos específicos de sipjin sin dejar de un lado nuestro avance en flexibilidad, fuerza isométrica y técnica de pateo progresivo, solamente tener la especial atención de darle mucho foco a los pies ya que es en donde queremos desarrollar la confianza para nuestras posiciones y pateo",
+    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento!"
+  ]
 }
