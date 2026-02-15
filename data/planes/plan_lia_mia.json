@@ -1,21 +1,93 @@
 {
-  "updated_at": "Actualizado hoy",
-  "nivel": "Plan en preparación",
-  "ciclo": "—",
-  "enfoque_corto": "—",
-  "enfoque": "Tu plan será cargado aquí. Si ves esto, significa que el sistema funciona correctamente ✅",
-  "isometricoDias": "—",
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Nivel avanzado",
+  "ciclo": "Lunes 16 al viernes 15 febrero del 2026",
+  "enfoque_corto": "Timing + Precisión + Preparación competitiva",
+  "enfoque": "Darle prioridad esta semana al timing de nuestras poomsaes ya que ahí es en donde podremos trabajar nuestra presentación, pero siempre recordando lo importante que es el marcar cada movimiento como se debe sin acelerar de  más, sino controlar, darle velocidad movimiento a movimiento y marcar los movimientos",
+  "isometricoDias": "No programado para esta semana",
   "isometrico": [],
-  "pateoDias": "—",
+  "pateoDias": "No programado para esta semana",
   "pateoTecnico": [],
-  "poomsaeDias": "—",
-  "poomsae": [],
-  "extras": [],
+  "poomsaeDias": "LUNES A VIERNES / 1 serie",
+  "poomsae": [
+    {
+      "titulo": "Timing poomsae completa de Taeguk 4 (Mía)",
+      "dia": "LUNES-MIERCOLES",
+      "reps": "10 minutos",
+      "tipo": "Audio",
+      "url": "https://drive.google.com/file/d/1GP9xzelmZAbrDWCGC8Dk6gdEv0EBX_3c/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing poomsae completa de Taeguk 5",
+      "dia": "LUNES-MIERCOLES",
+      "reps": "10 minutos",
+      "tipo": "Audio",
+      "url": "https://drive.google.com/file/d/1--AwHnV5lJmIIn731C16_5-ZAohMTIiH/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing poomsae completa de Taeguk 6",
+      "dia": "LUNES-MIERCOLES",
+      "reps": "10 minutos",
+      "tipo": "Audio",
+      "url": "https://drive.google.com/file/d/1CQ2D_gBn5p8PHkZPp_D1D1CmVPyVK8O7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing poomsae completa de Taeguk 7",
+      "dia": "LUNES-MIERCOLES",
+      "reps": "10 minutos",
+      "tipo": "Audio",
+      "url": "https://drive.google.com/file/d/1x6fTm5Scjblt833cYAiupEHzayFBGhzM/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing poomsae completa de Taeguk 8",
+      "dia": "MARTES-JUEVES",
+      "reps": "10 minutos",
+      "tipo": "Audio",
+      "url": "https://drive.google.com/file/d/1pJBYwhdY3gxXQjiw63daDLy1zz8AI0FG/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing poomsae completa de Koryo",
+      "dia": "MARTES-JUEVES",
+      "reps": "10 minutos",
+      "tipo": "Audio",
+      "url": "https://drive.google.com/file/d/1x7PbLqLXGT4QWARKK6biWmvD81JKpGDK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing poomsae completa de Keumgang",
+      "dia": "MARTES-JUEVES",
+      "reps": "10 minutos",
+      "tipo": "Audio",
+      "url": "https://drive.google.com/file/d/1ubqU5a0bxt3vji_MpwVE_6leLFcrk2TB/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing poomsae completa de Taebaek",
+      "dia": "MARTES-JUEVES",
+      "reps": "10 minutos",
+      "tipo": "Audio",
+      "url": "https://drive.google.com/file/d/1lZnygvKQw7llYhAdhCairXS59tLMeuy9/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing poomsae completa de Pyonwong (Lia)",
+      "dia": "MARTES-JUEVES",
+      "reps": "10 minutos",
+      "tipo": "Audio",
+      "url": "https://drive.google.com/file/d/1dxU_-ztAr7vYc8v6HHZBEhv1PMmhphT7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing poomsaes completas - Audios de las que entrenamos esta semana",
+      "dia": "VIERNES",
+      "reps": "2 reps por poomsae / fuerza moderada y potencia ligera",
+      "tipo": "Audio",
+      "url": ""
+    }
+  ],
   "apuntes": [
-    "Este plan aún está en preparación.",
-    "Cuando el coach lo actualice, aparecerán aquí tus ejercicios y links."
+    "Tomar en cuenta que el entrenamiento del viernes es únicamente la repetición de todos los timings que vimos en la semana, por lo que es importante que no lo hagas con la maxima potencia, solo movimientos marcados como último ajuste de la semana antes de nuestra participación, el viernes es para concentrarse y para enfocarse en lo importante, incluso no habrá esta semana apuntes de poomsae como siempre, porque lo importante está en lo que hemos venido mejorando y desarrollando, así que toca unicamente pulir eso"
   ],
   "notasFinales": [
-    "Cualquier duda, comenta con tu coach. ✅"
+    "En esta semana entrenaremos unicamente en base al timing de cada poomsae, recuerda que aunque puedan sonar los audios rapidos, esto no significa que no debamos marcar los movimientos, el objetivo es ir a esa velocidad marcando con potencia, fuerza, precisión, pausas de seguimiento y sobre todo el demostrar la poomsae de manera explosiva con el equilibrio de las preparaciones y ejecuciones",
+    "Los audios asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Cualquier duda, por favor comentenme campeonas",
+    "¡Feliz entrenamiento y a darle con todo para nuestro estatal!"
   ]
 }
