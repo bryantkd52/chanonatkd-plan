@@ -1,21 +1,56 @@
 {
-  "updated_at": "Actualizado hoy",
-  "nivel": "Plan en preparación",
-  "ciclo": "—",
-  "enfoque_corto": "—",
-  "enfoque": "Tu plan será cargado aquí. Si ves esto, significa que el sistema funciona correctamente ✅",
-  "isometricoDias": "—",
-  "isometrico": [],
-  "pateoDias": "—",
-  "pateoTecnico": [],
-  "poomsaeDias": "—",
-  "poomsae": [],
-  "extras": [],
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Nivel Avanzado Progresivo",
+  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + pateo con banda + fuerza isométrica",
+ "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "Martes 27 Enero - Flexibilidad y fuerza isométrica",
+      "dia": "LUNES - MIERCOLES - VIERNES",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1owrSrzBozmD_ylZH8pwnjk47vYtUwbYN/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "MARTES - SÁBADO",
+  "isometrico": [
+     {},
+    {
+      "titulo": "Jueves 29 - Fuerza isometrica exigente para Ap Chagui",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1p83Zel0IGWTQaM2eHOClyo9QzZ1-AL52/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {}
+  ],
+  "pateoDias": "MAR - JUE - SAB (SI QUEDA TIEMPO Y ENERGÍA)",
+  "pateoTecnico": [
+     {
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Fortalecimiento de cuádriceps",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
+  "poomsae": [
+    {},
+    {},
+    {}
+  ],
   "apuntes": [
-    "Este plan aún está en preparación.",
-    "Cuando el coach lo actualice, aparecerán aquí tus ejercicios y links."
+    "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Cualquier duda, comenta con tu coach. ✅"
+    "En esta semana continuaremos trabajando y fortaleciendo nuestro trabajo isométrico y flexibilidad, vamos ganando rango y los entrenamientos se empezarán a tornar más intensos pero como siempre por favor, comentame cualquier molestia o incomodidad rara que sientas",
+    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento!"
   ]
 }
