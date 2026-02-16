@@ -1,21 +1,107 @@
 {
-  "updated_at": "Actualizado hoy",
-  "nivel": "Plan en preparación",
-  "ciclo": "—",
-  "enfoque_corto": "—",
-  "enfoque": "Tu plan será cargado aquí. Si ves esto, significa que el sistema funciona correctamente ✅",
-  "isometricoDias": "—",
-  "isometrico": [],
-  "pateoDias": "—",
-  "pateoTecnico": [],
-  "poomsaeDias": "—",
-  "poomsae": [],
-  "extras": [],
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo técnico de poomsae",
+  "enfoque": "En esta semana aparte de nuestro entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, también comenzaremos a forjar las bases importantes de la velocidad y potencia de nuestros movimientos desde la mayor profundidad para garantizar la mejora de koryo",
+ "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "ChanonaFlex • Avanzado",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+     {
+      "titulo": "Yop Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "MAR - JUE - SAB",
+  "pateoTecnico": [
+     {
+      "titulo": "Propuesta + Empuje - Cuádriceps",
+      "enfoque": "Fortalecimiento de cuádriceps",
+      "reps": "30 reps / 2 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
+    },
+    {
+      "titulo": "Propuesta + Ap Chagui reps",
+      "enfoque": "Fortalecimiento de cuádriceps en ap chagui",
+      "reps": "20 reps / 2 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 12  - Yop Chagui / Banda (1 a la 5)",
+      "enfoque": "Estabilidad + técnica + fuerza",
+      "reps": "10 reps / 3 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1rWkqFQhFatE3TgXkKwOeS4jRQiUeECuO/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 11  - Yop Chagui / Banda (1 a la 5)",
+      "enfoque": "Repetición + técnica + fuerza",
+      "reps": "10 reps / 3 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1RKv0EEWwS8ufeaAKt5BoiqD0PPVVWIxf/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Doble Yop Chagui hold + Landing L3 + L1 Koryo",
+      "enfoque": "Control + técnica + precisión",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
+    },
+    {
+      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
+      "enfoque": "Repetición + técnica + precisión",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
+    },
+    {
+     "titulo": "Linea 3 Koryo - Sentadilla y camara",
+      "enfoque": "Control + técnica + precisión",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
+    },
+    {
+     "titulo": "Transicion Twit Kubi a Twit Kubi",
+      "enfoque": "Transición + técnica + postura",
+      "reps": "50 reps por lado/ 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1TQjuHQflDQu65fh_zJE1QSTxD2qVaoEX/view?usp=drive_link"
+    }
+  ],
   "apuntes": [
-    "Este plan aún está en preparación.",
-    "Cuando el coach lo actualice, aparecerán aquí tus ejercicios y links."
+"Enfócate en la buena ejecución de los movimientos en base a los videos y en lo que vimos en clase, podemos mejorar sin problema siempre y cuando tengas muy en cuenta los puntos que tenemos que mejorar, es decir que debemos de estar muy conscientes de nuestros movimientos, preparaciones, timings y más, lleva tiempo pero es posible, a continuación verás los errores actuales  que tienes en la linea 1 de koryo para que los tomes en cuenta",
+"La vista la gira cuando ejecuta la defensa, no cuando la preparamos y es justo cuando preparamos cuando tenemos que girar la vista",
+"El timing va lento, pero estamos marcando bien a excepto de los brazos cuando pateamos, por lo que necesitaremos aumentar la velocidad de cada movimiento, no de acelerar todo, sino hacerlo con maxima velocidad movimiento por movimiento",
+"La rodilla (camara de regreso) en yop chagui la estamos regresando como dollyo o las esta subiendo sin flexion para la segunda yop chagui",
+"Trabajar en la transición de lado a lado enfocado en los pies y en las manos paso a paso justo como lo vimos en clase"
   ],
   "notasFinales": [
-    "Cualquier duda, comenta con tu coach. ✅"
+    "En esta semana vamos a fortalecer nuestro entrenamiento de velocidad y resistencia con mancuernas, esto sin dejar de un lado nuestro avance en flexibilidad, fuerza isométrica y técnica de pateo progresivo, pero a su vez tener la especial atención de darle mucho foco a los pasos ya que es en donde estamos teniendo dificultades en el aspecto de abrir mucho las posiciones en Twit Kubis y el cambio de dirección, por eso la especial atención ahí",
+    "También tomar en cuenta que debemos de perfeccionar nuestro timing a su vez de cuidar la técnica de transiciones, posiciones, preparaciones y ejecuciones con su respectiva precision, no acelerando todo sino haciendo los movimientos correctos y con su respectiva velocidad",
+    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento!"
   ]
 }
