@@ -165,5 +165,12 @@
     "plan_activo": "Forjando Bases 1",
     "suscripcion_activa": "Febrero",
     "objetivo_proximo": "Preparación para competencia proxima en marzo"
+  },
+  "rogelio_herrera": {
+    "nombre": "Rogelio Herrera",
+    "plan": "plan_rogelio_herrera.json",
+    "plan_activo": "Avanzado de campeones",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Desarrollar bases de flexibilidad y fuerza isométrica"
   }
 }
