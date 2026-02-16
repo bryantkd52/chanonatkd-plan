@@ -1,0 +1,44 @@
+{
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Nivel Avanzado Progresivo",
+  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + fuerza isométrica",
+ "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "Circuito ChanonaFlex - Nivel 1",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUNES - MIERCOLES - VIERNES",
+  "isometrico": [
+     {},
+    {
+      "titulo": "Isométrico activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {}
+  ],
+  "pateoDias": "NO ASIGNADO POR EL MOMENTO",
+  "pateoTecnico": [
+    {}
+  ],
+  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
+  "poomsae": [
+    {}
+  ],
+  "apuntes": [
+    "LEER NOTAS FINALES"
+  ],
+  "notasFinales": [
+    "En esta semana continuaremos trabajando y fortaleciendo nuestro trabajo isométrico y flexibilidad, vamos ganando rango y los entrenamientos se empezarán a tornar más intensos pero como siempre por favor, comentame cualquier molestia o incomodidad rara que sientas",
+    "Excelente trabajo en la presentación de la inauguración, mis felicitaciones y respeto a tu esfuerzo, eres un gran ejemplo de superación y tenacidad",
+    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento!"
+  ]
+}
