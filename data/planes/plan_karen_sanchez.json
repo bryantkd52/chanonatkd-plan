@@ -1,21 +1,104 @@
 {
-  "updated_at": "Actualizado hoy",
-  "nivel": "Plan en preparación",
-  "ciclo": "—",
-  "enfoque_corto": "—",
-  "enfoque": "Tu plan será cargado aquí. Si ves esto, significa que el sistema funciona correctamente ✅",
-  "isometricoDias": "—",
-  "isometrico": [],
-  "pateoDias": "—",
-  "pateoTecnico": [],
-  "poomsaeDias": "—",
-  "poomsae": [],
-  "extras": [],
+  "updated_at": "Actualizado dom 15 feb",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Martes 17 al sábado 21 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo del timing de poomsae",
+  "enfoque": "En esta semana nos enfocaremos en el trabajo de la línea 3 y 4 de Taeguk 4 y 5, aunque en taeguk 5  si trabajaremos la linea 5, pero con enfoque en los puntos que vimos en clave vamos a entrenar",
+ "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "ChanonaFlex • Avanzado",
+      "dia": "MARTES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "MAR - JUE - SAB",
+  "isometrico": [
+     {
+      "titulo": "Yop Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Dollyo Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "MIE - VIE - DOM",
+  "pateoTecnico": [
+     {
+      "titulo": "Propuesta + Empuje - Cuádriceps",
+      "enfoque": "Fortalecimiento de cuádriceps",
+      "reps": "30 reps / 2 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
+    },
+    {
+      "titulo": "Propuesta + Ap Chagui reps",
+      "enfoque": "Fortalecimiento de cuádriceps en ap chagui",
+      "reps": "20 reps / 2 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "MARTES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Timing L3 - Taeguk 4 (AUDIO)",
+      "enfoque": "Ritmo + Técnica + Armonía",
+      "reps": "Repetir con la poomsae / 20 reps * 2 series",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1wj_ri9Jloap-xOSWoxi7k-mxSa3X5RqH/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing L3 - Taeguk 5 (AUDIO)",
+      "enfoque": "Ritmo + Técnica + Armonía",
+      "reps": "Repetir con la poomsae / 20 reps * 2 series",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1XGKRztzGujRFswCDSJOJxG62vjF0apTG/view?usp=sharing"
+    },
+    {
+      "titulo": "Timing L4 y 5 - Taeguk 5 (AUDIO)",
+      "enfoque": "Ritmo + Técnica + Armonía",
+      "reps": "Repetir con la poomsae / 20 reps * 2 series",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1L0aRssAJcACxpyxWkl6P7T5xB3GQVTVz/view?usp=drive_link"
+    }
+  ],
   "apuntes": [
-    "Este plan aún está en preparación.",
-    "Cuando el coach lo actualice, aparecerán aquí tus ejercicios y links."
+"En la transicion de L2 a L3 de T4 los pies están haciendo el giro con los talones, estas deben de ser con la bola del pie",
+"Necesitamos flexionar al maximo la pierna trasera en nuestra twit kubi, ya que debemos de darle el habito de ejecutar correctamente nuestras posiciones, aprenderlo no es lo mismo que la practica",
+"Cuando ejecuta Ap Chagui, el talón de el piei de apoyo está elevandose, esta solo debe elevarse de manera rápida cuando giramos para el pateo",
+"En nuetsra  twit kubi, la pierna trasra la estamos metiendo, en específico la rodilla, cuando la debemos de mantener firme  en linea recta con el cuerpo y la cadera",
+"La preparación de el golpe de cuchillo debe de ser rápido, pero no significa que vayamos a omitir la preparación de esta, ya que aunquue parece que si la preparamos, en realidad está quedando casi sin finalizar la preparación y se termina viendo muy pequeño",
+"Los puños deben de llegar al costado cuando ejecutamos los movimientos, aun se están viendo semi pegados en el costado, estas deben de ir rapido y bien pegados al cuerpo",
+"La preparacion de montong makki se está ejecutando muy pequeño, debe de ampliar la preparación",
+"Darle la maxima potencia al golpe de revés y extensión al golpe de cuchillo, ya que estan suaves en cada ejecucion",
+"Necesitamos controlar nuestras camaras de regreso de Ap Chaguis",
+"Apretar piernas de apoyo es lo que necesitamos para mejorar nuestro control en nuestras patadas",
+"Timing de las poomsae hay que trabajarlas en base a precisión y sin omitir preparaciones",
+"Terminar bien los movimientos uno por uno, es decir que no meido terminamos un movimiento y ya nos vamos al siguiente, tenemos que terminar uno a uno pero respetando la explosividad de cada uno de los movimientos",
+"En la linea 5 de Taeguk 5, estamos llevando el torso de forma muy evidente hacia al frente para ejecutar nuestras yop chaguis",
+"El puño del costado en las yop chaguis se están saliendo de su lugar correcto en donde debe de llegar pero no solo eso, sino que tambien flexiona mucho  la muñeca al llegar y se ve como si se estuviera sosteniendo",
+"El puño que sale en paralelo con la pierna en yop chagui esta saliendo del aire y no desde la correcta preparacion desde e pecho en direccion al hombro",
+"En el golpe al codazo los dedo no estan por afuera del codo, esto se debe a que el puño no está llegando a su destino final, este destino es llegar debajo (pegado) debajo de el codo como asi tambien su mano y brazo no esta dejando que los dedos se muestren y para corregir eso, necesitamos que el puño del brazo que esta haciendo el codazo debe de llegar por debajo del codo contrario",
+"Esta flexionando mucho el codo paralelo con la yop chagui del primer lado, debe ser mucho mas ligera la flexion",
+"Controlar al 100% nuestras camaras de yop chaguis ya que nos estan haciendo perder mucho equilibrio, hay que apretar al máximo"
   ],
   "notasFinales": [
-    "Cualquier duda, comenta con tu coach. ✅"
+    "En esta semana vamos a trabajar en nuestra parte técnica y timing de las poomsaes, tenemos puntos específicos que mejorar y debemos de cambiarlas en hábitos buenos y correctos para mejorar nuestra poomsae y estar listos antes de nuestra siguiente competencia, es por eso que es importante que cuando entrenes tomes en cuenta los apuntes que te dejé en la sección de apuntes de poomsae",
+    "Los videos y audios asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento!"
   ]
 }
