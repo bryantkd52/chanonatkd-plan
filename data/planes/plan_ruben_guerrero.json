@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
+  "updated_at": "Actualizado dom 22 feb",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo de poomsae Sipjin",
-  "enfoque": "En esta semana aparte de nuestro entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, también comenzaremos a forjar las bases importantes de sipjin desde la mayor profundidad para garantizar la mejora de esta poomsae",
+  "enfoque": "En esta semana de daremos seguimiento al entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, también continuamos forjando las bases importantes de sipjin desde la mayor profundidad para garantizar la mejora de esta poomsae",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -26,43 +26,40 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {}
+    }
   ],
-  "pateoDias": "MAR - JUE - SAB / BANDA ELÁSTICA Y APOYO BARRA (O SILLA)",
+  "pateoDias": "MAR - JUE - SAB / BANDA ELÁSTICA Y APOYO BARRA",
   "pateoTecnico": [
      {
-      "titulo": "Propuesta + Empuje - Cuádriceps",
-      "enfoque": "Fortalecimiento de cuádriceps",
-      "reps": "30 reps / 2 serie",
+      "titulo": "Circuito Hold con banda L2 Koryo",
+      "enfoque": "Cuádriceps + Equilibrio",
+      "reps": "30 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
     },
     {
-      "titulo": "Propuesta + Ap Chagui reps",
-      "enfoque": "Fortalecimiento de cuádriceps en ap chagui",
+      "titulo": "Balance  Ap + Dollyo + Yop",
+      "enfoque": "Cuádriceps + Equilibrio",
       "reps": "20 reps / 2 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 12  - Yop Chagui / Banda (1 a la 5)",
+      "titulo": "Linea 3 Koryo - Sentadilla y camara / apoyo con barra",
       "enfoque": "Estabilidad + técnica + fuerza",
       "reps": "10 reps / 3 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1rWkqFQhFatE3TgXkKwOeS4jRQiUeECuO/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 11  - Yop Chagui / Banda (1 a la 5)",
-      "enfoque": "Repetición + técnica + fuerza",
+      "titulo": "Doble yop hold - landing L3 koryo - Apoyo de barra",
+      "enfoque": "Control + técnica + fuerza",
       "reps": "10 reps / 3 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1RKv0EEWwS8ufeaAKt5BoiqD0PPVVWIxf/view?usp=drive_link"
-    },
-    {},
-    {}
+      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
+    }
   ],
-  "poomsaeDias": "LUN - MIE - JUE",
+  "poomsaeDias": "LUN - MIE - JUE (Técnico) MAR - JUE (Max. Vel. Mancuernas)",
   "poomsae": [
     {
       "titulo": "Codazo y giro transición  - Sipjin",
@@ -86,26 +83,18 @@
       "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
     },
     {
-     "titulo": "Poomsae completa - Pyonwong / MAR - JUE / NO INCLUYE VIDEO",
-      "enfoque": "Repetición + técnica + velocidad",
-      "reps": "5 reps maxima velocidad / mancuernas 1kg / 3 series",
-      "tipo": "Ejercicio",
-      "url": ""
-    },
-    {
-     "titulo": "Poomsae línea 1 - Sipjin / MAR - JUE / NO INCLUYE VIDEO",
-      "enfoque": "Repetición + técnica + velocidad",
-      "reps": "5 reps maxima velocidad / mancuernas 1kg / 3 series",
-      "tipo": "Ejercicio",
-      "url": ""
+     "titulo": "L2 Taeguk 7 - T7 L2",
+      "enfoque": "Reps rumbo a Sipjin + precisión",
+      "reps": "30 reps lado izquierdo",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/12F-yyH4XJl3A4FRt_3biwxE0th5Mtsq1/view?usp=drive_link"
     }
   ],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana veremos puntos específicos de sipjin y entrenamiento de velocidady resistencia con mancuernas, esto sin dejar de un lado nuestro avance en flexibilidad, fuerza isométrica y técnica de pateo progresivo, solamente tener la especial atención de darle mucho foco a los pies ya que es en donde queremos de igual forma desarrollar la confianza para nuestras posiciones y pateo",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "En esta semana continuamos entrenando nuestra parte física a su vez sipjin, esto con la intensión de seguir perfeccionando esta poomsae desde las bases profundas de esta poomsae",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
