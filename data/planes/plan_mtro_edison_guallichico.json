@@ -1,104 +1,88 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
+  "updated_at": "Actualizado dom 22 feb",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + trabajo técnico de poomsae",
-  "enfoque": "En esta semana nos enfocaremos en taeguk 4, específicamente en la practica del desarrollo de fuerza, potencia y velocidad a su vez del trabajo inteligente de la técnica con mancuerna, para el aumento de la potencia en nuestros movimientos de poomsae",
+  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Técnico pateo + taeguk 4 L3",
+  "enfoque": "En esta semana de daremos seguimiento al entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, también continuamos forjando las bases importantes de Taeguk 4 L3 desde la mayor profundidad para garantizar la mejora de esta poomsae",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Nivel intermedio",
+      "titulo": "ChanonaFlex • Nivel 1",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
-     {
-      "titulo": "Yop Chagui - NIVEL 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
     {
       "titulo": "Ap Chagui - NIVEL 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {}
+    }
   ],
-  "pateoDias": "LUN - MIE - VIE / Bandas elásticas",
+  "pateoDias": "MAR - JUE - SAB / BANDA ELÁSTICA Y APOYO BARRA",
   "pateoTecnico": [
      {
-      "titulo": "Ap Chagui - 3 niveles",
-      "enfoque": "Fortalecimiento y potencia para ap chaguis",
-      "reps": "10 reps / 2 series",
+      "titulo": "Ap + Yop + Turn hips silla",
+      "enfoque": "Cuádriceps + Equilibrio",
+      "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
     },
     {
-      "titulo": "Silla + Ap Chaguis - 3 Niveles",
-      "enfoque": "Fortalecimiento de cuádriceps en base a ap chagui",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Cuádriceps + Equilibrio",
       "reps": "10 reps / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
     },
     {
-      "titulo": "L2 T4 - Yop Chaguis",
-      "enfoque": "Entendimiento del movimiento y técnica de Yop Chaguis",
-      "reps": "10 reps / 2 series",
+      "titulo": "Linea 3 Koryo - Sentadilla y camara / apoyo con barra",
+      "enfoque": "Estabilidad + técnica + fuerza",
+      "reps": "10 reps / 3 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1itbAdFy1D_RFN0WTpbKzHaK1oQsD-c29/view?usp=drive_link"
-    },
-    {},
-    {
-      "titulo": "Torsión de cadera con banda",
-      "enfoque": "Fortalecimiento y precisión de movimiento en cadera, glúteo, ingle e isquiotibiales",
-      "reps": "Fallo y después 30 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
     },
     {
-      "titulo": "Fortalecimiento de tobillo con banda",
-      "enfoque": "Fortalecimiento de tobillo para mejorar la estabilidad y evitar lesiones",
-      "reps": "30 reps",
+      "titulo": "Doble yop hold - landing L3 koryo - Apoyo de barra",
+      "enfoque": "Control + técnica + fuerza",
+      "reps": "10 reps / 3 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "MAR - JUE - SAB",
+  "poomsaeDias": "LUN - MIE - JUE",
   "poomsae": [
     {
-      "titulo": "Transición de L2 a L3 - Taeguk 4",
-      "enfoque": "Transición correcta de los pies y el peso del cuerpo hacia la siguiente línea",
+      "titulo": "Ap + Regreso Twit Kubi T4",
+      "enfoque": "Repetición + técnica + precisión",
+      "reps": "30 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1et6KYqyWP6ZY-XMVXSqNIRGNh03gTEF2/view?usp=drive_link"
+    },
+    {
+      "titulo": "Línea 3 - Taeguk 4",
+      "enfoque": "Repetición + técnica + precisión",
+      "reps": "Lo necesario",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1wj_ri9Jloap-xOSWoxi7k-mxSa3X5RqH/view?usp=drive_link"
+    },
+    {
+     "titulo": "Transicion L2 a 3 T4 - Pies",
+      "enfoque": "Repetición + técnica + precisión",
       "reps": "30 reps / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1-Jlts5WH0nNHnSfaUom-9EOsJltoVjD2/view?usp=drive_link"
-    },
-    {
-      "titulo": "Aterrizaje Yop Chagui a Twit Kubi - L2 T4",
-      "enfoque": "Corregir y darle a la practica correcta el aterrizaje en el último movimiento de la L2 de T4, centrarnos en el peso y tendremos nuestro movimiento potente",
-      "reps": "30 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-Jlts5WH0nNHnSfaUom-9EOsJltoVjD2/view?usp=drive_link"
-    },
-    {
-      "titulo": "Manos y pies - L2 T4 / Mancuerna 1/2kg o 1 kg",
-      "enfoque": "Fortalecimiento en base al trabajo de mancuerna y estabilidad para la potencia de nuestros movimientos",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1StxC0IrzsXGfH-0_GjXyw50Zdlc9OpSF/view?usp=drive_link"
     }
   ],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana vamos a trabajar en nuestra línea 2 y transición a línea 3 y con un ejercicio en donde incluímos las mancuernas para el fortalecimiento inteligente en nuestras poomsaes",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
-    "Cualquier duda, por favor comentame",
+    "En esta semana continuamos entrenando nuestra parte física a su vez Taeguk 4 y el timing de esta misma, en el caso del audio y la seccion de poomsae hay que hacerlas con y sin mancuernas para optimizar el entrenamiento técnico y a su vez de velocidad y fuerza, esto con la intensión de seguir perfeccionando esta poomsae desde las bases profundas",
+    "Cualquier duda, por favor comenteme",
     "¡Feliz entrenamiento!"
   ]
 }
