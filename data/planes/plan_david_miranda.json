@@ -1,9 +1,9 @@
-{
-  "updated_at": "Actualizado dom 15 feb",
+ {
+  "updated_at": "Actualizado dom 22 feb",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
-  "enfoque": "Continuar trabajando en nuestra flexibilidad, fortaleza y secuencia de pateo",
+  "enfoque": "Continuamos trabajando en nuestra secuencia de pateo con la finalidad de mejorar nuestra movilidad, pero en esta ocasión agregamos la patada de giro con gancho, paso a paso sin prisas",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -20,16 +20,9 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Ap Chagui - NIVEL 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {}
+    }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "LUN - MIE - VIE",
   "pateoTecnico": [
      {
       "titulo": "Pucho + Ap Chagui",
@@ -52,23 +45,30 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1IeTgB0ZNrlNfBHtCY6kn8DKkPvgCsb0n/view?usp=drive_link"
     },
-    {},
-    {},
-    {}
+    {
+      "titulo": "Circular + Gancho - Paso 3",
+      "enfoque": "Paso a paso a profundidad nivel 3",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/12IT_szZP7D1nemfGt3S8g_F-6udGtrYJ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circular + Gancho - Paso 4",
+      "enfoque": "Paso a paso a profundidad nivel 4",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1vwN_z2xRabP-Kmo0sP5JCYNIgiwWmbPQ/view?usp=drive_link"
+    }
   ],
   "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
   "poomsae": [
-    {},
-    {},
-    {}
-  ],
+],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana comenzaremos a entrenar una secuencia de pateo que exige más a nivel coordinación, vista y equilibrio, por favor siempre hacerlo con CALMA no seguido como usualmente se hace en el combate, aquí tenemos que aprender desde el principio, desde el fondo de la técnica para dominarlo",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
-    "Cualquier duda, por favor comentame",
+    "En esta semana le daremos mucho enfoque y entrenamiento a nuestra secuencia de pateo que nos lleva a la practica de la patada  de giro con gancho, es importante que siempre mantengas el enfoque al frente y no te desvíes por el descontrol de los brazos afueral siempre debemos de tener los brazos en el cuerpo, dicho esto estamos listos para entrenar",
+    "Cualquier duda, por favor coméntame",
     "¡Feliz entrenamiento!"
   ]
 }
