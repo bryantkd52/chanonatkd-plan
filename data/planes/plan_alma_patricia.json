@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
+  "updated_at": "Actualizado dom 22 de feb",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
   "enfoque_corto": "Flexibilidad + Fuerza isométrica + Combo de pateo",
-  "enfoque": "El enfoque de esta semana es sensacional ya que iremos forjando las bases importantes desde la raiz para lograr nuestra secuencia de pateo y giro, por lo que es muy importante que no nos saltemos ningun entrenamiento ya que esto será la clave para nuestro exito en nuestros objetivos trasados",
+  "enfoque": "El enfoque de esta semana es emocionante ya que comenzamos a trabajar nuestro combo de una manera mas fluida, en especial que comenzamos a entender de manera mas detallada de nuestro giro con gancho, es por eso que será muy importante seguir practicando este pateo ¡VAMOS A DOMINARLO!",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -26,50 +26,30 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Dollyo Chagui - NIVEL 1",
-      "tipo": "video",
-      "url": "***",
-      "tags": ["NO EN ESTA SEMANA"]
     }
   ],
   "pateoDias": "LUNES A SÁBADO",
   "pateoTecnico": [
      {
-      "titulo": "Circular + gancho - paso 1",
+      "titulo": "Circular + gancho - paso 5",
       "enfoque": "Entendimiento de la transición y pasos",
       "reps": "20 reps",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dxGkeYcgNYQ5QpCRkGlkEoC-tLRAoZL-/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1chH_9pxZxSpXSw3pNgzZV5Aa_ip9Frxz/view?usp=drive_link"
     },
     {
-      "titulo": "Circular + gancho - paso 2",
+      "titulo": "Circular + gancho - paso 6",
+      "enfoque": "Entendimiento de la transición y practica mas fluida",
+      "reps": "20 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dyKMDDW_AlxUbwuiOYZS2mWmI1AaKlk6/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circular + gancho - paso 7",
       "enfoque": "Entendimiento de la transición y pasos",
       "reps": "20 reps",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1IeTgB0ZNrlNfBHtCY6kn8DKkPvgCsb0n/view?usp=drive_link"
-    },
-    {
-      "titulo": "Circular + gancho - paso 3",
-      "enfoque": "Entendimiento de la transición y pasos",
-      "reps": "20 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/12IT_szZP7D1nemfGt3S8g_F-6udGtrYJ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Circular + gancho - paso 4",
-      "enfoque": "Entendimiento de la transición y pasos",
-      "reps": "20 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1vwN_z2xRabP-Kmo0sP5JCYNIgiwWmbPQ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Torsión de cadera con banda",
-      "enfoque": "Fortalecimiento y precisión de movimiento en cadera, glúteo, ingle e isquiotibiales",
-      "reps": "Fallo y después 30 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1Sz-RbXhN-Qigaj8el1xp2L23JftkaY7x/view?usp=drive_link"
     },
     {
       "titulo": "Fortalecimiento de tobillo con banda",
@@ -85,8 +65,8 @@
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Esta semana tuvimos un buen avance en referencia a nuestra patada de giro con gancho, vamos avanzando poco a poco con nuestro combo, continúa de manera consistente y con disciplina todos los dpias posibles, que la constancia es la que nos llevará al éxito en todas las áreas de nuestra vida.",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Seguimos trabajando y perfeccionando nuestra patada de giro con gancho, es fascinante ver como vas avanzando cada vez un poco más, eso habla de tu constancia, perseverancia y enfoque, es por eso que es importante que sigamos hasta dominarlo, en este punto lo que debes enfocarte es en no omitir ningun solo movimiento ya que estamos haciendolo de forma mas fluida y por lo consiguiente muchas veces llegamos a subir la rodilla antes de arrastrarla, o se nos olvida arrastras un poquito, o los brazos no los llevamos al pecho como también la vista al frente, etc, es por  eso que debes de estar muy al pendiente de todos estos detalles que son los que marcan la diferencia para lograr nuestro objetivo",
+    "Como recordatorio, los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
