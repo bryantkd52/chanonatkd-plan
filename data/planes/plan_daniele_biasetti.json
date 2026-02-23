@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
+  "updated_at": "Actualizado dom 22 feb",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
-  "enfoque": "Continuar y retomar entrenamientos sólidos ya que estuvimos en vacaciones, toca entrenar con todo de nuevo",
+  "enfoque": "La semana pasada la comenzamos con todo, en esta no será la excepción, continuaremos trabajando con toda la actitud y energía aunque nuestras articulaciones nos digas ¡BASTA!...seguiremos dandole! ",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -20,49 +20,44 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {},
-    {}
+    }
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
-      "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Control, precisión y desarrollo de fuerza",
-      "reps": "10 reps / 2 series",
+      "titulo": "Linea 3 Koryo + sentadilla + camara",
+      "enfoque": "Control, precisión y desarrollo de estabilidad",
+      "reps": "10 reps por lado/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 2 - Yop Chagui",
+      "titulo": "Doble yop hold + landing L3 + L1 koryo",
       "enfoque": "Control, alineación y aterrizaje",
-      "reps": "10 reps / 2 series",
+      "reps": "10 reps por lado/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 3 - Yop Chagui",
-      "enfoque": "Sostener y fortalecimiento de gluteo, cadera e isquiotibiales en base a yop chagui",
-      "reps": "10 reps / 2 series",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Sostener y fortalecimiento de cuádriceps para mejor estabilidad y fuerza",
+      "reps": "10 reps por pierna/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1lBjcj7KrgG8HFLZcFKvzWPQDxVL6zwU7/view?usp=drive_link"
-    },
-    {},
-    {},
-    {}
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+    }
   ],
+
+
   "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
-  "poomsae": [
-    {},
-    {},
-    {}
-  ],
+  "poomsae": [],
+ 
+ 
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana vamos a retomar nuestros entrenamientos y ejercicios específicos para seguir fortaleciento nuestro tren inferior para nuestros objetivos de pateo de la Yop Chagui",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Continuamos entrenando de forma agresiva pero progresiva, siempre con los cuidados que debemos tener para no lesionarnos pero también exigiendonos para que el cuerpo no se sienta cómodo y en ello desarrollar lo que estamos buscando",
+    "Como recordatorio, los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
