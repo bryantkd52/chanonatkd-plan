@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
+  "updated_at": "Actualizado Dom 22 feb",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo del timing de poomsae",
-  "enfoque": "En esta semana aparte de nuestro entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, también comenzaremos a forjar las bases importantes de la velocidad y potencia de nuestros movimientos desde la mayor profundidad para garantizar la mejora de esta poomsae",
+  "ciclo": "23 al 28 de febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + Trabajo del timing de poomsae",
+  "enfoque": "Continuamos trabajando en base a nuestro enfoque de flexibilidad, fuerza isométrica y sobre todo en la mejora de puntos técnicos de poomsae, recuerda verte a ti mismo para optimizar la mejora y tu cerebro mande señales a tu cuerpo de lo que tiene que mejorar",
  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
@@ -37,51 +37,49 @@
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
-      "titulo": "Propuesta + Empuje - Cuádriceps",
-      "enfoque": "Fortalecimiento de cuádriceps",
-      "reps": "30 reps / 2 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
-    },
-    {
-      "titulo": "Propuesta + Ap Chagui reps",
-      "enfoque": "Fortalecimiento de cuádriceps en ap chagui",
+      "titulo": "Ap Chaguis con bloques - Cuádriceps",
+      "enfoque": "Fortalecimiento de cuádriceps  y estabilidad",
       "reps": "20 reps / 2 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 12  - Yop Chagui / Banda (1 a la 5)",
+      "titulo": "Ap Chagui hold 3 + L2 Koryo",
+      "enfoque": "Circuito para Ap Chagui con poomsae",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Tuep3FQZCHwcQuziQAnDoSbwnwCugKYz/view?usp=drive_link"
+    },
+    {
+      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
       "enfoque": "Estabilidad + técnica + fuerza",
       "reps": "10 reps / 3 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1rWkqFQhFatE3TgXkKwOeS4jRQiUeECuO/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 11  - Yop Chagui / Banda (1 a la 5)",
+      "titulo": "Doble yop hold - landing L3 koryo",
       "enfoque": "Repetición + técnica + fuerza",
       "reps": "10 reps / 3 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1RKv0EEWwS8ufeaAKt5BoiqD0PPVVWIxf/view?usp=drive_link"
-    },
-    {},
-    {}
+      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
+    }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Transición doble montong makki - T5",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "30 reps / 2 series",
+      "titulo": "Giro corrrecto - Keumgang",
+      "enfoque": "Control +  Alineacion",
+      "reps": "50 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1nS4odRmRR7Da-q3oGTI1UOYhuqKpzCah/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
     },
     {
-      "titulo": "Talones transición - T5",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "30 reps / 2 series",
+      "titulo": "Giro correcto brazos - Keumgang",
+      "enfoque": "Posición + Explosividad",
+      "reps": "50 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Tg7zQiS4SxKsOMdAdaY17vNdnegdc1WA/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-/view?usp=drive_link"
     },
     {
      "titulo": "Postura y alineacion en aterrizaje dollyo chagui - T6",
@@ -91,45 +89,50 @@
       "url": "https://drive.google.com/file/d/1gZZJC7ztdsIG5fmsO9WuJo3tscwCqFvL/view?usp=drive_link"
     },
     {
-     "titulo": "Aterrizaje ap kubi + golpe medio - T6",
-      "enfoque": "Repetición + técnica + aterrizaje",
-      "reps": "40 reps por lado/ 2 series",
-      "tipo": "Video",
-      "url": "https://drive.google.com/file/d/1FzfcOO8NcL63cVBvahDS2rthF14nDiQT/view?usp=drive_link"
-    },
-    {
-     "titulo": "Kawi Makki - T7",
-      "enfoque": "Repetición + técnica + velocidad",
-      "reps": "20 reps / 3 series",
-      "tipo": "Video",
-      "url": "https://drive.google.com/file/d/1I4Re5fJg2XESqdKWWlZnHZSiwUc11AcE/view?usp=drive_link"
-    },
-    {
-     "titulo": "Transición Twit Kubi a Ap Kubi y golpe medio - T8",
-      "enfoque": "Repetición + técnica + velocidad",
-      "reps": "50 reps / 2 series",
-      "tipo": "Video",
-      "url": "https://drive.google.com/file/d/1eu5s_UIeGcIiWOGUHjUsm7q-dfxMbcwN/view?usp=drive_link"
-    },
-    {
      "titulo": "Linea 3 Koryo - Sentadilla y camara",
       "enfoque": "Fuerza + técnica + control",
       "reps": "20 reps / 2 series",
       "tipo": "Video",
       "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
+    },
+    {
+     "titulo": "Linea 1 - Keumgang",
+      "enfoque": "Fuerza + técnica + control + línea completa",
+      "reps": "20 reps por lado seguido / 2 series",
+      "tipo": "Ejercicio - NO VIDEO",
+      "url": ""
+    },
+    {
+     "titulo": "Linea 2 - Taebaek",
+      "enfoque": "Fuerza + técnica + control + línea completa",
+      "reps": "20 reps con mancuernas/ 4 series",
+      "tipo": "Ejercicio - NO VIDEO",
+      "url": ""
     }
   ],
   "apuntes": [
-"En T6 la ultima línea de regreso el pie de adelante le cuesta girar cómo transicion",
-"El cambio de direccion en T7 hace falta mayor velocidad de movimiento",
-"Las ap chaguis estan bajando casi extendidas, hay que flexionar al maximo las rodillas para camara",
-"Los pasos en ap kubis se van hacia afuera", 
-"De tarea le dejare grabarse  la linea 4 de koryo, en especial en como los pies se van hacia adentro cuando avanzamos hacia al frente, necesitamos que las rodillas no se metan ya que cuando quieren salirse se van de mas y hacemos ap kubis grandes, es por eso que es importante llevarlo de forma directa aunque se sienta ancha la transición"
+"Keumgang, linea uno el regreso los pies se estan yendo hacia afuera",
+"Linea 2 estamos haciendo carrusel a la hora del giro",
+"Apretar las rodillas hacia adentro en haktari seogui",
+"La preparacion del segundo santul makki esta preparando por detras",
+"Los talones de chuchum seogui estan quedando hacia adentro, la preparacion de chichiki debe elevarse y meter la cadera al ejecutarse",
+"En santul makki el brazo de atras lo esta llevando hacia dentro",
+"En la linea 4 hay que trabajar mas en los giros ya que se esta yendoh hacia al frente como cambiando de direccion",
+"La preparacion de santul en linea 5 esta preparando de forma mas evidente hacia atras",
+"Taebaek, la linea uno no esta preparando los dobles golpes",
+"El giro transicion hacia el otro lado hay que hacerlo rapido",
+"En las ap kubis de la linea 2, hay que llevarlas con mayor fuerza porque se estan viendo un poco lentos los pasos",
+"Hay que acostumbrarse a girar la muñeca incluso cuando tenemos mancuerna",
+"Hay que trabajar mas en tronquito en el aire",
+"Hay que trabajar la trancicion de ap a twit kubi ya que le cuesta o no lo hacer",
+"Buscar tener mas control en camara de regreso de ñas yop chaguis",
+"En la transicion esta haciendo carrusel",
+"En la linea 4 el timing de los ultimos 2 golpes  debe de hacerlo en un  timing mas rapido pero marcado",
+"El pie de adelante en la transicion hacia la ultima linea esta extendiendo la pirna delantera y hace que se vea como carrusel y de igual forma en el cambio de direccion de la misma linea"
   ],
   "notasFinales": [
-    "En esta semana vamos a fortalecer nuestro entrenamiento de velocidad y resistencia con mancuernas, esto sin dejar de un lado nuestro avance en flexibilidad, fuerza isométrica y técnica de pateo progresivo, pero a su vez tener la especial atención de darle mucho foco a los pasos ya que es en donde estamos teniendo dificultades en el aspecto de abrir mucho las posiciones en ap kubis, por eso la especial atención ahí",
-    "También tomar en cuenta que debemos de perfeccionar nuestro timing a su vez de cuidar la técnica de transiciones, posiciones, preparaciones y ejeruciones con su precision, no acelerando todo sino haciendo los movimientos correctos y con su respectiva velocidad",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Esta semana vamos a darle continuidad a ciertos puntos importantes de patyeo y fortalecimiento, aunque en tu entrenamiento de poomsae debes de tomar en cuenta que tenemos que mejorar en base a los puntos que hemos visto en clase, ya que si solo entrenamos lo que ya sabemos al final no estaremos haciendo nada",
+    "También tomar en cuenta que debemos de perfeccionar nuestro timing a su vez de cuidar la técnica de transiciones, posiciones, preparaciones y ejecuciones con su precision, no acelerando todo sino haciendo los movimientos correctos y con su respectiva velocidad",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
