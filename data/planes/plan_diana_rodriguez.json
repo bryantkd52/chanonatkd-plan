@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
+  "updated_at": "Actualizado dom 22 feb",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
-  "enfoque_corto": "Trabajo técnico de Taeguk 1 y 2 - trabajar paso a paso",
-  "enfoque": "Aprender paso a paso y enfocar los pasos necesarios para lograr aprendernos estas poomsaes, no trates de hacerlos rapidos por ahora, ve paso a paso y mira detenidamente cada paso y copialo exactamente como está en cada video como así también los demás ejercicios, es momento de comenzar a hacerlos para perfeccionar y fortalecer nuestros musculos y posturas para mejorar nuestras patadas",
+  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
+  "enfoque_corto": "Trabajo técnico de Taeguk 1, 2 y 3 - trabajar paso a paso",
+  "enfoque": "Tenemos las poomsaes aquí, es momento de practicarlas de manera profunda y detallada, ponle pausa a cada movimiento entendiendo cada paso y cada movimiento de preparación, los videos los hice especialmente para que puedas entender cada parte de la poomsae, pero aun así si no entiendes algo ya lo resolveremos en clase",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -15,33 +15,43 @@
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
-     {},
     {
       "titulo": "Ap Chagui - NIVEL 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {}
+    }
   ],
   "pateoDias": "LUNES A SÁBADO",
   "pateoTecnico": [
      {
-      "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Fortalecimiento y preparación de la técnica a un nivel más exigente",
-      "reps": "20 reps por pierna / 2 series",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Fortalecimiento y preparación de la técnica a un nivel más exigente desde propuesta stand",
+      "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
     },
     {
-      "titulo": "Ap Chaguis Dos Bloques",
+      "titulo": "Propuesta + Empuje para Ap Chagui y potencia",
       "enfoque": "Nivel de exigencia con bloques para desarrollar la concentración, coordinación y el equilibrio",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
     },
-    {},
-    {},
+    {
+      "titulo": "L2 T4  mas lento yop chaguis",
+      "enfoque": "La exigencia de este ejercicio nos ayudará a que mejoremos el equilibrio y comencemos a tener mejores patadas a nivel profesional",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iKsyFRARPRVJj0RUlStqXjYOgeLwUgJU/view?usp=drive_link"
+    },
+    {
+      "titulo": "L2 Yop Chaguis de Taeguk 4",
+      "enfoque": "Continuamos con la exigencia a unn ritmo diferente",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1itbAdFy1D_RFN0WTpbKzHaK1oQsD-c29/view?usp=drive_link"
+    },
     {
       "titulo": "Torsión de cadera con banda",
       "enfoque": "Fortalecimiento y precisión de movimiento en cadera, glúteo, ingle e isquiotibiales",
@@ -71,17 +81,18 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1pCaIOEdCuL5pWoWoarOTJgkFTP17q_uh/view?usp=drive_link"
     },
-    {},
-    {}
+    {
+      "titulo": "Taeguk 4 - Paso a paso",
+      "reps": "15 min",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1tzLShWE2ftfxZSAvvzyn7oGTstvXrM13/view?usp=drive_link"
+    }
   ],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Hemos estado entrenando duro en nuestras poomsaes, así que seguiremos forjando las bases desde la raíz para no perdernos en ninguna poomsae dandole toda la atención y seguridad en la practica de cada movimiento",
-    "Es de gran importancia que se practique todos los días para que notemos mejora real de nuestros movimientos, así quue vamos a darle como se debe",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
-    "Este plan se actualiza cada semana, por lo que ya no lo volverás a ver después de cada actualización, así que si quieres conservar algunos de los videos puedes copiar y guardar el link de cada video en alguna carpeta personal que tengas",
+    "Excelente trabajo campeona! vas super bien y estoy muy contento de tu progreso, seguiremos trabajando duro rumbo a esa meta que tenemos ¡NUESTRA CINTA NEGRA! recuerda que este examen no es nada facil pero eso no significa que sea imposible, con lo que estamos trabajando, si lo hace con mucha paciencia y enfoque estoy seguro que lograremos enormes cosas, no solo en el examen sino en muchas mas...sigamos por ese buen camino!",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
