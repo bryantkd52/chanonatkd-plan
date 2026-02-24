@@ -1,86 +1,70 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
-  "nivel": "Nivel avanzado",
-  "ciclo": "Lunes 16 al viernes 15 febrero del 2026",
-  "enfoque_corto": "Timing + Precisión + Preparación competitiva",
-  "enfoque": "Darle prioridad esta semana al timing de nuestras poomsaes ya que ahí es en donde podremos trabajar nuestra presentación, pero siempre recordando lo importante que es el marcar cada movimiento como se debe",
-  "isometricoDias": "No programado para esta semana",
-  "isometrico": [],
-  "pateoDias": "No programado para esta semana",
-  "pateoTecnico": [],
-  "poomsaeDias": "LUNES A VIERNES / 1 serie",
+  "updated_at": "Actualizado dom 22 feb",
+  "nivel": "Nivel Avanzado",
+  "ciclo": "Martes 24 al sábado 28 febrero del 2026",
+  "enfoque_corto": "Timing + fortalecimiento",
+  "enfoque": "Después de nuestro excelente resultado en el estatal, ahora es momento de prepararnos para el regional, trabajaremos en base a puntos específicos como lo hemos venido haciendo y en base a ello ir con toda la energía y preparación posible",
+  "isometricoDias": "MARTES - JUEVES - SÁBADO",
+  "isometrico": [
+    {
+      "titulo": "Yop Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "MIÉRCOLES - VIERNES",
+  "pateoTecnico": [
+      {
+        "titulo": "Ap + Yop + Turn hips silla - Cuádriceps",
+        "enfoque": "Fortalecimiento de cuádriceps",
+        "reps": "30 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
+      },
+      {
+        "titulo": "Balance  Ap + Dollyo + Yop - Cuádriceps",
+        "enfoque": "Fortalecimiento de cuádriceps en diferentes patadas y control",
+        "reps": "10 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
+      }
+  ],
+  "poomsaeDias": "MARTES A SÁBADO / 1 serie",
   "poomsae": [
     {
-      "titulo": "Timing poomsae completa de Taeguk 4",
-      "dia": "LUNES-MIERCOLES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1GP9xzelmZAbrDWCGC8Dk6gdEv0EBX_3c/view?usp=drive_link"
+      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
     },
     {
-      "titulo": "Timing poomsae completa de Taeguk 5",
-      "dia": "LUNES-MIERCOLES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1--AwHnV5lJmIIn731C16_5-ZAohMTIiH/view?usp=drive_link"
+      "titulo": "Doble yop hold + landing L3 + L1 koryo",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
     },
     {
-      "titulo": "Timing poomsae completa de Taeguk 6",
-      "dia": "LUNES-MIERCOLES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1CQ2D_gBn5p8PHkZPp_D1D1CmVPyVK8O7/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Taeguk 7",
-      "dia": "LUNES-MIERCOLES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1x6fTm5Scjblt833cYAiupEHzayFBGhzM/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Taeguk 8",
-      "dia": "MARTES-JUEVES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1pJBYwhdY3gxXQjiw63daDLy1zz8AI0FG/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Koryo",
-      "dia": "MARTES-JUEVES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1x7PbLqLXGT4QWARKK6biWmvD81JKpGDK/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Keumgang",
-      "dia": "MARTES-JUEVES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1ubqU5a0bxt3vji_MpwVE_6leLFcrk2TB/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Taebaek",
-      "dia": "MARTES-JUEVES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1lZnygvKQw7llYhAdhCairXS59tLMeuy9/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsaes completas - Audios de las que entrenamos esta semana",
-      "dia": "VIERNES",
-      "reps": "2 reps por poomsae / fuerza moderada y potencia ligera",
-      "tipo": "Audio",
-      "url": ""
+      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Tomar en cuenta que el entrenamiento del viernes es únicamente la repetición de todos los timings que vimos en la semana, por lo que es importante que no lo hagas con la maxima potencia, solo movimientos marcados como último ajuste de la semana antes de nuestra participación, el viernes es para concentrarse y para enfocarse en lo importante, incluso no habrá esta semana apuntes de poomsae como siempre, porque lo importante está en lo que hemos venido mejorando y desarrollando, así que toca unicamente pulir eso"
+    "VER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana entrenaremos unicamente en base al timing de cada poomsae, recuerda que aunque puedan sonar los audios rapidos, esto no significa que no debamos marcar los movimientos, el objetivo es ir a esa velocidad marcando con potencia, fuerza, precisión, pausas de seguimiento y sobre todo el demostrar la poomsae de manera explosiva con el equilibrio de las preparaciones y ejecuciones",
-    "Los audios asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Estoy muy orgulloso de su resultado, pero más allá de eso, por su esfuerzo que está dando frutos, este resultado no es más que su entrega, dedicación y atención a los detalles que hemos venido trabajando, ahora a seguir trabajando para que tenga las mejores herramientas, mi trabajo con usted es darle las mejores armas tanto técnica y físicas para que lleguemos con todo el power al regional, as´que dejeme hacerle saber que estoy super contento de usted y su trabajo y ahora hay que continuar dandole como se debe campeona",
+    "El trabajo de esta semana es continuidad después de nuestro estatal, sobre todo que debemos seguir fortaleciendo nuestras yop y ap chaguis ya que eso se va a requerir en nuestras siguientes etapas de la olimpiada nacional",
+    "A seguir trabajando duro como se debe y no olvides seguir tomando en cuenta cada punto de entrenamiento y técnica que trabajamos para mejorarlo de forma consciente",
     "Cualquier duda, por favor comentame campeona",
-    "¡Feliz entrenamiento y a darle con todo para nuestro estatal!"
+    "¡Feliz entrenamiento y a seguir dandole con todo que se vienen estupendos eventos!"
   ]
 }
