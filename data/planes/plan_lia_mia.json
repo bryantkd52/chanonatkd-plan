@@ -1,93 +1,69 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
-  "nivel": "Nivel avanzado",
-  "ciclo": "Lunes 16 al viernes 15 febrero del 2026",
-  "enfoque_corto": "Timing + Precisión + Preparación competitiva",
-  "enfoque": "Darle prioridad esta semana al timing de nuestras poomsaes ya que ahí es en donde podremos trabajar nuestra presentación, pero siempre recordando lo importante que es el marcar cada movimiento como se debe sin acelerar de  más, sino controlar, darle velocidad movimiento a movimiento y marcar los movimientos",
-  "isometricoDias": "No programado para esta semana",
-  "isometrico": [],
-  "pateoDias": "No programado para esta semana",
-  "pateoTecnico": [],
-  "poomsaeDias": "LUNES A VIERNES / 1 serie",
+  "updated_at": "Actualizado dom 22 feb",
+  "nivel": "Nivel Avanzado",
+  "ciclo": "Miércoles 25 al sábado 28 febrero del 2026",
+  "enfoque_corto": "Correcciones técnicas de poomsae",
+  "enfoque": "Definir y corregir puntos específicos de las poomsaes que hicimos en nuestro estatal",
+  "isometricoDias": "MIERCOLES Y VIERNES",
+  "isometrico": [
+    {
+      "titulo": "Yop Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "JUEVES Y SÁBADO",
+  "pateoTecnico": [
+      {
+        "titulo": "Ap + Yop + Turn hips silla - Cuádriceps",
+        "enfoque": "Fortalecimiento de cuádriceps",
+        "reps": "30 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
+      },
+      {
+        "titulo": "Balance  Ap + Dollyo + Yop - Cuádriceps",
+        "enfoque": "Fortalecimiento de cuádriceps en diferentes patadas y control",
+        "reps": "10 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
+      }
+  ],
+  "poomsaeDias": "MIÉRCOLES A SÁBADO",
   "poomsae": [
+      {
+        "titulo": "L3 Taebaek - Correcta ejecución por movimiento",
+        "enfoque": "Control + técnica",
+        "reps": "30 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK/view?usp=drive_link"
+      },
     {
-      "titulo": "Timing poomsae completa de Taeguk 4 (Mía)",
-      "dia": "LUNES-MIERCOLES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1GP9xzelmZAbrDWCGC8Dk6gdEv0EBX_3c/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Taeguk 5",
-      "dia": "LUNES-MIERCOLES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1--AwHnV5lJmIIn731C16_5-ZAohMTIiH/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Taeguk 6",
-      "dia": "LUNES-MIERCOLES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1CQ2D_gBn5p8PHkZPp_D1D1CmVPyVK8O7/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Taeguk 7",
-      "dia": "LUNES-MIERCOLES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1x6fTm5Scjblt833cYAiupEHzayFBGhzM/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Taeguk 8",
-      "dia": "MARTES-JUEVES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1pJBYwhdY3gxXQjiw63daDLy1zz8AI0FG/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Koryo",
-      "dia": "MARTES-JUEVES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1x7PbLqLXGT4QWARKK6biWmvD81JKpGDK/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Keumgang",
-      "dia": "MARTES-JUEVES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1ubqU5a0bxt3vji_MpwVE_6leLFcrk2TB/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Taebaek",
-      "dia": "MARTES-JUEVES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1lZnygvKQw7llYhAdhCairXS59tLMeuy9/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsae completa de Pyonwong (Lia)",
-      "dia": "MARTES-JUEVES",
-      "reps": "10 minutos",
-      "tipo": "Audio",
-      "url": "https://drive.google.com/file/d/1dxU_-ztAr7vYc8v6HHZBEhv1PMmhphT7/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing poomsaes completas - Audios de las que entrenamos esta semana",
-      "dia": "VIERNES",
-      "reps": "2 reps por poomsae / fuerza moderada y potencia ligera",
-      "tipo": "Audio",
-      "url": ""
+      "titulo": "Línea 5 de Taeguk 7 - Correcciones específicas",
+      "enfoque": "Correcciones específicas de la línea 5 de Taeguk 7",
+      "reps": "30 reps / 2 series por lado",
+      "tipo": "Video",
+      "url": "https://drive.google.com/file/d/13WNzHHj7NHueKdgebU79zpNh8rNS56DA/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Tomar en cuenta que el entrenamiento del viernes es únicamente la repetición de todos los timings que vimos en la semana, por lo que es importante que no lo hagas con la maxima potencia, solo movimientos marcados como último ajuste de la semana antes de nuestra participación, el viernes es para concentrarse y para enfocarse en lo importante, incluso no habrá esta semana apuntes de poomsae como siempre, porque lo importante está en lo que hemos venido mejorando y desarrollando, así que toca unicamente pulir eso"
+    "Para Mía:",
+    "En el caso de Taeguk 7, hizo los movimientos muy marcados, eso nos dió buena presentación y estuvo excelente porque nuestra presentación nos llevó a calificaciones muy prestigiosas, sin embargo en la línea 5 y 6 tuvimos aspectos técnicos que no nos ayudaron a subir ese extra de puntuación, por ejemplo las ap kubis en la linea 5 se vieron un poco amplias, lo que nos hizo perder al menos 0.4 de puntuación",
+    "La parte de la concentración en la línea 4 fue muy rápido, lo que hace que los jueces lo vean como apresurado, si los jueces lo ven como raro entonces lo ven como error, lo quue hay que hacer es marcar con los 5 segundos y agregar 1 segundo extra para marcar que llegamos...eso es trabajar con estrategia",
+    "Para Lía:",
+    "En el caso de Taebaek, tuvimos una excelente ejecución, y nuestra velocidad de movimiento fue excelente y en parte es por eso que nos ayudó a tener una puntuación excelente de arriba de 8, eso nos da información importante y es que la velocidad de movimiento junto a la marcación de los movimientos nos dieron la presentación en algunos casos de 4.9, eso es un muy buen margen, pero ahora en el regional la exigencia será aun mayor, esto no hay que tomarlo como de preocupación, sino que tenemos lo importante para poder llegar a nuestro regional de la mejor forma y eso es trabajando las precisiones, los jueces adoran la presición porque lo que les dejamos en claro es lo que ellos van a calificar como bueno, así que estaremos trabajando en base a ello también y perfeccionando nuestras patadas",
+    "En rasgos generales para las dos, las poomsaes que realizamos fueron excelente ejecuciones y es por eos que siempre se puede mejorar, sobre todo que la calidad en la que nos vamos a enfrentar en el regional es porque viene como primer lugar de sus entidades, eso nunca nos debe de dar miedo, al contrario, nosotros tenemos ventaja porque lo que vamos a trabajar específicamente es en la parte en donde los jueces les gusta más y obtener mejor calificación, eso es trabajar con estrategia, y de eso me encargo yo"
   ],
   "notasFinales": [
-    "En esta semana entrenaremos unicamente en base al timing de cada poomsae, recuerda que aunque puedan sonar los audios rapidos, esto no significa que no debamos marcar los movimientos, el objetivo es ir a esa velocidad marcando con potencia, fuerza, precisión, pausas de seguimiento y sobre todo el demostrar la poomsae de manera explosiva con el equilibrio de las preparaciones y ejecuciones",
-    "Los audios asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "El trabajo realizado en el estatal fue excelente campeonas, como pudimos ver los jueces siempre son un tema que escuchamos una y otra vez en cada competencia, pero la realidad es que hay muchas cosas de por medio, sea por lo que sea, lo que tenemos que hacer de forma específica es entender las reglas y condiciones con el que juega cada juez en cada área, algunos se van más por presentación y otros más por técnica, otros califican como debería de ser, sin embargo nunca podemos casarnos con un solo estilo, debemos estar listos para lo que venga, y para eso nor preparamos, por  lo que voy a enseñarles muchas cosas más en referencia a eso para que sigan estando listas para todo lo que se viene a continuación, ya que esto no temrina aquí, esto apenas estará comenzando, así que muchas felicidades por el excelente resultado y por el gran y satisfactorio esfuerzo que realizaron, a seguir trabajando y a seguir mejorando, porque lo que viene es aún mejor",
     "Cualquier duda, por favor comentenme campeonas",
-    "¡Feliz entrenamiento y a darle con todo para nuestro estatal!"
+    "¡Feliz entrenamiento y a darle con todo para lo que sigue!"
   ]
 }
