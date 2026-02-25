@@ -1,0 +1,62 @@
+{
+  "updated_at": "Actualizado Mar 24 feb",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Martes 24 al sábado 28 febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
+  "enfoque": "Comienzo + Desarrollo de fuerza",
+ "chanonaflexDias": "MIERCOLES y SÁBADO · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "Circuito Chanonaflex - Básico",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+     {
+      "titulo": "Yop Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "MAR - JUE - SAB",
+  "pateoTecnico": [
+     {
+      "titulo": "Ap Chagui 3 niveles - Cuádriceps",
+      "enfoque": "Control, precisión y desarrollo de estabilidad",
+      "reps": "10 reps por lado/ 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+    },
+    {
+      "titulo": "Propuesta + Empuje",
+      "enfoque": "Control, alineación y aterrizaje",
+      "reps": "10 reps por pierna/ 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
+    }
+  ],
+
+
+  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
+  "poomsae": [],
+ 
+ 
+  "apuntes": [
+    "LEER NOTAS FINALES"
+  ],
+  "notasFinales": [
+    "Bienvenido a este sistema de plan de entrenamiento en donde semana tras semana encontrarás lo que tienes que hacer durante la semana. Al ser un entrenamiento a través de videos es muy importante que siempre me vayas escribiendo lo que vas sintiendo, como así también si algun ejercicios lo dejaste de hacer por malestares o algo parecido, la intensión es que no te lesiones sino que mejores en todos los aspectos, es por eso que es muy importante que seas amable contigo mismo e ir a tu ritmo y poco a poco",
+    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento!"
+  ]
+}
