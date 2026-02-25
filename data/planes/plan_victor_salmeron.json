@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
+  "updated_at": "Actualizado Lun 23 feb",
   "nivel": "Nivel Avanzado Progresivo",
-  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "ciclo": "Martes 24 al sábado 28 febrero del 2026",
   "enfoque_corto": "Flexibilidad + pateo con banda + fuerza isométrica",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+ "chanonaflexDias": "3 veces por semana · 1 serie",
   "chanonaflex": [
     {
       "titulo": "Martes 27 Enero - Flexibilidad y fuerza isométrica",
@@ -12,45 +12,39 @@
       "url": "https://drive.google.com/file/d/1owrSrzBozmD_ylZH8pwnjk47vYtUwbYN/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "MARTES - SÁBADO",
+  "isometricoDias": "JUEVES - SÁBADO",
   "isometrico": [
-     {},
     {
-      "titulo": "Jueves 29 - Fuerza isometrica exigente para Ap Chagui",
+      "titulo": "Circuito Isométrico Activo - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1p83Zel0IGWTQaM2eHOClyo9QzZ1-AL52/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {}
+      "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO"]
+    }
   ],
-  "pateoDias": "MAR - JUE - SAB (SI QUEDA TIEMPO Y ENERGÍA)",
+  "pateoDias": "MIERCOLES - VIERNES",
   "pateoTecnico": [
      {
-      "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Fortalecimiento de cuádriceps",
-      "reps": "10 reps / 2 series",
+      "titulo": "Ejercicio 5 - Yop Chagui",
+      "enfoque": "Técnica + control  + cadera",
+      "reps": "7 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1m7kLYBbo-a9gyy0xKyzY_aoXJVainWBl/view?usp=drive_link"
     },
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Técnica + control  + cadera",
+      "reps": "5 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
+    }
   ],
   "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
-  "poomsae": [
-    {},
-    {},
-    {}
-  ],
+  "poomsae": [],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana continuaremos trabajando y fortaleciendo nuestro trabajo isométrico y flexibilidad, vamos ganando rango y los entrenamientos se empezarán a tornar más intensos pero como siempre por favor, comentame cualquier molestia o incomodidad rara que sientas",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
-    "Cualquier duda, por favor comentame",
+    "Continuamos trabajando con todo el power en esta semana, de manera progresiva y bajando un poco la carga sin perder el ritmo, esto para darle un poco de espacio a los musculos y que tengan tiempo de recuperarse que también es importante y también es necesario como parte del entrenamiento, así que si sientes que alguna zona o grupo muscular sientes que se está sobre cargando comentame por favor",
     "¡Feliz entrenamiento!"
   ]
 }
