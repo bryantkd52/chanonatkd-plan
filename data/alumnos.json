@@ -14,6 +14,14 @@
     "suscripcion_activa": "Renovar suscripción",
     "objetivo_proximo": "Aprender bases de poomsae y pateo"
   },
+  
+    "mesias_rojas": {
+    "nombre": "Mesias Rojas",
+    "plan": "plan_mesias_rojas.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Desarrollo de fuerza y volver al taekwondo"
+  },
 
   "mtra_nadia_uxmal": {
     "nombre": "Mtra Nadia Uxmal",
