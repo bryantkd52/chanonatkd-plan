@@ -14,6 +14,14 @@
     "suscripcion_activa": "Renovar suscripción",
     "objetivo_proximo": "Aprender bases de poomsae y pateo"
   },
+
+  "helena": {
+    "nombre": "Helena",
+    "plan": "plan_helena.json",
+    "plan_activo": "Forjando Bases 1",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Aprender bases de poomsae"
+  },
   
     "mesias_rojas": {
     "nombre": "Mesias Rojas",
