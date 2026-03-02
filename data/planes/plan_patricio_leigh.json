@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 22 feb",
+  "updated_at": "Actualizado dom 1 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo de poomsae Sipjin",
-  "enfoque": "En esta semana de daremos seguimiento al entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, también continuamos forjando las bases importantes de sipjin desde la mayor profundidad para garantizar la mejora de esta poomsae",
+  "ciclo": "Lunes 2 al 7 de marzo del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + trabajo de poomsae Sipjin",
+  "enfoque": "En esta semana seguimos con el entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, a su vez de la continuidad de Sipjin",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -11,6 +11,12 @@
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
+    },
+    {
+      "titulo": "ChanonaFlex • Desde propuesta - Nivel 3",
+      "dia": "LUNES - MIERCOLES - SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
@@ -26,37 +32,57 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB / BANDA ELÁSTICA Y APOYO BARRA",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
-      "titulo": "Circuito Hold con banda L2 Koryo",
-      "enfoque": "Cuádriceps + Equilibrio",
-      "reps": "30 reps por pierna / 2 series",
+      "titulo": "Fortalecimiento de Tobillo con banda",
+      "enfoque": "Tobillo - Firmeza",
+      "reps": "30 reps por pie / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     },
     {
-      "titulo": "Balance  Ap + Dollyo + Yop",
-      "enfoque": "Cuádriceps + Equilibrio",
-      "reps": "20 reps / 2 serie",
+      "titulo": "Torcion cadera con banda",
+      "enfoque": "Precisión + cadera + movimiento",
+      "reps": "50 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
     },
     {
-      "titulo": "Linea 3 Koryo - Sentadilla y camara / apoyo con barra",
+      "titulo": "Ap + Yop + Turn hips silla",
       "enfoque": "Estabilidad + técnica + fuerza",
-      "reps": "10 reps / 3 series",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
     },
     {
-      "titulo": "Doble yop hold - landing L3 koryo - Apoyo de barra",
+      "titulo": "Propuesta + ap chagui reps",
       "enfoque": "Control + técnica + fuerza",
-      "reps": "10 reps / 3 series",
+      "reps": "10 reps / 1 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Koryo L1 hold yop + Pyonwong",
+      "enfoque": "Control + técnica + fuerza",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1EvUXdSs21NOAQR8OkD5ip6MeEApvUDDy/view?usp=drive_link"
+    },
+    {
+      "titulo": "Doble yop hold + landing L3 + L1 koryo",
+      "enfoque": "Control + técnica + fuerza",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUN - MIE - JUE",
@@ -64,37 +90,44 @@
     {
       "titulo": "Codazo y giro transición  - Sipjin",
       "enfoque": "Repetición + técnica + precisión",
-      "reps": "30 reps por lado",
+      "reps": "20 reps por lado",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1l1FslN_EqKiSAWoftVnr3lU3RWYDCTVD/view?usp=drive_link"
     },
     {
       "titulo": "Golpe lateral - Sipjin",
       "enfoque": "Repetición + técnica + precisión",
-      "reps": "30 reps por lado",
+      "reps": "20 reps por lado",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1Gud8KNuejyuRFyckdV_bmVOEBwtOQR18/view?usp=drive_link"
     },
     {
      "titulo": "Segundo Movimiento - Sipjin",
       "enfoque": "Repetición + técnica + precisión + precisión",
-      "reps": "30 reps por lado",
+      "reps": "20 reps por lado",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
     },
     {
      "titulo": "L2 Taeguk 7 - T7 L2",
       "enfoque": "Reps rumbo a Sipjin + precisión",
-      "reps": "30 reps lado izquierdo",
+      "reps": "20 reps lado izquierdo",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/12F-yyH4XJl3A4FRt_3biwxE0th5Mtsq1/view?usp=drive_link"
+    },
+    {
+     "titulo": "L2 Sipjin - L2.2",
+      "enfoque": "Timing + velocidad + precisión",
+      "reps": "20 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1OYvukbpGdk6lz-MP725Wjz2mOEx9wWUN/view?usp=drive_link"
     }
   ],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana continuamos entrenando nuestra parte física a su vez sipjin, esto con la intensión de seguir perfeccionando esta poomsae desde las bases profundas de esta poomsae",
+    "Combinar el entrenamiento físico con el técnico es fundamental, en esta semana continuamos perfeccionando paso a paso nuestro sipjin y agregando ejercicios fuerza isométrica como así también de flexibilidad, con algunos ejercicios nuevos que hacer en esta semana",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
