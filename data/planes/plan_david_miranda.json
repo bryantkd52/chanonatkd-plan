@@ -1,9 +1,9 @@
- {
-  "updated_at": "Actualizado dom 22 feb",
+{
+  "updated_at": "Actualizado dom 1 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
-  "enfoque": "Continuamos trabajando en nuestra secuencia de pateo con la finalidad de mejorar nuestra movilidad, pero en esta ocasión agregamos la patada de giro con gancho, paso a paso sin prisas",
+  "ciclo": "Lunes 2 al sábado 7 marzo del 2026",
+  "enfoque_corto": "Flexibilidad + Fuerza isométrica + Combo de pateo",
+  "enfoque": "Seguimos trabajando fuerte en nuestro plan de pateo, especialmente en nuestro giro con gancho y el combo de esta misma, debemos de mantenernos fuertes y por eso tambien continuaremos trabajando en nuestros ejercicios de fortalecimiento y de flexibilidad, por lo que toma mucha atención a cada uno de los videos que te dejo para que puedas entrenar de la manera correcta",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -20,55 +20,55 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    }
-  ],
-  "pateoDias": "LUN - MIE - VIE",
-  "pateoTecnico": [
-     {
-      "titulo": "Pucho + Ap Chagui",
-      "enfoque": "Control, precisión y desarrollo de coordinación",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1EfSyQwOzZ9HrzP1QX9EA-XBXEAyWDncp/view?usp=drive_link"
     },
     {
-      "titulo": "Circular + Gancho - Paso 1",
-      "enfoque": "Paso a paso a profundidad",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Ap Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "LUNES A SÁBADO",
+  "pateoTecnico": [
+     {
+      "titulo": "Circular + gancho - paso 1",
+      "enfoque": "Entendimiento de la transición y pasos",
+      "reps": "20 reps",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1dxGkeYcgNYQ5QpCRkGlkEoC-tLRAoZL-/view?usp=drive_link"
     },
     {
-      "titulo": "Circular + Gancho - Paso 2",
-      "enfoque": "Paso a paso a profundidad nivel 2",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Circular + gancho - paso 2",
+      "enfoque": "Entendimiento de la transición y practica mas fluida",
+      "reps": "20 reps",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1IeTgB0ZNrlNfBHtCY6kn8DKkPvgCsb0n/view?usp=drive_link"
     },
     {
-      "titulo": "Circular + Gancho - Paso 3",
-      "enfoque": "Paso a paso a profundidad nivel 3",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Circular + gancho - paso 3",
+      "enfoque": "Entendimiento de la transición y pasos",
+      "reps": "20 reps",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/12IT_szZP7D1nemfGt3S8g_F-6udGtrYJ/view?usp=drive_link"
     },
     {
-      "titulo": "Circular + Gancho - Paso 4",
-      "enfoque": "Paso a paso a profundidad nivel 4",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Circular + gancho - paso 4",
+      "enfoque": "Entendimiento de la transición y pasos",
+      "reps": "20 reps",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1vwN_z2xRabP-Kmo0sP5JCYNIgiwWmbPQ/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
-  "poomsae": [
-],
+  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
+  "poomsae": [],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana le daremos mucho enfoque y entrenamiento a nuestra secuencia de pateo que nos lleva a la practica de la patada  de giro con gancho, es importante que siempre mantengas el enfoque al frente y no te desvíes por el descontrol de los brazos afueral siempre debemos de tener los brazos en el cuerpo, dicho esto estamos listos para entrenar",
-    "Cualquier duda, por favor coméntame",
+    "Recuerda que la constancia es la clave para el progreso, así que mantente enfocado y comprometido con tu entrenamiento",
+     "Mantendremos la consistencia de nuestros ejercicio para seguir avanzando, necesitamos avanzar mucho en la ingle por lo que necesitamos ajustar un poco mas de fuerza cuando ejecutemos chanonaflex, sin buscar lesiones pero si, muy importante que puedas ajustar a un punto que te exiga pero sin lesionarte",
+     "¡Feliz entrenamiento!",
+    "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
 }
