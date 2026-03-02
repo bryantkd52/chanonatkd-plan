@@ -1,16 +1,22 @@
 {
-  "updated_at": "Actualizado Dom 22 feb",
+  "updated_at": "Actualizado Dom 1 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "23 al 28 de febrero del 2026",
+  "ciclo": "Lunes 1 al Sábado 7 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + Trabajo del timing de poomsae",
-  "enfoque": "Continuamos trabajando en base a nuestro enfoque de flexibilidad, fuerza isométrica y sobre todo en la mejora de puntos técnicos de poomsae, recuerda verte a ti mismo para optimizar la mejora y tu cerebro mande señales a tu cuerpo de lo que tiene que mejorar",
+  "enfoque": "Tenemos la ventaja del tiempo para construir la versión que queremos ser para l proximo ciclo de competencias, por lo que hay que confiar, ser pacientes y tener el objetivo claro, todo todo lleva rápido, llega en el momento indicado",
  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Avanzado",
+      "titulo": "ChanonaFlex • Avanzado HASTA PULSOS Y HOLD",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
+    },
+    {
+      "titulo": "ChanonaFlex • desde Propuesta - Nivel 3",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
@@ -37,103 +43,64 @@
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
-      "titulo": "Ap Chaguis con bloques - Cuádriceps",
+      "titulo": "Circuito Hold con banda L2 Koryo",
       "enfoque": "Fortalecimiento de cuádriceps  y estabilidad",
-      "reps": "20 reps / 2 serie",
+      "reps": "20 reps por pierna/ 2 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
     },
     {
-      "titulo": "Ap Chagui hold 3 + L2 Koryo",
-      "enfoque": "Circuito para Ap Chagui con poomsae",
+      "titulo": "Ap + Yop + Turn hips silla",
+      "enfoque": "Circuito para Ap Chagui y fortalecimiento",
+      "reps": "20 reps por pierna/ 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
+    },
+    {
+      "titulo": "Linea 3 Koryo - Sentadilla y camara",
+      "enfoque": "Estabilidad + técnica + enfoque",
+      "reps": "20 reps por pierna/ 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
+    },
+    {
+      "titulo": "Koryo L1 hold yop + Pyonwong ",
+      "enfoque": "Estabilidad + técnica + fuerza",
       "reps": "20 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Tuep3FQZCHwcQuziQAnDoSbwnwCugKYz/view?usp=drive_link"
-    },
-    {
-      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
-      "enfoque": "Estabilidad + técnica + fuerza",
-      "reps": "10 reps / 3 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
-    },
-    {
-      "titulo": "Doble yop hold - landing L3 koryo",
-      "enfoque": "Repetición + técnica + fuerza",
-      "reps": "10 reps / 3 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1EvUXdSs21NOAQR8OkD5ip6MeEApvUDDy/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Giro corrrecto - Keumgang",
+      "titulo": "Ejercicio 12 - Yop Chagui",
       "enfoque": "Control +  Alineacion",
-      "reps": "50 reps por lado / 2 series",
+      "reps": "20 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1rWkqFQhFatE3TgXkKwOeS4jRQiUeECuO/view?usp=drive_link"
     },
     {
-      "titulo": "Giro correcto brazos - Keumgang",
-      "enfoque": "Posición + Explosividad",
-      "reps": "50 reps por lado / 2 series",
+      "titulo": "Ejercicio 14 - Yop Chagui",
+      "enfoque": "Control +  Alineacion",
+      "reps": "20 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1qx3PlIWmwbD45PR89PDdCo06fPBwK8Vr/view?usp=drive_link"
     },
     {
-     "titulo": "Postura y alineacion en aterrizaje dollyo chagui - T6",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "20 reps / 2 series",
+      "titulo": "L3 Taebaek - Correcta ejecución por movimiento",
+      "enfoque": "Técnica + corrección",
+      "reps": "20 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1gZZJC7ztdsIG5fmsO9WuJo3tscwCqFvL/view?usp=drive_link"
-    },
-    {
-     "titulo": "Linea 3 Koryo - Sentadilla y camara",
-      "enfoque": "Fuerza + técnica + control",
-      "reps": "20 reps / 2 series",
-      "tipo": "Video",
-      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
-    },
-    {
-     "titulo": "Linea 1 - Keumgang",
-      "enfoque": "Fuerza + técnica + control + línea completa",
-      "reps": "20 reps por lado seguido / 2 series",
-      "tipo": "Ejercicio - NO VIDEO",
-      "url": ""
-    },
-    {
-     "titulo": "Linea 2 - Taebaek",
-      "enfoque": "Fuerza + técnica + control + línea completa",
-      "reps": "20 reps con mancuernas/ 4 series",
-      "tipo": "Ejercicio - NO VIDEO",
-      "url": ""
+      "url": "https://drive.google.com/file/d/1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK/view?usp=drive_link"
     }
   ],
   "apuntes": [
-"Keumgang, linea uno el regreso los pies se estan yendo hacia afuera",
-"Linea 2 estamos haciendo carrusel a la hora del giro",
-"Apretar las rodillas hacia adentro en haktari seogui",
-"La preparacion del segundo santul makki esta preparando por detras",
-"Los talones de chuchum seogui estan quedando hacia adentro, la preparacion de chichiki debe elevarse y meter la cadera al ejecutarse",
-"En santul makki el brazo de atras lo esta llevando hacia dentro",
-"En la linea 4 hay que trabajar mas en los giros ya que se esta yendoh hacia al frente como cambiando de direccion",
-"La preparacion de santul en linea 5 esta preparando de forma mas evidente hacia atras",
-"Taebaek, la linea uno no esta preparando los dobles golpes",
-"El giro transicion hacia el otro lado hay que hacerlo rapido",
-"En las ap kubis de la linea 2, hay que llevarlas con mayor fuerza porque se estan viendo un poco lentos los pasos",
-"Hay que acostumbrarse a girar la muñeca incluso cuando tenemos mancuerna",
-"Hay que trabajar mas en tronquito en el aire",
-"Hay que trabajar la trancicion de ap a twit kubi ya que le cuesta o no lo hacer",
-"Buscar tener mas control en camara de regreso de ñas yop chaguis",
-"En la transicion esta haciendo carrusel",
-"En la linea 4 el timing de los ultimos 2 golpes  debe de hacerlo en un  timing mas rapido pero marcado",
-"El pie de adelante en la transicion hacia la ultima linea esta extendiendo la pirna delantera y hace que se vea como carrusel y de igual forma en el cambio de direccion de la misma linea"
+"VER LAS NOTAS FINALES"
   ],
   "notasFinales": [
-    "Esta semana vamos a darle continuidad a ciertos puntos importantes de patyeo y fortalecimiento, aunque en tu entrenamiento de poomsae debes de tomar en cuenta que tenemos que mejorar en base a los puntos que hemos visto en clase, ya que si solo entrenamos lo que ya sabemos al final no estaremos haciendo nada",
-    "También tomar en cuenta que debemos de perfeccionar nuestro timing a su vez de cuidar la técnica de transiciones, posiciones, preparaciones y ejecuciones con su precision, no acelerando todo sino haciendo los movimientos correctos y con su respectiva velocidad",
+    "Esta semana vamos a darle enfoque y entrenamiento a ciertos puntos específicos, en este ciclo  vamos a darle mucho trabajo al desarrollo de habilidades y hábitos que llevan tiempo hacer y practicar, por lo que es muy importante que se mantenga la firmeza y entrenamiento consistente de estos ejercicios",
     "Cualquier duda, por favor comentame",
-    "¡Feliz entrenamiento!"
+    "¡Feliz entrenamiento campeón!"
   ]
 }
