@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado dom 22 feb",
+  "updated_at": "Actualizado dom 1 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
-  "enfoque_corto": "Conclusión de taeguk 7 + inicio Taeguk 8",
-  "enfoque": "En esta semana concluimos nuestra poomsae completa de taeguk 7 y comenzamos nuestro Taeguk 8 con enfoque en las posiciones de pies",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 2 al 7 de marzo del 2026",
+  "enfoque_corto": "Taeguk 8 Línea 2 - Piernas y brazos",
+  "enfoque": "Esta semana le dimos mucha importancia a la linea número 2 de taeguk 8, vamos a trabajar en base a esos apuntes y las sugerencias de ejercicios para los alumnos, cualquier duda por favor comentenme maestros",
+ "chanonaflexDias": "LUNES A SÁBADO",
   "chanonaflex": [
     {
       "titulo": "ChanonaFlex • Nivel 1",
@@ -13,17 +13,9 @@
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
-  "isometrico": [
-     {},
-    {
-      "titulo": "Ap Chagui - NIVEL 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    }
-  ],
-  "pateoDias": "LUNES A SÁBADO",
+  "isometricoDias": "NO ASIGNADO ESTA SEMANA",
+  "isometrico": [],
+  "pateoDias": "3 días a la semana",
   "pateoTecnico": [
      {
       "titulo": "Ap Chagui 3 niveles",
@@ -57,39 +49,25 @@
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Transicion a Ap Kubi + Golpe medio - T8",
-      "reps": "20 reps / 3 series",
+      "titulo": "Transicion hacia ap kubi L2 T8 - Taeguk 8",
+      "enfoque": "Enfoque en la correcta transición",
+      "reps": "30 reps",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1eu5s_UIeGcIiWOGUHjUsm7q-dfxMbcwN/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1jLw2HUDloOvSquTlVsgMwYOwJniQsLvW/view?usp=drive_link"
     },
     {
-      "titulo": "Línea 5 - Taeguk 7 - rodilla, inclinación y aterrizaje",
-      "reps": "15 min por lado",
+      "titulo": "Transición Taeguk 8 - L1 a L2 T8",
+      "enfoque": "Enfoque en la correcta transición",
+      "reps": "30 reps",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/13T-QruLrWivCxecAgtFUgCdjlVbhhOyb/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ap chagui mano - taeguk 7",
-      "reps": "15 min por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1xuJ7A-iRPcnT_xPOU1YeTHHNR_iDYp9l/view?usp=sharing"
-    },
-    {
-      "titulo": "Codazo mano - taeguk 7",
-      "reps": "15 min por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1v5Be8DBZ_nbdPyRaeywtNGO0_9098m3M/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1PC4Rgs-4I6Bml1FTC-kl_bljImEfCow8/view?usp=drive_link"
     }
   ],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Esta semana es importante porque comenzamos con las bases para taeguk 8 y finalizamos taeguk 7, y a continuación les comparto los links de las clases vistas la semana pasada",
-       
-    "https://drive.google.com/file/d/1DdmkRBwr0mWbcUBEkQpwzVcdB05KOhzq/view?usp=drive_link",
-    "https://drive.google.com/file/d/12odnZkGU7YVPIenMoqU--D6VGWwO2StQ/view?usp=drive_link",
-
+    "En esta semana le dimos mucho importancia a la línea 2 de taeguk 8, en estos casos es de vital importancia las trnaiciones y la correcta forma de ejecutar nuestros movimientos de cadera, bola dell pie y fijación de hombros, tomen muy en cuenta lo que vimos en clase (ya esta en las clases grabadas en la carpeta) y en base a eso, mejorar nuestros movimientos",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
