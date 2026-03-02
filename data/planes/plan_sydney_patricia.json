@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 22 feb",
+  "updated_at": "Actualizado dom 1 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
+  "ciclo": "Lunes 2 al 7 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo técnico de poomsae",
-  "enfoque": "Esta semana continuaremos con nuestro entrenamiento de koryo, tenemos  puntos importantes que trabajar por lo que es importante darle mucho enfoque a los pies ya que es desde ahí en donde se genera la buena postura, alineacion y limpieza de movimiento.",
+  "enfoque": "Esta semana continuaremos con nuestro entrenamiento de koryo en especifico de las lineas 1 y 2, buscando el timing, presición y entendimiento de los movimientos y preparaciones para mejor ejecución de nuestra poomsae",
  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
@@ -88,14 +88,27 @@
       "reps": "50 reps por lado/ 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1TQjuHQflDQu65fh_zJE1QSTxD2qVaoEX/view?usp=drive_link"
+    },
+    {
+     "titulo": "Circuito Hold con banda L2 Koryo",
+      "enfoque": "Fortalecimiento + técnica + postura",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+    },
+    {
+     "titulo": "Linea 2 Koryo - 2.1 ap chagui + golpes",
+      "enfoque": "Técnica + postura + timing",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv/view?usp=drive_link"
     }
   ],
   "apuntes": [
-"El trabajo que debemos mantener en esta semana sigue siendo en koryo, debemos de mantenernos fijos en mejorar desde las bases para entender lo que tenemos que ejecutar en nuestra proxima competencia",
-"Los jueces actualmente estan trabajando con la presentación y con la técnica marcada, asi que es importante que cada movimiento, empezando desde las preparaciones se hagan con mucha calidad, por lo que toma muy en cuenta todo lo que tenemos que mejorar para marcar como se debe"
+"LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Excelente semana la que se viene, seguiremos trabajando con todo y con mucha actitud, mantengase firme y con mucha garra que se vienen excelentes avances",
+    "Continuamos entrenando y perfeccionando Koryo pero no significa que todo será unicamente esta poomsae, sino que tenemos que perfeccionar lo más posible para mejorar las demás también, por lo que es dble el esfuerzo el que se debe de realizar, no solo la repeticion para mejorar koryo, sino mejorar koryo con el transfondo de todas las demás poomsaes",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
