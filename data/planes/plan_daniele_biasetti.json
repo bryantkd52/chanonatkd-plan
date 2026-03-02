@@ -1,14 +1,20 @@
 {
-  "updated_at": "Actualizado dom 22 feb",
+  "updated_at": "Actualizado dom 1 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
+  "ciclo": "Lunes 2 al 7 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
-  "enfoque": "La semana pasada la comenzamos con todo, en esta no será la excepción, continuaremos trabajando con toda la actitud y energía aunque nuestras articulaciones nos digas ¡BASTA!...seguiremos dandole! ",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "enfoque": "La semana que pasó tuvimos el inconveniente de nuestra cadera, y esperando en esta semana sentirnos mejor, vamos a continuar nuetsro entrenamiento de manera progresiva para no perder el avance que tenemos y a su vez no lesionarnos, por lo que será de gran importancia que podamos trabajar en esta semana con las bases intermedias para que no nos sobre exijamos, por lo que te dejo el plan de entrenamiento de esta semana con algunos ajustes en las cargas para que retomemos con todo",
+ "chanonaflexDias": "MARTES - MIÉRCOLES - VIERNES · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Nivel intermedio",
+      "titulo": "Pre-Chanonaflex - Todos Niveles",
       "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+    },
+    {
+      "titulo": "ChanonaFlex • Nivel intermedio",
+      "dia": "MARTES - MIÉRCOLES - VIERNES",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
     }
@@ -20,9 +26,15 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "MIERCOLES - VIERNES",
   "pateoTecnico": [
      {
       "titulo": "Linea 3 Koryo + sentadilla + camara",
@@ -56,9 +68,8 @@
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Continuamos entrenando de forma agresiva pero progresiva, siempre con los cuidados que debemos tener para no lesionarnos pero también exigiendonos para que el cuerpo no se sienta cómodo y en ello desarrollar lo que estamos buscando",
-    "Como recordatorio, los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
-    "Cualquier duda, por favor comentame",
+    "Bajaremos la carga de esta semana únicamente para no sobrecargar la  cadera que nos está dando molestias, independientemente de lo que sintamos después del masaje, es de gran prioridad bajar la carga para después continuar con todo el power de nuestros entrenamientos",
+    "Cualquier duda, por favor consultame",
     "¡Feliz entrenamiento!"
   ]
 }
