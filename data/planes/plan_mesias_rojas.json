@@ -1,7 +1,7 @@
 {
-  "updated_at": "Actualizado Mar 24 feb",
+  "updated_at": "Actualizado Dom 1 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Martes 24 al sábado 28 febrero del 2026",
+  "ciclo": "Lunes 2 al sábado 7 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
   "enfoque": "Comienzo + Desarrollo de fuerza",
  "chanonaflexDias": "MIERCOLES y SÁBADO · 1 serie",
@@ -15,16 +15,16 @@
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
      {
-      "titulo": "Yop Chagui - NIVEL 1",
+      "titulo": "Yop Chagui - NIVEL 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO"]
     },
     {
-      "titulo": "Ap Chagui - NIVEL 1",
+      "titulo": "Ap Chagui - NIVEL 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO"]
     }
   ],
   "pateoDias": "MAR - JUE - SAB",
@@ -37,15 +37,27 @@
       "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
     },
     {
-      "titulo": "Propuesta + Empuje",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
       "enfoque": "Control, alineación y aterrizaje",
       "reps": "10 reps por pierna/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 7 - Yop Chagui",
+      "enfoque": "Control, alineación y aterrizaje",
+      "reps": "7 reps por pierna/ 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/198q-dEzz9xLIOrraEZvtUr9vFKGJz6M2/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 11 - Yop Chagui",
+      "enfoque": "Control, alineación y aterrizaje",
+      "reps": "7 reps por pierna/ 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1RKv0EEWwS8ufeaAKt5BoiqD0PPVVWIxf/view?usp=drive_link"
     }
   ],
-
-
   "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
   "poomsae": [],
  
@@ -54,9 +66,8 @@
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Bienvenido a este sistema de plan de entrenamiento en donde semana tras semana encontrarás lo que tienes que hacer durante la semana. Al ser un entrenamiento a través de videos es muy importante que siempre me vayas escribiendo lo que vas sintiendo, como así también si algun ejercicios lo dejaste de hacer por malestares o algo parecido, la intensión es que no te lesiones sino que mejores en todos los aspectos, es por eso que es muy importante que seas amable contigo mismo e ir a tu ritmo y poco a poco",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
-    "Cualquier duda, por favor comentame",
+    "En esta semana vamos a darle un poco mas de exigencia a los ejercicios ya que en el video que me enviaste, te vez muy bien, y efectivamente tenemos que mejorar la parte del pateo, ya que por eso es que ahora los ejercicios serán más exigentes, pero siempre con la prudencia de no sobre exigirnos, avanzaremos muy bien, así que solamente sigue el plan tal como te lo dejo",
+    "Cualquier duda, por favor coméntame",
     "¡Feliz entrenamiento!"
   ]
 }
