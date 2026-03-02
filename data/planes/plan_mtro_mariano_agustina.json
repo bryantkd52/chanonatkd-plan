@@ -1,7 +1,7 @@
 {
-  "updated_at": "Actualizado dom 15 feb",
+  "updated_at": "Actualizado dom 1 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 febrero del 2026",
+  "ciclo": "Lunes 2 al sábado 7 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
   "enfoque": "Trabajaremos esta semana en base a nuestro entrenamiento de fortalecimiento y técnicas de pateo para mayor precisión",
  "chanonaflexDias": "LUN A SAB · 1 serie",
@@ -19,62 +19,53 @@
       "titulo": "Yop Chagui - NIVEL 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "tags": ["FUERZA, FORTALECIMIENTO"]
     },
     {
       "titulo": "Ap Chagui - NIVEL 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "tags": ["FUERZA, FORTALECIMIENTO"]
     },
-    {}
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio.mp4",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO"]
+    }
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
-      "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Control, precisión y desarrollo de fuerza",
-      "reps": "10 reps / 2 series",
+      "titulo": "Circular + Gancho - Paso 5",
+      "enfoque": "Paso a paso + Circuito de movimiento",
+      "reps": "10 reps / 1 serie por lado",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1chH_9pxZxSpXSw3pNgzZV5Aa_ip9Frxz/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Control, alineación y aterrizaje",
-      "reps": "10 reps / 2 series",
+      "titulo": "Fortalecimiento de Tobillo con banda",
+      "enfoque": "Fortalecer tobillos",
+      "reps": "10 reps / 1 serie por lado",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     },
     {
-      "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Mantener equilibrio + desarrollo de estabilidad + precisión",
-      "reps": "10 reps / 2 series",
+      "titulo": "360 kick lento",
+      "enfoque": "Fortalecer paso a paso 360 kick",
+      "reps": "10 reps / 2 series lado bueno",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
-    },
-    {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Mantener equilibrio + desarrollo de estabilidad + precisión",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
-    },
-    {},
-    {}
+      "url": "https://drive.google.com/file/d/1Jt5JEi2zPfJJ9FCbEdfnAQKvnoUNKFui/view?usp=drive_link"
+    }
   ],
   "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
-  "poomsae": [
-    {},
-    {},
-    {}
-  ],
+  "poomsae": [],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana vamos a entrenar fortaleciendo nuestros isquiotibiales, cuádriceps y estabilidad de nuestro pateo",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
-    "Cualquier duda, por favor comentame",
+    "En esta semana continuamos trabajando en diferentes ejercicios de seguimiento para nuestra mejora de pateo, 360 kick y patada de gancho, por lo que es muy importante darle el seguimiento al plan de entrenamiento",
+    "Cualquier duda, por favor comentenme",
     "¡Feliz entrenamiento!"
   ]
 }
