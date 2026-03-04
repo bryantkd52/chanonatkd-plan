@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado lun 23 feb",
+  "updated_at": "Actualizado lun 2 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Martes 24 al sábado 28 febrero del 2026",
+  "ciclo": "Martes 3 al sábado 7 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo del timing de poomsae",
-  "enfoque": "En esta semana trabajamos en la conclusión de dos poomsaes importantes de taeguks, pero sobre todo en los puntos específicos de correcciones que nos ayudarám}n a nuestra mejora en nuestras calificaciones en poomsae, por lo que es importante que se mantenga siempre en sintonía con los  apuntes que le dejo en la lista de apuntes de poomsae, como también en esta semana continuaremos con los ejercicios que hicimos la semana pasada  para seguir fortaleciendo puntos que a+un nos falta por mejorar, así que es posible que se sienta familiarizada con los ejercicios sin embargo siguen llevandonos al objetivo que tenemos",
+  "enfoque": "Taeguk 6 línea 1 al 3 y taeguk 7 lineas 1 y 2",
  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
@@ -54,34 +54,41 @@
   "poomsaeDias": "MARTES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Timing L6 - Taeguk 4 (AUDIO)",
-      "enfoque": "Ritmo + Técnica + Armonía",
-      "reps": "Repetir con la poomsae / 20 reps * 2 series",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1ZLGHMdA-spiE3aRyeX9vr_G0lRJhsuMj/view?usp=drive_link"
+      "titulo": "L2 y L3 Taeguk 6 - Tecnica y marcación (NO TIMING)",
+      "enfoque": "Técnica, el ritmo el que vimos en clase",
+      "reps": "10 reps * 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1qM7-pg_CPQ480Oqb3fKD-nb4noUaKEEy/view?usp=drive_link"
     },
     {
-      "titulo": "Timing L6 - Taeguk 5 (AUDIO)",
-      "enfoque": "Ritmo + Técnica + Armonía",
-      "reps": "Repetir con la poomsae / 20 reps * 2 series",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1LoA58naoFarzM0AwPfsPoIaL8BzziaLY/view?usp=drive_link"
+      "titulo": "L1 Taeguk 7 - Tecnica y marcación (NO TIMING)",
+      "enfoque": "Técnica, el ritmo el que vimos en clase",
+      "reps": "20 reps * 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1T-Z7RUtNLaBebIKtihzZbgumhMoUlNCG/view?usp=drive_link"
+    },
+    {
+      "titulo": "L2 Taeguk 7 - Tecnica y marcación (NO TIMING)",
+      "enfoque": "Técnica, el ritmo el que vimos en clase",
+      "reps": "20 reps * 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1GRS7al4XuNufi7Xj_ZgsLqWQFyisjxDP/view?usp=drive_link"
     }
   ],
   "apuntes": [
-"En taeguk 4, estamos concluyendo con las ltimas dos lineas en las cuales muestra movimientos que no estan marcando desde la preparacion, deben de ser muy macados desde que preparamos, eso será clave en nuestra puntuacion de presentacion",
-"Buscar siempre el corte a maxima velocidad de los movimientos, cada uno de los movimientos",
-"Siempre debe de hacer corte y luego maxima velocidad, nunca confundir con movimientos acelerados o movimientos lentos, debe de ser corte y continuar con maxima velocidad",
-"Las manos del costado estan muy aguaditas, necesitamos poner fuerza en todo momento buscando siempre la la firmeza del cuerpo, ya que eso representa como tal la estrcutura del cuerpo",
-"Las preparaciones de montong makki, no esta girando lo suficiente para la ejecucion",
-"El brazo que va en paralel en taeguk 5 con la yop chagui se está flexionando por completo al ejecutar la camara (o flexion de vualta) de la pierna de yop chagui, debe ser ligeramente flexionado",
-"En esa misma linea esta abriendo los brazos para controlar el desequilibrio, pero eso nos hará perder mas equilibrio",
-"El regreso de las yop chaguis las está haciendo como si hiciera gancho",
-"Hay que marcar en gran escala los instantes que deben de tener los movimientos incluyendo las camaras de ap y yop chaguis",
-"El puño del costado debe siempre de mantenersr firme en el costado, no separarse ni torserse, debe de mantenerse firme"
+"En taeguk 6, el regreso de ap chagui nos esta faltando control y eso hace que caigamos mas rapido y por lo consiguiente nuestra preparacion de bakkat makki no se logra notar y por consiguiente ambien nos quitarian puntos por no marcar bien este movimiento",
+"Marcar los movimientos con sus respectivos cortes y preparaciones, no acelerar nada, sino marcar en su totalidad",
+"No hacer brinquitos en los giros de transicion, en especial en la linea 3 de taeguk 6",
+"Debo hacer los cortes antes de ir al siguiente movimiento, como una pequeña pausa",
+"En taeguk 7, hace muchos pasitos pequeños o saltitos especialmente en las bom seoguis",
+"En el caso de los brazos tiene fuerza pero no la usa correctamente, debe de usar la  torsion de las muñecas para marcar 100% los movimientos",
+"Las montong makkis se estan preparando de forma muy corta, deben de ser mas alargadas y en linea con el hombro",
+"Tambien las montong makkis con manos abierta estan teniendo el mismo problema pero mas notorio, estan mas cortitas",
+"En a linea 2 y 3 las preparaciones las esta haciendo muy cortas y suaves, deben ser con poco mas de elongacion y torsion en el caso de el torso cuando las ejecuto",
+"Ganar control en los aterrizajes de ap kubis"
   ],
   "notasFinales": [
-    "En esta semana vamos a trabajar en nuestra parte técnica y timing de las poomsaes, tenemos puntos específicos que mejorar y debemos de cambiarlas en hábitos buenos y correctos para mejorar nuestra poomsae y estar listos antes de nuestra siguiente competencia, es por eso que es importante que cuando entrenes tomes en cuenta los apuntes que te dejé en la sección de apuntes de poomsae",
+    "En esta semana vamos a trabajar en nuestra parte técnica y timing de taeguk 6 y 7, tenemos puntos específicos que mejorar y debemos de cambiarlas en hábitos buenos y correctos para mejorar nuestra poomsae y estar listos antes de nuestra siguiente competencia, es por eso que es importante que cuando entrenes tomes en cuenta los apuntes que te dejé en la sección de apuntes de poomsae",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
