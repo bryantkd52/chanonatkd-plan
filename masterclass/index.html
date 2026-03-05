@@ -12,7 +12,6 @@
     <!-- SIDEBAR -->
     <aside class="sidebar" id="sidebar">
       <div class="brand">
-        <!-- Si ya tienes logo local en tu repo, usa esta ruta -->
         <img class="logoImg" src="../assets/logo-chanonatkd.png" alt="ChanonaTKD Logo" />
         <div class="brandText">
           <h1>ChanonaTKD • Master Class</h1>
@@ -20,7 +19,7 @@
             <p id="brandSub">Acceso gratuito • Clase completa</p>
             <div class="brandMeta" id="brandMeta">
               <div><b>Objetivo:</b> Patada al cielo - Master Class</div>
-              <div><b>Formato:</b> video </div>
+              <div><b>Formato:</b> video</div>
               <div><b>Coach:</b> Bryan Herrera Chanona</div>
             </div>
           </div>
@@ -111,18 +110,23 @@
           <div class="sectionHead">
             <h3>2️⃣ Video Master Class</h3>
             <div class="badgeRow">
-              <span class="badge red">HTML5</span>
+              <span class="badge red">Drive Player</span>
               <span class="badge">Responsive</span>
               <span class="badge ok">Controles</span>
             </div>
           </div>
           <div class="sectionBody">
             <div class="videoWrap">
-              <!-- Video Masterclass -->
-              <video class="videoPlayer" controls playsinline preload="metadata">
-               <source src="https://drive.google.com/uc?export=download&id=1Oi5t1fzrGrODfacZhvZ-9ZFx3ZgOymcZ" type="video/mp4">
-               Tu navegador no soporta video HTML5.
-               </video>
+              <!-- ✅ Reproductor embebido de Google Drive (NO usa <video>) -->
+              <div class="videoFrame">
+                <iframe
+                  src="https://drive.google.com/file/d/1Oi5t1fzrGrODfacZhvZ-9ZFx3ZgOymcZ/preview"
+                  allow="autoplay; encrypted-media"
+                  allowfullscreen
+                  loading="lazy"
+                  title="Master Class ChanonaTKD"
+                ></iframe>
+              </div>
             </div>
 
             <!-- 3) CTA debajo del video -->
@@ -369,7 +373,6 @@
   </div>
 
   <script>
-    // Activa el botón actual del menú según scroll (simple y ligero)
     const links = Array.from(document.querySelectorAll('.menu .btn'));
     const sections = links.map(a => document.querySelector(a.getAttribute('href'))).filter(Boolean);
 
