@@ -347,14 +347,22 @@ body::before{
   background: rgba(0,0,0,.18);
   padding:10px;
 }
-.videoPlayer{
+
+/* ✅ NUEVO: contenedor responsive para iframe (YouTube) */
+.videoFrame{
   width:100%;
-  height:auto;
-  max-height: 70vh;
+  aspect-ratio:16/9;
   border-radius:14px;
-  display:block;
-  background: #000;
+  overflow:hidden;
+  background:#000;
 }
+.videoFrame iframe{
+  width:100%;
+  height:100%;
+  border:0;
+  display:block;
+}
+
 .ctaBlock{
   margin-top:12px;
 }
@@ -377,7 +385,7 @@ body::before{
 }
 .imgFrame img{
   width:100%;
-  aspect-ratio: 3 / 2;     /* ✅ antes 1/1, ahora correcto para 1536x1024 */
+  aspect-ratio: 3 / 2; /* 1536x1024 */
   object-fit: cover;
   display:block;
 }
@@ -386,7 +394,6 @@ body::before{
 @media (min-width: 1200px){
   .imgFrame img{ max-height: 520px; }
 }
-
 @media (max-width: 520px){
   .imgFrame img{ max-height: 340px; }
 }
@@ -463,7 +470,7 @@ body::before{
 }
 .cardImg img{
   width:100%;
-  aspect-ratio: 3 / 2;     /* ✅ antes 1/1, ahora correcto para 1536x1024 */
+  aspect-ratio: 3 / 2; /* 1536x1024 */
   object-fit: cover;
   display:block;
 }
@@ -505,19 +512,4 @@ body::before{
   border-radius:18px;
   background: rgba(0,0,0,.18);
   padding:12px;
-}
-/* ===== Video (Drive iframe) ===== */
-.videoFrame{
-  width:100%;
-  aspect-ratio: 16 / 9;
-  border-radius:14px;
-  overflow:hidden;
-  background:#000;
-}
-
-.videoFrame iframe{
-  width:100%;
-  height:100%;
-  border:0;
-  display:block;
 }
