@@ -377,10 +377,20 @@ body::before{
 }
 .imgFrame img{
   width:100%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 3 / 2;     /* ✅ antes 1/1, ahora correcto para 1536x1024 */
   object-fit: cover;
   display:block;
 }
+
+/* Limitar altura para que no se haga enorme en pantallas grandes */
+@media (min-width: 1200px){
+  .imgFrame img{ max-height: 520px; }
+}
+
+@media (max-width: 520px){
+  .imgFrame img{ max-height: 340px; }
+}
+
 .courseTitle{
   margin:0;
   font-size:16px;
@@ -453,10 +463,16 @@ body::before{
 }
 .cardImg img{
   width:100%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 3 / 2;     /* ✅ antes 1/1, ahora correcto para 1536x1024 */
   object-fit: cover;
   display:block;
 }
+
+/* En móvil, que no se coma mucha pantalla */
+@media (max-width: 520px){
+  .cardImg img{ max-height: 260px; }
+}
+
 .cardBody{
   padding:12px;
   display:flex;
