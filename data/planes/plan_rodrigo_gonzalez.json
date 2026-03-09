@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado Dom 1 de marzo",
+  "updated_at": "Actualizado Dom 8 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 1 al Sábado 7 de marzo del 2026",
+  "ciclo": "Lunes 9 al Sábado 14 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + Trabajo del timing de poomsae",
-  "enfoque": "Tenemos la ventaja del tiempo para construir la versión que queremos ser para l proximo ciclo de competencias, por lo que hay que confiar, ser pacientes y tener el objetivo claro, todo todo lleva rápido, llega en el momento indicado",
+  "enfoque": "Precisión, timing y potencia en Taeguk 5, 6 y 7 en la línea 1",
  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
@@ -40,7 +40,7 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "MAR - JUE - SAB (continuamos fortaleciendo con estos ejercicios)",
   "pateoTecnico": [
      {
       "titulo": "Circuito Hold con banda L2 Koryo",
@@ -69,6 +69,13 @@
       "reps": "20 reps / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1EvUXdSs21NOAQR8OkD5ip6MeEApvUDDy/view?usp=drive_link"
+    },
+    {
+      "titulo": "Fortalecimiento de Tobillo con banda",
+      "enfoque": "Fortalecimiento de tobillo",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
@@ -93,13 +100,34 @@
       "reps": "20 reps por lado / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Marcación L1 a la 3 de Taeguk 5, 6, 7 y 8",
+      "enfoque": "Técnica + corrección + precisión",
+      "reps": "20 min por poomsae / 2 series",
+      "tipo": "Ejercicio NO VIDEO",
+      "url": "#"
+    },
+    {
+      "titulo": "Maxima velocidad L1 de T5, T6 y T7 con mancuerna",
+      "enfoque": "Técnica + exigencia + precisión",
+      "reps": "Las que quepan hacia al fondo / 10 vueltas / 2 series",
+      "tipo": "Ejercicio NO VIDEO",
+      "url": "#"
     }
   ],
   "apuntes": [
-"VER LAS NOTAS FINALES"
+"En taeguk 5, los  pies deben de ir en L en el segundo y cuarto",
+"Marcar mas los los movimientos, en el timing que estamos trabajando",
+"En taeguk 6, Mas peso en la pierna de atras en twit kubi",
+"Hay que marcaer mas la camara arriba, no dejarla caer ",
+"No flexione la pierna de apoyo cuando jhaga la ap chagui",
+"Esta dejando caer la cadera hacia atras cuando regresaamos la rodilla",
+"Tambien estamos llevando la espalda atras y la rodilla de apoyo flexionada",
+"Hay que trabajar en la extension de a pierna de apoyo y e¿la espalda que no se doble a su vez de ejecuta bien la camara"
   ],
   "notasFinales": [
-    "Esta semana vamos a darle enfoque y entrenamiento a ciertos puntos específicos, en este ciclo  vamos a darle mucho trabajo al desarrollo de habilidades y hábitos que llevan tiempo hacer y practicar, por lo que es muy importante que se mantenga la firmeza y entrenamiento consistente de estos ejercicios",
+    "Continuamos mejorando en referente a nuestro timing y la nueva tecnica de marcación, dandole a su vez maxima velocidad a los movimientos para mejorar nuestra fuerza",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento campeón!"
   ]
