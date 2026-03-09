@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 1 de marzo",
+  "updated_at": "Actualizado dom 8 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 2 al 7 de marzo del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + trabajo de poomsae Sipjin",
-  "enfoque": "En esta semana seguimos con el entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, a su vez de la continuidad de Sipjin",
+  "ciclo": "Lunes 9 al 14 de marzo del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + trabajo de poomsae",
+  "enfoque": "A partir de esta semana vamos a comenzar nuestro enntrenamiento técnico de poomsae sin dejar de seguir fortaleciendo y estirando para estar en forma para nuestra competencia en abril",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -85,8 +85,22 @@
       "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUN - MIE - JUE",
+  "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
+    {
+      "titulo": "Linea 1 Koryo - Precisión (hacerlo marcado no rapido)",
+      "enfoque": "Repetición + técnica + precisión",
+      "reps": "20 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Giro correcto keumgang - pies",
+      "enfoque": "Repetición + técnica + precisión + marcación",
+      "reps": "20 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
+    },
     {
       "titulo": "Codazo y giro transición  - Sipjin",
       "enfoque": "Repetición + técnica + precisión",
@@ -124,10 +138,12 @@
     }
   ],
   "apuntes": [
-    "LEER NOTAS FINALES"
+    "El objetivo es comenzar a trabajar con algunas partes de poomsaes para ir fortaleciendo y acostumbrando al cuerpo a regresar a la poomsae de competencia de forma progresiva (acelerada)",
+    "Debemos perder el miedo a los movimientos, transiciones, giros, saltos, etc, pero eso no significa que vayamos a sobre pasarnos, aun las otras areas de nuestro cuerpo que se debilitaron en la rehabilitacion de nuestro dedo aun siguen en fortalecimiento y proceso, pero ya es hora de trabajar de forma progresiva en nuestros movimientos",
+    "Estamos a tiempo, vamos a lograrlo"
   ],
   "notasFinales": [
-    "Combinar el entrenamiento físico con el técnico es fundamental, en esta semana continuamos perfeccionando paso a paso nuestro sipjin y agregando ejercicios fuerza isométrica como así también de flexibilidad, con algunos ejercicios nuevos que hacer en esta semana",
+    "Procure mantener la firmeza de los movimientos y ejercicios, cuidando la tecnica y sin miedos a la exigencia, iremos progresando de manera increíble, solo no hay que darse porvencido, vamos a darle con todo",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
