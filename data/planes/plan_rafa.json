@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 1 marzo",
+  "updated_at": "Actualizado dom 8 marzo",
   "nivel": "Nivel Avanzado",
-  "ciclo": "Lunes 2 al sábado 7 de marzo del 2026",
+  "ciclo": "Lunes 9 al sábado 14 de marzo del 2026",
   "enfoque_corto": "Timing + fortalecimiento",
-  "enfoque": "Continuamos nuestro entrenamiento de perfeccionamiento, trabajaremos en base a puntos específicos como timing de velocidad y timing de marcación, y con ello ir con toda la energía y preparación posible hacia el regional",
+  "enfoque": "Precisión de movimientos, velocidad y ejercicios de corte en poomsae",
   "isometricoDias": "MARTES - JUEVES - SÁBADO",
   "isometrico": [
     {
@@ -40,9 +40,16 @@
         "reps": "10 reps / 2 series por pierna",
         "tipo": "video",
         "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
+      },
+      {
+        "titulo": "Camara + L3 Koryo + L5 T5 (PUÑO DEBE ESTAR CERRADO)",
+        "enfoque": "Equilibrio y control",
+        "reps": "30 reps / 1 series por lado",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/15eKiPwUQSRQAutTZ1s1XD8s-stSXe9PE/view?usp=drive_link"
       }
   ],
-  "poomsaeDias": "MARTES A SÁBADO / 1 serie",
+  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
   "poomsae": [
     {
       "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
@@ -63,30 +70,45 @@
       "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
     },
     {
-      "titulo": "olgul + Yop +Codazo - T5 L5",
+      "titulo": "Olgul + Yop +Codazo - T5 L5",
       "reps": "20 reps / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circuito Hold con banda L2 Koryo",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Propuesta + ap chagui reps",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Fortalecimiento de Tobillo con banda",
+      "reps": "20 reps por lado/ 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+    },
+    {
+      "titulo": "Torcion cadera con banda",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "En la transicion de la L5 de T5 giro con el talon y debe de empujar para darle fluidez correcta y velocidad a la transicion",
-    "En nuestra segunda estrategia del timing de marcacion, estamos avanzando apenas estamos llegando a nuestro twit kubi",
-    "Tenemos que marcar mucho mas nuestras camaras de regreso en las yop chaguis",
-    "Darle mayor explosividad y que se vea con facilidad de movmiento a la hora de subir las patadas, el juez debe de ver el movimiento como si fuera extremadamente facil hacerlo, no que se vea nada forzado",
-    "Las ap kubis en taeguk se están viendo un poco cortas, tenemos que abrir un poco mas de frente",
-    "Buena explosividad y timing de velocidad que manejamos en Taeguk 6",
-    "En las Twit kubis estamos metiendo un poco la rodilla frontal, tenemos que sacarla un poco en caso de que no sintamos este habito, esto en especial con la pierna derecha que está al frente",
-    "Cuidado en el timing de marcación ya estamos acostumbrados a darle la maxima potencia en la velocidad pero en el timing de marcación tenemos que hacer llenar el nitro movimiento por movimiento para controlar en su totalidad cada parte de nuestro cuerpo y así mostrar elegancia y potencia, pero sobre todo qe se vea muy facil a los ojos del juez",
-    "Los dos movimientos que hacemos en la  defensa a la cara y golpe medio de la linea 3 de taeguk 6 debemos de marcarlas mas, le quitaremos ligeramente la fluidez y le daremos prioridad a la fuerza exagerada y explosividad de marcacion",
-    "En la linea 5 de taeguk 6, hay que darle prioridad a la velocidad de giro y potencia de brazos en las are makkis",
-    "En la ultima linea de taeguk 6, hay que exagerar un poco mas la fuerza y precision sin lastimar a la tecnica, esto nos dará ventaja en la presentación",
-    "En el primer are makki de taeguk 6, estamos movmiento los hombros de una forma innecesaria, tenemos que mantenerlas por  asi decir, fijas para que no se vea un movimiento raro y nos quiten en técnica",
-    "En taeguk 7,  la ultima defensa que es sonnal, se ve un poco suave, es normal pero tenemos que usar el codo para que no suceda eso, direccionar con fuerza el codo y de ahí ejecutar la mano una vez haciendo el empuje completo del codo",
-    "En la linea 2 de taeguk 7, el timing de marcacion se ve unpoco  como si  estuviera marcando las transiciones como muy suave, tenemos que marcar las pausas"
+    "En Ap chaguis debemos de extender pierna de apoyo y llevar las ap chaguis como si fueran faciles de llevarlas en explosividad",
+    "No hacer la flexion y extension de la ap chagui como chicoteo, sino sostener pequeño instante en la maxima altura y despues flexionar con maxima velocidad",
+    "Todo el peso atras en las bom seoguis, esta vez se estuvo yendo hacia al frente",
+    "En ap chaguis estamos llevando incluso un poco la cadera hacia al frente, cuidado con esto porque ya lo habiamos corregido",
+    "El puño del costado hay que llevarlo hasta atrás, se está quedando un poco al frente"
   ],
   "notasFinales": [
-    "Continuamos con el entrenamiento específico de poomsae y también con nuestro trabajo físico de pateo e isométricos, ya que son estos los que harán la diferencia en nuestras ejecuciones en especial con nuestros dos estilos de ejecución de poomsae que son el timing de velocidad y el timing de marcación, por eso la importancia d emantener en todo momento la precisión y control de los movimientos",
+    "Agregamos algunos ejercicios esta semana que ya hemos hecho, esto para darle continuidad a fortalecimiento clave para nuestro pateo, ya que esta semaqna noté que su pierna de apoyo no se está extendiendo de forma correcta, debemos de trabajar en ello, si existe alguna lesión o dolor punzante favor de comentar campeón",
     "Cualquier duda, por favor comentame campeón",
     "¡Feliz entrenamiento y a seguir dandole con todo que se vienen estupendos eventos!"
   ]
