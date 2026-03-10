@@ -6,6 +6,14 @@
     "suscripcion_activa": "Febrero",
     "objetivo_proximo": "Olimpiada Nacional"
   },
+  {
+  "ximena_palacios": {
+    "nombre": "Ximena Palacios",
+    "plan": "plan_ximena_palacios.json",
+    "plan_activo": "Avanzado de campeones",
+    "suscripcion_activa": "Febrero",
+    "objetivo_proximo": "Campeonato y campamento La Loma"
+  },
 
   "mtro_edison_guallichico": {
     "nombre": "Mtro Edison Guallichico",
