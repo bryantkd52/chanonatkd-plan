@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado lun 2 marzo",
+  "updated_at": "Actualizado lun 9 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Martes 3 al sábado 7 de marzo del 2026",
+  "ciclo": "Martes 10 al sábado 14 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo del timing de poomsae",
-  "enfoque": "Taeguk 6 línea 1 al 3 y taeguk 7 lineas 1 y 2",
+  "enfoque": "Taeguk 6 línea 4 al final y taeguk 7 lineas 4 y 5",
  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
@@ -49,46 +49,45 @@
       "reps": "20 reps / 2 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Yop Chagui - Taeguk 5 T5 - L5 (LA MANO DEBE ESTAR CERRADA)",
+      "enfoque": "Tecnico de yop chagui",
+      "reps": "20 reps por lado/ 2 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ML3DfsZnfUfFqbMbONSu70lKJNb8repM/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "MARTES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "L2 y L3 Taeguk 6 - Tecnica y marcación (NO TIMING)",
+      "titulo": "Linea 5 taeguk 7",
       "enfoque": "Técnica, el ritmo el que vimos en clase",
       "reps": "10 reps * 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1qM7-pg_CPQ480Oqb3fKD-nb4noUaKEEy/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/13WNzHHj7NHueKdgebU79zpNh8rNS56DA/view?usp=drive_link"
     },
     {
-      "titulo": "L1 Taeguk 7 - Tecnica y marcación (NO TIMING)",
+      "titulo": "Doble puño costado linea 5 taeguk 7",
       "enfoque": "Técnica, el ritmo el que vimos en clase",
       "reps": "20 reps * 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1T-Z7RUtNLaBebIKtihzZbgumhMoUlNCG/view?usp=drive_link"
-    },
-    {
-      "titulo": "L2 Taeguk 7 - Tecnica y marcación (NO TIMING)",
-      "enfoque": "Técnica, el ritmo el que vimos en clase",
-      "reps": "20 reps * 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1GRS7al4XuNufi7Xj_ZgsLqWQFyisjxDP/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1zZLxqAg99j9GVDhRTprssnQdvgaiHszT/view?usp=drive_link"
     }
   ],
   "apuntes": [
-"En taeguk 6, el regreso de ap chagui nos esta faltando control y eso hace que caigamos mas rapido y por lo consiguiente nuestra preparacion de bakkat makki no se logra notar y por consiguiente ambien nos quitarian puntos por no marcar bien este movimiento",
-"Marcar los movimientos con sus respectivos cortes y preparaciones, no acelerar nada, sino marcar en su totalidad",
-"No hacer brinquitos en los giros de transicion, en especial en la linea 3 de taeguk 6",
-"Debo hacer los cortes antes de ir al siguiente movimiento, como una pequeña pausa",
-"En taeguk 7, hace muchos pasitos pequeños o saltitos especialmente en las bom seoguis",
-"En el caso de los brazos tiene fuerza pero no la usa correctamente, debe de usar la  torsion de las muñecas para marcar 100% los movimientos",
-"Las montong makkis se estan preparando de forma muy corta, deben de ser mas alargadas y en linea con el hombro",
-"Tambien las montong makkis con manos abierta estan teniendo el mismo problema pero mas notorio, estan mas cortitas",
-"En a linea 2 y 3 las preparaciones las esta haciendo muy cortas y suaves, deben ser con poco mas de elongacion y torsion en el caso de el torso cuando las ejecuto",
-"Ganar control en los aterrizajes de ap kubis"
+"En taeguk 6, las defensas interiores las está  preparando muy lento, necesitamos mas velocidad y a su vez mas corte y amplitud de preparación",
+"Falta terminar de torser al final del movimiento de concentracion de la linea 4, ya que esta mostrando caracol grande en todo momento",
+"No olvidar esperar un pequeño instante antes de ir con el otro movimiento",
+"En la finalizacion del movimiento de concentracion hace extension de precision y no ligero, debe ser ligero sin que se vea un movimiento extra",
+"El giro transicion a la linea 5, el giro esta ejecutandose lento",
+"Las preparaciones de defensa interior aun se estan viendo lentas", "En taeguk 7, el primer movimiento de concentración no está terminando su trayecto, apenas llega y ya se esta moviendo",
+"En e ultimo movimiento de la linea 4 no temrina su movimiento y ya se esta adelantando al giro transicion de la linea 5",
+"En la linea 5 todos los movimientos no se están marcando, necesitamos marcar de forma tan obvia que los jueces no tengan duda de que lo hicimos bien"
   ],
   "notasFinales": [
     "En esta semana vamos a trabajar en nuestra parte técnica y timing de taeguk 6 y 7, tenemos puntos específicos que mejorar y debemos de cambiarlas en hábitos buenos y correctos para mejorar nuestra poomsae y estar listos antes de nuestra siguiente competencia, es por eso que es importante que cuando entrenes tomes en cuenta los apuntes que te dejé en la sección de apuntes de poomsae",
+  
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
