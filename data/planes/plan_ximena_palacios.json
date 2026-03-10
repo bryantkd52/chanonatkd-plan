@@ -1,0 +1,161 @@
+{
+  "updated_at": "Actualizado Lun 9 marzo",
+  "nivel": "Nivel Profesional",
+  "ciclo": "Marzo del 2026",
+  "enfoque_corto": "Timing + fortalecimiento + flexbilidad + pateo alto",
+  "enfoque": "Precisión de movimientos, velocidad y ejercicios de corte en poomsae",
+  "chanonaflexDias": "LUNES A SÁBADO",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "MARTES - JUEVES - SÁBADO",
+  "isometrico": [
+    {
+      "titulo": "Yop Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "MARTES - JUEVES - SÁBADO",
+  "pateoTecnico": [
+      {
+        "titulo": "Ap + Yop + Turn hips silla - Cuádriceps",
+        "enfoque": "Fortalecimiento de cuádriceps",
+        "reps": "20 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
+      },
+      {
+        "titulo": "Balance  Ap + Dollyo + Yop - Cuádriceps",
+        "enfoque": "Fortalecimiento de cuádriceps en diferentes patadas y control",
+        "reps": "10 reps / 1 serie por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
+      },
+      {
+        "titulo": "Camara + L3 Koryo + L5 T5 (PUÑO DEBE ESTAR CERRADO)",
+        "enfoque": "Equilibrio y control",
+        "reps": "20 reps / 1 serie por lado",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/15eKiPwUQSRQAutTZ1s1XD8s-stSXe9PE/view?usp=drive_link"
+      },
+      {
+        "titulo": "Circuito Hold con banda L2 Koryo",
+        "enfoque": "Equilibrio + control + fortalecimiento",
+        "reps": "20 reps / 1 serie por lado",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+      },
+      {
+        "titulo": "Silla + Ap Chaguis 3 niveles",
+        "enfoque": "Exigencia + empuje",
+        "reps": "20 reps / 1 serie por lado",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+      },
+      {
+        "titulo": "Ap + Extension (con prudencia)",
+        "enfoque": "Elongación + empuje",
+        "reps": "20 reps / 1 serie por lado",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
+      }
+  ],
+  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
+    },
+    {
+      "titulo": "Doble yop hold + landing L3 + L1 koryo",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
+    },
+    {
+      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Olgul + Yop +Codazo - T5 L5",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circuito Hold con banda L2 Koryo",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Propuesta + ap chagui reps",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Fortalecimiento de Tobillo con banda",
+      "reps": "20 reps por lado/ 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+    },
+    {
+      "titulo": "Torcion cadera con banda",
+      "reps": "20 reps / 2 series poor lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Elevación banda + poomsae L1 de T7 a Jitae con polainas",
+      "reps": "50 reps elevación * 5 reps poomsae / LUNES Y VIERNES",
+      "tipo": "EJERCICIO - NO VIDEO",
+      "url": "#"
+    },
+    {
+      "titulo": "Elevación mancuernas + poomsae L1 de T7 a Jitae con polainas",
+      "reps": "50 reps elevación * 5 reps poomsae / MIERCOLES",
+      "tipo": "EJERCICIO - NO VIDEO",
+      "url": "#"
+    },
+    {
+      "titulo": "Poomsae por día - T7 inicia hacia Jitae",
+      "reps": "10 min por línea/ LUNES A VIERNES",
+      "tipo": "EJERCICIO - NO VIDEO",
+      "url": "#"
+    }
+  ],
+  "apuntes": [
+    "En este mes continuamos trabajando nuestro fortalecimiento físico, flexibilidad y mejora técnica de poomsae para nuestras competencias proximas, esto significa que cada ejercicio debe de ser siempre con la mayor prudencia y exigencia a su vez posible, no hay que omitir ningun ejercicio excepto que por falta de tiempo, competencia proxima tres días antes o algo mayor",
+    "Siempre busque las técnicas correctas a través de los cortes de poomsae en  carpeta de rutinas de entrenamiento en el curso de ChanonaTKD"
+  ],
+  "notasFinales": [
+    "Si algun ejercicio sientes que puede estar lastimandote, ajusta las repeticiones y comentame para ajustar la carga",
+    "Vamos avanzando super bien campeona, continuaremos con el maximo esfuerzo pero siempre equilibrando con los descansos, la escuela y su alimentación",
+    "Cualquier duda, por favor comentame campeona",
+    "¡Feliz entrenamiento!"
+  ]
+}
