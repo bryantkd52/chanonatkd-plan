@@ -1,24 +1,36 @@
 {
-  "updated_at": "Actualizado dom 8 marzo",
+  "updated_at": "Actualizado dom 15 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 9 al sábado 14 de marzo del 2026",
-  "enfoque_corto": "Trabajo específico de Taeguk 4 y T8",
-  "enfoque": "Hay que trabajar para avanzar campeona, no se quede solo esperando a la siguiente clase para practicar, es importante que le tome mucha atención a las lineas con las que trabajamos en este plan de entrenamiento, tomelo en cuenta y entrene de la forma mas inteligente y positiva posible, cuando lo hace, lo hace super, y no hay que perder",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "enfoque_corto": "Trabajo específico de Taeguk 8",
+  "enfoque": "Esta semana estuvimos ausentes de clase pero no ausentes de avance, siempre podemos trabajar de forma positiva y específica en nuestros objetivos, vamos a darle",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Nivel 1",
-      "dia": "LUNES A SÁBADO",
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "LUNES A VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Ap Chagui - NIVEL 1",
+      "titulo": "Ap Chagui - NIVEL 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Yop Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Dollyo Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
@@ -30,27 +42,6 @@
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
-    },
-    {
-      "titulo": "Propuesta + Empuje para Ap Chagui y potencia",
-      "enfoque": "Nivel de exigencia con bloques para desarrollar la concentración, coordinación y el equilibrio",
-      "reps": "10 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
-    },
-    {
-      "titulo": "L2 T4  mas lento yop chaguis",
-      "enfoque": "La exigencia de este ejercicio nos ayudará a que mejoremos el equilibrio y comencemos a tener mejores patadas a nivel profesional",
-      "reps": "10 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iKsyFRARPRVJj0RUlStqXjYOgeLwUgJU/view?usp=drive_link"
-    },
-    {
-      "titulo": "L2 Yop Chaguis de Taeguk 4",
-      "enfoque": "Continuamos con la exigencia a unn ritmo diferente",
-      "reps": "10 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1itbAdFy1D_RFN0WTpbKzHaK1oQsD-c29/view?usp=drive_link"
     },
     {
       "titulo": "Torsión de cadera con banda",
@@ -71,28 +62,35 @@
   "poomsae": [
     {
       "titulo": "Transición Taeguk 8 - L1 a L2 T8",
-      "reps": "15 min",
+      "reps": "10 min",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1PC4Rgs-4I6Bml1FTC-kl_bljImEfCow8/view?usp=drive_link"
     },
     {
       "titulo": "Taeguk 8 - Primer movimiento",
-      "reps": "15 min",
+      "reps": "10 min",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1DWX9g7vzlLsRQGNNi4RxxlA4Cz3_pHiJ/view?usp=drive_link"
     },
     {
       "titulo": "Doble Ap Chagui + Aterrizaje - Taeguk 8",
-      "reps": "15 min",
+      "reps": "10 min",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mAlHFT6A4qise0_70UKO8UNcf_oJhjge/view?usp=drive_link"
+    },
+    {
+      "titulo": "L3 Taeguk 8 - T8 L3",
+      "reps": "10 min",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1yNXOjP9b6Zgf7UC48anqyO0E5BcFQyXH/view?usp=drive_link"
     }
   ],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Continuamos trabajando de la mejor forma posible, no debemos de desenfocarnos, debemos de tener la atencion 100% metida en cada movimiento de nuestra poomsae, aprenderlo sin esperar a que alguien nos diga o corrija, usted debe de tener ese enfoque para que en nuestro proximo examen vayamos con la mejor técnica posible",
+    "El perfeccionamiento de cada movimiento es muy importante, es por eso que el enfoque va a ser en partes específicas de Taeguk 8 el cual nos van a pedir pronto, así que seguiremos enfocandonos en los movimientos, correcciones y alineaciones correctas de nuestra poomsae",
+    "Por favor campeona, cada que vea el video, cada uno de los videos, analise muy bien que es lo que se está mostrando y procure replicarlo exactamente, no mas o menos, sino lo más exacto como en fuerza, firmeza, en vista incluso, yo se que usted puede",
     "Cualquier duda, por favor comenteme campeona",
     "¡Feliz entrenamiento!"
   ]
