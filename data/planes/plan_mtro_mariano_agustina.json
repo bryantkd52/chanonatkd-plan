@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 8 marzo",
+  "updated_at": "Actualizado dom 15 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes9 al sábado 14 de marzo del 2026",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
-  "enfoque": "Continuamos trabajando en nuestro fortalecimiento de forma progresiva y a su vez de forma fuerte, algunos ejercicios son parecidos al de la semana pasada pero vamos para mantener la continuidad",
+  "enfoque": "Esta semana trabajamos la estabilidad y fuerza aplicada directamente a las patadas, también agregaré las patadas de giro 360 para que las tengan con ustedes siempre que quieran practicarla",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -56,6 +56,20 @@
       "reps": "10 reps / 2 series lado bueno",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1Jt5JEi2zPfJJ9FCbEdfnAQKvnoUNKFui/view?usp=drive_link"
+    },
+    {
+      "titulo": "360 kick - Intercambio de pierna",
+      "enfoque": "Desarrollar paso a paso 360 kick",
+      "reps": "10 reps / 2 series lado bueno",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1fkHSoJxtdlKB_sf7Nxb5UOxr6p-DHeVi/view?usp=drive_link"
+    },
+    {
+      "titulo": "Pateo continuo (ap o dollyo) en una sola posicion",
+      "enfoque": "Equilibrio + postura + exigencia",
+      "reps": "30 reps por pierna / 1 serie",
+      "tipo": "ejercicio NO VIDEO",
+      "url": "#"
     }
   ],
   "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
@@ -64,7 +78,7 @@
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana continuamos trabajando en diferentes ejercicios de seguimiento para nuestra mejora de pateo, 360 kick y patada de gancho, por lo que es muy importante darle el seguimiento al plan de entrenamiento",
+    "Nuestro entrenamiento de estabilidad y desarrollo de fuerza del día miercoles fue brutal y a su vez muy productivo porque nos mostró justamente lo que necesitamos trabajar, y debemos continuar en base a ese ejercicio, ya que no es agresivo y potencialmente exigente",
     "Cualquier duda, por favor comentenme",
     "¡Feliz entrenamiento!"
   ]
