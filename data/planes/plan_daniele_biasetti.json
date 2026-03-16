@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 8 marzo",
+  "updated_at": "Actualizado dom 15 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 9 al 14 de marzo del 2026",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
-  "enfoque": "Esta semana retomamos entrenamientos exigentes y lo hicimos de la mejor manera, soportamos y aguantamos como debería de ser y avanzando de la mejor forma",
+  "enfoque": "Continuamos trabajando de forma exigente con ejercicios avanzados, siempre procurar mantener la firmeza de cada ejercicio sin alterar nada",
  "chanonaflexDias": "MARTES - MIÉRCOLES - VIERNES · 1 serie",
   "chanonaflex": [
     {
@@ -13,18 +13,24 @@
       "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
     },
     {
-      "titulo": "ChanonaFlex • Nivel intermedio",
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
       "dia": "MARTES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
      {
-      "titulo": "Yop Chagui - NIVEL 1",
+      "titulo": "Yop Chagui - NIVEL 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
@@ -36,12 +42,19 @@
   ],
   "pateoDias": "MIERCOLES - VIERNES",
   "pateoTecnico": [
-     {
-      "titulo": "Linea 3 Koryo + sentadilla + camara",
-      "enfoque": "Control, precisión y desarrollo de estabilidad",
-      "reps": "10 reps por lado/ 2 series",
+    {
+      "titulo": "Giro con gancho",
+      "enfoque": "Control, giro y desarrollo habilidad",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1uLjByH47FlLC9oMg10Js_wEk0SAvkP13/view?usp=drive_link"
+    }, 
+    {
+      "titulo": "Linea 2 Taeguk 4 de Yop",
+      "enfoque": "Control, precisión y técnica",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1StxC0IrzsXGfH-0_GjXyw50Zdlc9OpSF/view?usp=drive_link"
     },
     {
       "titulo": "Doble yop hold + landing L3 + L1 koryo",
@@ -68,7 +81,7 @@
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Continuamos con los ejercicios manteniendo la carga firme y fuerte, de manera progresiva vamos a lograr nuestros objetivos",
+    "Esta semana vimos algunos ejercicios nuevos, vamos a trabajarlos de forma inteligente y específica, procura cuidar los dolores y si alguno lo sientes muy pesado, puedes ajustarlo a un punto que siga siendo la técnica limpia pero exigente y llegando al fallo que debemos llegar",
     "Cualquier duda, por favor consultame",
     "¡Feliz entrenamiento!"
   ]
