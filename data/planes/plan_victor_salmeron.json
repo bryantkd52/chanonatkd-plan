@@ -1,27 +1,27 @@
 {
-  "updated_at": "Actualizado dom 8 marzo",
+  "updated_at": "Actualizado dom 15 marzo",
   "nivel": "Nivel Avanzado Progresivo",
-  "ciclo": "Lunes 9 al sábado 14 de marzo del 2026",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + isométrico activo + preparación en poomsae",
  "chanonaflexDias": "3 veces por semana · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "Martes 25 - Flexibilidad activa e isométrica",
+      "titulo": "Martes 10 Marzo - Flex activa y dinámica",
       "dia": "LUNES - MIERCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1PK1E7TlEzH13LfK7azkAE04yk6yyr-74/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1NsMaHDtYMvf8UcYic5g_yFwYm5CyIkSw/view?usp=drive_link"
     }
   ],
   "isometricoDias": "JUEVES - SÁBADO",
   "isometrico": [
     {
-      "titulo": "Circuito Isométrico Activo - Nivel 1",
+      "titulo": "Jueves 12 Marzo - Fuerza dinámica y técnica",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1Gc_nnB9E-x_Ok22G6GU68GvKao1AWScF/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO"]
     }
   ],
-  "pateoDias": "MIERCOLES - VIERNES",
+  "pateoDias": "MIERCOLES - VIERNES (Continuamos con estos ejercicios)",
   "pateoTecnico": [
      {
       "titulo": "Ap Chagui 3 niveles",
@@ -70,8 +70,8 @@
     "Cuando hacemos el giro de transición debemos de llevar de forma paralela los pies en todo momento/el giro, no llegando primero un pie y luego girar, sino llevar todo el cuerpo en el giro"
   ],
   "notasFinales": [
-    "Esta semana vimos la linea 1 de taeguk 1 y fue fenomenal los puntos que logramos ver, estas dos semanas vamos a trabajar en eso y en la proxima clase veremos como vamos y a su vez avanzamos con la línea número 2 si la 1 ya la tenemos lista",
-    "Estoy muy feliz de tu progreso, hay que seguir trabajando con toda la energía, cualquier cosa por  favor comentame",
+    "Los apuntes de poomsae los actualizaré cada dos semanas para que puedas verlos y trabajar durante dos semanas en base a esas correcciones que debemos de hacer, después de nuestra clase de jueves se actualizará a lo nuevo",
+    "Continuamos trabajando con toda la energía, cualquier cosa por  favor comentame, vas excelente",
     "¡Feliz entrenamiento!"
   ]
 }
