@@ -1,9 +1,9 @@
 {
   "updated_at": "Actualizado dom 8 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 9 al 14 de marzo del 2026",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo técnico de poomsae",
-  "enfoque": "Timing y trabajo tecnico + fortalecimiento",
+  "enfoque": "Continuidad de perfeccionamiento de poomsae post competencia",
  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
@@ -16,19 +16,19 @@
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
      {
-      "titulo": "Yop Chagui - NIVEL 2 (CON BANDA DE LA 1 A LA 5)",
+      "titulo": "Yop Chagui - NIVEL 2 (SIN BANDA ESTA VEZ)",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Ap Chagui - NIVEL 2 (CON BANDA DE LA 1 A LA 5)",
+      "titulo": "Ap Chagui - NIVEL 2 (SIN BANDA ESTA VEZ)",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "MAR - JUE - SAB (continuamos con estos ejercicios)",
   "pateoTecnico": [
      {
       "titulo": "Circuito Hold con banda L2 Koryo (BANDA DEL 1 AL 5)",
@@ -64,6 +64,20 @@
       "reps": "10 reps elevacion + 10 reps velocidad + 10 seg arriba +  10 reps circular + 10 reps gancho + 10 yops / 1 serie por pierna",
       "tipo": "ejercicio NO VIDEO",
       "url": "#"
+    },
+    {
+      "titulo": "Torcion cadera con banda",
+      "enfoque": "Equilibrio + técnica + fuerza",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Fortalecimiento de Tobillo con banda",
+      "enfoque": "Equilibrio + técnica + fuerza",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
@@ -71,67 +85,64 @@
     {
       "titulo": "Aterrizaje ap kubi + golpe medio",
       "enfoque": "En el aterrizaje y en la camara",
-      "reps": "10 reps / 2 series",
+      "reps": "10 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1FzfcOO8NcL63cVBvahDS2rthF14nDiQT/view?usp=drive_link"
     },
     {
       "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
       "enfoque": "Repetición + técnica + precisión",
-      "reps": "10 reps / 2 series",
+      "reps": "10 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
     },
     {
      "titulo": "Linea 3 Koryo - Sentadilla y camara",
       "enfoque": "Control + técnica + precisión",
-      "reps": "20 reps / 2 series",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
     },
     {
      "titulo": "Transicion Twit Kubi a Twit Kubi",
       "enfoque": "Transición + técnica + postura",
-      "reps": "50 reps por lado/ 2 series",
+      "reps": "20 reps por lado/ 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1TQjuHQflDQu65fh_zJE1QSTxD2qVaoEX/view?usp=drive_link"
     },
     {
      "titulo": "Circuito Hold con banda L2 Koryo",
       "enfoque": "Fortalecimiento + técnica + postura",
-      "reps": "10 reps / 2 series",
+      "reps": "10 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
     },
     {
      "titulo": "Linea 2 Koryo - 2.1 ap chagui + golpes",
       "enfoque": "Técnica + postura + timing",
-      "reps": "10 reps / 2 series",
+      "reps": "10 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv/view?usp=drive_link"
     },
     {
      "titulo": "Koryo L3 - Lado izquierdo",
       "enfoque": "Técnica + postura + timing",
-      "reps": "10 reps / 2 series",
+      "reps": "10 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1d39Oz_ASS6Yb-BIUclGe9QrT-WP9BgwS/view?usp=drive_link"
     },
     {
      "titulo": "Koryo L3 - Lado derecho",
       "enfoque": "Técnica + postura + timing",
-      "reps": "10 reps / 2 series",
+      "reps": "10 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/116eSAk3WUKVvXneFxAAyuyrG0mu7pwIi/view?usp=drive_link"
     }
   ],
-  "apuntes": [
-"Busca siempre el control de las camaras, es decir que debe de marcar bien cuando flexione la rodilla con fuerza y postura, eso nos ayudará a que podamos justamente mantener la firmeza de nuestra poomsae",
-"No adelante, ni atrase ningun movimiento, siempre cada movimiento en su lugar, al igual cuando flexionamos la rodilla en la linea 3 en las yop chaguis, debemos de trabajar siempre en la vista y preparación de las manos, significa que debemos de girar la cabeza y la vista justo cuando flexionamos la rodilla"
-  ],
+  "apuntes": [],
   "notasFinales": [
-    "Ya que sabemos que participaremos con koryo, eso significa que debemos de mantenernos cuidando nuestra tecnica y timing de los movimientos, esto nos ayudará a que podamos justamente entender porque cada cosa o cada transición cuenta, por lo que vamos a entrena como se debe y con el enfoque en cada paso",
-    "Cualquier duda, por favor comentame",
+    "En nuestro torneo de este fin de semana nos fue de maravilla, excelente trabajo campeona por el resultado, muchas veces las cosas están muy cerca de algo y no nos damos cuenta pero este fue un punto importante para darnos cuenta del gran avance que ha tenido campeona, es hora de seguir dandole con todo y mantenerse firme rumbo a lo que siga, de manera enfocada y bien planificada",
+    "Nuevamente campeona, muchas felicidades",
     "¡Feliz entrenamiento!"
   ]
 }
