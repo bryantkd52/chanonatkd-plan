@@ -1,38 +1,20 @@
 {
-  "updated_at": "Actualizado dom 8 de marzo",
+  "updated_at": "Actualizado dom 15 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 9 al sábado 14 de marzo del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + trabajo de poomsae Sipjin",
-  "enfoque": "En esta semana seguimos con el entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo y a su vez continuamos mejorando Sipjin",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "enfoque_corto": "Flexibilidad + Fortalecimiento con Jakdari Seogui de keumgang",
+  "enfoque": "Esta semana trabajaremos con enfoque en keumgang, pero con una exigencia ligeramente menor ya que se viene competencia en unos días",
+ "chanonaflexDias": "DIARIO · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Avanzado",
+      "titulo": "ChanonaFlex • Intermedio",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
-    },
-    {
-      "titulo": "ChanonaFlex • Desde propuesta - Nivel 3",
-      "dia": "LUNES - MIERCOLES - SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "LUN - MIE",
   "isometrico": [
-     {
-      "titulo": "Yop Chagui - NIVEL 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Ap Chagui - NIVEL 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
@@ -40,7 +22,7 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "LUN - MAR",
   "pateoTecnico": [
      {
       "titulo": "Fortalecimiento de Tobillo con banda",
@@ -55,20 +37,6 @@
       "reps": "50 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ap + Yop + Turn hips silla",
-      "enfoque": "Estabilidad + técnica + fuerza",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
-    },
-    {
-      "titulo": "Propuesta + ap chagui reps",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "10 reps / 1 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
     },
     {
       "titulo": "Koryo L1 hold yop + Pyonwong",
@@ -88,52 +56,19 @@
   "poomsaeDias": "LUN - MIE - JUE",
   "poomsae": [
     {
-      "titulo": "Codazo y giro transición  - Sipjin",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "20 reps por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1l1FslN_EqKiSAWoftVnr3lU3RWYDCTVD/view?usp=drive_link"
-    },
-    {
-      "titulo": "Golpe lateral - Sipjin",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "20 reps por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Gud8KNuejyuRFyckdV_bmVOEBwtOQR18/view?usp=drive_link"
-    },
-    {
-     "titulo": "Segundo Movimiento - Sipjin",
-      "enfoque": "Repetición + técnica + precisión + precisión",
-      "reps": "20 reps por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
-    },
-    {
-     "titulo": "L2 Taeguk 7 - T7 L2",
-      "enfoque": "Reps rumbo a Sipjin + precisión",
-      "reps": "20 reps lado izquierdo",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/12F-yyH4XJl3A4FRt_3biwxE0th5Mtsq1/view?usp=drive_link"
-    },
-    {
-     "titulo": "L2 Sipjin - L2.2",
-      "enfoque": "Timing + velocidad + precisión",
-      "reps": "20 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1OYvukbpGdk6lz-MP725Wjz2mOEx9wWUN/view?usp=drive_link"
-    }
+        "titulo": "Simulación competencia - Primera poomsae a la ultima y así sucesivamente con entrada y salida",
+        "enfoque": "Timing + precisión + marcación + seguridad",
+        "reps": "1 reps por simulación con dos poomsaes",
+        "tipo": "Ejercicio - No video",
+        "url": "#"
+      }
   ],
   "apuntes": [
-    "El primer movimiento se están llevando los brazos mas arriba de lo debido, recordar trabajar solo con los codos no los los puños para dirigirnos hacia arriba",
-    "En el primer movimiento de la línea 2.2 (la linea de las ap chaguis) el peso debe de ir hacia atras y luego ejecutar, a su vez también preparar desde la alineación del cuerpo, no por fuera",
-    "Los golpes con ambas manos en la ultima linea debemos de trabajar en específico la velocidad pero sin lastimar a la técnica, ya que en referente a ritmo lo estamos llevando muy lento, debemos de ajustar, cortar y darle precisión mientras avanzamos con la velocidad que se requiere",
-    "La posicion de diamante es importante que se ejecute y termine en diagonal, no de frente o completamente de lado",
-    "En santul makki ya hemos mejorado mucho, sin embargo luce arriba de la cabeza, verifica que se termine justo en linea con la cabeza no por encima"
+    "Esta semana aunque viene una competencia de exigencia no mayor, vamos a aprovecharla para trabajar en nuestra preparación pre competencia, esto nos da idea y firmeza para ir viendo errores, posturas y más cuando se trata de estar listos antes de una competencia, así que trabajaremos en base a la simulación de competencia, entrada, poomsae y salida, esto nos da idea de los errores que tenemos que mejorar, aprovechamos a mejorarlas y ver como se comportan esas mejoras en competencia"
   ],
   "notasFinales": [
-    "Algunos ejercicios son parecidos para mantener la misma continuidad y de ahí ajustar la carga",
-    "Procura leer los apuntes de poomsae para que puedas continuar trabajando en base a la consciencia de cada movimiento que debemos de mejorar o ajustar",
+    "Esta semana bajamos la carga ligeramente o considerablemente para ir probandonos como vamos rumbo a competencias, procura controlar tu 100% en cada una de las repeticiones para evitar lesiones pero a su vez ir viendo como nos sentimos dando nuestro 100% para corregir errores, mandame videos si es necesario para que pueda apoyarte en que mas cosas hay que mejorar y procurar tomar este proximo evento para checar eso",
     "Cualquier duda, por favor comentame",
-    "¡Feliz entrenamiento!"
+    "¡Feliz entrenamiento y competencia!"
   ]
 }
