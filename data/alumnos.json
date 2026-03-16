@@ -196,6 +196,22 @@
     "plan_activo": "Avanzado de campeones",
     "suscripcion_activa": "Febrero",
     "objetivo_proximo": "Campeonato y campamento La Loma"
+  },
+
+  "hever_guzman": {
+    "nombre": "Hever Guzman",
+    "plan": "plan_hever_guzman.json",
+    "plan_activo": "Avanzado de campeones",
+    "suscripcion_activa": "Marzo",
+    "objetivo_proximo": "Regional Olimpiada Nacional"
+  },
+
+  "camila_berolatti": {
+    "nombre": "Camila Berolatti",
+    "plan": "plan_camila_berolatti.json",
+    "plan_activo": "Avanzado de campeones",
+    "suscripcion_activa": "Marzo",
+    "objetivo_proximo": "Campeonato de ranking nacional"
   }
 
 }
