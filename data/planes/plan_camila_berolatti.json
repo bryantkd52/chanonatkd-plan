@@ -1,0 +1,139 @@
+{
+  "updated_at": "Actualizado dom 15 marzo",
+  "nivel": "Nivel Avanzado",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "enfoque_corto": "Timing + fortalecimiento",
+  "enfoque": "Precisión de movimientos, velocidad y ejercicios de corte en poomsae",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "MARTES - JUEVES",
+  "isometrico": [
+    {
+      "titulo": "Yop Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico activo - Dollyo Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "LUNES - MIÉRCOLES - VIERNES",
+  "pateoTecnico": [
+      {
+        "titulo": "Ap chaguis dos bloques",
+        "enfoque": "Cuadriceps + equilibrio",
+        "reps": "30 reps / 1 serie por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa/view?usp=drive_link"
+      },
+      {
+        "titulo": "Propuesta + ap chagui reps",
+        "enfoque": "Fortalecimiento de cuádriceps y control",
+        "reps": "10 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+      },
+      {
+        "titulo": "Ejercicio 1 - Yop Chagui",
+        "enfoque": "Fortalecimiento para explosividad de Yop Chaguis",
+        "reps": "10 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+      },
+      {
+        "titulo": "Ejercicio 2 - Yop Chagui",
+        "enfoque": "Fortalecimiento + control para explosividad de Yop Chaguis",
+        "reps": "10 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
+      }
+  ],
+  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
+    },
+    {
+      "titulo": "Doble yop hold + landing L3 + L1 koryo",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
+    },
+    {
+      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Olgul + Yop +Codazo - T5 L5",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circuito Hold con banda L2 Koryo",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Propuesta + ap chagui reps",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Fortalecimiento de Tobillo con banda",
+      "reps": "20 reps por lado/ 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+    },
+    {
+      "titulo": "Torcion cadera con banda",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+    }
+  ],
+  "apuntes": [
+    "Nuestro enfoque debe de basarse en específico en nuestros movimientos con corte y velocidad, ya que algunos movimientos pueden verse lentos para el tipo de calificación que están manejando en este momento, por lo que vamos a darle mayor explosividad y velocidad a cada movimiento y corte demostrando que dejamos el movimiento con precisión",
+    "En nuestras yop chaguis es importante que mostremos en todo momento nuestro hueso tibial a la direccion que vimos en clase justamente, el que direcciona es el filo del pie pero el hueso tibial mantiene la postura de la patada alineada correctamente",
+    "En nuestras yop chaguis debemos de mantener nuestra postura de espalda, hombros y torso en general alineada, ya que aquí es en donde se nos van los hombros al frente cuando ejecutamos la patada, esta parte es en donde debemos enfocar a lo maximo para evitar que los hombros nos jueguen en contra yendose al frente,por eso hay que estar super conscientes en esta parte para que podamos corregirlo",
+    "En la combinacion de ap chagui + yop chagui de pyonwong, volvemos al punto que vimos en clase, hay que mantener la alineacion del torso pero haciendo el timing y corte de camara (o flexion de rodilla) en ap chagui justo despues de hacer la patada, justo despues de ese pequeño instante ahí es entonces cuando aterrizamos, giramos y ejecutamos nuestra patada, manteniendo a su vez la postura del torso para mantener el equilibrio",
+    "Recordar en la parte de los dos golpes de revés, un puño no está llegando por debajo del brazo, cuidado en ese punto",
+    "Buscar que los movimientos sean fijos, firmes, a maxima velocidad y a su vez a maxima potencia la precisión de movimiento con su respectivo corte"
+  ],
+  "notasFinales": [
+    "En esta semana te dejaré algunos ejercicios que nos ayudará no solo a entender nuestros movimientos, sino que también nos ayudará a que podamos mejorar y desarrollar de manera rápida nuestro pateo, pero hay que hacerlo de la forma mas consciente e inteligente posible",
+    "Los apuntes de poomsae es muy importante leerlos antes de cualquier entrenamiento para no cometer estos errores",
+    "Cualquier duda, por favor comentame campeona",
+    "¡Bienvenida a ChanonaTKD y feliz entrenamiento champ"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "updated_at": "Actualizado dom 15 marzo",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 16 al sábado 21 de febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Técnico pateo + taeguk 4 L2",
+  "enfoque": "Seguimos trabajando taeguk 4 desde las bases profundas - Linea 2",
+ "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+    {
+      "titulo": "Ap Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Dollyo Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1y02E8_WF2d624jJWJvinIn2oNIBcbXcc/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "MAR - JUE - SAB",
+  "pateoTecnico": [
+     {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Cuádriceps + Equilibrio",
+      "reps": "7 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+    },
+    {
+      "titulo": "Linea 3 Koryo - Sentadilla y camara / apoyo con barra o silla",
+      "enfoque": "Estabilidad + técnica + fuerza",
+      "reps": "3 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
+    },
+    {
+      "titulo": "Doble yop hold - landing L3 koryo - Apoyo de barra o silla",
+      "enfoque": "Control + técnica + fuerza",
+      "reps": "5 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "LUN - MIE - JUE",
+  "poomsae": [
+    {
+      "titulo": "L2 yop T4",
+      "enfoque": "Repetición + técnica + precisión",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1StxC0IrzsXGfH-0_GjXyw50Zdlc9OpSF/view?usp=drive_link"
+    },
+    {
+     "titulo": "Transicion pies  L1 a la 2 t4",
+      "enfoque": "Repetición + técnica + precisión",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1suck_5kr_r1wYcW9w2aHpnQJv2huaFcQ/view?usp=drive_link"
+    }
+  ],
+  "apuntes": [
+    "Hay que marcar mas la camara que hacemos justo despues de la ap chagui, es decir quedarnos un pequeño instante arriba en flexion y justo después hacemos nuestra ejecucion de golpe medio",
+    "En yop chaguis, es muy importante que podamos ejecutar nuestras patadas de forma lineal, aunque primero debes de cuidar el dolor en el flexor de la cadera, la otra pierna la puedes continuar trabajando",
+    "El enfoque que debes de tener en especifico en las yops, es llevar el hueso tibial frente a la zona abdominal en cuanto jales la rodilla al pecho y justo despues regresarla al mismo lugar y postura despues de la ejecucion de la yop chagui, siempre direccionando con el filo del pie la patada",
+    "Nuestra preparacion del golpe de cuchillo en el primer movimiento en la transicion de la linea 1 a la 2 de esta poomsae debemos de hacerla con el brazo mas extendido mientras que el otro que hace olgul makki con mano abierta debe de ser pegado al cuerpo para despues ejecutarse de la forma mencionada anteriormente"
+  ],
+  "notasFinales": [
+    "Esta semana continuamos viendo nuestro taeguk 4, continuamos mejorando y aprendiendo a profundidad de esta poomsae de forma muy espeçifica, los ejercicios deben de ser suaves, progresivos y con precaución, por lo que cualquier duda por favor campeón, comenteme a la brevedad y le apoyo",
+    "¡Feliz entrenamiento!"
+  ]
+}
