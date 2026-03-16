@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado dom 8 marzo",
+  "updated_at": "Actualizado dom 15 marzo",
   "nivel": "Nivel Avanzado",
-  "ciclo": "Lunes 9 al sábado 14 de marzo del 2026",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
   "enfoque_corto": "Timing + fortalecimiento",
   "enfoque": "Precisión de movimientos, velocidad y ejercicios de corte en poomsae",
-  "isometricoDias": "MARTES - JUEVES - SÁBADO",
+  "isometricoDias": "MARTES - JUEVES",
   "isometrico": [
     {
       "titulo": "Yop Chagui - NIVEL 2",
@@ -25,91 +25,109 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MIÉRCOLES - VIERNES",
+  "pateoDias": "LUNES - MIÉRCOLES - VIERNES",
   "pateoTecnico": [
       {
-        "titulo": "Ap + Yop + Turn hips silla - Cuádriceps",
-        "enfoque": "Fortalecimiento de cuádriceps",
-        "reps": "30 reps / 2 series por pierna",
+        "titulo": "Ap chaguis dos bloques",
+        "enfoque": "Cuadriceps + equilibrio",
+        "reps": "30 reps / 1 serie por pierna",
         "tipo": "video",
-        "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
+        "url": "https://drive.google.com/file/d/1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa/view?usp=drive_link"
       },
       {
-        "titulo": "Balance  Ap + Dollyo + Yop - Cuádriceps",
-        "enfoque": "Fortalecimiento de cuádriceps en diferentes patadas y control",
+        "titulo": "Propuesta + ap chagui reps",
+        "enfoque": "Fortalecimiento de cuádriceps y control",
         "reps": "10 reps / 2 series por pierna",
         "tipo": "video",
-        "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
+        "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
       },
       {
-        "titulo": "Camara + L3 Koryo + L5 T5 (PUÑO DEBE ESTAR CERRADO)",
-        "enfoque": "Equilibrio y control",
-        "reps": "30 reps / 1 series por lado",
+        "titulo": "Ejercicio 1 - Yop Chagui",
+        "enfoque": "Fortalecimiento para explosividad de Yop Chaguis",
+        "reps": "10 reps / 2 series por pierna",
         "tipo": "video",
-        "url": "https://drive.google.com/file/d/15eKiPwUQSRQAutTZ1s1XD8s-stSXe9PE/view?usp=drive_link"
+        "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+      },
+      {
+        "titulo": "Ejercicio 2 - Yop Chagui",
+        "enfoque": "Fortalecimiento + control para explosividad de Yop Chaguis",
+        "reps": "10 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
       }
   ],
-  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
+  "poomsaeDias": "MARTES - JUEVES - SÁBADO (Aquí continuamos con estos ejercicios, pero hay que darle mayor explosividad",
   "poomsae": [
     {
       "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
-      "reps": "20 reps / 2 series",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
     },
     {
       "titulo": "Doble yop hold + landing L3 + L1 koryo",
-      "reps": "20 reps / 2 series",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
     },
     {
       "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
-      "reps": "20 reps / 2 series",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
     },
     {
       "titulo": "Olgul + Yop +Codazo - T5 L5",
-      "reps": "20 reps / 2 series",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf/view?usp=drive_link"
     },
     {
       "titulo": "Circuito Hold con banda L2 Koryo",
-      "reps": "20 reps / 2 series",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
     },
     {
       "titulo": "Propuesta + ap chagui reps",
-      "reps": "20 reps / 2 series",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
     },
     {
       "titulo": "Fortalecimiento de Tobillo con banda",
-      "reps": "20 reps por lado/ 2 series",
+      "reps": "20 reps por lado/ 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     },
     {
       "titulo": "Torcion cadera con banda",
-      "reps": "20 reps / 2 series",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "En Ap chaguis debemos de extender pierna de apoyo y llevar las ap chaguis como si fueran faciles de llevarlas en explosividad",
-    "No hacer la flexion y extension de la ap chagui como chicoteo, sino sostener pequeño instante en la maxima altura y despues flexionar con maxima velocidad",
-    "Todo el peso atras en las bom seoguis, esta vez se estuvo yendo hacia al frente",
-    "En ap chaguis estamos llevando incluso un poco la cadera hacia al frente, cuidado con esto porque ya lo habiamos corregido",
-    "El puño del costado hay que llevarlo hasta atrás, se está quedando un poco al frente"
+    "En T4 los movimientos los estamos haciendo ligeramente movimiento continuo, lo que significa que no estamoshaciendo corte",
+    "El movimiento de codazo hay que hacerlo a maxima velocidad pero con el corte",
+    "La entrada al area, debemos de hacerla con mayor seguridad, haciendo un estilo parecido al timing actual de las poomsaes actuales, el corte",
+    "Cuando correje los cortes los hace bien pero en el arranque tenemos que trabajar mas potencia ya que nos falta un poco mas de explosividad la salida",
+    "En los codazos de pyonwong el codo izquierdo está quedando mas abajo que el otro",
+    "Transicion de un lado al otro en la linea 3 de T5 está usando el talón para girar en vez de la bola del pie y tambien la encapsulación está algo abierta",
+    "En la L2 Taebaek, ya estamos moviendo mas el torso pero ahora estamos moviendo de mas, en el giro del brazo no hay que girar mas el torso, con la torsion del golpe es suficiente",
+    "Twit kubis y ap kubis debemos de hacerlas ligeramente mas grandes",
+    "En dollyo chagui debemos de regresar la pierna con mayor velocidad",
+    "En keumgang, debemos de darle el corte despues del giro para aguantar bien nuestro jakdari seogui",
+    "Marcar mas la linea 2 de T7, ya no es tan rapido y seguido",
+    "En las yops chaguis, debemos de jalar con mucho  ayor velocidad nuestra pierna, ya esta mucho mejor en extension y flexion, pero la velocidad para recoger aun debemos de darle maxima velocidad",
+    "En los movimientos de concentracion de T8 estamos llegando correctamente pero debemos de sostener un pequeño momento para marcar que si llegamos",
+    "En las ap chaguis de la linea 2 koryo las piernas de apoyo se están flexionando en la ejecucion de cada pateo",
+    "La ultima linea de T6 está luciendo con el timing anterior, hay que darle mayor velocidad y corte",
+    "Haremos el ajuste del timing en la linea 1 de keumgang, ya que esta muy rapido como en el anterior timng, debemos de llevarlo con maxima velocidad pero con cortes firmes"
   ],
   "notasFinales": [
-    "Agregamos algunos ejercicios esta semana que ya hemos hecho, esto para darle continuidad a fortalecimiento clave para nuestro pateo, ya que esta semaqna noté que su pierna de apoyo no se está extendiendo de forma correcta, debemos de trabajar en ello, si existe alguna lesión o dolor punzante favor de comentar campeón",
+    "En esta semana haremos algunos ejercicios nuevos y otros los seguiremos manteniendo con el objetivo claro de continuar trabajando en base a la explosividad que debemos de desarrollar, vamos por muy buen camino pero debemos de trabajar arduamente para que la explosividad de nuestro pateo comience a ser mas vistoso",
     "Cualquier duda, por favor comentame campeón",
-    "¡Feliz entrenamiento y a seguir dandole con todo que se vienen estupendos eventos!"
+    "¡Feliz entrenamiento champ"
   ]
 }
