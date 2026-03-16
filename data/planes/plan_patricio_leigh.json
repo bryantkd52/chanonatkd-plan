@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 8 de marzo",
+  "updated_at": "Actualizado dom 15 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 9 al 14 de marzo del 2026",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + trabajo de poomsae",
-  "enfoque": "A partir de esta semana vamos a comenzar nuestro enntrenamiento técnico de poomsae sin dejar de seguir fortaleciendo y estirando para estar en forma para nuestra competencia en abril",
+  "enfoque": "Continuamos con nuestra aceleración de progreso de poomsae con rumbo a nuestro proximo evento",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -135,15 +135,29 @@
       "reps": "20 reps",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1OYvukbpGdk6lz-MP725Wjz2mOEx9wWUN/view?usp=drive_link"
+    },
+    {
+     "titulo": "L1 Taeguk 8 - T8 L1",
+      "enfoque": "Salto + equilibrio + control de aterrizaje + ap chaguis",
+      "reps": "20 reps",
+      "tipo": "ejercicio (NO VIDEO)",
+      "url": "#"
+    },
+    {
+     "titulo": "L4 Taeguk 8 - T8 L4",
+      "enfoque": "Timing + velocidad + precisión",
+      "reps": "20 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1GCH6JTNZhtumNmek2I0UWW9auQgA9w6w/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "El objetivo es comenzar a trabajar con algunas partes de poomsaes para ir fortaleciendo y acostumbrando al cuerpo a regresar a la poomsae de competencia de forma progresiva (acelerada)",
-    "Debemos perder el miedo a los movimientos, transiciones, giros, saltos, etc, pero eso no significa que vayamos a sobre pasarnos, aun las otras areas de nuestro cuerpo que se debilitaron en la rehabilitacion de nuestro dedo aun siguen en fortalecimiento y proceso, pero ya es hora de trabajar de forma progresiva en nuestros movimientos",
-    "Estamos a tiempo, vamos a lograrlo"
+    "Llevamos muy buen trabajo con la flexibilidad y la fuerza, ahora tenemos que obligarnos a sentir las sensaciones que el pie debe de sentir en las lineas y partes de poomsae que necesitamos que nuestro pie comience trabajar",
+    "Hay que hacer los movimientos de corte, explosividad y maxima velocidad, pero siempre en base a los cortes, mantenga el instante de espera y después la explosividad",
+    "Patearemos con confianza, caer en nuestras patadas y posiciones en este momento es muy bueno,solo procure pensar en mantener la buena técnica y poco a poco dejaremos de caernos, pero no deje nunca de un lado la buena técnica"
   ],
   "notasFinales": [
-    "Procure mantener la firmeza de los movimientos y ejercicios, cuidando la tecnica y sin miedos a la exigencia, iremos progresando de manera increíble, solo no hay que darse porvencido, vamos a darle con todo",
+    "Nos mantendremos firmes hacia nuestro trabajo técnico y desarrollo de estabilidad acelerado en poomsae, lo estamos haciendo muy bien así que vamos a darle con todo, tenemos el tiempo perfecto",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
