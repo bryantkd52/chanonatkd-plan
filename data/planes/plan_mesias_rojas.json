@@ -1,15 +1,15 @@
 {
-  "updated_at": "Actualizado Dom 8 marzo",
+  "updated_at": "Actualizado Dom 15 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 9 al sábado 14 de marzo del 2026",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
-  "enfoque": "Continuidad del entrenamiento que llevamos esta semana, es importante que trabajemos con enfoque en el fortalecimiento y en la parte técnica para mejorar hacia nuestro objetivo",
- "chanonaflexDias": "MIERCOLES y SÁBADO · 1 serie",
+  "enfoque": "Los apuntes de poomsae es una de las partes mas importantes que leas antes de que entrenes",
+ "chanonaflexDias": "LUNES A VIERNES · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "Circuito Chanonaflex - Básico",
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
@@ -56,17 +56,94 @@
       "reps": "7 reps por pierna/ 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1RKv0EEWwS8ufeaAKt5BoiqD0PPVVWIxf/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Control, alineación y aterrizaje",
+      "reps": "10 reps por pierna/ 3 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
-  "poomsae": [],
+  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Taeguk 8 - Primer movimiento",
+      "enfoque": "Técnica + transicion + alineacion",
+      "reps": "10 reps/ 3 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1DWX9g7vzlLsRQGNNi4RxxlA4Cz3_pHiJ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Doble Ap Chagui + Aterrizaje - Taeguk 8",
+      "enfoque": "Técnica + aterrizaje + alineacion",
+      "reps": "10 reps/ 3 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mAlHFT6A4qise0_70UKO8UNcf_oJhjge/view?usp=drive_link"
+    },
+    {
+      "titulo": "Transicion a Ap Kubi + Golpe medio - T8",
+      "enfoque": "Técnica + transicion + alineacion",
+      "reps": "10 reps/ 3 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1eu5s_UIeGcIiWOGUHjUsm7q-dfxMbcwN/view?usp=drive_link"
+    },
+    {
+      "titulo": "Koryo L3 - Lado izquierdo",
+      "enfoque": "Técnica + transicion + alineacion",
+      "reps": "10 reps/ 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1d39Oz_ASS6Yb-BIUclGe9QrT-WP9BgwS/view?usp=drive_link"
+    },
+    {
+      "titulo": "Koryo L3 - Lado derecho",
+      "enfoque": "Técnica + transicion + alineacion",
+      "reps": "10 reps/ 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/116eSAk3WUKVvXneFxAAyuyrG0mu7pwIi/view?usp=drive_link"
+    },
+    {
+      "titulo": "Giro correcto keumgang - pies",
+      "enfoque": "Giro + control + alineacion",
+      "reps": "10 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Giro correcto keumgang - brazos",
+      "enfoque": "Giro + control + alineacion",
+      "reps": "10 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-/view?usp=drive_link"
+    },
+    {
+      "titulo": "Giro correcto keumgang - brazos",
+      "enfoque": "Giro + control + alineacion",
+      "reps": "10 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-/view?usp=drive_link"
+    },
+    {
+      "titulo": "Keumgang position + Yop Chagui - Pyonwong",
+      "enfoque": "Estabilidad + control + alineacion",
+      "reps": "10 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ePjQf4z7o0MsxC0D3yYTRhBevbpwOtFe/view?usp=drive_link"
+    }
+  ],
  
  
   "apuntes": [
-    "LEER NOTAS FINALES"
+    "Los movimientos en las poomsaes deben de ser firmes y potentes, eso es lo que estas buscando en cada ejecución sin embargo, estas tardando mucho para ejecutar, cuando preparar tardas un tiempo y luego ejecutas, hoy en dia en las marcaciones de las poomsaes deben de ser mas directas, tanto la preparación y las ejecuciones, por lo que toma en cuenta este punto para todas las poomsaes y enfocate principalmente en las que te van a preguntar en la competencia, esas son esenciales que enfoquemos unicamente en esas",
+    "Para las yops chaguis, procura poner mucha atencion a los videos que te pongo en especial en la parte de tecnico de pateo, ya que si pones atención verás cual es la ejecución correcta, aún así te lo explico aqui:",
+    "Cuando se ejecuta una yop chagui, se debe de marcar la flexion de la rodilla al pecho, luego de eso debemos de ejecutar la patada hacia el objetivo y no mover el torso ni torserlo, sino debemos de quedar fijos...en todos y cada uno de esos movimientos debemos de mantener los puños en el costado (o en el medio de nuestro cuerpo aunque es una pequeña deduccion) y la vista no se debe de despegar de la dirección en donde estamos pateando",
+    "En el caso de las ap chaguis, debemos de trabajar en específico en nuestra postura, ya que hacemos movimientos extras, te los menciono a continuación:",
+    "Movemos los brazos al cielo antes de ejecutar una ap chagui, los brazos deben de ir directo al pecho, y de ahí mantener la postura de la cadera, torso y vista fija al frente, incluso en el aterrizaje no debemos de mover esto a excepto cuando hacemos el movimiento que debemos de ejecutar",
+    "En las yop chaguis el hueso tibial debe de estar en todo momento mostrandose al frente (zona abdominal) ya que estás llevando tu rodilla hacia la direccion de la patada y no debe ser así, sino la rodilla al pecho y el filo del pie direccionando hacia donde vamos a patear",
+    "Los movimientos como golpes y defensas deben de ejecutarse a maxima velocidad pero no toda la poomsae debe de ser acelerada, sino hacer cortes, es decir, maxima velocidad de un movimiento y me quedo congelado por un pequeño pero notorio instante y luego continuar al siguiente movimiento"
   ],
   "notasFinales": [
-    "Continuamos trabajando en nuestros ejercicios para fortalecimiento y mejora de  nuestro pateo, fuerza y flexibilidad, sigo en espera de que me comentes como te sientes para que trabajemos en base a lo que necesitas",
+    "Como puedes notar puedes ver en las notas de poomsae que tenemos algunos puntos importantes que tomar en cuenta para mejorar nuestra poomsae, no te enfoques en hacer ENORMES cambios, enfocate unicamente en los puntos mas importantes que te menciono y harás que tu poomsae se vea muy diferente, lo demás es desarrollo de tiempo, por eso no te enfoques en los GRANDES cambios, sino en los ajustes que puedes hacer ahora mismo",
     "Cualquier duda, por favor coméntame",
     "¡Feliz entrenamiento!"
   ]
