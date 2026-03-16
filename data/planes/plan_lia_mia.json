@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 8 marzo",
+  "updated_at": "Actualizado dom 15 marzo",
   "nivel": "Nivel Avanzado",
-  "ciclo": "Lunes 9 al 14 de marzo del 2026",
-  "enfoque_corto": "Regreso a los entrenamientos con poomsae",
-  "enfoque": "Poomsae + precisión + ejercicios específicos",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "enfoque_corto": "Afinar detalles rumbo al regional",
+  "enfoque": "Poomsae + precisión + corte de poomsae",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -19,71 +19,16 @@
       "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUNES - MIERCOLES - VIERNES",
-  "isometrico": [
-    {
-      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO"]
-    },
-    {
-      "titulo": "Isométrico activo - Yop Chagui - NIVEL 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO"]
-    },
-    {
-      "titulo": "Isométrico activo - Dollyo Chagui - Nivel 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO"]
-    }
-  ],
-  "pateoDias": "MARTES - JUEVES - SABADO",
-  "pateoTecnico": [
-      {
-        "titulo": "Propuesta + empuje - Ap Chagui",
-        "enfoque": "Fortalecimiento de cuádriceps",
-        "reps": "20 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
-      },
-      {
-        "titulo": "L2 Koryo - hold en ap chaguis",
-        "enfoque": "Fortalecimiento de cuádriceps en diferentes patadas y control",
-        "reps": "10 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1lww5GhU6ZYxtSnnqkniIr04Snu6H3A-L/view?usp=drive_link"
-      },
-      {
-        "titulo": "Linea 3 Koryo - Sentadilla y camara",
-        "enfoque": "Fortalecimiento de cadera",
-        "reps": "10 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
-      },
-      {
-        "titulo": "Yop Chagui - Taeguk 5 T5 - L5",
-        "enfoque": "Control + formeza + tecnica y rodilla",
-        "reps": "10 reps / 2 series por pierna (no abrir la mano)",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1ML3DfsZnfUfFqbMbONSu70lKJNb8repM/view?usp=drive_link"
-      }
-  ],
-  "poomsaeDias": "LUNES A SÁBADO",
+  "isometricoDias": "NO EN ESTA SEMANA",
+  "isometrico": [],
+  "pateoDias": "NO EN ESTA SEMANA",
+  "pateoTecnico": [],
+  "poomsaeDias": "LUNES A MARTES",
   "poomsae": [
       {
-        "titulo": "Linea 1, 2 y 3 - Taeguk 4 a Taebaek",
-        "enfoque": "Mia - Timing + precisión + marcación",
-        "reps": "10 reps por linea / 1 serie",
-        "tipo": "Ejercicio - No video",
-        "url": "#"
-      },
-      {
-        "titulo": "Linea 1, 2 y 3 - Taeguk 5 a Pyonwong",
-        "enfoque": "Lía - Timing + precisión + marcación",
-        "reps": "10 reps por linea / 1 serie",
+        "titulo": "Simulación competencia - Primera poomsae a la ultima y así sucesivamente con entrada y salida",
+        "enfoque": "Timing + precisión + marcación + seguridad",
+        "reps": "1 reps por simulación con dos poomsaes",
         "tipo": "Ejercicio - No video",
         "url": "#"
       }
@@ -94,12 +39,36 @@
     "En el caso de Mia en taebaek, la linea dos los hombros están quedando fijos, estos se deben de mover en cuanto hacemos el movimiento circular del brazo para defensa",
     "En el caso de Lía, en la linea 3 de taebaek debemos  de marcar las preparaciones de cada uno de los movimientos de mano, ya que cuando preparamos el golpe en específico el otro brazo esta quedando fijo en vez de girar la muñeca como preparación",
     "En el caso de Mía, la línea 3 debe de regresar la rodilla al pecho, no hacia  atras",
-    "Continuar practicando en referente a nuestros haktaris seoguis en keumgang, practicar con los puntos que vimos en clase en referente a este movimiento, por ejemplo rodillas, postura, apretar abdomen y espalda recta"
+    "Continuar practicando en referente a nuestros haktaris seoguis en keumgang, practicar con los puntos que vimos en clase en referente a este movimiento, por ejemplo rodillas, postura, apretar abdomen y espalda recta",
+    "Lia, las ap kubis las está llevando hacia afuera en taeguk 8",
+    "En pyonwong cuando intenta asegurar de más, pierde mas el equilibrio",
+    "Mia en taeguk 7 En la transicion de kawi a kawi maki, nos atrasamos un poco, las transiciones deben de ser en la maxima velocidad",
+    "El ultimo paso de la linea 1 de T8 aun le falta mas explosividad, especificamente la pierna",
+    "Los golpes medios están tan solo un poco mas abajo del flexo, debe ser justo en la boca del estomago",
+    "Lia, en la linea 2 las que parecen ap kubis no son ap kubis, son posiciones paralelas en diagonal",
+    "En pyonwong, la haktari seogui a Yop, cuando llega a haktari seogui el torso lo esta llevando hacia atras desde ahí y debe de estar en linea",
+    "El movimiento de cruce de la linea 5, deben de ser muñeca con muñeca",
+    "En taeguk 8, en el aterrizaje la pierna que cae está muy hacia adentro, debe de ser lineal solo apretando rodilla, no toda la pierna",
+    "Lia, en la linea 3 de T5, la pierna trasera de la pierna trasera se está semiflexionando, cuidado ahí",
+    "La camara de regreso de las yops estan muy abajo",
+    "En T4 con Mia, hay que buscar la alineacion de las yops, metiendo la rodilla al pecho",
+    "Lía, En la linea 2 de Taebaek, todo bien pero los hombros están quedando estaticos, deben de torser",
+    "En el primer mov de taebaek y el tercero donde los brazos abiertos, estan en linea con las piernas y deben de estar en la linea de cuadriceps",
+    "En el caso de Mía, Las yop chaguis salieron mejor sin embargo tiene una ligera ejecucion de dollyo",
+    "En la linea 3 de taebaek, las twit kubis están luciendo ligeramente hacia hacia al cebntro lo que es el peso",
+    "Mía en la linea 1 de taeguk 4 la comienza super bien pero a partir de la linea 2 baja el ritmo en toda la poomsae",
+    "Las defensas de linea 1 de keumgang las estamos preparando desde atras y debe ser desde 45  grados desde los lados",
+    "En la linea 2 de T8 con Mia, el brazo que prepara enfrente y va al hombro lentamente, se esta querdando ahí y debe irse movimento a la par del otro aue viene desde la cintura",
+    "En el caso de Lia, hay que poner especial atencion a las bom seoguis y las ap chaguis a la mano en taeguk 7, ya que las bom estan grandes y las aps estan ejecutando desde afuera",
+    "Lia prepara muy bien los golpes laterales de keumgang pero al ejecutarlas hace movimiento extra como impulso, hay que quitar ese impulso extra y sacarlo directo incluso si no se siente del todo super fuerte, lo máximo de fuerza que pueda dentro de la ejecución directa",
+    "Mía, procure sacar la primera patada en taeguk 8, la primera de las dos en la linea 1",
+    "Los movimientos marcados estan super bien, pero algunas veces se ven un poco lentos los movimientos, cuidado con eso, siempre equilibrar esa parte",
+    "En koryo, en la linea uno, el movimiento que se hace al aterrizar (golpe al cuello) no lo está preparando, la preparación debe de ser en mano abierta arriba del pecho justo cuando hacemos cámara en la segunda yop chagui"
 
   ],
   "notasFinales": [
-    "Seguimos en nuestro camino rumbo al regional, hay que pulir muy bien nuestro timing y marcación de cada movimiento justamente para ir con todo en nuestro proximo gran evento",
-    "Cualquier duda, por favor comentenme campeonas",
-    "¡Mucho exito en sus entrenamientos!"
+    "Esta semana es magnífica, ya es nuestro regional y siendo honesto van avanzando super bien, a partir de ahora la mentalidad debe de estar en los puntos que se mejoró pero sobre todo imagínense estando en el área HACIENDOLO BIEN, es momento de preparar a la mente, pero a su vez también disfruten del viaje, del equipo, vayan concentradas pero procuren disfrutar que es parte de esto",
+    "Cualquier duda, por favor comentenme campeonas, confío en ustedes",
+    "¡Mucho exito!"
   ]
 }
