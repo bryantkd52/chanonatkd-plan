@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 22 feb",
+  "updated_at": "Actualizado dom 15 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 23 al sábado 28 febrero del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo de poomsae Sipjin y Taeguk 4",
-  "enfoque": "En esta semana de daremos seguimiento al entrenamiento de flexibilidad, fuerza isométrica y técnico de pateo, también continuamos forjando las bases importantes de sipjin t Taeguk 4 desde la mayor profundidad para garantizar la mejora de estas poomsaes",
+  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo de poomsae Taeguk 4",
+  "enfoque": "Continuamos con el avance de taeguk 4 y agregamos los audios de timings de las poomsaes de la 1 a la 3",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -56,60 +56,19 @@
   "poomsaeDias": "LUN - MIE - JUE",
   "poomsae": [
     {
-      "titulo": "Codazo y giro transición  - Sipjin",
+      "titulo": "Audio de los timings de las poomsaes 1, 2 y 3",
       "enfoque": "Repetición + técnica + precisión",
-      "reps": "30 reps por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1l1FslN_EqKiSAWoftVnr3lU3RWYDCTVD/view?usp=drive_link"
-    },
-    {
-      "titulo": "Golpe lateral - Sipjin",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "30 reps por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Gud8KNuejyuRFyckdV_bmVOEBwtOQR18/view?usp=drive_link"
-    },
-    {
-     "titulo": "Segundo Movimiento - Sipjin",
-      "enfoque": "Repetición + técnica + precisión + precisión",
-      "reps": "30 reps por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
-    },
-    {
-     "titulo": "L2 Taeguk 7 - T7 L2",
-      "enfoque": "Reps rumbo a Sipjin + precisión",
-      "reps": "30 reps lado izquierdo",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/12F-yyH4XJl3A4FRt_3biwxE0th5Mtsq1/view?usp=drive_link"
-    },
-    {
-     "titulo": "Linea 1 - Sipjin",
-      "enfoque": "Timing de la linea 1 de Sipjin",
-      "reps": "Lo necesario",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1BKu2yoomL1Yn6vw3YYOwDmk3romZKu3p/view?usp=drive_link"
-    },
-    {
-     "titulo": "Linea 2.2 - Sipjin",
-      "enfoque": "Timing de la linea 2 de Sipjin",
-      "reps": "Lo necesario",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1SxEGXg_VH8vXayssxoCLui_H873u1NJY/view?usp=drive_link"
-    },
-    {
-     "titulo": "Transicion manos y pies L1 T4",
-      "enfoque": "Correcta transicion de Taeguk 4 con el golpe",
-      "reps": "30 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SxEGXg_VH8vXayssxoCLui_H873u1NJY/view?usp=drive_link"
+      "reps": "Analisis de cada timing",
+      "tipo": "audios",
+      "url": "Incluye los audios de timings de las poomsaes de la 1 a la 3"
     }
   ],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana continuamos entrenando nuestra parte física a su vez sipjin y Taeguk 4 junto al timing de sipjin, esto con la intensión de seguir perfeccionando esta poomsae desde las bases profundas de esta poomsae",
+    "Esta semana continuamos entrenando de forma específica y profunda en nuestro entrenamiento de Taeguk 4",
+    "Le compartí la carpeta con los audios de los timings de taeguk 1 a la 3, espero le sea de mucha ayuda",
     "Cualquier duda, por favor comenteme",
     "¡Feliz entrenamiento!"
   ]
