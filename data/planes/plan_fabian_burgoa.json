@@ -56,11 +56,32 @@
   "poomsaeDias": "LUN - MIE - JUE",
   "poomsae": [
     {
-      "titulo": "Audio de los timings de las poomsaes 1, 2 y 3",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "Analisis de cada timing",
-      "tipo": "audios",
-      "url": "Incluye los audios de timings de las poomsaes de la 1 a la 3"
+      "titulo": "Timing - Poomsae Taeguk 1",
+      "enfoque": "Ritmo + técnica + precisión",
+      "reps": "Ritmo de poomsae completa",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1Osjpm45GDBwaZL2ZNTrh6rM9obakMTG3/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing - Poomsae Taeguk 2",
+      "enfoque": "Ritmo + técnica + precisión",
+      "reps": "Ritmo de poomsae completa",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/153in4ZZtofBlf44rwqhrtyyIwBUrU9_8/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing - Poomsae Taeguk 3",
+      "enfoque": "Ritmo + técnica + precisión",
+      "reps": "Ritmo de poomsae completa",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1bquwnq6Y9_hq12xGclMuhlcyEqwbqCrl/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing - Poomsae Taeguk 4",
+      "enfoque": "Ritmo + técnica + precisión",
+      "reps": "Ritmo de poomsae completa",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1GP9xzelmZAbrDWCGC8Dk6gdEv0EBX_3c/view?usp=drive_link"
     }
   ],
   "apuntes": [
@@ -68,7 +89,7 @@
   ],
   "notasFinales": [
     "Esta semana continuamos entrenando de forma específica y profunda en nuestro entrenamiento de Taeguk 4",
-    "Le compartí la carpeta con los audios de los timings de taeguk 1 a la 3, espero le sea de mucha ayuda",
+    "Ya contamos con los timings de las 4 poomsaes de la 1 a la 4, le puse los audios completos para practicar de forma directa toda la poomsae",
     "Cualquier duda, por favor comenteme",
     "¡Feliz entrenamiento!"
   ]
