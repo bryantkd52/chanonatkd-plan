@@ -1,0 +1,92 @@
+{
+  "updated_at": "Actualizado dom 23 de marzo",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 23 al sábado 28 de marzo del 2026",
+  "enfoque_corto": "Flexibilidad + Fuerza isométrica + Ejercicio de poomsae",
+  "enfoque": "Bienvenido a tu plan de entrenamiento ChanonaTKD, aquí verás todo lo que tienes que trabajar semana a semana, para que no te pierdas en ejercicios genéricos sino únicamente lo que necesitas trabajar cada día",
+ "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+     {
+      "titulo": "Yop Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio.mp4",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "LUNES A SÁBADO",
+  "pateoTecnico": [
+     {
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Fortalecimiento y estabilidad en Ap Chagui",
+      "reps": "20 reps * pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Fortalecimiento y cadera en Yop Chagui",
+      "reps": "20 reps * pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "LUNES - MIERCOLES - VIERNES",
+  "poomsae": [
+    {
+      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
+      "enfoque": "Fortalecimiento de tobillo para mejorar la estabilidad",
+      "reps": "20 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+    },
+    {
+      "titulo": "Torcion cadera con banda",
+      "enfoque": "Fortalecimiento para mejorar torsión de cadera",
+      "reps": "20 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chuchum + Giro + Jakdari +  Yop - Ejercicio",
+      "enfoque": "Coordinacion + tecnico + pateo",
+      "reps": "10 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1z0tEpdciDc-QqCm2AqdcJ8Q-wZrUhZ3Z/view?usp=drive_link"
+    }
+  ],
+  "apuntes": [
+    "LEER NOTAS FINALES"
+  ],
+  "notasFinales": [
+    "En este primer plan de entrenamiento, vamos a trabajar específicamente en desarrollar las bases y cimientos de poomsae de competencia  profesional, esto con la intensión de mejorar y trabajar a niveles mas exigentes",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento y bienvenido a ChanonaTKD!"
+  ]
+}
