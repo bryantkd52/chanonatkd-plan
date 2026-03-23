@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 15 marzo",
+  "updated_at": "Actualizado dom 22 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 de febrero del 2026",
-  "enfoque_corto": "Flexibilidad + Técnico pateo + taeguk 4 L2",
-  "enfoque": "Seguimos trabajando taeguk 4 desde las bases profundas - Linea 2",
+  "ciclo": "Lunes 23 al sábado 28 de febrero del 2026",
+  "enfoque_corto": "Flexibilidad + Técnico pateo + poomsae",
+  "enfoque": "Retomar entrenamientos despues del regional y prepararnos mas fuerte para el nacional",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -45,50 +45,33 @@
      {
       "titulo": "Silla + Ap Chaguis 3 niveles",
       "enfoque": "Cuádriceps + Equilibrio",
-      "reps": "7 reps / 2 series",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
     },
     {
       "titulo": "Linea 3 Koryo - Sentadilla y camara / apoyo con barra o silla",
       "enfoque": "Estabilidad + técnica + fuerza",
-      "reps": "3 reps / 2 series",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
     },
     {
       "titulo": "Doble yop hold - landing L3 koryo - Apoyo de barra o silla",
       "enfoque": "Control + técnica + fuerza",
-      "reps": "5 reps / 1 serie",
+      "reps": "7 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUN - MIE - JUE",
-  "poomsae": [
-    {
-      "titulo": "L2 yop T4",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1StxC0IrzsXGfH-0_GjXyw50Zdlc9OpSF/view?usp=drive_link"
-    },
-    {
-     "titulo": "Transicion pies  L1 a la 2 t4",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1suck_5kr_r1wYcW9w2aHpnQJv2huaFcQ/view?usp=drive_link"
-    }
-  ],
+  "poomsae": [],
   "apuntes": [
-    "Hay que marcar mas la camara que hacemos justo despues de la ap chagui, es decir quedarnos un pequeño instante arriba en flexion y justo después hacemos nuestra ejecucion de golpe medio",
-    "En yop chaguis, es muy importante que podamos ejecutar nuestras patadas de forma lineal, aunque primero debes de cuidar el dolor en el flexor de la cadera, la otra pierna la puedes continuar trabajando",
-    "El enfoque que debes de tener en especifico en las yops, es llevar el hueso tibial frente a la zona abdominal en cuanto jales la rodilla al pecho y justo despues regresarla al mismo lugar y postura despues de la ejecucion de la yop chagui, siempre direccionando con el filo del pie la patada",
-    "Nuestra preparacion del golpe de cuchillo en el primer movimiento en la transicion de la linea 1 a la 2 de esta poomsae debemos de hacerla con el brazo mas extendido mientras que el otro que hace olgul makki con mano abierta debe de ser pegado al cuerpo para despues ejecutarse de la forma mencionada anteriormente"
+    "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Esta semana continuamos viendo nuestro taeguk 4, continuamos mejorando y aprendiendo a profundidad de esta poomsae de forma muy espeçifica, los ejercicios deben de ser suaves, progresivos y con precaución, por lo que cualquier duda por favor campeón, comenteme a la brevedad y le apoyo",
-    "¡Feliz entrenamiento!"
+    "En esta semana, vamos a bajar la carga de entrenamiento pero como viene el nacional no debemos de PARAR por  completo, ya que no sería sano para el  cuerpo, hay que ir bajando progresivamente para luego subir nuevamente la carga en cuanto se venga el nacional",
+    "Campeon, muchas felicidades por ese pase al nacional, ahora se viene lo bueno y usted tiene una gran ventaja, ustedes como estado y region son los primeros en tener lugares para el nacional, lo que les da la oportunidad de poder prepararse con mucho enfoque y carga fuerte de entrenamiento antes de nuestro gran evento",
+    "Feliz semana post competencia, seguimos dandole con todo"
   ]
 }
