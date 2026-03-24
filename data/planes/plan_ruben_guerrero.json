@@ -1,16 +1,22 @@
 {
-  "updated_at": "Actualizado dom 15 de marzo",
+  "updated_at": "Actualizado dom 22 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
-  "enfoque_corto": "Flexibilidad + Fortalecimiento con Jakdari Seogui de keumgang",
-  "enfoque": "Esta semana trabajaremos con enfoque en keumgang, pero con una exigencia ligeramente menor ya que se viene competencia en unos días",
- "chanonaflexDias": "DIARIO · 1 serie",
+  "ciclo": "Lunes 23 al sábado 28 de marzo del 2026",
+  "enfoque_corto": "Flexibilidad + isometrico activo + tecnico de poomsae",
+  "enfoque": "Esta semana estaremos entrenando especificamente en los puntos de correccion en base a nuestra participacion en el fin de semana pasado",
+ "chanonaflexDias": "Lunes a sabado",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Intermedio",
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "LUNES - MIERCOLES - SABADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE",
@@ -19,6 +25,18 @@
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
@@ -55,19 +73,33 @@
   ],
   "poomsaeDias": "LUN - MIE - JUE",
   "poomsae": [
-    {
-        "titulo": "Simulación competencia - Primera poomsae a la ultima y así sucesivamente con entrada y salida",
+      {
+        "titulo": "Giro correcto keumgang - pies",
         "enfoque": "Timing + precisión + marcación + seguridad",
-        "reps": "1 reps por simulación con dos poomsaes",
-        "tipo": "Ejercicio - No video",
-        "url": "#"
+        "reps": "30 reps por lado / 1 serie",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
+      },
+      {
+        "titulo": "Giro correcto keumgang - Brazos",
+        "enfoque": "Timing + precisión + marcación + seguridad",
+        "reps": "30 reps por lado / 1 serie",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-/view?usp=drive_link"
+      },
+      {
+        "titulo": "Línea 1 Taeguk 7",
+        "enfoque": "Timing + precisión + marcación + seguridad",
+        "reps": "30 reps / 1 serie",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1T-Z7RUtNLaBebIKtihzZbgumhMoUlNCG/view?usp=drive_link"
       }
   ],
   "apuntes": [
-    "Esta semana aunque viene una competencia de exigencia no mayor, vamos a aprovecharla para trabajar en nuestra preparación pre competencia, esto nos da idea y firmeza para ir viendo errores, posturas y más cuando se trata de estar listos antes de una competencia, así que trabajaremos en base a la simulación de competencia, entrada, poomsae y salida, esto nos da idea de los errores que tenemos que mejorar, aprovechamos a mejorarlas y ver como se comportan esas mejoras en competencia"
+    "Los puntos de mejora analizando los videos en realidad son muy buenos, ya que en realidad son detalles que hoy en dia son finos para los jueces, no estoy diciendo que estamos perfectos pero el nivel de mejora que tenemos y que hemos venido mejorando en estos meses es brutal porque hay posturas y movimientos que me estas mejorando de forma ya inconsciente, lo que realmente se busca para hacer bien los movimientos de forma natural, por lo que me queda es feliicitarte por el excelente progreso que has tenido, seguimos dandole con todo como se debe"
   ],
   "notasFinales": [
-    "Esta semana bajamos la carga ligeramente o considerablemente para ir probandonos como vamos rumbo a competencias, procura controlar tu 100% en cada una de las repeticiones para evitar lesiones pero a su vez ir viendo como nos sentimos dando nuestro 100% para corregir errores, mandame videos si es necesario para que pueda apoyarte en que mas cosas hay que mejorar y procurar tomar este proximo evento para checar eso",
+    "Reiniciamos y volvemos a los entrenamientos incluso un poco mas exigentes pero suficientes para mejorar en todos los sentidos y como te comenté en los apuntes de poomsae, vamos mejorando de manera brutal que se notan muchas buenas cosas que haces de forma natural y eso es estupendo, ahora a seguirle dando con todo en los otros detalles importantes",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento y competencia!"
   ]
