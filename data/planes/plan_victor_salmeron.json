@@ -1,7 +1,7 @@
 {
-  "updated_at": "Actualizado dom 15 marzo",
+  "updated_at": "Actualizado Dom 22 marzo",
   "nivel": "Nivel Avanzado Progresivo",
-  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "ciclo": "Lunes 23 al sábado 28 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + isométrico activo + preparación en poomsae",
  "chanonaflexDias": "3 veces por semana · 1 serie",
   "chanonaflex": [
@@ -21,7 +21,7 @@
       "tags": ["FUERZA, FORTALECIMIENTO"]
     }
   ],
-  "pateoDias": "MIERCOLES - VIERNES (Continuamos con estos ejercicios)",
+  "pateoDias": "MIERCOLES - VIERNES (¿Puedes comentarme como te sientes con estos ejercicios?)",
   "pateoTecnico": [
      {
       "titulo": "Ap Chagui 3 niveles",
@@ -60,6 +60,13 @@
       "reps": "30 reps por movimiento / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1fGnJpeisQzle1Teq1n6_gnGpIKLyd3Si/view?usp=drive_link"
+    },
+    {
+      "titulo": "Victor - Taeguk 1 - Online Training",
+      "enfoque": "Corrección técnica + Taeguk 1",
+      "reps": "30 reps por movimiento / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1xQkawHhONY7V36FaAuEz1R8Iv5bSbomM/view?usp=drive_link"
     }
   ],
   "apuntes": [
@@ -67,11 +74,17 @@
     "Cuando hacemos la preparación del Are Makki, estamos llevando los hombros hacia atras, es decir mayor torsión hacia el lado donde van los brazos, sin emabrgo no debemos de torser ya que literalmente estamos torcidos para la direccion que debemos de ir",
     "La preparación del brazo asistente en el golpe se debe preparar hacia la dirección donde vamos a golpear, pero nunca torcido hacia adentro, dece tener ligera flexion pero aun con dirección hacia al frente",
     "En el caso de los pies, cuando avanzamos de Ap Seogui a Ap Seogui, debemos de llevar el pie de forma directa, no haciendo transición por dentro, sino directo de forma lineal",
-    "Cuando hacemos el giro de transición debemos de llevar de forma paralela los pies en todo momento/el giro, no llegando primero un pie y luego girar, sino llevar todo el cuerpo en el giro"
+    "Cuando hacemos el giro de transición debemos de llevar de forma paralela los pies en todo momento/el giro, no llegando primero un pie y luego girar, sino llevar todo el cuerpo en el giro",
+
+    "Correcciones nuevas",
+    "Ya nos vamos viendo mejor, pero tenemos más cosas por mejorar, como por ejemplo la muñeca del brazo que está haciendo are makki, se está yendo hacia afuera, debemos alinearlo hacia adentro",
+    "Debemos de buscar en todas las transiciones de movimiento, cambios de direccion, el girar la vista a la prar que vamos preparando, no despues de ejecutar o exactamente el ejecutar, debe de ser justo cuando estamos preparando el movimiento",
+    "Cuando ejecutamos ApKubis debemos de girar la cadera, en busqueda de hacer el movimiento con maxima potencia y que así se vea justamente potente a nivel técnico",
+    "Cuando preparamos montong makki, los dedos deben de estar viendo hacia afuera, no hacia adentro, ya cuando ejecutamos ahí si debe ser hacia adentro"
   ],
   "notasFinales": [
-    "Los apuntes de poomsae los actualizaré cada dos semanas para que puedas verlos y trabajar durante dos semanas en base a esas correcciones que debemos de hacer, después de nuestra clase de jueves se actualizará a lo nuevo",
-    "Continuamos trabajando con toda la energía, cualquier cosa por  favor comentame, vas excelente",
+    "Mantuve los apuntes de poomsae de hace dos semanas, para que te mantengas viendolos y tambien te iré actualizando los nuevos apuntes, por lo que va a ser como un buen historial en donde iremos viendo los errores anteriores o los que aun debemos de seguir trabajando",
+    "Que alegría verte mejorar!!! cualquier cosa por  favor comentame, vas excelente",
     "¡Feliz entrenamiento!"
   ]
 }
