@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 15 marzo",
+  "updated_at": "Actualizado dom 22 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "ciclo": "Lunes 23 al sábado 28 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo de poomsae Taeguk 4",
-  "enfoque": "Continuamos con el avance de taeguk 4 y agregamos los audios de timings de las poomsaes de la 1 a la 3",
+  "enfoque": "Continuamos con el avance de taeguk 4 y agregamos los audios de timings de las poomsaes de la 1 a la 4 más correcciones de Sipjin",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -22,7 +22,7 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB / BANDA ELÁSTICA Y APOYO BARRA",
+  "pateoDias": "MAR - JUE - SAB (continuamos con estos ejercicios)",
   "pateoTecnico": [
      {
       "titulo": "Circuito Hold con banda L2 Koryo",
@@ -82,6 +82,27 @@
       "reps": "Ritmo de poomsae completa",
       "tipo": "audio",
       "url": "https://drive.google.com/file/d/1GP9xzelmZAbrDWCGC8Dk6gdEv0EBX_3c/view?usp=drive_link"
+    },
+    {
+      "titulo": "Primer Mov Sipjin",
+      "enfoque": "Técnica + dirección",
+      "reps": "30 reps / 1 serie",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1V6_zfIyng5pZ23wStNHzs1jJ_6O5Rg6Q/view?usp=drive_link"
+    },
+    {
+      "titulo": "Segundo Mov Sipjin",
+      "enfoque": "Técnica + dirección",
+      "reps": "30 reps / 1 serie",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/13BOvQITRDMKgB_mPFoW7rFI9Vo7NwFiB/view?usp=drive_link"
+    },
+    {
+      "titulo": "Segundo Mov Sipjin - golpes",
+      "enfoque": "Técnica + dirección",
+      "reps": "30 reps / 1 serie",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
     }
   ],
   "apuntes": [
@@ -90,7 +111,8 @@
   "notasFinales": [
     "Esta semana continuamos entrenando de forma específica y profunda en nuestro entrenamiento de Taeguk 4",
     "Ya contamos con los timings de las 4 poomsaes de la 1 a la 4, le puse los audios completos para practicar de forma directa toda la poomsae",
+    "Ya contamos con los videos nuevamente de sipjin para que continúe entrenando, sin embargo le sugiero que guarde los links en algun bloc de notas ya que al actualizar se perderá",
     "Cualquier duda, por favor comenteme",
-    "¡Feliz entrenamiento!"
+    "¡Feliz entrenamiento, maestro!"
   ]
 }
