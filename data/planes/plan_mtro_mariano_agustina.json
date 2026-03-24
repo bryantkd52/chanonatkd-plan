@@ -1,7 +1,7 @@
 {
-  "updated_at": "Actualizado dom 15 marzo",
+  "updated_at": "Actualizado dom 22 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "ciclo": "Lunes 23 al sábado 28 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo",
   "enfoque": "Esta semana trabajamos la estabilidad y fuerza aplicada directamente a las patadas, también agregaré las patadas de giro 360 para que las tengan con ustedes siempre que quieran practicarla",
  "chanonaflexDias": "LUN A SAB · 1 serie",
@@ -11,6 +11,12 @@
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "LUNES - MIERCOLES - SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
@@ -37,6 +43,13 @@
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
+      "titulo": "Descendente adentro Paso a paso",
+      "enfoque": "Paso a paso + patada descendente",
+      "reps": "10 reps / 2 series por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1s6_JEuvoZvwTcJxCuI974SrUUY2wpJqD/view?usp=drive_link"
+    },
+    {
       "titulo": "Circular + Gancho - Paso 5",
       "enfoque": "Paso a paso + Circuito de movimiento",
       "reps": "10 reps / 1 serie por lado",
@@ -78,7 +91,8 @@
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Nuestro entrenamiento de estabilidad y desarrollo de fuerza del día miercoles fue brutal y a su vez muy productivo porque nos mostró justamente lo que necesitamos trabajar, y debemos continuar en base a ese ejercicio, ya que no es agresivo y potencialmente exigente",
+    "Seguimos trabajando en base a nuestra buena estructura y alineacion de pateo, fortaleciendo, desarrollando  de forma positiva y sobre todo manteniendo la potencia que buscamos tener dentro de la flexibilidad",,
+    "En esta ocasion agregamos una patada nueva que es la descendente",
     "Cualquier duda, por favor comentenme",
     "¡Feliz entrenamiento!"
   ]
