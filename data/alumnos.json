@@ -220,6 +220,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Marzo",
     "objetivo_proximo": "Gimnasiada nacional"
+  },
+
+  "scarlet_arianna": {
+    "nombre": "Scarlet Arianna",
+    "plan": "plan_scarlet_arianna.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Marzo",
+    "objetivo_proximo": "Mejorar poomsae a nivel competitivo"
   }
 
 }
