@@ -1,0 +1,82 @@
+{
+  "updated_at": "Actualizado dom 22 marzo",
+  "nivel": "Nivel dragones",
+  "ciclo": "Lunes 23 al sábado 28 de marzo del 2026",
+  "enfoque_corto": "Timing + fortalecimiento",
+  "enfoque": "Precisión de movimientos, velocidad y ejercicios de corte en poomsae",
+  "isometricoDias": "MARTES - JUEVES",
+  "isometrico": [
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Dollyo Chagui - - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1y02E8_WF2d624jJWJvinIn2oNIBcbXcc/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "LUNES - MIÉRCOLES - VIERNES",
+  "pateoTecnico": [
+      {
+        "titulo": "Ap chaguis dos bloques",
+        "enfoque": "Cuadriceps + equilibrio",
+        "reps": "10 reps / 1 serie por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa/view?usp=drive_link"
+      },
+      {
+        "titulo": "Ejercicio 1 - Yop Chagui",
+        "enfoque": "Fortalecimiento para explosividad de Yop Chaguis",
+        "reps": "10 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+      },
+      {
+        "titulo": "Ejercicio 2 - Yop Chagui",
+        "enfoque": "Fortalecimiento + control para explosividad de Yop Chaguis",
+        "reps": "10 reps / 2 series por pierna",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
+      }
+  ],
+  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Propuesta + ap chagui reps",
+      "reps": "10 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Fortalecimiento de Tobillo con banda",
+      "reps": "10 reps por lado/ 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+    },
+    {
+      "titulo": "Torcion cadera con banda",
+      "reps": "10 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+    }
+  ],
+  "apuntes": [
+    "Comenzamos trabajando con Taeguk 7 en el cual vimos puntos importantes para comenzar a trabajar durante la semana, en este plan de entrenamiento usted tendrá la estructura necesaria para entrenar, no mas ni menos, si algo no se siente muy bien por favor comenteme",
+    "Los ejercicios  de isometricos pueden ser algo complejos de hacer, sin embargo es de los ejercicios mas poderosos que nos ayudan a justamente mejorar a niveles muy potentes...por lo que en la medida de que pueda aguantar haciendolo correctamente será lo mejor, de lo contrario solamente haga hasta el punto que pueda aguantar campeona"
+  ],
+  "notasFinales": [
+    "Comenzamos entrenando y aprendiendo muchas cosas importantes sobre taeguk 7, ahora es momento de que usted le de seguimiento, pero si algo no tiene muy claro es mejor que me pregunte y yo le resuelvo  la brevedad posible",
+    "Cualquier duda, por favor comentame campeona",
+    "¡Feliz entrenamiento champ"
+  ]
+}
