@@ -1,0 +1,71 @@
+{
+  "updated_at": "Actualizado dom 23 de marzo",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 30 de marzo al sábado 4 de abril del 2026",
+  "enfoque_corto": "Flexibilidad + Fuerza isométrica",
+  "enfoque": "Iniciar el entrenaiento de flexibilidad y fuerza para pateo, forjando las bases principales e importantes para nuestro pateo",
+ "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES - MIERCOLES - VIERNES",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUNES A SABADO (VERIFICA LOS DIAS POR EJERCICIO)",
+  "isometrico": [
+     {
+      "titulo": "Yop Chagui - NIVEL 1 / LUNES - JUEVES",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Ap Chagui - NIVEL 1 / MARTES - SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio / MIERCOLES  - VIERNES",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "LUNES A SÁBADO",
+  "pateoTecnico": [
+     {
+      "titulo": "propuesta + ap chagui reps",
+      "enfoque": "Fortalecimiento + estiramiento",
+      "reps": "10 reps / 1 serie por pierna",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Fortalecimiento + técnica",
+      "reps": "10 reps / 1 serie por pierna",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
+  "poomsae": [],
+  "apuntes": [
+    "LEER NOTAS FINALES"
+  ],
+  "notasFinales": [
+    "Te damos la mas cordial bienvenida a tu plan de entrenamiento ChanonaTKD System, en este plan, encontrarás los ejercicios y las indicaciones divididas por secciones para mejor estructura visual, facilidad para encontrar los ejercicios que hay que hacer y en base a un plan dedicado para mejorar tu pateo y flexibilidad",
+    "Es importante que tengas el respectivo cuidado de hacerlo en base a tus limitantes, no te sobre exijas y procura hacer los ejercicios con cuidado, con el estiramiento, lubricación y flexibilidad previa para evitar lesiones, nada de esto es lesivo al menos que se haga mal, es por eso que debes de enfocarte en específico en la  técnica para no tener errores en nuestras ejecuciones",
+    "Cualquier duda, por favor comentame",
+    "¡Feliz entrenamiento!"
+  ]
+}
