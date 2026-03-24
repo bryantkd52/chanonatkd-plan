@@ -228,6 +228,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Marzo",
     "objetivo_proximo": "Mejorar poomsae a nivel competitivo"
+  },
+
+  "chanonatkd_system": {
+    "nombre": "ChanonaTKD System",
+    "plan": "plan_chanonatkd_system.json",
+    "plan_activo": "ChanonaTKD - Dragones",
+    "suscripcion_activa": "Abril",
+    "objetivo_proximo": "Mejorar pateo y flexibilidad desde 0"
   }
 
 }
