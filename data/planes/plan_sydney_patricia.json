@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 8 de marzo",
+  "updated_at": "Actualizado dom 22 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "ciclo": "Lunes 23 al sábado 28 de marzo del 2026",
   "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo técnico de poomsae",
-  "enfoque": "Continuidad de perfeccionamiento de poomsae post competencia",
+  "enfoque": "Continuidad de perfeccionamiento de poomsae",
  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
@@ -16,13 +16,13 @@
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
      {
-      "titulo": "Yop Chagui - NIVEL 2 (SIN BANDA ESTA VEZ)",
+      "titulo": "Yop Chagui - NIVEL 2",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Ap Chagui - NIVEL 2 (SIN BANDA ESTA VEZ)",
+      "titulo": "Ap Chagui - NIVEL 2",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
@@ -141,8 +141,9 @@
   ],
   "apuntes": [],
   "notasFinales": [
-    "En nuestro torneo de este fin de semana nos fue de maravilla, excelente trabajo campeona por el resultado, muchas veces las cosas están muy cerca de algo y no nos damos cuenta pero este fue un punto importante para darnos cuenta del gran avance que ha tenido campeona, es hora de seguir dandole con todo y mantenerse firme rumbo a lo que siga, de manera enfocada y bien planificada",
-    "Nuevamente campeona, muchas felicidades",
+    "Estas semanas estaremos entrenando y perfeccionando nuestra técnica con el mismo plan de entrenamiento, y despues tendremos algunos ejecicios nuevos y mas potentes",
+    "Lo  mas importante no es que te aprendas todos los ejercicios o la rutina en si, sino que tu cuerpo se vaya sintiendo cada veza mas adaptado y en cuanto sintamos este nivel algo facil, es entonces en cuanto debemos subir la intensidad",
+    "A seguirle dando con todo",
     "¡Feliz entrenamiento!"
   ]
 }
