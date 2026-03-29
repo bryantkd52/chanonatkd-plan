@@ -1,13 +1,13 @@
 {
-  "updated_at": "Actualizado Dom 15 de marzo",
+  "updated_at": "Actualizado Dom 29 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al Sábado 21 de marzo del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + Trabajo del timing de poomsae",
-  "enfoque": "Precisión, timing y potencia en Taeguk 5, 6 y 7 en la línea 1",
+  "ciclo": "Lunes 30 de marzo al Sábado 4 de abril del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo de explosividad de poomsae y pateo",
+  "enfoque": "Trabajo con mancuernas de todas las lineas 1 de las poomsae + explosividad del pateo con ejercicios agresivos pero efectivos",
  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Avanzado HASTA PULSOS Y HOLD",
+      "titulo": "ChanonaFlex • Avanzado",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
@@ -40,35 +40,28 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB (si, seguimos con estos y unos extras)",
+  "pateoDias": "LUN - JUE",
   "pateoTecnico": [
      {
-      "titulo": "Circuito Hold con banda L2 Koryo",
-      "enfoque": "Fortalecimiento de cuádriceps  y estabilidad",
-      "reps": "20 reps por pierna/ 2 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+      "titulo": "Salto en escuadra + 3 ap chaguis - NO VIDEO",
+      "enfoque": "Fortalecimiento de cuádriceps y estabilidad",
+      "reps": "5 reps por pierna/ 2 series",
+      "tipo": "ejercicio",
+      "url": "#"
     },
     {
-      "titulo": "Ap + Yop + Turn hips silla",
+      "titulo": "Ap chaguis con bloques",
       "enfoque": "Circuito para Ap Chagui y fortalecimiento",
-      "reps": "20 reps por pierna/ 2 series",
+      "reps": "5 reps por pierna/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drivesdk"
     },
     {
-      "titulo": "Linea 3 Koryo - Sentadilla y camara",
-      "enfoque": "Estabilidad + técnica + enfoque",
-      "reps": "20 reps por pierna/ 2 series",
+      "titulo": "Propuesta + ap chagui reps",
+      "enfoque": "Estabilidad + explosividad + enfoque",
+      "reps": "20 reps por pierna/ 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
-    },
-    {
-      "titulo": "Koryo L1 hold yop + Pyonwong ",
-      "enfoque": "Estabilidad + técnica + fuerza",
-      "reps": "20 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1EvUXdSs21NOAQR8OkD5ip6MeEApvUDDy/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drivesdk"
     },
     {
       "titulo": "Fortalecimiento de Tobillo con banda",
@@ -85,21 +78,21 @@
       "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsaeDias": "LUNES - MIERCOLES - SÁBADO",
   "poomsae": [
     {
-      "titulo": "Ejercicio 12 - Yop Chagui",
-      "enfoque": "Control +  Alineacion",
-      "reps": "20 reps por lado / 2 series",
+      "titulo": "Chuchum + Giro + Jakdari +  Yop - Ejercicio",
+      "enfoque": "Control + Alineacion + técnica",
+      "reps": "10 reps por lado / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1rWkqFQhFatE3TgXkKwOeS4jRQiUeECuO/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1z0tEpdciDc-QqCm2AqdcJ8Q-wZrUhZ3Z/view?usp=drivesdk"
     },
     {
-      "titulo": "Ejercicio 14 - Yop Chagui",
-      "enfoque": "Control +  Alineacion",
-      "reps": "20 reps por lado / 2 series",
+      "titulo": "L3 Taeguk 8 - T8 L3 - CON MANCUERNAS",
+      "enfoque": "Control + explosividad",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1qx3PlIWmwbD45PR89PDdCo06fPBwK8Vr/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1yNXOjP9b6Zgf7UC48anqyO0E5BcFQyXH/view?usp=drivesdk"
     },
     {
       "titulo": "L3 Taebaek - Correcta ejecución por movimiento",
@@ -107,40 +100,20 @@
       "reps": "20 reps por lado / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK/view?usp=drive_link"
-    },
-    {
-      "titulo": "Marcación, velocidad y corte - L3 y 4 de Taeguk 5 a 8 y elevacion con banda elastica + polainas (miércoles y viernes)",
-      "enfoque": "Técnica + corrección + desarrollo potencia",
-      "reps": "3 vueltas una linea + 30 elevaciones / 2 series",
-      "tipo": "Ejercicio NO VIDEO",
-      "url": "#"
-    },
-    {
-      "titulo": "Marcación, velocidad y corte - L1 de Koryo a Pyonwong y elevacion con banda elastica + polainas (miércoles y viernes)",
-      "enfoque": "Técnica + corrección + desarrollo potencia",
-      "reps": "3 vueltas una linea + 30 elevaciones / 2 series",
-      "tipo": "Ejercicio NO VIDEO",
-      "url": "#"
     }
   ],
   "apuntes": [
-"Los ultimos ejercicios de la seccion de poomsae son los más pesados, hágalos específicamente en los días que le menciono en el plan que debe hacerlos, no más",
-"En taeguk 5, los  pies deben de ir en L en el segundo y cuarto",
-"Marcar mas los los movimientos, en el timing que estamos trabajando",
-"En taeguk 6, Mas peso en la pierna de atras en twit kubi",
-"Hay que marcaer mas la camara arriba, no dejarla caer ",
-"No flexione la pierna de apoyo cuando jhaga la ap chagui",
-"Esta dejando caer la cadera hacia atras cuando regresaamos la rodilla",
-"Tambien estamos llevando la espalda atras y la rodilla de apoyo flexionada",
-"Hay que trabajar en la extension de a pierna de apoyo y e¿la espalda que no se doble a su vez de ejecuta bien la camara",
-"Hay que meter mas potencia y velocidad a nuestro movimiento y corte",
-"Tenemos que asegurar nuestro corte apretando gluteo, lumbar y piernas",
-"La velocidad en las preparaciones deben de ser a maxima velocidad, manteniendo el correcto recorrido pero con la maxima velocidad"
-
+"Esta semana tendremos un enfoque poco mas fisico que tecnico, aunque no lo dejamos a un lado, ya que debemos seguir mejorando y perfeccionando esa área",
+"Los ejercicios pueden ser algo agresivos, asi que hagalos pero si siente que su cuerpo esta llegando a su limite, pare, recupere y continue",
+"Continuaremos esforzándonos y desarrollando fuerza, procure sentir y trabajar mucho la estabilidad y postura en cada repetición",
+"Buscar en taeguk 5 en la Linea 1 que los pies queden en posicion de L y no desviados los pies",
+"Buscar que las preparaciones como golpes de revés deben de prepararse desde la cintura",
+"Busca siempre que la pierna de apoyo quede firme y estable, no se mueva, esto es clave para el control y la potencia en cada movimiento",
+"Busque que los tiempos o timing de los movimientos que entre deensas y golpes, deben de ser con una velocidad no diferente pero si un corte mas marcado, es decir si viene de una defensa, corte bien y luego vaya a maxima velocidad con el golpe o los golpes"
   ],
   "notasFinales": [
-    "Seguimos con nuestro desarrollo de fuerza, potencia y velocidad, esto nos dará una excelente ventaja sobre todo en nuestra parte tecnica y presentación, por lo que es importante darle el mayor enfoque al desarrollo de este timing y entendimiento de la misma",
-    "Cualquier duda, por favor comentame",
+    "Recuerde, no sobre exija a su cuerpo, solo llévelo al limite, pare, recupere y continue, los ejercicios están con repeticiones especificas pero el cuerpo algunas ocasiones puede no estar al 100, por eso debe de consideras parar si es necesario",
+    "Cualquier duda, por favor comenteme",
     "¡Feliz entrenamiento campeón!"
   ]
 }
