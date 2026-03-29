@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 15 marzo",
+  "updated_at": "Actualizado dom 29 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "ciclo": "Lunes 30 de marzo al sábado 4 de abril del 2026",
   "enfoque_corto": "Trabajo específico de Taeguk 8",
-  "enfoque": "Esta semana estuvimos ausentes de clase pero no ausentes de avance, siempre podemos trabajar de forma positiva y específica en nuestros objetivos, vamos a darle",
+  "enfoque": "Continuamos trabajando la parte técnica de taeguk 8, sin perder el seguimiento del desarrollo de los otros puntos importantes para mejorar nuestro pateo y posturas",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -13,7 +13,7 @@
       "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "LUN - MIE - VIE (No deje de hacer estos ejercicios)",
   "isometrico": [
     {
       "titulo": "Ap Chagui - NIVEL 2",
@@ -37,13 +37,6 @@
   "pateoDias": "LUNES A SÁBADO",
   "pateoTecnico": [
      {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Fortalecimiento y preparación de la técnica a un nivel más exigente desde propuesta stand",
-      "reps": "10 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
-    },
-    {
       "titulo": "Torsión de cadera con banda",
       "enfoque": "Fortalecimiento y precisión de movimiento en cadera, glúteo, ingle e isquiotibiales",
       "reps": "Fallo y después 30 reps",
@@ -56,6 +49,20 @@
       "reps": "30 reps",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+    },
+    {
+      "titulo": "L2 T4 mas lento yop chaguis",
+      "enfoque": "Tecnica + fortalecimiento + estabilidad +  equilibrio",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iKsyFRARPRVJj0RUlStqXjYOgeLwUgJU/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap + Extension ",
+      "enfoque": "Tecnica + fortalecimiento + flex activa",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
@@ -89,8 +96,8 @@
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "El perfeccionamiento de cada movimiento es muy importante, es por eso que el enfoque va a ser en partes específicas de Taeguk 8 el cual nos van a pedir pronto, así que seguiremos enfocandonos en los movimientos, correcciones y alineaciones correctas de nuestra poomsae",
-    "Por favor campeona, cada que vea el video, cada uno de los videos, analise muy bien que es lo que se está mostrando y procure replicarlo exactamente, no mas o menos, sino lo más exacto como en fuerza, firmeza, en vista incluso, yo se que usted puede",
+    "Continuamos entrenando con mucho enfoque y fuerza, me gusta como cada vez va entendiendo mas las posturas y alineaciones, eso es muy bueno porque nos ayudará a mejorar muchisimo",
+    "Cada video que le pongo en este plan de entrenamiento debe de ponerle toda la atencion posible, ya que en los detalles mas finos y minimos es en donde stá la diferencia entee un formista ordinario y uno extraordinario, el extraordinario es el que estoy formando en usted",
     "Cualquier duda, por favor comenteme campeona",
     "¡Feliz entrenamiento!"
   ]
