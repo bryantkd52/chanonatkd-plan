@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 22 de marzo",
+  "updated_at": "Actualizado dom 29 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 23 al sábado 28 de marzo del 2026",
+  "ciclo": "Lunes 30 de marzo al sábado 4 de abril del 2026",
   "enfoque_corto": "Flexibilidad + isometrico activo + tecnico de poomsae",
-  "enfoque": "Esta semana estaremos entrenando especificamente en los puntos de correccion en base a nuestra participacion en el fin de semana pasado",
+  "enfoque": "Esta semana retomamos nuestro entrenamiento fuerte, vamos a darle mas duro al desarrollo de fuerza isométrica para continuar mejorando en nuestro pateo",
  "chanonaflexDias": "Lunes a sabado",
   "chanonaflex": [
     {
@@ -69,6 +69,27 @@
       "reps": "10 reps / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circuito Hold con banda L2 Koryo",
+      "enfoque": "Control + exigencia + fuerza",
+      "reps": "20 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap chaguis con bloques",
+      "enfoque": "Control + exigencia + fuerza",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
+    },
+    {
+      "titulo": "Camara L3 Koryo",
+      "enfoque": "Control + técnica",
+      "reps": "30 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/10nz0e_wowhkr4rk7uUlobLrKCFpA6OXy/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUN - MIE - JUE",
@@ -93,14 +114,30 @@
         "reps": "30 reps / 1 serie",
         "tipo": "video",
         "url": "https://drive.google.com/file/d/1T-Z7RUtNLaBebIKtihzZbgumhMoUlNCG/view?usp=drive_link"
-      }
+      },
+    {
+     "titulo": "Pyonwong completo - OMITIR MANOS ABIERTAS YA QUE HUBO ACTUALIZACIÓN",
+      "enfoque": "Timing + velocidad + precisión",
+      "reps": "10 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link"
+    },
+    {
+     "titulo": "Chuchum + Giro + Jakdari +  Yop - Ejercicio ",
+      "enfoque": "Timing + técnico + precisión",
+      "reps": "10 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1z0tEpdciDc-QqCm2AqdcJ8Q-wZrUhZ3Z/view?usp=drive_link"
+    }
   ],
   "apuntes": [
-    "Los puntos de mejora analizando los videos en realidad son muy buenos, ya que en realidad son detalles que hoy en dia son finos para los jueces, no estoy diciendo que estamos perfectos pero el nivel de mejora que tenemos y que hemos venido mejorando en estos meses es brutal porque hay posturas y movimientos que me estas mejorando de forma ya inconsciente, lo que realmente se busca para hacer bien los movimientos de forma natural, por lo que me queda es feliicitarte por el excelente progreso que has tenido, seguimos dandole con todo como se debe"
+    "Tenemos varios puntos importantes en los que tenemos que mejorar, pero viendo de manera no solo positiva, sino con ojo clinico vamos avanzando de una manera estupenda, ya que he notado movimientos que antes eran muy dificiles de corregir y ahora se ven más naturales sin necesidad de forzar o pensar en ello",
+    "Debemos aun estar al pendiente de nuestras chuchum seoguis, en sipjin, ahí en especifico es en donde los pies nos siguen traidionando, intenta llevarlo a la contraria los talones de manerra exagerada para que puedas hacer el ajuste",
+    "En taeguk 7 debemos de ejecutar nuestras ap chaguis con mayor precision pero sobre todo, con la pierna de apoyo 100% extendida, ese es un punto muy importante para trabajar"
   ],
   "notasFinales": [
-    "Reiniciamos y volvemos a los entrenamientos incluso un poco mas exigentes pero suficientes para mejorar en todos los sentidos y como te comenté en los apuntes de poomsae, vamos mejorando de manera brutal que se notan muchas buenas cosas que haces de forma natural y eso es estupendo, ahora a seguirle dando con todo en los otros detalles importantes",
+    "Toma en cuenta los puntos que vimos en los apuntes de poomsae y los que vimos en clase, realmente vamos avanzando de forma muy positiva pero aun seguimos en este camino largo pero importante de trabajo técnico",
     "Cualquier duda, por favor comentame",
-    "¡Feliz entrenamiento y competencia!"
+    "¡Feliz entrenamiento!"
   ]
 }
