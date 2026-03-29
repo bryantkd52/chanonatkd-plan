@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 15 marzo",
+  "updated_at": "Actualizado dom 29 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 de febrero del 2026",
-  "enfoque_corto": "Flexibilidad + Técnico pateo + taeguk 4 L3",
-  "enfoque": "Seguimos trabajando taeguk 4 desde las bases profundas - Linea 3",
+  "ciclo": "Lunes 30 de marzo al sábado 4 de abril del 2026",
+  "enfoque_corto": "Flexibilidad + Técnico pateo + taeguk 4 últimas dos lineas",
+  "enfoque": "Concluimos con el trabajo de taeguk 4 desde las bases profundas",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -13,7 +13,7 @@
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "LUN - VIE",
   "isometrico": [
     {
       "titulo": "Ap Chagui - NIVEL 1",
@@ -25,49 +25,50 @@
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Cuádriceps + Equilibrio",
+      "titulo": "Ap hold 3 + L2 koryo",
+      "enfoque": "Cuádriceps + Equilibrio + fortalecimiento",
       "reps": "7 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1Tuep3FQZCHwcQuziQAnDoSbwnwCugKYz/view?usp=drivesdk"
     },
     {
-      "titulo": "Linea 3 Koryo - Sentadilla y camara / apoyo con barra o silla",
+      "titulo": "Ap chagui + dos bloques",
       "enfoque": "Estabilidad + técnica + fuerza",
       "reps": "3 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa/view?usp=drivesdk"
     },
     {
-      "titulo": "Doble yop hold - landing L3 koryo - Apoyo de barra o silla",
+      "titulo": "propuesta + ap chagui reps",
       "enfoque": "Control + técnica + fuerza",
       "reps": "5 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drivesdk"
     }
   ],
-  "poomsaeDias": "LUN - MIE - JUE",
+  "poomsaeDias": "LUN - MIE - VIE",
   "poomsae": [
     {
-      "titulo": "Ap + Regreso Twit Kubi T4",
+      "titulo": "Transicion L3 a L4 de T4 -  taeguk 4",
       "enfoque": "Repetición + técnica + precisión",
-      "reps": "10 reps por lado",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1et6KYqyWP6ZY-XMVXSqNIRGNh03gTEF2/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1jywGe4cJnLzTFwwpX_JlXR7GPUxlBSMk/view?usp=drivesdk"
     },
     {
-     "titulo": "Transicion L2 a L3 de T4 - Pies",
+     "titulo": "Ap + Backfist de T4 L4 - Taeguk 4",
       "enfoque": "Repetición + técnica + precisión",
       "reps": "20 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-Jlts5WH0nNHnSfaUom-9EOsJltoVjD2/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1BtdMNbAEA77j4-GIMxgreKYNDnbnYeiO/view?usp=drivesdk"
     }
   ],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "Esta semana continuamos viendo nuestra línea 3 de taeguk 4, continuamos mejorando y aprendiendo a profundidad de esta poomsae de forma muy profunda, los ejercicios deben de ser suaves, proresivos y con precaución, por lo que cualquier duda por favor maestra, comenteme a la brevedad y le apoyo",
+    "Excelente trabajo el de esta semana concluyendo nuestro taeguk 4 con detalles finos e importantes, ahora nos preparamos para comenzar con todo nuestro taeguk 5",
+"Continuamos trabajando con los ejercicios para continuar fortaleciendo, y por favor coménteme como va con ello, es importante para darle el seguimiento que se merece",
     "¡Feliz entrenamiento!"
   ]
 }
