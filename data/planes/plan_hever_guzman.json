@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 22 marzo",
-  "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 23 al sábado 28 de febrero del 2026",
+  "updated_at": "Actualizado dom 29 marzo",
+  "nivel": "Nivel Avanzado",
+  "ciclo": "Lunes 30 de marzo al sábado 4 de abril del 2026",
   "enfoque_corto": "Flexibilidad + Técnico pateo + poomsae",
-  "enfoque": "Retomar entrenamientos despues del regional y prepararnos mas fuerte para el nacional",
+  "enfoque": "Perfeccionamiento técnico de poomsae rumbo al nacional",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -43,18 +43,18 @@
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Cuádriceps + Equilibrio",
-      "reps": "10 reps / 2 series",
+      "titulo": "Circuito Hold con banda L2 Koryo",
+      "enfoque": "Cuádriceps + Equilibrio + potencia",
+      "reps": "10 reps por lado/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
     },
     {
-      "titulo": "Linea 3 Koryo - Sentadilla y camara / apoyo con barra o silla",
+      "titulo": "Yop Chagui - Taeguk 5 T5 - L5 - NO ABRIR LA MANO",
       "enfoque": "Estabilidad + técnica + fuerza",
-      "reps": "10 reps / 2 series",
+      "reps": "30 reps por lado/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1ML3DfsZnfUfFqbMbONSu70lKJNb8repM/view?usp=drive_link"
     },
     {
       "titulo": "Doble yop hold - landing L3 koryo - Apoyo de barra o silla",
@@ -65,13 +65,36 @@
     }
   ],
   "poomsaeDias": "LUN - MIE - JUE",
-  "poomsae": [],
+  "poomsae": [
+    {
+      "titulo": "Transición doble montong makki - L1 a L2 T5",
+      "enfoque": "Control + técnica + fuerza",
+      "reps": "30 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1nS4odRmRR7Da-q3oGTI1UOYhuqKpzCah/view?usp=drive_link"
+    },
+    {
+      "titulo": "Talones transicion - L2 T5",
+      "enfoque": "Control + técnica + fuerza",
+      "reps": "30 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Tg7zQiS4SxKsOMdAdaY17vNdnegdc1WA/view?usp=drive_link"
+    },
+    {
+      "titulo": "Correcto aterrizaje y prep golpe revés- L2 T5 ACTUALIZACION el golpe sale desde la cintura",
+      "enfoque": "Control + técnica + fuerza",
+      "reps": "30 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1sYO2lMMZOuZF7-doTLcXFO7itTmlKVe1/view?usp=drive_link"
+    }
+  ],
   "apuntes": [
-    "LEER NOTAS FINALES"
+    "Logramos entender varios puntos importantes, pero nos molestamos cuando no sale, tranquilo, recuerda que el cuerpo lo entiende en un tiempo  diferente, pero mientras te mantengas intentando, fallando y corrigiendo en la siguiente, con el enfoque claro de como si debe de ser, verás que tendrás esa técnica mejor pulida lo mas pronto posible",
+    "Te dejé unos videos especificos de lo que nos vamos a enfocar esta semana en referente a ejercicios y técnica, hazlos campeon y cualquir duda por favor consultame"
   ],
   "notasFinales": [
-    "En esta semana, vamos a bajar la carga de entrenamiento pero como viene el nacional no debemos de PARAR por  completo, ya que no sería sano para el  cuerpo, hay que ir bajando progresivamente para luego subir nuevamente la carga en cuanto se venga el nacional",
-    "Campeon, muchas felicidades por ese pase al nacional, ahora se viene lo bueno y usted tiene una gran ventaja, ustedes como estado y region son los primeros en tener lugares para el nacional, lo que les da la oportunidad de poder prepararse con mucho enfoque y carga fuerte de entrenamiento antes de nuestro gran evento",
-    "Feliz semana post competencia, seguimos dandole con todo"
+    "Estamos preparandonos fuerte para nuestro nacional, el tiempo que tenemos es suficiente para poder mejorar al maximo, por lo que es importante que cada segundo de entrenamiento debe significar lo maximo, cada segundo cuenta y debe de valer la pena",
+    "Comiennzan vacaciones pero para nosotros continua el camino del guerrero",
+    "Animo y exito en su entrenamiento"
   ]
 }
