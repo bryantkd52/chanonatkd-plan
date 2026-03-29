@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 22 mar",
+  "updated_at": "Actualizado dom 29 marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 23 al sábado 28 marzo del 2026",
-  "enfoque_corto": "Flexibilidad + Técnico pateo + taeguk 4 L3",
-  "enfoque": "En esta semana platicamos sobre puntos muy importantes que nos animan a notar y trabajar en aspectos importantes para los alumnos",
+  "ciclo": "Lunes 30 de marzo al sábado 4 de abril del 2026",
+  "enfoque_corto": "Flexibilidad + Técnico pateo + taeguk 4 últimas dos lineas",
+  "enfoque": "Concluimos con el trabajo de taeguk 4 desde las bases profundas",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -13,7 +13,7 @@
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "LUN - VIE",
   "isometrico": [
     {
       "titulo": "Ap Chagui - NIVEL 1",
@@ -22,7 +22,7 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB / BANDA ELÁSTICA Y APOYO BARRA",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
       "titulo": "Ap + Yop + Turn hips silla",
@@ -60,36 +60,29 @@
       "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUN - MIE - JUE",
+  "poomsaeDias": "LUN - MIE - VIE",
   "poomsae": [
     {
-      "titulo": "Ap + Regreso Twit Kubi T4",
+      "titulo": "Transicion L3 a L4 de T4 -  taeguk 4",
       "enfoque": "Repetición + técnica + precisión",
-      "reps": "30 reps por lado",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1et6KYqyWP6ZY-XMVXSqNIRGNh03gTEF2/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1jywGe4cJnLzTFwwpX_JlXR7GPUxlBSMk/view?usp=drivesdk"
     },
     {
-      "titulo": "Línea 3 - Taeguk 4",
+     "titulo": "Ap + Backfist de T4 L4 - Taeguk 4",
       "enfoque": "Repetición + técnica + precisión",
-      "reps": "Lo necesario",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1wj_ri9Jloap-xOSWoxi7k-mxSa3X5RqH/view?usp=drive_link"
-    },
-    {
-     "titulo": "Transicion L2 a 3 T4 - Pies",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "30 reps / 2 series",
+      "reps": "20 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-Jlts5WH0nNHnSfaUom-9EOsJltoVjD2/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1BtdMNbAEA77j4-GIMxgreKYNDnbnYeiO/view?usp=drivesdk"
     }
   ],
   "apuntes": [
     "LEER NOTAS FINALES"
   ],
   "notasFinales": [
-    "En esta semana entrante estaremos viendo lo restante de taeguk 4 y es en donde veremos partes técnicas como tambien trabajo físico para complementar en el nivel de fuerza",
-    "Cualquier duda, por favor comenteme",
+    "En esta semana conluiremos nuestro taeguk 4 maestro, estuvimos puntos importantes de combate y estuvo muy productivo, pero le dejo aquí el plan con el enfoque en taeguk 4 y esta semana en clase veremos estos puntos que vemos aquí para que concluyamos con T4 y de ahí irnos a T5",
+"Continuamos trabajando con los ejercicios para continuar fortaleciendo, y por favor coménteme como va con ello, es importante para darle el seguimiento a cualquier duda que tenga",
     "¡Feliz entrenamiento!"
   ]
 }
