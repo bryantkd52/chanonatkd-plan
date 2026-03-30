@@ -1,10 +1,25 @@
 {
-  "updated_at": "Actualizado dom 22 feb",
+  "updated_at": "Actualizado dom 29 marzo",
   "nivel": "Nivel Avanzado",
-  "ciclo": "Martes 24 al sábado 28 febrero del 2026",
-  "enfoque_corto": "Timing + fortalecimiento",
-  "enfoque": "Después de nuestro excelente resultado en el estatal, ahora es momento de prepararnos para el regional, trabajaremos en base a puntos específicos como lo hemos venido haciendo y en base a ello ir con toda la energía y preparación posible",
-  "isometricoDias": "MARTES - JUEVES - SÁBADO",
+  "ciclo": "Lunes 30 de marzo al sábado 4 de abril del 2026",
+  "enfoque_corto": "Poomsae + fortalecimiento + aumento de potencia en brazos/piernas",
+  "enfoque": "Continuamos trabajando con enfoque en el desarrollo de nuestra presentación, eso es lo que será clave ahora para nuestro nacional, comenzamos a mejorar nuestro nivel, ahora tenemos que pulir a nivel técnico y a nivel presentación",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "MARTES - JUEVES - SÁBADO / Super importante, no los saltes",
   "isometrico": [
     {
       "titulo": "Yop Chagui - NIVEL 2",
@@ -17,9 +32,15 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico activo - Dollyo Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MIÉRCOLES - VIERNES",
+  "pateoDias": "MIÉRCOLES - VIERNES / Mega importante, imposible que los saltes",
   "pateoTecnico": [
       {
         "titulo": "Ap + Yop + Turn hips silla - Cuádriceps",
@@ -34,37 +55,87 @@
         "reps": "10 reps / 2 series por pierna",
         "tipo": "video",
         "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
+      },
+      {
+        "titulo": "Circuito Hold con banda L2 Koryo",
+        "enfoque": "Fortalecimiento de cuádriceps para potenciar la ap chagui",
+        "reps": "10 reps por lado / 2 series",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+      },
+      {
+        "titulo": "Ap chagui + Propuesta stand",
+        "enfoque": "Fortalecimiento de cuádriceps para potenciar la ap chagui",
+        "reps": "12 reps por lado / 2 series",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1xDDf3xWV9jLSS2buYRk0ocGBw8eRKigi/view?usp=drive_link"
+      },
+      {
+        "titulo": "Linea 3 Koryo - Sentadilla y camara",
+        "enfoque": "Control + técnica + potencia",
+        "reps": "7 reps por lado / 2 series",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
+      },
+      {
+        "titulo": "Ap Chagui contra pared",
+        "enfoque": "Control + técnica + pantorrillas",
+        "reps": "20 reps por lado / 2 series / seguidas uno y uno",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+      },
+      {
+        "titulo": "L2 yop chaguis T4",
+        "enfoque": "Control + técnica + equilibrio",
+        "reps": "7 reps por lado / 2 series",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1itbAdFy1D_RFN0WTpbKzHaK1oQsD-c29/view?usp=drive_link"
+      },
+      {
+        "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
+        "enfoque": "Fortalecimiento para estabilidad y evitar lesiones en tobillos",
+        "reps": "12 reps por lado / 1 serie",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
       }
   ],
   "poomsaeDias": "MARTES A SÁBADO / 1 serie",
   "poomsae": [
     {
-      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
-      "reps": "20 reps / 2 series",
+      "titulo": "Chuchum + Giro + Jakdari +  Yop - Ejercicio ",
+      "reps": "10 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1z0tEpdciDc-QqCm2AqdcJ8Q-wZrUhZ3Z/view?usp=drive_link"
     },
     {
-      "titulo": "Doble yop hold + landing L3 + L1 koryo",
-      "reps": "20 reps / 2 series",
+      "titulo": "Camara Yop + L3 Koryo",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1pawGP6dSyFvgL_Ly22ePFP7XR_cImOcq/view?usp=drive_link"
     },
     {
-      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
-      "reps": "20 reps / 2 series",
+      "titulo": "Ejercicio 15 - Yop Chagui",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/17YveGmdGny-g79ofbFy4D_YplmQ8j2RQ/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "VER NOTAS FINALES"
+    "Estos apuntes los seguiré poniendo aquí e iré quitando los que considere que ya vamos mejorando, pero también estarán aquí para que los siga viendo campeona",
+    "La rodilla de la pierna que esa trasera en twit Kubi se esta doblando hacia adentro, esto significa que estamos fuera de la alineación correcta y que estamos llevando el cuerpo hacia al frente en las ejecuciones",
+    "Esta moviendo las piernas antes de terminar de preparar montong Makki",
+    "Hay que darle mayor velocidad a los giros de transición con ayuda de la encapsulación",
+    "Apretar y alineación de la espalda en las yop Chaguis para mantener la alineación de el talon de apoyo", 
+    "En la linea 2 en las Ap Chaguis la pierna de apoyo debe de extenderse en su totalidad cuando ejecutamos el pateo, ya que ahi nos estarían quitando .1 por esa flexion de rodilla",
+    "Ejecutar correctamente la preparación de los movimientos en las cámaras de las AP y yop Chaguis, ya que ahi esta justamente el punto principal en donde podemos marcar nuestra preparación y lo que nos va a contar justamente para nuestra puntuación de presentación", "Entender los cortes o pausas que se deben de hacer en los movimientos nos dará ventaja sobre los formistas que hacen poomsaes de mucha velocidad, ya que el reglamento nos manda a justamente trabajar en base a ese nivel de corte",
+    "Las defensas exteriores deben de abrirse hacia afuera, no hacia al frente ya se eso parece como si fuera golpe, lo que significa que descontarían .3",
+    "Linea 3, el aterrizaje de las yop Chaguis estan rápidas, deben de esperar un poco mas arriba para que no luzca como caída",
+    "En la transición hacia chuchum sogui esta haciendo dos pasos extras a lo que debería de hacer, debe de pasar la pierna trasera primero y después girar el pie de apoyo",
+    "En el movimiento de concentración, debemos esperar un segundo mas solamente para marcar nuestro movimiento, no para llegar mas tarde, es decir llegamos en el segundo 7 y esperamos a 8 para marcar nuestra llegada y para continuar al siguiente movimiento"
   ],
   "notasFinales": [
-    "Estoy muy orgulloso de su resultado, pero más allá de eso, por su esfuerzo que está dando frutos, este resultado no es más que su entrega, dedicación y atención a los detalles que hemos venido trabajando, ahora a seguir trabajando para que tenga las mejores herramientas, mi trabajo con usted es darle las mejores armas tanto técnica y físicas para que lleguemos con todo el power al regional, as´que dejeme hacerle saber que estoy super contento de usted y su trabajo y ahora hay que continuar dandole como se debe campeona",
-    "El trabajo de esta semana es continuidad después de nuestro estatal, sobre todo que debemos seguir fortaleciendo nuestras yop y ap chaguis ya que eso se va a requerir en nuestras siguientes etapas de la olimpiada nacional",
-    "A seguir trabajando duro como se debe y no olvides seguir tomando en cuenta cada punto de entrenamiento y técnica que trabajamos para mejorarlo de forma consciente",
+    "Nuestro enfoque no cambia, solo se ajusta y eso es porque ahora tenemos el nacional ante nosotros, esto significa que ahora tenemos que trabajar en la presentación, en la técnica y en el control de los movimientos, es decir, ahora lo que tenemos que hacer es pulir lo que ya tenemos, es decir, mejorar lo que ya tenemos y cambiar los hábitos malos más grandes ya que tenemos tiempo para poder correjir y mejorar esos detalles que nos van a ayudar a marcar la diferencia en el nacional",
     "Cualquier duda, por favor comentame campeona",
-    "¡Feliz entrenamiento y a seguir dandole con todo que se vienen estupendos eventos!"
+    "¡Feliz entrenamiento y a seguir dandole con todo!"
   ]
 }
