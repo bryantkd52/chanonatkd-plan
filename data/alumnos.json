@@ -3,7 +3,7 @@
     "nombre": "Rafa Hernandez",
     "plan": "plan_rafa.json",
     "plan_activo": "Avanzado de campeones",
-    "suscripcion_activa": "Febrero",
+    "suscripcion_activa": "Renovar suscripción",
     "objetivo_proximo": "Olimpiada Nacional"
   },
   
@@ -11,7 +11,7 @@
     "nombre": "Mtro Edison Guallichico",
     "plan": "plan_mtro_edison_guallichico.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Renovar suscripción",
+    "suscripcion_activa": "Proxima renovación 21 de abril",
     "objetivo_proximo": "Aprender bases de poomsae y pateo"
   },
 
@@ -19,7 +19,7 @@
     "nombre": "Helena",
     "plan": "plan_helena.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Marzo",
+    "suscripcion_activa": "Proxima renovación 1 de abril",
     "objetivo_proximo": "Aprender bases de poomsae"
   },
   
@@ -27,7 +27,7 @@
     "nombre": "Mesias Rojas",
     "plan": "plan_mesias_rojas.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Hasta el 20 de marzo",
+    "suscripcion_activa": "Renovar membresía",
     "objetivo_proximo": "Desarrollo de fuerza y volver al taekwondo"
   },
 
@@ -35,7 +35,7 @@
     "nombre": "Mtra Nadia Uxmal",
     "plan": "plan_mtra_nadia_uxmal.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Hasta el 31 de marzo",
+    "suscripcion_activa": "Proxima renovación 1 de abril",
     "objetivo_proximo": "Aprender bases de poomsae y pateo"
   },
 
@@ -43,7 +43,7 @@
     "nombre": "Sr. Jeremías",
     "plan": "plan_sr_jeremias.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Marzo",
+    "suscripcion_activa": "Proxima renovación 30 de abril",
     "objetivo_proximo": "Aprender bases de pateo y mejorar flexibilidad"
   },
 
@@ -51,7 +51,7 @@
     "nombre": "Evan Mael",
     "plan": "plan_evan_mael.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Renovar suscripción",
+    "suscripcion_activa": "Proxima renovación 7 de abril",
     "objetivo_proximo": "Forjar bases en flexibilidad, pateo y fuerza para lograr la cinta negra"
   },
 
@@ -59,7 +59,7 @@
     "nombre": "Alma Patricia",
     "plan": "plan_alma_patricia.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Renovar suscripción",
+    "suscripcion_activa": "Proxima renovación 13 de abril",
     "objetivo_proximo": "Forjar las bases de la flexibilidad y el pateo"
   },
 
@@ -75,7 +75,7 @@
     "nombre": "Patricio Leigh",
     "plan": "plan_patricio_leigh.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Marzo",
+    "suscripcion_activa": "Proxima renovación 21 de abril",
     "objetivo_proximo": "Aprender bases de poomsae, flexibilidad y pateo"
   },
 
@@ -91,7 +91,7 @@
     "nombre": "Ruben Guerrero",
     "plan": "plan_ruben_guerrero.json",
     "plan_activo": "Forjando bases 2",
-    "suscripcion_activa": "Marzo",
+    "suscripcion_activa": "Proxima renovación 6 de marzo",
     "objetivo_proximo": "Desarrollar bases de poomsae, flexibilidad y pateo"
   },
 
@@ -99,7 +99,7 @@
     "nombre": "Fabián Burgoa",
     "plan": "plan_fabian_burgoa.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Marzo",
+    "suscripcion_activa": "Proxima renovación 10 de abril",
     "objetivo_proximo": "Desarrollar bases de poomsae y pateo"
   },
 
@@ -107,7 +107,7 @@
     "nombre": "Daniele Biasetti",
     "plan": "plan_daniele_biasetti.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Renovar suscripción",
+    "suscripcion_activa": "Proxima renovación 31 de marzo",
     "objetivo_proximo": "Desarrollar bases de flexibilidad y pateo"
   },
 
@@ -115,7 +115,7 @@
     "nombre": "Diana Rodriguez",
     "plan": "plan_diana_rodriguez.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Marzo",
+    "suscripcion_activa": "Proxima renovación 6 de abril",
     "objetivo_proximo": "Forjar bases de poomsae para el examen de cinta negra 2026"
   },
 
@@ -131,7 +131,7 @@
     "nombre": "Lía y Mía",
     "plan": "plan_lia_mia.json",
     "plan_activo": "Avanzado de campeones",
-    "suscripcion_activa": "Renovar suscripcion",
+    "suscripcion_activa": "Proxima renovación...",
     "objetivo_proximo": "Desarrollar bases elite de poomsae de competencia"
   },
 
@@ -139,7 +139,7 @@
     "nombre": "Rodrigo Gonzalez",
     "plan": "plan_rodrigo_gonzalez.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Renovar suscripcion",
+    "suscripcion_activa": "Proxima renovación 11 de abril",
     "objetivo_proximo": "Desarrollar bases de poomsae y pateo para el poomsae de élite"
   },
 
@@ -163,7 +163,7 @@
     "nombre": "Karen Sanchez",
     "plan": "plan_karen_sanchez.json",
     "plan_activo": "Forjando bases 2",
-    "suscripcion_activa": "Marzo",
+    "suscripcion_activa": "Proxima renovación 30 de abril",
     "objetivo_proximo": "Desarrollar bases de poomsae de élite"
   },
 
