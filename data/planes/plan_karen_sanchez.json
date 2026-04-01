@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado mie 26 marzo",
+  "updated_at": "Actualizado lun 30 de marzo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Jueves 26 y viernes 27 de marzo del 2026",
-  "enfoque_corto": "Simulación de poomsae",
-  "enfoque": "Última preparación para el regional de olimpiada nacional - NO hacer los ejercicios, solamente tomar en cuenta los apuntes de poomsae",
+  "ciclo": "Martes 31 de marzo al Sábado 4 de abril del 2026",
+  "enfoque_corto": "Desarrollo de presentación y tecnica",
+  "enfoque": "Trabajo de fuerza + potencia + limpieza técnica + timing",
  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
@@ -13,7 +13,7 @@
       "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "MAR - JUE - SAB",
+  "isometricoDias": "MAR - JUE - SAB (NO OMITIR)",
   "isometrico": [
      {
       "titulo": "Yop Chagui - NIVEL 2",
@@ -34,7 +34,7 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MIE - VIE - DOM",
+  "pateoDias": "MIE - VIE - DOM (NO OMITIR)",
   "pateoTecnico": [
      {
       "titulo": "Propuesta + Empuje - Cuádriceps",
@@ -56,25 +56,68 @@
       "reps": "20 reps por lado/ 2 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ML3DfsZnfUfFqbMbONSu70lKJNb8repM/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Tecnico de Ap chagui + corrección de bola del pie",
+      "reps": "20 reps / 3 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ML3DfsZnfUfFqbMbONSu70lKJNb8repM/view?usp=drive_linkhttps://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drivesdk"
+    },
+    {
+      "titulo": "L2 T4  mas lento yop chaguis",
+      "enfoque": "Tecnico de yop chagui y estabilidad",
+      "reps": "10 reps por lado/ 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ML3DfsZnfUfFqbMbONSu70lKJNb8repM/view?usp=drive_link"
+    },
+    {
+      "titulo": "Doble yop hold + landing L3 koryo",
+      "enfoque": "Tecnico dinamico de yop chagui",
+      "reps": "10 reps por lado/ 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drivesdk"
     }
   ],
   "poomsaeDias": "MARTES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Simulacion de competencia",
-      "enfoque": "Ritmo + correcciones + tecnica",
-      "reps": "2 poomsaes por ronda / sorteo",
-      "tipo": "ejercicio NO VIDEO",
-      "url": "#"
+      "titulo": "Chuchum + Giro + Jakdari +  Yop - Ejercicio",
+      "enfoque": "Giro técnico + correcciones + equilibrio",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1z0tEpdciDc-QqCm2AqdcJ8Q-wZrUhZ3Z/view?usp=drivesdk"
+    },
+    {
+      "titulo": "Transicion ap kubi + peso y talon",
+      "enfoque": "Tecnico de pies / transición",
+      "reps": "40 reps/ 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1px4BD-h8EFtI9AUEgR4XrXR4B9anXeOK/view?usp=drivesdk"
+    },
+    {
+      "titulo": "Transicion + Elevacion de talon",
+      "enfoque": "Transición correcta",
+      "reps": "40 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1nFE7bld4aHyjMswJuqN-AsHtiA0M0D9e/view?usp=drivesdk"
+    },
+    {
+      "titulo": "Transicion Twit Kubi al frente",
+      "enfoque": "Transición de posición",
+      "reps": "40 reps por lado/ 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1nM9qmOoBEkkZxkS9opOM7N9pfg-b0JRb/view?usp=drivesdk"
     }
   ],
   "apuntes": [
-"Poomsaes en general",
-"Debemos de hacer los ajustes necesarios de poomsae que vimos en clase, pero no se estrese si alguno de ellos no sale en este momento, solo enfoquese en los que si podemos ajustar de manera facil, en los puntos mas finos y detalles que hacen la diferencia, como por ejemplo en el timing, lo importante de esto es que debemos mantener el ritmo, la velocidad necesaria y sobre todo los TRAYECTOS correctos de cada movimiento, ya que incluso terminando bien nuestro movimiento, si no hacemos correctamente nuestros trayectos, como sonnal que debe pasar por la cintura, mejilla y finalmente la ejecución, es entonces donde los jueces quitan puntuación",
-"Tome toda su energía estos días en la simulación, ahí es en donde estará nuestro punto fuerte de entrenamiento, no haga ejercicios isometricos ni nada de eso, ya que no estamos en tiempo de desarrollo, estamos en temporada técnica y detallles finos rumbo al regional..."
+"Busca que los movimientos no se muevan una vez lleguen al punto final de ejecución",
+"Los golpes y defensas debemos de apretar abdomen, muñecas y espalda recta para que el juez note que fijamos nuestro movimiento",
+"Tenemos que fijar nuestros movimientos uno a uno, no nos aceleremos ni nos atrasemos, recuerde que cada movimiento debe de tener su maxima velocidad sin necesidad de hacerlo lento o seguido",
+"Tenemos que tomar en cuenta las correcciones vistas en clase, son muy importantes como las que vimos de los puños al costado, wn espacial cuando ejecutamos yop chagui, nuestro puño lateral se empieza a mover desde que estamos empezando a aterrizar cuando debemos de esperar hasta que nuestros talones se ajusten al piso en su totalidad"
   ],
   "notasFinales": [
-    "Campeona, le deseo lo mejor del mundo, disfrute mucho de este proceso que estoy seguro que será estupenda, y como le dije en clase, cada proceso de olimpiada tiene algo especial y único, disfrute y diviertase, pero principalmente aprenda, enfoquese antes y durante la competencia y ejecute lo aprendido y entrenado en todo este tiempo...confío en usted, le envío un abrazo con los mejores deseos para su competencia",
-    "¡Vamos con todo campeona!"
+    "Campeona, muchas felicitaciones por ese pase al nacional, estoy muy orgulloso de su trabajo y constancia,  debemos de continuar trabajando con enfoque y dirección en base a lo que estamos viendo en este plan de entrenamiento ya que será clave...en el nacional los detalles finos son los que hacen la diferencia",
+    "¡Vamos con todo campeona, cualquier duda por favor coménteme!"
   ]
 }
