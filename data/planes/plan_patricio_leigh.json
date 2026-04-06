@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 29 de marzo",
+  "updated_at": "Actualizado dom 5 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 29 de marzo al sábado 4 de abril del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo + trabajo de poomsae",
-  "enfoque": "Cada vez más cerca, continuamos con nuestra aceleración de progreso de poomsae con rumbo a nuestro proximo evento en Republica Dominicana",
+  "ciclo": "Lunes 6 al sábado 11 de abril del 2026",
+  "enfoque_corto": "Trabajo enfocado unicamente en poomsae",
+  "enfoque": "Pondremos todo el enfoque en el trabajo técnico como semana pre competición - SOLO TRABAJAR CON EL TRABAJO TECNICO DE POOMSAE - OMITA TODOS LOS DEMAS EJERCICIOS",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -85,7 +85,7 @@
       "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO (No qutamos ejercicios, mantenemos o aumentamos)",
+  "poomsaeDias": "LUNES A SÁBADO (sIN BANDAS ELASTICAS NI ARTICULOS EXTERNOS, SOLO POOMSAE)",
   "poomsae": [
     {
       "titulo": "Linea 1 Koryo - Precisión (hacerlo marcado no rapido)",
@@ -142,17 +142,23 @@
       "reps": "10 reps",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link"
+    },
+    {
+     "titulo": "Simulacion de competencia - de la primera a la ultima poomsae - NO VIDEO",
+      "enfoque": "Enfoque competitivo + simulación de competencia",
+      "reps": "1 rep por competencia",
+      "tipo": "video",
+      "url": "#"
     }
   ],
   "apuntes": [
-    "Esta semana aunque cansados, pero le dimos a nuestro entrenamiento y finalizamos con pyonwong, una poomsae exigente pero a su vez bastante genial en cuanto a nuestra ejecución, ya que al ser exigente pues justamente nos dará oportunidad de estar mejor en sentido técnico, equilibrio y seguridad para las demás poomsaes",
-    "Recordar que debemos de girar las muñecas cuando preparamos para nuestras ejecuciones, como por ejemplo antes de los codazos",
-    "Cuidar la camara de nuestras patadas, estas son las que nos ayudarán al control y equilibrio de nuestra ejecución",
-    "No pierda el control, mantengase tranquilo y trabajando en la parte técnica que es ahí en donde debemos enfocarnos y en la practica constante de nuestras poomsaes completas para que nuestro nuevo dedo sienta y se acostumbre de una manera r+apida y salvaje a su vez"
+    "Estamos en la ultima semana antes de nuestra competencia, trabajaremos unicamente en la ejecucion completa en base a competencia, entrada, saludo, poomsae, salida, etc..",
+    "Procure asegurar y a su vez arriesgar un poco en ell caso de fuerza y elevacion de pateo, esto con la intension de ir familiarizando nuestro cuerpo a las poomsaes de competencia y el feeling que se siente en el area"
   ],
   "notasFinales": [
-    "Mucho exito maestro en su entrenamiento de esta semana, no desista y eso lo hace muy bien, nos mantendremos firmes viendo cada movimiento, cada ejecución y preparación de movimientos como así las ejecuciones completas, que no se le escape ningun detalle",
+    "A darle con todo maestro, esta semana es el punto importante de nuestro entrenamiento y rumbo a nuestra competencia esperada",
+    "Ha estado trabajando excelentemente, lo que ahora mismo tiene y ha desarrollado es mas que suficiente, es un gran guerrero por tomar este gran paso, ahora a disfrutar y sentir todo lo que hemos hecho, sin meter oo qitar tecnicas, sino al contrario, respetando en cada una de las repeticiones",
     "Cualquier duda, por favor comenteme maestro",
-    "¡Feliz entrenamiento!"
+    "¡Feliz entrenamiento y con todo!"
   ]
 }
