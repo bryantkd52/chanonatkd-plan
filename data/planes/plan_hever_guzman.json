@@ -1,7 +1,7 @@
 {
-  "updated_at": "Actualizado dom 29 marzo",
+  "updated_at": "Actualizado dom 5 de abril",
   "nivel": "Nivel Avanzado",
-  "ciclo": "Lunes 30 de marzo al sábado 4 de abril del 2026",
+  "ciclo": "Lunes 6 al sábado 11 de abril del 2026",
   "enfoque_corto": "Flexibilidad + Técnico pateo + poomsae",
   "enfoque": "Perfeccionamiento técnico de poomsae rumbo al nacional",
  "chanonaflexDias": "LUN A SAB · 1 serie",
@@ -22,25 +22,25 @@
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Ap Chagui - NIVEL 1",
+      "titulo": "Ap Chagui - NIVEL 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Isométrico Activo - Dollyo Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Dollyo Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1y02E8_WF2d624jJWJvinIn2oNIBcbXcc/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "MAR - JUE - SAB (trabajar con mucho enfoque)",
   "pateoTecnico": [
      {
       "titulo": "Circuito Hold con banda L2 Koryo",
@@ -86,15 +86,35 @@
       "reps": "30 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1sYO2lMMZOuZF7-doTLcXFO7itTmlKVe1/view?usp=drive_link"
+    },
+    {
+      "titulo": "Are + montong + Ap  - T5 L4",
+      "enfoque": "Control + técnica + fuerza",
+      "reps": "30 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1FwqSElEVd8CZ6QQNKTFSjow2yYjUgwxG/view?usp=drive_link"
+    },
+    {
+      "titulo": "Olgul + Yop + Codazo - T5 L5",
+      "enfoque": "Control + técnica + fuerza",
+      "reps": "30 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf/view?usp=drive_link"
+    },
+    {
+      "titulo": "Are +  Ap + Golpe - T5 L6",
+      "enfoque": "Control + técnica + fuerza",
+      "reps": "30 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1838t3kpNzYH2Bxq39v_3WWh03o5tepR2/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Logramos entender varios puntos importantes, pero nos molestamos cuando no sale, tranquilo, recuerda que el cuerpo lo entiende en un tiempo  diferente, pero mientras te mantengas intentando, fallando y corrigiendo en la siguiente, con el enfoque claro de como si debe de ser, verás que tendrás esa técnica mejor pulida lo mas pronto posible",
-    "Te dejé unos videos especificos de lo que nos vamos a enfocar esta semana en referente a ejercicios y técnica, hazlos campeon y cualquir duda por favor consultame"
+    "Busque hacer los movimientos con el maximo esfuerzo posible, incluso en momentos de mucho cansancio, no debe de bajar la intensidad, debe de mostrarle a su cuerpo que debe resistir con fuerza incluso en bajones de potencia, aquí es en donde haremos la diferencia en el nacional"
   ],
   "notasFinales": [
-    "Estamos preparandonos fuerte para nuestro nacional, el tiempo que tenemos es suficiente para poder mejorar al maximo, por lo que es importante que cada segundo de entrenamiento debe significar lo maximo, cada segundo cuenta y debe de valer la pena",
-    "Comiennzan vacaciones pero para nosotros continua el camino del guerrero",
+    "Seguiremos preparandonos con mucho enfoque en nuestra limpieza técnica, en el desarrollo de potencia, equilibrio y fuerza, por lo que es muy importante que continuemos trabajando en base a nuestro plan de entrenamiento",
+    "En esta semana, el enfoque principal es seguir trabajando en la técnica de pateo, en la potencia de nuestros golpes y en la presentación de nuestro poomsae, por lo que es fundamental que sigamos trabajando con mucha concentración y dedicación en cada uno de los ejercicios que tenemos programados",
     "Animo y exito en su entrenamiento"
   ]
 }
