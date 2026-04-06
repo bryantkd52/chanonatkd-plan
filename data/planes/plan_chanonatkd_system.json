@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 23 de marzo",
+  "updated_at": "Actualizado dom 5 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 30 de marzo al sábado 4 de abril del 2026",
+  "ciclo": "Lunes 6 al sábado 11 de abril del 2026",
   "enfoque_corto": "Flexibilidad + Fuerza isométrica",
-  "enfoque": "Iniciar el entrenaiento de flexibilidad y fuerza para pateo, forjando las bases principales e importantes para nuestro pateo",
+  "enfoque": "Continuamos con nuestro inicio de entrenamiento y programa específico para mejorar nuestras habilidades físicas y desarrollar fuerza isométrica tan importante en el pateo",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -63,14 +63,20 @@
       "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
+  "poomsaeDias": "SESION DE ENTRENAMIENTO EN LÍNEA",
   "poomsae": [],
   "apuntes": [
-    "LEER NOTAS FINALES"
+    {
+      "titulo": "Primera Sesión ChanonaTKD System",
+      "enfoque": "Sesion en línea",
+      "reps": "2 veces por semana",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1vOfIaIZoli63oh8HoVaKsqYjBVy0449A/view?usp=drive_link"
+    }
   ],
   "notasFinales": [
-    "Te damos la mas cordial bienvenida a tu plan de entrenamiento ChanonaTKD System, en este plan, encontrarás los ejercicios y las indicaciones divididas por secciones para mejor estructura visual, facilidad para encontrar los ejercicios que hay que hacer y en base a un plan dedicado para mejorar tu pateo y flexibilidad",
-    "Es importante que tengas el respectivo cuidado de hacerlo en base a tus limitantes, no te sobre exijas y procura hacer los ejercicios con cuidado, con el estiramiento, lubricación y flexibilidad previa para evitar lesiones, nada de esto es lesivo al menos que se haga mal, es por eso que debes de enfocarte en específico en la  técnica para no tener errores en nuestras ejecuciones",
+    "En esta segunda semana de entrenamiento, tuvimos nuestra primera sesion del programa, te dejé el link con el acceso a la clase en la seccion de poomsae",
+    "Recuerda que todos los ejercicios y las clases estarán disponibles unicamente en dispositivos que tengan tu correo electronico de gmail que me proporcionaste",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
