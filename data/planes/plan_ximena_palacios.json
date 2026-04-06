@@ -1,19 +1,19 @@
 {
-  "updated_at": "Actualizado Lun 9 marzo",
+  "updated_at": "Actualizado dom 5 de abril",
   "nivel": "Nivel Profesional",
-  "ciclo": "Marzo del 2026",
-  "enfoque_corto": "Timing + fortalecimiento + flexbilidad + pateo alto",
-  "enfoque": "Precisión de movimientos, velocidad y ejercicios de corte en poomsae",
+  "ciclo": "Abril del 2026",
+  "enfoque_corto": "Timing + fortalecimiento + flexibilidad + pateo alto",
+  "enfoque": "En las semanas del 6 al 19 de abril nuestro enfoque será en el trabajo de poomsae, no en lo fisico, solo lo tecnico, despues de esa fecha si continuamos con nuestro trabajo de desarrollo de fuerza, flexibilidad y más",
   "chanonaflexDias": "LUNES A SÁBADO",
   "chanonaflex": [
     {
-      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "titulo": "Pre-Chanonaflex - Todos Niveles - ESTO SI PARA CALENTAR",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     },
     {
-      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3 - ESTO SI COMO ESTIRAMIENTO SIEMPRE",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
@@ -37,11 +37,25 @@
   "pateoDias": "MARTES - JUEVES - SÁBADO",
   "pateoTecnico": [
       {
-        "titulo": "Ap + Yop + Turn hips silla - Cuádriceps",
+        "titulo": "Salto desplate + 3 ap chaguis - NO VIDEO",
+        "enfoque": "Fortalecimiento de cuádriceps + explosividad de ap chagui",
+        "reps": "10 reps por lado / 2 series por pierna",
+        "tipo": "ejercicio",
+        "url": "#"
+      },
+      {
+        "titulo": "L2 Koryo - hold en ap chaguis",
         "enfoque": "Fortalecimiento de cuádriceps",
-        "reps": "20 reps / 2 series por pierna",
+        "reps": "10 reps / 2 series por pierna",
         "tipo": "video",
-        "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
+        "url": "https://drive.google.com/file/d/1lww5GhU6ZYxtSnnqkniIr04Snu6H3A-L/view?usp=drive_link"
+      },
+      {
+        "titulo": "Ap Chagui + Elevación",
+        "enfoque": "Extensión y potencia de ap chagui",
+        "reps": "20 reps por lado / 2 series",
+        "tipo": "video",
+        "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
       },
       {
         "titulo": "Balance  Ap + Dollyo + Yop - Cuádriceps",
@@ -51,11 +65,11 @@
         "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
       },
       {
-        "titulo": "Camara + L3 Koryo + L5 T5 (PUÑO DEBE ESTAR CERRADO)",
-        "enfoque": "Equilibrio y control",
-        "reps": "20 reps / 1 serie por lado",
+        "titulo": "Ejercicioo 12 - Yop Chagui",
+        "enfoque": "Equilibrio + control + tecnica",
+        "reps": "10 reps / 1 serie por lado",
         "tipo": "video",
-        "url": "https://drive.google.com/file/d/15eKiPwUQSRQAutTZ1s1XD8s-stSXe9PE/view?usp=drive_link"
+        "url": "https://drive.google.com/file/d/1rWkqFQhFatE3TgXkKwOeS4jRQiUeECuO/view?usp=drive_link"
       },
       {
         "titulo": "Circuito Hold con banda L2 Koryo",
@@ -65,19 +79,31 @@
         "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
       },
       {
-        "titulo": "Silla + Ap Chaguis 3 niveles",
-        "enfoque": "Exigencia + empuje",
-        "reps": "20 reps / 1 serie por lado",
+        "titulo": "Ejercicio de fortalecimiento de tobillo con banda ESTO SI LO HARÁ 3 VECES POR SEMANA",
+        "enfoque": "Fortalecimiento de tobillo",
+        "reps": "20 reps por lado / 1 serie",
         "tipo": "video",
-        "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+        "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
       },
       {
-        "titulo": "Ap + Extension (con prudencia)",
-        "enfoque": "Elongación + empuje",
-        "reps": "20 reps / 1 serie por lado",
+        "titulo": "Ap Chagui contra pared",
+        "enfoque": "Extensión de pierna en exigencia",
+        "reps": "20 reps / 2 series por lado",
         "tipo": "video",
-        "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
-      }
+        "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+      },
+      {
+      "titulo": "Elevación banda + poomsae L1 de T7 a Jitae con polainas",
+      "reps": "50 reps elevación * 5 reps poomsae / LUNES Y VIERNES",
+      "tipo": "EJERCICIO - NO VIDEO",
+      "url": "#"
+    },
+    {
+      "titulo": "Elevación mancuernas + poomsae L1 de T7 a Jitae con polainas",
+      "reps": "50 reps elevación * 5 reps poomsae / MIERCOLES",
+      "tipo": "EJERCICIO - NO VIDEO",
+      "url": "#"
+    }
   ],
   "poomsaeDias": "MARTES - JUEVES - SÁBADO",
   "poomsae": [
@@ -100,13 +126,13 @@
       "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
     },
     {
-      "titulo": "Olgul + Yop +Codazo - T5 L5",
+      "titulo": "Olgul + Yop + Codazo - T5 L5",
       "reps": "20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf/view?usp=drive_link"
     },
     {
-      "titulo": "Circuito Hold con banda L2 Koryo",
+      "titulo": "Circuito Hold SIN banda L2 Koryo",
       "reps": "20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
@@ -119,42 +145,30 @@
     },
     {
       "titulo": "Fortalecimiento de Tobillo con banda",
-      "reps": "20 reps por lado/ 1 serie",
+      "reps": "10 reps por lado/ 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     },
     {
       "titulo": "Torcion cadera con banda",
-      "reps": "20 reps / 2 series poor lado",
+      "reps": "10 reps / 2 series por lado",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
     },
     {
-      "titulo": "Elevación banda + poomsae L1 de T7 a Jitae con polainas",
-      "reps": "50 reps elevación * 5 reps poomsae / LUNES Y VIERNES",
-      "tipo": "EJERCICIO - NO VIDEO",
-      "url": "#"
-    },
-    {
-      "titulo": "Elevación mancuernas + poomsae L1 de T7 a Jitae con polainas",
-      "reps": "50 reps elevación * 5 reps poomsae / MIERCOLES",
-      "tipo": "EJERCICIO - NO VIDEO",
-      "url": "#"
-    },
-    {
-      "titulo": "Poomsae por día - T7 inicia hacia Jitae",
+      "titulo": "Poomsae por día - T7 a Jitae",
       "reps": "10 min por línea/ LUNES A VIERNES",
       "tipo": "EJERCICIO - NO VIDEO",
       "url": "#"
     }
   ],
   "apuntes": [
-    "En este mes continuamos trabajando nuestro fortalecimiento físico, flexibilidad y mejora técnica de poomsae para nuestras competencias proximas, esto significa que cada ejercicio debe de ser siempre con la mayor prudencia y exigencia a su vez posible, no hay que omitir ningun ejercicio excepto que por falta de tiempo, competencia proxima tres días antes o algo mayor",
-    "Siempre busque las técnicas correctas a través de los cortes de poomsae en  carpeta de rutinas de entrenamiento en el curso de ChanonaTKD"
+    "En este mes tenemos una buena activación competitiva, por lo que hay que tomar muy en cuenta los puntos específicos de cada indicación referente a las fechas en las que estaremos entrenando únicamente poomsae y ejercicios de poomsae y las fechas en las que estaremos trabajando nuevamente físico",
+    "Nuestro enfoque en estas dos semanas siguientes será la parte técnica y presentación, parte de eso debemos de convertir nuestras ap chaguis de las patadas mas explosivas que podamos hacer, ya que ahí es en donde los jueces también nos dan mayor puntuación, la idea es lograr hacerlo potente, agil, con facilidad de elevación y a su vez que se vea muy natural, para lograr eso debemos de utilizar toda la fuerza que hemos venido desarrollando y hacer las ejecuciones a maxima explosividad",
+    "Los movimientos como defensas y golpes se ven bien, pero debemos de aumentar la torsión del torso y de las muñecas para aumentar la precisión, no solo que se vea que llega, sino que se vea el control y la fuerza controlada a maxima explosividad"
   ],
   "notasFinales": [
-    "Si algun ejercicio sientes que puede estar lastimandote, ajusta las repeticiones y comentame para ajustar la carga",
-    "Vamos avanzando super bien campeona, continuaremos con el maximo esfuerzo pero siempre equilibrando con los descansos, la escuela y su alimentación",
+    "Este mes se vienen eventos en los cuales aprovecharemos para foguearnos y seguir notando los puntos de mejora que debemos tomar, en los apuntes de poomsae debe de tomar en cuenta siempre lo que le comento, haga justamente eso que le menciono ahí ya que es en donde nos falta apretar más las tuercas",
     "Cualquier duda, por favor comentame campeona",
     "¡Feliz entrenamiento!"
   ]
