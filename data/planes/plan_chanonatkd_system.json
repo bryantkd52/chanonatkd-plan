@@ -64,8 +64,7 @@
     }
   ],
   "poomsaeDias": "SESION DE ENTRENAMIENTO EN LÍNEA",
-  "poomsae": [],
-  "apuntes": [
+  "poomsae": [
     {
       "titulo": "Primera Sesión ChanonaTKD System",
       "enfoque": "Sesion en línea",
@@ -74,6 +73,7 @@
       "url": "https://drive.google.com/file/d/1vOfIaIZoli63oh8HoVaKsqYjBVy0449A/view?usp=drive_link"
     }
   ],
+  "apuntes": [],
   "notasFinales": [
     "En esta segunda semana de entrenamiento, tuvimos nuestra primera sesion del programa, te dejé el link con el acceso a la clase en la seccion de poomsae",
     "Recuerda que todos los ejercicios y las clases estarán disponibles unicamente en dispositivos que tengan tu correo electronico de gmail que me proporcionaste",
