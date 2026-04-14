@@ -1,7 +1,7 @@
 {
-  "updated_at": "Actualizado dom 5 de abril",
+  "updated_at": "Actualizado dom 12 de abril",
   "nivel": "Nivel Avanzado",
-  "ciclo": "Lunes 6 al sábado 11 de abril del 2026",
+  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
   "enfoque_corto": "Flexibilidad + Técnico pateo + poomsae",
   "enfoque": "Perfeccionamiento técnico de poomsae rumbo al nacional",
  "chanonaflexDias": "LUN A SAB · 1 serie",
@@ -43,28 +43,28 @@
   "pateoDias": "MAR - JUE - SAB (trabajar con mucho enfoque)",
   "pateoTecnico": [
      {
-      "titulo": "Circuito Hold con banda L2 Koryo",
-      "enfoque": "Cuádriceps + Equilibrio + potencia",
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Cuádriceps + Ap Chagui + Fortalecimiento",
       "reps": "10 reps por lado/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
     },
     {
-      "titulo": "Yop Chagui - Taeguk 5 T5 - L5 - NO ABRIR LA MANO",
-      "enfoque": "Estabilidad + técnica + fuerza",
-      "reps": "30 reps por lado/ 2 series",
+      "titulo": "Ap + Yop + Turn hips silla",
+      "enfoque": "Potencia + técnica + fuerza",
+      "reps": "10 reps por lado/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ML3DfsZnfUfFqbMbONSu70lKJNb8repM/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
     },
     {
-      "titulo": "Doble yop hold - landing L3 koryo - Apoyo de barra o silla",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "7 reps / 1 serie",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Control + técnica + extensión de rodilla",
+      "reps": "9 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUN - MIE - JUE",
+  "poomsaeDias": "LUN - MIE - JUE (Sigue perfeccionando estas áreas, no las omitas)",
   "poomsae": [
     {
       "titulo": "Transición doble montong makki - L1 a L2 T5",
@@ -110,11 +110,12 @@
     }
   ],
   "apuntes": [
-    "Busque hacer los movimientos con el maximo esfuerzo posible, incluso en momentos de mucho cansancio, no debe de bajar la intensidad, debe de mostrarle a su cuerpo que debe resistir con fuerza incluso en bajones de potencia, aquí es en donde haremos la diferencia en el nacional"
+    "Las alineaciones de ap kubi no deben de ser lineales como si estuvieramos parados en una cuerda, pero tampoco como si estuvieramos abiertos, la alineacion de las ap kubis se basan en alineacion de la cadera, ahí es en donde debe de basar su estructura y alineación de ap kubi o posicion larga",
+    "Nuestros recorridos en la poomsae son tan importantes como tambien el como terminamos, es por eso que debemos de asegurarnos de comenzar exactamente de donde debe salir cada movimiento, para mostrarle al juez que estamos ejecutando correctamente nuestros movimientos y recorridos"
   ],
   "notasFinales": [
-    "Seguiremos preparandonos con mucho enfoque en nuestra limpieza técnica, en el desarrollo de potencia, equilibrio y fuerza, por lo que es muy importante que continuemos trabajando en base a nuestro plan de entrenamiento",
-    "En esta semana, el enfoque principal es seguir trabajando en la técnica de pateo, en la potencia de nuestros golpes y en la presentación de nuestro poomsae, por lo que es fundamental que sigamos trabajando con mucha concentración y dedicación en cada uno de los ejercicios que tenemos programados",
-    "Animo y exito en su entrenamiento"
+    "Continuamos trabajando duro campeón, en este plan estaremos trabajando para las proximas dos semanas, por lo que es super importante que se ejecute de la forma mas específica y potente posible, me refiero a que cada movimiento tiene gran importancia, incluso si algunos pueden repetirse, esto es con la intensión de crear dominio en su ejecucion y así pasar al siguiente nivel profesional",
+    "Todo el exito en su entrenamiento campeón, y comenteme cualquier duda que tenga",
+    "Feliz entrenamiento! "
   ]
 }
