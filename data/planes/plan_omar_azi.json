@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 5 de abril",
+  "updated_at": "Actualizado dom 12 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 6 al sábado 11 de abril del 2026",
+  "ciclo": "Lunes 12 al sábado 25 de abril del 2026",
   "enfoque_corto": "Flexibilidad + Fuerza isométrica + Ejercicio de poomsae",
-  "enfoque": "Continuamos con nuestro camino rumbo a la gimnasiada nacional, tenemos puntos imporotantes de entrenamiento que tuvimos en clase y que continuaremos en este plan de entrenamiento, por lo que disfruta y procura hacerlo de la mejor forma posible",
+  "enfoque": "Desarrollo de fuerza para la estabilidad, desarrollo de flexibilidad progresiva y agresiva y poomsae taeguk 6",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -13,13 +13,19 @@
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     },
     {
+      "titulo": "Apertura de Rana invertida (NO VIDEO)",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "#"
+    },
+    {
       "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "LUN - MIE - VIE (Estamos a poco de irnos al siguiente nivel)",
   "isometrico": [
      {
       "titulo": "Yop Chagui - NIVEL 1",
@@ -55,6 +61,20 @@
       "reps": "20 reps * pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+    },
+    {
+      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
+      "enfoque": "Fortalecimiento y cadera en Yop Chagui",
+      "reps": "10 reps * pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Camara + Pyonwong + T7 + Camara + T6",
+      "enfoque": "Fortalecimiento y cadera en Yop Chagui",
+      "reps": "10 reps * pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1FkwN47UEeHLbhMDURk9JtL3srML0Ugb5/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES - MIERCOLES - VIERNES",
@@ -82,11 +102,13 @@
     }
   ],
   "apuntes": [
-    "Continuamos trabajando en estos ejercicios con el objetivo de dominar, de controlar y hacer que estos ejercicios se sientan faciles, por lo cual en cada repeticion es importante que mantengamos la consistencia, el dominio y el enfoque puntual de cada detalle técnico"
+    "En esta semana y la otra estaremos trabajando de forma un poco diferente en referente a la flexibilidad, ya que aunque estaremos trabajando con los mismos ejercicios, el nivel de exigencia no será la misma, ya que trabajaremos con tiempos menores para enfocar en la apertura suave de las articulaciones",
+    "Tome muy en cuenta la vista y velocidad en el inicio de Taeguk 6, esto es super importante ya que justamente nuestra vista y preparación se están quedando en un mismo lugar cuando debemos de ir aterrizando a la ap kubi",
+    "El aterrizaje siempre debe de ser primero con la bola del pie y justo despues junto a la ejecución de mano, los talones",
+    "Buscar que al hacer ap chagui no llevar las manos arriba como movimiento extra, estos deben de irse directo al pecho"
   ],
   "notasFinales": [
-    "Es importante que manejemos cada ejercicio de forma puntual, de forma explosiva pero a su vez detalle quirúrjico para mejorar desde lo profundo y no solo desde lo superficial",
-    "La parte mas importante, es tomar en cuenta que no debemos de sentir bien los cambios técnicos, sino ver que lo hagamos bien ya que el cuerpo tiene costumbres y eso ya lo siente bien, por eso hay que evitar sentirlo bien y comenzar a trabajar en lo que es correcto en referente a los movimientos",
+    "Vamos trabajando de forma progresiva pero también a su vez de forma positiva, el cuerpo hay que aprender a escucharlo y en este caso los ejercicios de flexibilidad son los que vamos a bajar un poco la intensidad, pero sin dejar de seguir avanzando",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
