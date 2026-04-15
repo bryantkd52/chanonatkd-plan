@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 5 de abril",
+  "updated_at": "Actualizado dom 12 de abril",
   "nivel": "Nivel dragones",
-  "ciclo": "Lunes 6 al sábado 11 de abril del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo de poomsae Taeguk 4 en la línea 3",
-  "enfoque": "Esta semana nos conectamos y vimos puntos específicos en la línea 3 de taeguk 4",
+  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
+  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo de poomsae Taeguk 5",
+  "enfoque": "Esta semana nos conectamos y vimos puntos específicos en taeguk 5",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -22,7 +22,7 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB (continuamos con estos ejercicios)",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
      {
       "titulo": "Circuito Hold con banda L2 Koryo",
@@ -124,13 +124,28 @@
       "reps": "depende del ejercicio",
       "tipo": "audio",
       "url": "https://www.youtube.com/watch?v=rKwsVIjzBvk"
+    },
+    {
+      "titulo": "Clase taeguk 5",
+      "enfoque": "Correcta ejecucion de movimientos",
+      "reps": "2 por semana",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1xGKh2VtcJdh4vlbPukf_ZVAB6thQRIfM/view?usp=drivesdk"
+    },
+    {
+      "titulo": "Clase taeguk 5 - 2",
+      "enfoque": "Correcta ejecución de movimientos",
+      "reps": "2 por semana",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1h9s6jJTqacUwet8zqt4xx8Zx3yVCLekC/view?usp=drivesdk"
     }
   ],
   "apuntes": [
-    "Dejo todo el material que hemos visto, y agrego los puntos especificos que vimos en taeguk 4, para que puedas seguir trabajando en eso, es importante que sigas trabajando en el fortalecimiento de cuádriceps y tobillos para poder mejorar tu estabilidad y control en la línea 3 de taeguk 4, también es importante que sigas trabajando en el ritmo de los movimientos para poder mostrar una ejecución más fluida y con mejor presentación"
+    "Dejo todo el material que hemos visto, y agrego los puntos especificos que vimos en taeguk 4, para que puedas seguir trabajando en eso, es importante que sigas trabajando en el fortalecimiento de cuádriceps y tobillos para poder mejorar tu estabilidad y control en la línea 3 de taeguk 4, también es importante que sigas trabajando en el ritmo de los movimientos para poder mostrar una ejecución más fluida y con mejor presentación",
+"Maestro, le dejo las dos clases maestras de taeguk 5, estas estaremos trabajando en estas dos semanas, buscando mejorwr y entender los puntos especificos que necesitamos mejorar y errores comunes, cualquier otra duda que tenga maestro, comenteme y le apoyo"
   ],
   "notasFinales": [
-    "Continuamos entrenando de forma específica en los puntos tecnicos de nuestra taeguk 4, tambien trabajamos con el timer en especifico para poder fortalecer flexores de cadera, cadera y la técnica correcta de nuestro pateo con un ritmo consistente",
+    "Comenzamos a trabajar nuestro taeguk 5 con mucho enfoque en la parte tecnica, haremos nuestro respectivo resumen la proxima semana que nos conectemos",
     "Cualquier duda, por favor comenteme",
     "¡Feliz entrenamiento, maestro!"
   ]
