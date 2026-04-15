@@ -1,15 +1,31 @@
 {
-  "updated_at": "Actualizado dom 15 marzo",
+  "updated_at": "Actualizado dom 12",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
+  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
   "enfoque_corto": "Poomsae",
-  "enfoque": "En esta semana vimos puntos importantes de las correcciones de poomsae, toma muy en cuenta que solamente te dejaré los apuntes que tomé en nuestra clase y procura mejorar en base a ello, teniendo esto es super importante que los corrijas, ya que el perfeccionamiento se basa en la repetición",
+  "enfoque": "En esta semana las clases grabadas seránsensacionales, ya que podremos no solo ver errores que ya tenemos sino que veremos lo que hay que corregir de forna directa",
  "chanonaflexDias": "NO ASIGNADO A ESTE ALUMNO",
   "chanonaflex": [],
   "pateoDias": "NO ASIGNADO A ESTE ALUMNO",
-  "pateoTecnico": [],
-  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
-  "poomsae": [],
+  "pateoTecnico": [
+    {
+      "titulo": "Isometrico activo - nivel 1 de Yop Chagui",
+      "enfoque": "Control + Alineacion + Técnica",
+      "reps": "Circuito completo - 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drivesdk"
+    }
+],
+  "poomsaeDias": "Clase GRABADA koryo",
+  "poomsae": [
+    {
+      "titulo": "Clase Koryo Linea 1",
+      "enfoque": "Control + Alineacion + Correccion técnica",
+      "reps": "Entrenamiento diario",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1RDLF8TKt6g1ERdVDq-hxl3ey5H8gIX-L/view?usp=drivesdk"
+    }
+],
   "apuntes": [
 "Taeguk 2, cuando hacemos ap chaguis, la pierna de apoyo la estamos flexionando, debe de estar en extensión",
 "Are makki del brazo derecho lo esta terminando casi pegado a la pierna",
@@ -21,7 +37,8 @@
   ],
   "notasFinales": [
     "Viendo nuestra competencia, estuvimos excelentes, muchisimas felicidades por eso campeona!!!",
-    "Debemos seguir trabajando pero en base a las cosas importantes, como el timing, las posturas, hay puntos específicos en los que tenemos que seguir corrigiendo y perfeccionando",
+    "Debemos seguir trabajando pero en base a las cosas importantes, como el timing, las posturas, hay puntos específicos en los que tenemos que seguir corrigiendo y perfeccionando, es por ello que estaremos trabajando en koryo a excepto que necesitemos trabajar otra poomsae",
+    "En esta semana trabajaremos en base a los puntos que vemos en nuestra clase que está en la sección de poomsae, pero necesitamos enfocarnos tambien en los ejercicios que pondré en los ejercicios de isometrico activo...no hay que omitir ese circuito, es lo que necesitamos hacer, no solo practica de poomsae",
     "Cualquier duda, por favor comentame campeona",
     "¡Feliz entrenamiento!"
   ]
