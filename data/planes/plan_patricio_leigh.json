@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 5 de abril",
+  "updated_at": "Actualizado dom 12 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 6 al sábado 11 de abril del 2026",
-  "enfoque_corto": "Trabajo enfocado unicamente en poomsae",
-  "enfoque": "Pondremos todo el enfoque en el trabajo técnico como semana pre competición - SOLO TRABAJAR CON EL TRABAJO TECNICO DE POOMSAE - OMITA TODOS LOS DEMAS EJERCICIOS",
+  "ciclo": "Lunes 12 al sábado 25 de abril del 2026",
+  "enfoque_corto": "Trabajo enfocado rumbo a Brasil",
+  "enfoque": "Entrenamiento post competencia",
  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -57,11 +57,11 @@
       "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
     },
     {
-      "titulo": "Circuito Hold con banda L2 Koryo",
-      "enfoque": "Estabilidad + técnica + fuerza",
-      "reps": "10 reps por lado/ 2 series",
+      "titulo": "Propuesta + empuje",
+      "enfoque": "Fortalecimiento + técnica + fuerza",
+      "reps": "10 reps por pierna/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drivesdk"
     },
     {
       "titulo": "Propuesta + ap chagui reps",
@@ -71,28 +71,35 @@
       "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
     },
     {
-      "titulo": "Koryo L1 hold yop + Pyonwong",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "10 reps / 2 series",
+      "titulo": "Ap + salto en circulos",
+      "enfoque": "Control + técnica + pliometría",
+      "reps": "5 reps / 4 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1EvUXdSs21NOAQR8OkD5ip6MeEApvUDDy/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1HDSbmZPK_6CcuSKATFPXzf7QJBLzH_PP/view?usp=drivesdk"
     },
     {
-      "titulo": "Ap chaguis con bloques",
+      "titulo": "Ejercicio 9 - Yop chagui",
       "enfoque": "Control + técnica + equilibrio",
       "reps": "10 reps por lado / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/13tX2PW24qgf_mf7A3KcyIf9YLq7YlbvE/view?usp=drivesdk"
+    },
+    {
+      "titulo": "Ejercicio 10 - Yop chagui",
+      "enfoque": "Control + técnica + equilibrio",
+      "reps": "10 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1oMx08N2-kRO_FaGR4cCffYBb8qgbRa-k/view?usp=drivesdk"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO (sIN BANDAS ELASTICAS NI ARTICULOS EXTERNOS, SOLO POOMSAE)",
+  "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Linea 1 Koryo - Precisión (hacerlo marcado no rapido)",
+      "titulo": "Chuchum Sogui + Giro + Jakdari Sogui + Yop Chagui",
       "enfoque": "Repetición + técnica + precisión",
-      "reps": "20 reps por lado",
+      "reps": "10 reps por lado",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1z0tEpdciDc-QqCm2AqdcJ8Q-wZrUhZ3Z/view?usp=drivesdk"
     },
     {
       "titulo": "Giro correcto keumgang - pies",
@@ -137,28 +144,28 @@
       "url": "https://drive.google.com/file/d/1OYvukbpGdk6lz-MP725Wjz2mOEx9wWUN/view?usp=drive_link"
     },
     {
-     "titulo": "Pyonwong completo - OMITIR MANOS ABIERTAS YA QUE HUBO ACTUALIZACIÓN",
+     "titulo": "Pyonwong completo",
       "enfoque": "Timing + velocidad + precisión",
       "reps": "10 reps",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link"
     },
     {
-     "titulo": "Simulacion de competencia - de la primera a la ultima poomsae - NO VIDEO",
-      "enfoque": "Enfoque competitivo + simulación de competencia",
-      "reps": "1 rep por competencia",
+     "titulo": "Sipjin - L1",
+      "enfoque": "Trabajo técnico",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "#"
+      "url": "https://drive.google.com/file/d/1-BXW5GXAc5HBhcvYcyUiZxZUnV11MZEA/view?usp=drivesdk"
     }
   ],
   "apuntes": [
-    "Estamos en la ultima semana antes de nuestra competencia, trabajaremos unicamente en la ejecucion completa en base a competencia, entrada, saludo, poomsae, salida, etc..",
-    "Procure asegurar y a su vez arriesgar un poco en ell caso de fuerza y elevacion de pateo, esto con la intension de ir familiarizando nuestro cuerpo a las poomsaes de competencia y el feeling que se siente en el area"
+    "Busque mantener las ejecuciones fotograficas en cuanto a movimientos, ya que justamente ahí es en donde tendríamos nuestra ventaja con los jueces, el mostrar que lo estamos haciendo correctamente",
+"En chuchum sogui, la busqueda de alineacion es sumamente importante a la hora de ejecutarla, ya sea con la posición de Kiko o exagerando nuestros ajustes y torsión, la idea es que se haga de forma que sea visualmente correcto",
+"NO olvidar tampoco la alineación de Santul Makki, el brazo de atrás se nos queda abajo"
   ],
   "notasFinales": [
-    "A darle con todo maestro, esta semana es el punto importante de nuestro entrenamiento y rumbo a nuestra competencia esperada",
-    "Ha estado trabajando excelentemente, lo que ahora mismo tiene y ha desarrollado es mas que suficiente, es un gran guerrero por tomar este gran paso, ahora a disfrutar y sentir todo lo que hemos hecho, sin meter oo qitar tecnicas, sino al contrario, respetando en cada una de las repeticiones",
+    "A darle con todo maestro, despues de este excelente resultado en Dominicana, nos da mucha seguridad y enfoque rumbo a Brasil, hay que tomar esto como ventaja y esa seguridad que sentimos es en gran parte por el desarrollo de todas las areas musculares que conforman una buena estabilidad...así que mantengamos el buen progreso",
     "Cualquier duda, por favor comenteme maestro",
-    "¡Feliz entrenamiento y con todo!"
+    "¡Feliz entrenamiento!"
   ]
 }
