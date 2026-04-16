@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 5 de abril",
+  "updated_at": "Actualizado dom 12 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 6 al sábado 11 de abril del 2026",
+  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
   "enfoque_corto": "Flexibilidad + isometrico activo + tecnico de poomsae",
-  "enfoque": "La semana pasada no tuvimos oportunidad de entrenar en linea pero continuaremos con nuestro plan de entrenamiento, no aumentaremos ni quitaremos ejercicios, mantendremos los  mismos esta semana con enfoque en recuperarnos y a su vez dominar estos ejercicios",
+  "enfoque": "Estas proximas dos semanas estaremos trabajando en base a desarrollo tecnico y de fuerza para continuar con nuestro camino a nuesto evento importante",
  "chanonaflexDias": "Lunes a sabado",
   "chanonaflex": [
     {
@@ -57,39 +57,18 @@
       "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
     },
     {
-      "titulo": "Koryo L1 hold yop + Pyonwong",
-      "enfoque": "Control + técnica + fuerza",
+      "titulo": "L2 koryo hold + ap chagui",
+      "enfoque": "10 reps / 2 series",
       "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1EvUXdSs21NOAQR8OkD5ip6MeEApvUDDy/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1lww5GhU6ZYxtSnnqkniIr04Snu6H3A-L/view?usp=drivesdk"
     },
     {
-      "titulo": "Doble yop hold + landing L3 + L1 koryo",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "10 reps / 2 series",
+      "titulo": "Ejercicio 14 - Yop Chagui",
+      "enfoque": "Equilibrio + Precision + Control",
+      "reps": "10 reps por lado/ 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
-    },
-    {
-      "titulo": "Circuito Hold con banda L2 Koryo",
-      "enfoque": "Control + exigencia + fuerza",
-      "reps": "20 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ap chaguis con bloques",
-      "enfoque": "Control + exigencia + fuerza",
-      "reps": "10 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
-    },
-    {
-      "titulo": "Camara L3 Koryo",
-      "enfoque": "Control + técnica",
-      "reps": "30 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/10nz0e_wowhkr4rk7uUlobLrKCFpA6OXy/view?usp=drive_link"
+      "url": ""
     }
   ],
   "poomsaeDias": "LUN - MIE - JUE",
@@ -131,10 +110,10 @@
     }
   ],
   "apuntes": [
-    "Recuerda enfocar en los puntos finos de posiciones, de alineacion y de ejecuciones de defensas/golpes que hemos visto y sobre todo los que sentimos  que hacemos bien pero a nivel visual nos puede estar traidionando, en especial cuando estamos concentrados en la poomsae completa...procura grabarte y enviarmelo si te es posible"
+    "Estas proximas dos semanas de entrenamiento serán importantes para el desarrollo y perfeccionamiento tecnico de poomsae en donde enfocaremos la parte de presentacion pra nuestra proxima competencia"
   ],
   "notasFinales": [
-    "No nos conectamos esta vez pero eso no significó que no podamos entrenar esta semana, al contrario, continuamos dandole con todo  los ejercicios en desarrollo de  nuestra fuerza, potencia y limpieza tecnica",
+    "Continuamos trabajando con buenas bases potentes para nuestra proxima competencia, solo asegurate de que cada movimiento sea con buen enfoque tecnico para continuar avanzando",
     "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento!"
   ]
