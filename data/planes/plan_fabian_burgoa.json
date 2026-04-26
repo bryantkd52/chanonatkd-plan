@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado dom 12 de abril",
-  "nivel": "Nivel dragones",
-  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico de pateo y trabajo de poomsae Taeguk 5",
-  "enfoque": "Esta semana nos conectamos y vimos puntos específicos en taeguk 5",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "updated_at": "Actualizado dom 26 de abril",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico + Ap Chagui + Sipjin + T4",
+  "enfoque": "Desarrollo integral de la estructura base en Sipjin y Taeguk 4, enfocándose en la paciencia de los tiempos de meditación, el control de la pierna de apoyo y el 'congelamiento' técnico.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
       "titulo": "ChanonaFlex • Nivel 1",
@@ -16,7 +16,7 @@
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Ap Chagui - NIVEL 1",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
@@ -24,129 +24,63 @@
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
-     {
-      "titulo": "Circuito Hold con banda L2 Koryo",
-      "enfoque": "Cuádriceps + Equilibrio",
-      "reps": "30 reps por pierna / 2 series",
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Extensión de pierna de apoyo y firmeza de cadera",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Balance  Ap + Dollyo + Yop",
-      "enfoque": "Cuádriceps + Equilibrio",
-      "reps": "20 reps / 2 serie",
+      "titulo": "Propuesta + ap chagui reps",
+      "enfoque": "Control de la pierna trasera y estabilidad",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
-    },
-    {
-      "titulo": "Linea 3 Koryo - Sentadilla y camara / apoyo con barra",
-      "enfoque": "Estabilidad + técnica + fuerza",
-      "reps": "10 reps / 3 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
-    },
-    {
-      "titulo": "Doble yop hold - landing L3 koryo - Apoyo de barra",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "10 reps / 3 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUN - MIE - JUE",
+  "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Timing - Poomsae Taeguk 1",
-      "enfoque": "Ritmo + técnica + precisión",
-      "reps": "Ritmo de poomsae completa",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1Osjpm45GDBwaZL2ZNTrh6rM9obakMTG3/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing - Poomsae Taeguk 2",
-      "enfoque": "Ritmo + técnica + precisión",
-      "reps": "Ritmo de poomsae completa",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/153in4ZZtofBlf44rwqhrtyyIwBUrU9_8/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing - Poomsae Taeguk 3",
-      "enfoque": "Ritmo + técnica + precisión",
-      "reps": "Ritmo de poomsae completa",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1bquwnq6Y9_hq12xGclMuhlcyEqwbqCrl/view?usp=drive_link"
-    },
-    {
-      "titulo": "Timing - Poomsae Taeguk 4",
-      "enfoque": "Ritmo + técnica + precisión",
-      "reps": "Ritmo de poomsae completa",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1GP9xzelmZAbrDWCGC8Dk6gdEv0EBX_3c/view?usp=drive_link"
-    },
-    {
       "titulo": "Primer Mov Sipjin",
-      "enfoque": "Técnica + dirección",
-      "reps": "30 reps / 1 serie",
+      "enfoque": "Control de meditación y firmeza",
+      "reps": "10 reps con máxima paciencia",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1V6_zfIyng5pZ23wStNHzs1jJ_6O5Rg6Q/view?usp=drive_link"
     },
     {
-      "titulo": "Segundo Mov Sipjin",
-      "enfoque": "Técnica + dirección",
-      "reps": "30 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/13BOvQITRDMKgB_mPFoW7rFI9Vo7NwFiB/view?usp=drive_link"
-    },
-    {
-      "titulo": "Segundo Mov Sipjin - golpes",
-      "enfoque": "Técnica + dirección",
-      "reps": "30 reps / 1 serie",
+      "titulo": "Segundo Mov lento de sipjin",
+      "enfoque": "Técnica de congelamiento y fluidez",
+      "reps": "10 reps marcando el corte",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
     },
     {
-      "titulo": "Transicion L2 a 3 T4 -  pies",
-      "enfoque": "Técnica + dirección + transicion",
-      "reps": "30 reps / 1 serie",
+      "titulo": "Taeguk 4 - Completo",
+      "enfoque": "Mecánica de defensas y fluidez de pasos",
+      "reps": "5 reps completas",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-Jlts5WH0nNHnSfaUom-9EOsJltoVjD2/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1tzLShWE2ftfxZSAvvzyn7oGTstvXrM13/view?usp=drive_link"
     },
     {
-      "titulo": "Ap + Regreso Twit Kubi T4",
-      "enfoque": "Técnica + dirección + transicion",
-      "reps": "20 reps por lado / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1et6KYqyWP6ZY-XMVXSqNIRGNh03gTEF2/view?usp=drive_link"
-    },
-    {
-      "titulo": "Thicking clock 3 hours Relaxing Tic Toc - Relajante Sonido de Reloj",
-      "enfoque": "Timer para entrenamiento",
-      "reps": "depende del ejercicio",
+      "titulo": "Timing - Línea 1 de Taeguk 4",
+      "enfoque": "Ritmo y audio de referencia",
+      "reps": "Seguir el audio",
       "tipo": "audio",
-      "url": "https://www.youtube.com/watch?v=rKwsVIjzBvk"
-    },
-    {
-      "titulo": "Clase taeguk 5",
-      "enfoque": "Correcta ejecucion de movimientos",
-      "reps": "2 por semana",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1xGKh2VtcJdh4vlbPukf_ZVAB6thQRIfM/view?usp=drivesdk"
-    },
-    {
-      "titulo": "Clase taeguk 5 - 2",
-      "enfoque": "Correcta ejecución de movimientos",
-      "reps": "2 por semana",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1h9s6jJTqacUwet8zqt4xx8Zx3yVCLekC/view?usp=drivesdk"
+      "url": "https://drive.google.com/file/d/1bsYb3xTwREsd2YgQhfgNaKlBigu8eayr/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Dejo todo el material que hemos visto, y agrego los puntos especificos que vimos en taeguk 4, para que puedas seguir trabajando en eso, es importante que sigas trabajando en el fortalecimiento de cuádriceps y tobillos para poder mejorar tu estabilidad y control en la línea 3 de taeguk 4, también es importante que sigas trabajando en el ritmo de los movimientos para poder mostrar una ejecución más fluida y con mejor presentación",
-"Maestro, le dejo las dos clases maestras de taeguk 5, estas estaremos trabajando en estas dos semanas, buscando mejorwr y entender los puntos especificos que necesitamos mejorar y errores comunes, cualquier otra duda que tenga maestro, comenteme y le apoyo"
+    "Busque en todo momento en el pateo frontal que la pierna de apoyo se mantenga firme; si la base tiembla, el juez lo nota de inmediato.",
+    "Manténgase paciente: Sipjin requiere esperar los tiempos exactos de las meditaciones. No se apresure, el control mental es parte de la técnica profesional.",
+    "Aplique el 'congelamiento': No acelere los movimientos finales, marque al 100% el impacto, deténgase un instante y luego continúe. Ese contraste es lo que da elegancia.",
+    "La pierna trasera debe estar totalmente extendida durante la cámara de su pateo y en la ejecución final; una rodilla trasera 'floja' resta .1 en presentación.",
+    "Fluidez en las defensas: El trayecto de preparación debe ser suave, pero el trayecto final y el bloqueo deben ser directos y contundentes."
   ],
   "notasFinales": [
-    "Comenzamos a trabajar nuestro taeguk 5 con mucho enfoque en la parte tecnica, haremos nuestro respectivo resumen la proxima semana que nos conectemos",
-    "Cualquier duda, por favor comenteme",
-    "¡Feliz entrenamiento, maestro!"
+    "Maestro, estás trabajando dos poomsaes que requieren una madurez técnica distinta. Sipjin es poder y paciencia; Taeguk 4 es precisión y fluidez.",
+    "El secreto para que estas formas luzcan profesionales es no robarle tiempo a los movimientos lentos. Dale a cada técnica su lugar.",
+    "Cualquier duda con los tiempos de Sipjin, coméntame para ajustarlo en la siguiente sesión.",
+    "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
