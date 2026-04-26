@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 12 de abril",
+  "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Avanzado",
-  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
-  "enfoque_corto": "Poomsae + fortalecimiento + aumento de potencia en brazos/piernas",
-  "enfoque": "En las proximas dos semanas estaremos trabajando en mucho fortalecimiento y trabajo tecnico de pateo, pero sin ejar a un lado el trabajo de poomsae",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Koryo Líneas 1 y 2 + Estabilidad estructural",
+  "enfoque": "Perfeccionamiento de la precisión técnica y el timing en las primeras dos líneas de Koryo, con énfasis en el control de la pierna de apoyo y la simultaneidad de los movimientos.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -19,7 +19,7 @@
       "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "MARTES - JUEVES - SÁBADO / Super importante, no los saltes",
+  "isometricoDias": "MARTES - JUEVES - SÁBADO",
   "isometrico": [
     {
       "titulo": "Yop Chagui - NIVEL 2",
@@ -32,122 +32,67 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico activo - Dollyo Chagui - Nivel 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MIÉRCOLES - VIERNES / Mega importante, imposible que los saltes",
+  "pateoDias": "LUNES - MIÉRCOLES - VIERNES",
   "pateoTecnico": [
-      {
-        "titulo": "Ap + Yop + Turn hips silla - Cuádriceps",
-        "enfoque": "Fortalecimiento de cuádriceps",
-        "reps": "30 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
-      },
-      {
-        "titulo": "Balance  Ap + Dollyo + Yop - Cuádriceps",
-        "enfoque": "Fortalecimiento de cuádriceps en diferentes patadas y control",
-        "reps": "10 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
-      },
-      {
-        "titulo": "Circuito Hold con banda L2 Koryo",
-        "enfoque": "Fortalecimiento de cuádriceps para potenciar la ap chagui",
-        "reps": "10 reps por lado / 2 series",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ap chagui + Propuesta stand",
-        "enfoque": "Fortalecimiento de cuádriceps para potenciar la ap chagui",
-        "reps": "12 reps por lado / 2 series",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1xDDf3xWV9jLSS2buYRk0ocGBw8eRKigi/view?usp=drive_link"
-      },
-      {
-        "titulo": "Linea 3 Koryo - Sentadilla y camara",
-        "enfoque": "Control + técnica + potencia",
-        "reps": "7 reps por lado / 2 series",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ap Chagui contra pared",
-        "enfoque": "Control + técnica + pantorrillas",
-        "reps": "20 reps por lado / 2 series / seguidas uno y uno",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-      },
-      {
-        "titulo": "L2 yop chaguis T4",
-        "enfoque": "Control + técnica + equilibrio",
-        "reps": "7 reps por lado / 2 series",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1itbAdFy1D_RFN0WTpbKzHaK1oQsD-c29/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
-        "enfoque": "Fortalecimiento para estabilidad y evitar lesiones en tobillos",
-        "reps": "12 reps por lado / 1 serie",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
-      }
+    {
+      "titulo": "Circuito Hold con banda L2 Koryo",
+      "enfoque": "Fortalecimiento de cuádriceps y control de Yop Chagui",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap hold 3 + L2 Koryo",
+      "enfoque": "Estabilidad y encadenamiento técnico",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Tuep3FQZCHwcQuziQAnDoSbwnwCugKYz/view?usp=drive_link"
+    }
   ],
-  "poomsaeDias": "MARTES A SÁBADO / 1 serie",
+  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
   "poomsae": [
     {
-      "titulo": "Chuchum + Giro + Jakdari +  Yop - Ejercicio ",
-      "reps": "10 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1z0tEpdciDc-QqCm2AqdcJ8Q-wZrUhZ3Z/view?usp=drive_link"
+      "titulo": "Timing - Línea 1 Koryo",
+      "enfoque": "Ritmo de competencia y audios de referencia",
+      "reps": "5 repeticiones conscientes",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1_k4JjzJoUEm0al3K5H50CKPR92-qqi4I/view?usp=drive_link"
     },
     {
-      "titulo": "Camara Yop + L3 Koryo",
-      "reps": "20 reps por pierna / 2 series",
+      "titulo": "Linea 1 Koryo - Precisión + Timing",
+      "enfoque": "Control neuromuscular y alineación",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1pawGP6dSyFvgL_Ly22ePFP7XR_cImOcq/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 15 - Yop Chagui",
-      "reps": "20 reps por pierna / 2 series",
+      "titulo": "Linea 2 Koryo - 2.1 ap chagui + golpes",
+      "enfoque": "Simultaneidad de golpe y aterrizaje",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/17YveGmdGny-g79ofbFy4D_YplmQ8j2RQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv/view?usp=drive_link"
+    },
+    {
+      "titulo": "Linea 2.2 Koryo",
+      "enfoque": "Corte de movimiento y trayectoria",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1p90iF0JXyFoMq7AW28VYw4g4bQekSYgQ/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Estos apuntes los seguiré poniendo aquí e iré quitando los que considere que ya vamos mejorando, pero también estarán aquí para que los siga viendo campeona",
-    "La rodilla de la pierna que esa trasera en twit Kubi se esta doblando hacia adentro, esto significa que estamos fuera de la alineación correcta y que estamos llevando el cuerpo hacia al frente en las ejecuciones",
-    "Esta moviendo las piernas antes de terminar de preparar montong Makki",
-    "Hay que darle mayor velocidad a los giros de transición con ayuda de la encapsulación",
-    "Apretar y alineación de la espalda en las yop Chaguis para mantener la alineación de el talon de apoyo", 
-    "En la linea 2 en las Ap Chaguis la pierna de apoyo debe de extenderse en su totalidad cuando ejecutamos el pateo, ya que ahi nos estarían quitando .1 por esa flexion de rodilla",
-    "Ejecutar correctamente la preparación de los movimientos en las cámaras de las AP y yop Chaguis, ya que ahi esta justamente el punto principal en donde podemos marcar nuestra preparación y lo que nos va a contar justamente para nuestra puntuación de presentación", "Entender los cortes o pausas que se deben de hacer en los movimientos nos dará ventaja sobre los formistas que hacen poomsaes de mucha velocidad, ya que el reglamento nos manda a justamente trabajar en base a ese nivel de corte",
-    "Las defensas exteriores deben de abrirse hacia afuera, no hacia al frente ya se eso parece como si fuera golpe, lo que significa que descontarían 0.3",
-    "Linea 3, el aterrizaje de las yop Chaguis estan rápidas, deben de esperar un poco mas arriba para que no luzca como caída",
-    "En la transición hacia chuchum sogui esta haciendo dos pasos extras a lo que debería de hacer, debe de pasar la pierna trasera primero y después girar el pie de apoyo",
-    "En el movimiento de concentración, debemos esperar un segundo mas solamente para marcar nuestro movimiento, no para llegar mas tarde, es decir llegamos en el segundo 7 y esperamos a 8 para marcar nuestra llegada y para continuar al siguiente movimiento",
-
-
-    "Taeguk 7",
-    
-    "Las trancisiones entre un lado y otro en as bom seoguis ejecuta varios pasos para lograr llegar, ahí nos estarían quitando varios 0.1 y tenemos que evitarlo, es importante pasar el peso a la pierna frontal e inmediatamente tenemos que girar con la bola del pie",
-    "Los dos movimientos de la linea 2 es fundamental que no se haga de forma acelerada pero tampoco lento, la idea es mostrar que ejecutamos con precisión y limpieza cada uno de los movimientos, para lograr eso hay que cortar el movimiento en cuanto llegamos pero ejecutar en cada inicio con maxima velocidad para mostrar el timing correcto",
-    "Cuando giramos en la transicion de la linea 4 a la 5, nuestra inclinación corporal luce como si estuvieramos cayendo, incluso si no se siente, a nivell visual asói se ve y es peligroso a nivel presentación, necesitamos que el juez nos vea en todo momento con rectitud de espalda y alineacion incluso cuando estamos girando",
-    "Cuando giramos al otro lado en el caso de la linea numero 5, los brazos cruzados se deben de llevar a su vez con los hombros y a vsta, ya que dejar los brazos atrás hace que el giro se vuelva lento y a su vez perdemos el timing",
-    "En la ultima linea, la numero 6, existen dos ap soguis, la primera no se arrastra pero la segunda si, una vez que ejecutamos nuestro golpe lateral es importante que arrastremos justo cuando ejecutamos el golpe",
-    "También es muy importante que se extienda la pierna de apoyo de la pierna que está pateando, es fundamental para mantener una postura lineal y limpia en cada ejecución",
-    "En la ultima linea, estamos llevando llos hombros hacia al frente, se nota mucho esa inclinacion, tenemos que llevar la espalda recta en todo momento, es fundamental para mostrar buena postura"
+    "Busque campeona siempre mantener las alineaciones correctas de nuestra poomsae en las líneas 1 y 2. Aunque es un trabajo complejo, usted lo ha ido haciendo excelente, pero es el momento de pulir los detalles para no estancarnos.",
+    "En la línea 1, asegure que el movimiento de Sonnal sea nítido y que la transición a la siguiente postura mantenga el eje corporal sin tambaleos.",
+    "En la línea 2, vigile la pierna de apoyo durante las Ap Chaguis: debe estar totalmente extendida y el talón nunca debe despegarse del piso.",
+    "Procure confiar mucho en su capacidad y su ejecución, pero sobre todo apóyese en el material que le dejo; los audios de timing le darán la ventaja en la fluidez técnica.",
+    "Recuerde que el Poomsae vive en las transiciones: el final de un movimiento es el inicio exacto del siguiente."
   ],
   "notasFinales": [
-    "Nuestro trabajo se centrará en el desarrollo de fuerza explosiva, potencia y alinación de nuestras poomsaes específicas, lo que significa que debemos de seguir al pie de la letra los puntos que se menciona en los apuntes de poomsae",
-"Nuestras trayectorias son muy importantes de tomar en cuenta, es justo ahí en donde muchas veces dejamos de un lado y es en donde nos van comiendo 0.1 en cada movimiento y sabemos que hasta un simple 0.1 puede costarnos el siguiente lugar o incluso, el primero",
-    "Vamos con todo campeona, cualquier duda, por favor comenteme",
-    "¡Feliz entrenamiento y a seguir dandole con todo!"
+    "Campeona, su nivel exige que cada movimiento tenga una intención real. No solo mueva los brazos, ejecute con potencia controlada.",
+    "Koryo es la base de su maestría técnica; dominar estas dos primeras líneas con excelencia es el primer paso para un Poomsae de nivel nacional.",
+    "Cualquier duda técnica con las preparaciones de las líneas, coménteme de inmediato.",
+    "¡Feliz entrenamiento y a darle con todo, campeona!"
   ]
 }
