@@ -1,85 +1,78 @@
 {
-  "updated_at": "Actualizado dom 12 de abril",
+  "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
-  "enfoque_corto": "Flexibilidad + Fuerza isométrica + Combo de pateo descendente y giro con gancho",
-  "enfoque": "Nuestro camino continua en la perfeccion de movimiento en nuestros pateos especificos",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico Activo + Ap Chagui",
+  "enfoque": "Desarrollo de la estabilidad estructural y control del eje mediante la extensión total de la pierna de apoyo durante el pateo frontal.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Nivel 1",
+      "titulo": "Chanonaflex - intermedio",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
-     {
-      "titulo": "Yop Chagui - NIVEL 1",
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Ap Chagui - NIVEL 1",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio.mp4",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "LUNES A SÁBADO",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
-     {
-      "titulo": "Circular + gancho - paso 5",
-      "enfoque": "Entendimiento de la transición y pasos",
-      "reps": "20 reps",
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Control de talón y extensión de rodilla base",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1chH_9pxZxSpXSw3pNgzZV5Aa_ip9Frxz/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Circular + gancho - paso 6",
-      "enfoque": "Entendimiento de la transición y pasos",
-      "reps": "20 reps",
+      "titulo": "Propuesta + ap chagui reps",
+      "enfoque": "Control de cadera y extensión de pierna de apoyo",
+      "reps": "12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dyKMDDW_AlxUbwuiOYZS2mWmI1AaKlk6/view?usp=drive_link"
-    },
-    {
-      "titulo": "Descendente adentro Paso a paso",
-      "enfoque": "Entendimiento de la transición de este pateo",
-      "reps": "20 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1s6_JEuvoZvwTcJxCuI974SrUUY2wpJqD/view?usp=drive_link"
-    },
-    {
-      "titulo": "Descendente adentro + giro con gancho - kicks",
-      "enfoque": "Entendimiento de la transición de este pateo",
-      "reps": "20 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Utxu-zt9YXALglpK-1TIc5xj7Uf5gfzq/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
     },
     {
       "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Exigencia en ap chaguis directo a cuadriceps",
-      "reps": "20 reps / 3 series por pierna",
+      "enfoque": "Firmeza del cuerpo entero y equilibrio",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
-  "poomsae": [],
+  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Ap chagui, prep y aterrizaje correcto",
+      "enfoque": "Control de eje y firmeza en el aterrizaje",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
+    }
+  ],
   "apuntes": [
-    "LEER NOTAS FINALES"
+    "Busca patear manteniendo la pierna de apoyo (la de abajo) en extensión total. El objetivo es que, al ejecutar el pateo, el cuerpo entero se mantenga firme, con equilibrio y fuerza en todo momento.",
+    "Sé que costará subir la pierna al principio debido a que estaremos obligando a la pierna de base a extenderse, pero poco a poco iremos dominando ese rango sin sacrificar la postura.",
+    "No permitas que el talón de apoyo se eleve; anclarlo al piso es vital para el control neuromuscular de la cadera.",
+    "El equilibrio en el Poomsae nace de una base sólida. Si la rodilla de abajo se flexiona, perdemos .1 de puntuación y desalineamos el eje del torso.",
+    "Enfócate en que el cuerpo no se mueva lateralmente; mantén la cadera firme y direccionada al objetivo."
   ],
   "notasFinales": [
-    "Estas proximas semanas estaremos dando continuidad a nuestro entrenamiento y trabajo de flexibilidad, fortalecimiento y precisión técnica en nuestros movimientos, por lo que vamos a continuar a su vez tambien con ejercicios específicos como el pateo, es ahí cuando debemos de sentir los puntos específicos de nuestro trabajo clave de nuestro trabajo físico",
-    "Cualquier duda, por favor comentame",
-    "¡Feliz entrenamiento!"
+    "Este es un ajuste técnico fundamental para pasar al siguiente nivel profesional. No te preocupes por la altura ahora; prioriza que tu pierna de apoyo parezca una columna de acero.",
+    "El dominio de la extensión de base te dará la estabilidad necesaria para las poomsaes avanzadas. Confía en el proceso de fortalecimiento.",
+    "Cualquier duda o molestia con la extensión de la rodilla, coméntame de inmediato.",
+    "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
