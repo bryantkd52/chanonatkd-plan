@@ -2,93 +2,104 @@
   "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Dragones",
   "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico + Ap/Yop Chagui + Pyonwong",
-  "enfoque": "Corrección estructural del eje y alineación cervical durante el pateo, junto con el dominio de la distribución de peso en posiciones cortas para Pyonwong.",
+  "enfoque_corto": "Flexibilidad + Isométrico + Ap Chagui + Pyonwong completo",
+  "enfoque": "Corrección estructural del eje y control cervical en el pateo frontal, junto con el dominio de la alineación horizontal y equilibrio en Pyonwong.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Nivel 1",
+      "titulo": "ChanonaFlex • Avanzado",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
+    },
+    {
+      "titulo": "ChanonaFlex • desde Propuesta - Nivel 3",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "titulo": "Yop Chagui - NIVEL 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "titulo": "Ap Chagui - NIVEL 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Dollyo Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Control de talón de base y extensión total de rodilla",
+      "titulo": "Ap Chagui Extensión completa",
+      "enfoque": "Control de pierna de apoyo y alineación de cadera",
       "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
+      "url": "https://drive.google.com/open?id=1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU"
+    },
+    {
+      "titulo": "Yop Chagui + Toque piso + Equilibrio",
+      "enfoque": "Fortalecimiento lateral y control de caída",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1ZQ3ud3bkEQJcvSnUelWDVR4ECdwv1_Vn"
+    },
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Fijación del talón y control cervical",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ap + Extension",
-      "enfoque": "Control cervical y firmeza de cadera",
-      "reps": "12 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Alineación de torso y fijación de cadera",
-      "reps": "15 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
       "titulo": "Pyonwong completo",
-      "enfoque": "Distribución de peso 70/30 y verticalidad",
+      "enfoque": "Alineación horizontal y equilibrio en Jakdari Seogui",
       "reps": "5 reps completas",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dxU_-ztAr7vYc8v6HHZBEhv1PMmhphT7/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1dxU_-ztAr7vYc8v6HHZBEhv1PMmhphT7"
+    },
+    {
+      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
+      "enfoque": "Precisión lineal del brazo asistente",
+      "reps": "15 reps marcando el corte",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
     },
     {
       "titulo": "Keumgang position + Yop Chagui - Pyonwong",
-      "enfoque": "Estabilidad y alineación de torso",
-      "reps": "10 reps por lado / 2 series",
+      "enfoque": "Bloqueo y firmeza para evitar caída",
+      "reps": "10 reps por lado",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ePjQf4z7o0MsxC0D3yYTRhBevbpwOtFe/view?usp=drive_link"
-    },
-    {
-      "titulo": "Twit Kubi hacia atras - Transiciones",
-      "enfoque": "Alineación vertical de la pierna trasera",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AP-k7qaZI9ibVi-Qo7wNijf1xWZuuwME/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "En el pateo frontal, busque que la pierna de apoyo se extienda en su totalidad. Una rodilla semiflexionada debilita la imagen técnica ante los jueces.",
-    "Control de cadera: se está proyectando al frente durante la ejecución de la Ap Chagui. Debe mantenerla firme y anclada para no desplazar el centro de gravedad.",
-    "Especial atención a la cervical: evite mover el cuello o la cabeza al intentar ganar altura en la Ap Chagui. El torso debe subir como un bloque único.",
-    "En Yop Chagui, mantenga la alineación del torso; no lo gire. El torso debe estar en la misma línea que la patada para mostrar un control neuromuscular real.",
-    "En Pyonwong, sus Twit Kubi deben marcar el 70/30. La pierna de atrás debe estar vertical y alineada con el cuerpo; si el peso se va al centro, pierde la esencia de la posición.",
-    "Vigile el talón de base: no permita que se eleve. Al levantarlo, la pierna de apoyo tiende a flexionarse, perdiendo toda la firmeza del eje.",
-    "No acelere por inercia. Marque cada movimiento en 'modo congelamiento', asegurando que el juez vea el inicio, trayecto y final nítido de cada técnica."
+    "Busca en tu pateo frontal que la pierna de apoyo se extienda en su totalidad; la firmeza de la base es lo que proyecta potencia.",
+    "La cadera se está yendo al frente en la Ap Chagui. Debes mantenerla firme y neutra, controlando el movimiento desde el core sin desplazar el eje.",
+    "Atención especial en tu cervical: no permitas que el cuello se mueva o se proyecte al intentar patear más alto. La cabeza debe seguir la línea de la columna.",
+    "Vigila tu talón de base: si se eleva, pierdes estabilidad y terminas flexionando la rodilla de apoyo, lo cual es una deducción técnica segura.",
+    "En Pyonwong, el Sonnal Montong Bakkat Makki debe ser lineal. El brazo asistente debe estar estrictamente en horizontal, sin torsiones extrañas.",
+    "Tras la Ap Chagui, busca bloquear correctamente la Yop Chagui para mantener la alineación y evitar la caída. Marca el 'congelamiento' en cada técnica."
   ],
   "notasFinales": [
-    "Campeon, Pyonwong es una poomsae de equilibrio y calma. Si logras dominar tu peso en las posiciones cortas, la patada lateral saldrá con mucha más facilidad.",
-    "Recuerda: la altura de la patada nunca debe comprometer la verticalidad de tu espalda ni la firmeza de tu base.",
-    "Cualquier duda avísame.",
+    "Champ, estamos puliendo los detalles que definen el nivel profesional. La quietud de tu cabeza y la firmeza de tu talón son la clave este ciclo.",
+    "Pyonwong es una poomsae de equilibrio absoluto; no aceleres, prefiere marcar cada movimiento con total nitidez.",
+    "Si sientes que la cervical se tensa, baja un poco la altura del pateo hasta que logres controlarlo.",
     "¡Feliz entrenamiento y a darle con todo, campeón!"
   ]
 }
