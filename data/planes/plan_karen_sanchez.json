@@ -1,121 +1,95 @@
 {
-  "updated_at": "Actualizado dom 12 de abril",
+  "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
-  "enfoque_corto": "Trabajo técnico de poomsae",
-  "enfoque": "Entrenamiento de desarrollo de fuerza y técnica para nuestro maximo evento nacional",
- "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico + Yop Chagui + Koryo L1 y L2",
+  "enfoque": "Corrección estructural profunda en Koryo y perfeccionamiento del eje en pateo frontal y lateral. Énfasis en alineaciones de muñecas, torsión y técnica de posiciones.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Avanzado",
-      "dia": "MARTES A SÁBADO",
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "MAR - JUE - SAB (OBLIGATORIOS)",
+  "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
-     {
-      "titulo": "Yop Chagui - NIVEL 2",
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Ap Chagui - NIVEL 2",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Dollyo Chagui - NIVEL 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MIE - VIE - DOM",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
-     {
-      "titulo": "Propuesta + Empuje - Cuádriceps",
-      "enfoque": "Fortalecimiento de cuádriceps",
-      "reps": "30 reps / 2 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kzwJdTRsxkrWvgY6QRZCEBtdb_81H1d0/view?usp=drive_link"
-    },
-    {
-      "titulo": "Propuesta + Ap Chagui reps",
-      "enfoque": "Fortalecimiento de cuádriceps en ap chagui",
-      "reps": "20 reps / 2 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
-    },
-    {
-      "titulo": "Doble yop hold + landing L3 + L1 koryo",
-      "enfoque": "Tecnico de doble yop chagui",
-      "reps": "10 reps por lado/ 2 series / DIARIO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
-    },
     {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Mejorar bola del pie en ap chagui",
-      "reps": "20 reps lado y lado/ 2 series",
+      "enfoque": "Extensión completa de la pierna de base y control de cadera",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 7 - Yop Chagui",
+      "enfoque": "Evitar proyección de glúteo y mantener alineación del torso",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/198q-dEzz9xLIOrraEZvtUr9vFKGJz6M2/view?usp=drive_link"
+    },
+    {
+      "titulo": "Doble yop hold - landing L3 koryo",
+      "enfoque": "Marcación y velocidad en las flexiones de rodilla",
+      "reps": "7 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "MARTES A SÁBADO",
+  "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Simulacion de competencia - Taeguk 4 y Koryo - NO VIDEO",
-      "enfoque": "Ritmo + correcciones + tecnica",
-      "reps": "2 reps diarias",
-      "tipo": "ejercicio NO VIDEO",
-      "url": "#"
+      "titulo": "Linea 1 Koryo - Precisión + Timing",
+      "enfoque": "Alineación de muñecas y potencia desde el inicio",
+      "reps": "10 reps conscientes",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK/view?usp=drive_link"
     },
     {
-      "titulo": "Thicking clock 3 hours Relaxing Tic Toc - Relajante Sonido de Reloj",
-      "enfoque": "Timing poomsae",
-      "reps": "Depende de la poomsae",
+      "titulo": "Linea 2 Koryo - 2.1 ap chagui + golpes",
+      "enfoque": "Altura de golpe al cuello y firmeza de base",
+      "reps": "10 reps conscientes",
       "tipo": "video",
-      "url": "https://www.youtube.com/watch?v=rKwsVIjzBvk"
+      "url": "https://drive.google.com/file/d/1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv/view?usp=drive_link"
     },
     {
-      "titulo": "Transicion + Elevacion de talon",
-      "enfoque": "Mejorar las transiciones de bola del pie",
-      "reps": "20 reps por lado/ 2 series",
+      "titulo": "Koryo L4 - Golpes y defensas",
+      "enfoque": "Torsión y control de brazo asistente",
+      "reps": "10 reps conscientes",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1nFE7bld4aHyjMswJuqN-AsHtiA0M0D9e/view?usp=drive_link"
-    },
-    {
-      "titulo": "Keumgang - An Palmok Momtong Hecho Makki",
-      "enfoque": "Tecnico de defensa",
-      "reps": "50 reps correctas / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1aO0v5BPyUYVrj7I3BkSqlHhDXj1Git46/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1UHV_mYsNFt3pZIiQKAWXIYWjGcpoguwP/view?usp=drive_link"
     }
   ],
   "apuntes": [
-"En las yop chaguis esta sacando la pompita en especial las yop chaguis altas",
-"En las defensas interiores las muñecas están torcidas, estas deben de estar alineadas y a su vez en linea con los hombros",
-"En las dobles yop chaguis nos está faltando la marcación y velocidad de nuestras flexiones",
-"En esas marcaciones debemos de tomar en cuenta que tenemos que hacer bien cada una de las flexiones de rodilla",
-"La rodilla trasera en nuestro twit kubi esta torcida, debemos de alinearla incluso si no se siente bien o correcto",
-"Los golpes de mano abierta en la linea dos están en la boca del estomago, deben de ir al cuello (o mas facio a la boca)",
-"Darle mayor marcacion a las camaras de las rodillas cuando ejecutamos nuestras ap chaguis",
-"Las defensas exteriores con ambos puños estan torcidos hacia al frente como tambien se ven como golpes hacia adelante, esto porque los codos no se estan separando del cuerpo cuando estamos preparando",
-"Faltan las preparaciones de las are makkis con mano abierta, estan llegando muy ligeras a sus preparaciones, debemos aprovechar las camaras de las ap chaguis para prepararlas",
-"En el giro de transicion en el primer movimiento de la linea 3, estamos girando con el talon y no con la bola del pie",
-"En los codazos, las preparaciones deben de ir de un pecho al otro, no desde en medio",
-"Todas las ejecuciones llevan una torsion, no olvidar los movimientos despues de las yop chaguis, como así tambien que no se separen del cuerpo cuando las estamos preparando",
-"El movimiento circular grande, las manos deben de estar en todo momento viendo hacia al frente, no torcer a ningun lado y a su vez no debe de ser el choque de la mano y el puño muy potente, deben se juntarse como dos imanes",
-"En la ultima linea, en especial las defensas bajas con mano abierta, no está haciendo la preparacion del brazo asistente, como si solo estuviera haciendo la defensa sin el otro brazo literalmente"
+    "En la patada frontal, la pierna de base DEBE estar en extensión completa; la cadera firme sin proyectarse al frente.",
+    "No esperes al final de la clase para meter potencia; entrena con fuerza desde el primer movimiento, eso marca la diferencia técnica.",
+    "En Yop Chagui: Corrige la postura de la cadera, evita 'sacar la pompita'. En las dobles Yop Chagui, falta marcación y velocidad en las flexiones de rodilla.",
+    "Alineación: Las muñecas en defensas interiores deben estar rectas y en línea con los hombros. Los golpes de mano abierta en Línea 2 van al cuello, no al estómago.",
+    "Posiciones: La rodilla trasera en Twit Kubi debe estar alineada, no torcida hacia adentro. En el giro de la Línea 3, gira sobre la bola del pie, nunca sobre el talón.",
+    "Preparaciones: Los codos en defensas exteriores deben separarse del cuerpo al preparar. Las Are Makki con mano abierta necesitan usar la cámara de la Ap Chagui para una preparación sólida.",
+    "Detalles finos: Los codazos preparan de pecho a pecho. En el movimiento circular grande, las manos siempre ven al frente y se juntan suavemente como imanes.",
+    "Brazo asistente: En la última línea, no olvides la preparación del brazo asistente en las defensas bajas; ambos brazos deben trabajar simultáneamente."
   ],
   "notasFinales": [
-    "Campeona, esta semana no pudimos conectarnos, pero eso no es problema, continuaremos entrenando com se debe pero quiero ser muy claro en algo, no debe de omitir ningun ejercicio, ya que debemos de seguir desarrollando y perfeccionando nuestras patadas...ultimamente he estado hablando y compartiendo con jueces internacionales y se lo que le digo, cada vez estoy mas convencido de que estamos haciendo justo lo que necesitamos, así que sigamos avanzando con confianza y compromiso",
-    "Tome muy en cuenta los apuntes de poomsae que le dejo, ya que ahí es en donde podemos justamente trabajar en base a las correcciones que debemos de hacer, no entrene haciendo los mismos errores, sino corrigiendo cada uno de ellos",
-    "Vamos por el buen camino",
-    "¡Vamos con todo campeona!"
+    "Campeona, este plan tiene una carga técnica muy alta. No te satures, enfócate en corregir un detalle a la vez hasta que se vuelva natural.",
+    "Recuerda que en competencia, una muñeca torcida o un talón mal apoyado son deducciones de .1 que restan elegancia a tu ejecución.",
+    "Cualquier duda con las transiciones de Koryo o la torsión de cadera, coméntame de inmediato.",
+    "¡Feliz entrenamiento y a darle con todo, campeona!"
   ]
 }
