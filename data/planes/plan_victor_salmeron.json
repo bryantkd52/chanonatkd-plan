@@ -1,97 +1,93 @@
 {
-  "updated_at": "Actualizado dom 5 de abril",
+  "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Avanzado Progresivo",
-  "ciclo": "Lunes 6 al sábado 11 de abril del 2026",
-  "enfoque_corto": "Flexibilidad + isométrico activo + preparación en poomsae",
- "chanonaflexDias": "3 veces por semana · 1 serie",
+  "ciclo": "Lunes 4 al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico + Ap Chagui + Estructura de Base",
+  "enfoque": "Corrección profunda del eje central, alineación de cadera y control cervical durante el pateo, sumado a la limpieza de trayectorias en defensas básicas y transiciones de pasos post ausencia médica.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "Flexibilidad activa y cadera - Martes 24 ",
-      "dia": "LUNES - MIERCOLES - VIERNES",
+      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1W3WlcLgAEf1nkaaodn8lNxpJ2R4Icrg7/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "ChanonaFlex • Avanzado",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "JUEVES - SÁBADO",
+  "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Jueves 26 -  Tecnico + dinámico + fortalecimiento",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1b7EWIN_3_qez8QgZofSLa2HKaomsm3d_/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO"]
-    },
-    {
-      "titulo": "Jueves 2 -  Tic Tac...",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/12o8BEYsFKvYYMqbE9N-jWYSLDG4lWNfM/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO"]
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MIERCOLES - VIERNES - Estos ejercicios los continuaremos haciendo para dominar, por favor comentame como los sientes",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
-     {
-      "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Exigencia + trabajo técnico",
-      "reps": "5 reps / 2 series",
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Control de talón y extensión de rodilla base",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Técnica + control  + cadera",
-      "reps": "5 reps / 2 series",
+      "titulo": "Ap + Extension",
+      "enfoque": "Control de cadera firme y extensión total",
+      "reps": "12 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 6 - Yop Chagui (FLEXIÓN MÍNIMA)",
-      "enfoque": "Técnica + control  + cadera",
-      "reps": "5 reps / 2 series",
+      "titulo": "Propuesta + ap chagui reps",
+      "enfoque": "Estabilidad del torso y control cervical",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1p8W-xuLUEI8VmTXd1GFCJOQqf29h9Q4-/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ejercicio 5 - Yop Chagui (EXTENSIÓN DEBAJO DE CADERA)",
-      "enfoque": "Técnica + control  + cadera",
-      "reps": "5 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1m7kLYBbo-a9gyy0xKyzY_aoXJVainWBl/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "Revisión de las clases",
+  "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Victor - L1 Taeguk 1 - Online Training",
-      "enfoque": "Corrección técnica + L1 Taeguk 1",
-      "reps": "30 reps por movimiento / 1 serie",
+      "titulo": "Transicion ap seogui",
+      "enfoque": "Trayectoria lineal de pasos sin pasar por dentro",
+      "reps": "20 reps de avance directo",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1fGnJpeisQzle1Teq1n6_gnGpIKLyd3Si/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/173-ABbGz9ZYn095O4pc769w-WgN3eyxO/view?usp=drive_link"
     },
     {
-      "titulo": "Victor - Taeguk 1 - Online Training",
-      "enfoque": "Corrección técnica + Taeguk 1",
-      "reps": "30 reps por movimiento / 1 serie",
+      "titulo": "Preparacion correcta del golpe",
+      "enfoque": "Dirección del brazo asistente hacia el frente",
+      "reps": "30 reps marcadas",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1xQkawHhONY7V36FaAuEz1R8Iv5bSbomM/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1YqTL-tIYcgR5kYa2ShQInBnmbeQAU1Jy/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap chagui, prep y aterrizaje correcto",
+      "enfoque": "Control de congelamiento y modo uno a uno",
+      "reps": "20 reps con pausa técnica",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "La preparación de Are Makki debe ser con un brazo en cintura y la otra en dirección al hombro, no cruzado",
-    "Cuando hacemos la preparación del Are Makki, estamos llevando los hombros hacia atras, es decir mayor torsión hacia el lado donde van los brazos, sin emabrgo no debemos de torser ya que literalmente estamos torcidos para la direccion que debemos de ir",
-    "La preparación del brazo asistente en el golpe se debe preparar hacia la dirección donde vamos a golpear, pero nunca torcido hacia adentro, dece tener ligera flexion pero aun con dirección hacia al frente",
-    "En el caso de los pies, cuando avanzamos de Ap Seogui a Ap Seogui, debemos de llevar el pie de forma directa, no haciendo transición por dentro, sino directo de forma lineal",
-    "Cuando hacemos el giro de transición debemos de llevar de forma paralela los pies en todo momento/el giro, no llegando primero un pie y luego girar, sino llevar todo el cuerpo en el giro",
-
-    "Correcciones nuevas",
-    "Ya nos vamos viendo mejor, pero tenemos más cosas por mejorar, como por ejemplo la muñeca del brazo que está haciendo are makki, se está yendo hacia afuera, debemos alinearlo hacia adentro",
-    "Debemos de buscar en todas las transiciones de movimiento, cambios de direccion, el girar la vista a la prar que vamos preparando, no despues de ejecutar o exactamente el ejecutar, debe de ser justo cuando estamos preparando el movimiento",
-    "Cuando ejecutamos ApKubis debemos de girar la cadera, en busqueda de hacer el movimiento con maxima potencia y que así se vea justamente potente a nivel técnico",
-    "Cuando preparamos montong makki, los dedos deben de estar viendo hacia afuera, no hacia adentro, ya cuando ejecutamos ahí si debe ser hacia adentro"
+    "En tu Ap Chagui, la pierna de apoyo debe extenderse en su totalidad. Vigila el talón de base: si se eleva, flexionas la rodilla y pierdes la estructura profesional.",
+    "Control de cadera y cervical: La cadera debe mantenerse firme sin irse al frente al patear. Evita mover el cuello o inclinar la cervical para ganar altura; la altura debe venir de la flexibilidad funcional, no del desbalance.",
+    "Mecánica de Are Makki: La preparación es brazo a cintura y el otro al hombro, sin cruzar. Mantén la alineación de la muñeca hacia adentro y evita tirar los hombros hacia atrás en la preparación; no te tuerzas.",
+    "Trayectorias y Giros: En Ap Seogui, avanza de forma lineal, no pases el pie por el centro. En los giros, mueve todo el cuerpo en paralelo; la vista debe girar al mismo tiempo que preparas el movimiento, no después.",
+    "Detalle de Montong Makki: Al preparar, los dedos miran hacia afuera. Solo al ejecutar y hacer el impacto final deben girar hacia adentro.",
+    "Ejecución en Ap Kubi: Gira la cadera con explosividad al llegar a la posición para proyectar máxima potencia técnica."
   ],
   "notasFinales": [
-    "Comentame como sientes los ejercicios de pateo, algunos son un poco exigentes y me gustaría que dominemos esos ejercicios justamente para que podamos seguir avanzando rumbo a nuestro objetivo de fortalecimiento y de flexibilidad para controlar desde lo tecnico",
-    "Vamos trabajando de forma  excelente, y agradezco cuando me comentas como te sientes con los ejercicios, eso me da mucha información excelente para que continuemos trabajando en base a la inteligencia y lo que necesitas",
-    "Comentame cualquier duda que tengas por favor",
-    "¡Feliz entrenamiento!"
+    "Victor, estamos en una etapa de limpieza técnica agresiva. Vamos mejorando el movimiento, ahora necesitamos el control quirúrgico del eje corporal poco a poco por la ausencia obligatoria que debimos tomar",
+    "Aplica el 'congelamiento' en cada técnica. No corras; marca cada impacto, quédate un instante y luego fluye a la siguiente preparación.",
+    "Pon especial atención a los apuntes de la vista en las transiciones, es lo que da la intención de ataque/defensa real.",
+    "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
