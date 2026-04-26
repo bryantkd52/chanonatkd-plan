@@ -1,0 +1,72 @@
+{
+  "updated_at": "Actualizado dom 26 de abril",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico Activo + Control de Ap Chagui",
+  "enfoque": "Corrección técnica de la patada de frente, priorizando la fijación del eje cervical, la estabilidad de la cadera y la extensión total de la base sobre la altura del pateo.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "MAR - JUE - SAB",
+  "pateoTecnico": [
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Control de talón de apoyo y extensión de rodilla",
+      "reps": "20 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Estabilidad de cadera y control de cervical",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap Chagui sentado",
+      "enfoque": "Aislamiento de cadera y técnica de extensión",
+      "reps": "15 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kgNL9L8yGHWr_vMbbCZYIelzlZvqIqzX/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Ap chagui, prep y aterrizaje correcto",
+      "enfoque": "Mecánica de congelamiento y fijación de eje",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
+    }
+  ],
+  "apuntes": [
+    "Busca en tu pateo frontal que la pierna de apoyo se extienda en su totalidad; la columna vertebral del Poomsae nace de una base firme.",
+    "Control de cadera: se está yendo al frente al ejecutar la Ap Chagui. Debemos mantenerla firme y cuadrada, sin que se desplace cuando pateamos.",
+    "Especial atención en tu cervical: nota que se mueve al intentar patear más alto. El cuello debe mantenerse neutro y firme, sin tensión extra.",
+    "Vigila el talón de base: se está elevando en el momento del impacto, lo que provoca que flexiones la pierna de apoyo por compensación. Mantenlo anclado.",
+    "Busca siempre la precisión: no aceleres de más. Marca cada movimiento en modo 'congelamiento', patada a patada, asegurando el control total antes de bajar."
+  ],
+  "notasFinales": [
+    "Carlos, este ciclo es para 'limpiar' la estructura. Prefiero una patada a nivel medio perfectamente alineada que una alta con errores de base.",
+    "El control cervical es la clave de la elegancia en competencia. Si tu cabeza no se mueve, tu presentación subirá puntos inmediatamente.",
+    "Sé consciente de tu talón en cada repetición. Si se levanta, la repetición no cuenta. ¡Disciplina técnica ante todo!",
+    "¡Feliz entrenamiento y a darle con todo!"
+  ]
+}
