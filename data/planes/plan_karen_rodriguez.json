@@ -1,0 +1,93 @@
+{
+  "updated_at": "Actualizado dom 26 de abril",
+  "nivel": "Nivel Avanzado Progresivo",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico + Ap Chagui + T8 Línea 1",
+  "enfoque": "Control del eje cervical y estabilidad de la base en el pateo frontal exigente, integrando la mecánica de precisión y 'congelamiento' en el inicio de Taeguk 8.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+    {
+      "titulo": "Ap Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "MAR - JUE - SAB",
+  "pateoTecnico": [
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Fijación del talón de base y extensión total de rodilla",
+      "reps": "20 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Propuesta + ap chagui reps",
+      "enfoque": "Control de cadera firme y alineación cervical",
+      "reps": "12 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Control neuromuscular y equilibrio de eje",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Taeguk 8 - Primer movimiento",
+      "enfoque": "Precisión y marcación de inicio",
+      "reps": "15 reps conscientes",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1DWX9g7vzlLsRQGNNi4RxxlA4Cz3_pHiJ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Doble Ap Chagui + Aterrizaje - Taeguk 8",
+      "enfoque": "Control de cámara en el aterrizaje y dominio de aire",
+      "reps": "10 reps con pausa arriba",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mAlHFT6A4qise0_70UKO8UNcf_oJhjge/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing - Linea 1 de Taeguk 8",
+      "enfoque": "Marcación de ritmos y cortes",
+      "reps": "Seguir el audio de referencia",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1c4DKxDT0xTvIPj1dyuCwEcGO-UO2ctIu/view?usp=drive_link"
+    }
+  ],
+  "apuntes": [
+    "Karen, en tu pateo frontal busca que la pierna de apoyo se extienda en su totalidad. Cualquier micro-flexión debilita la estructura ante el juez.",
+    "La cadera se está proyectando al frente durante la ejecución; mantenla firme y neutra. El poder viene de la torsión, no del desplazamiento del eje.",
+    "Especial atención a la cervical: no permitas que tu cuello se mueva o compense cuando busques mayor altura. La cabeza debe estar fija como parte de tu alineación.",
+    "Vigila el talón de base; si se eleva, pierdes el anclaje y terminas flexionando la rodilla. Mantenlo sellado al piso.",
+    "No aceleres los movimientos de Taeguk 8. Marca cada técnica en 'modo congelamiento', mostrando control total patada a patada.",
+    "En la patada saltando, es obligatorio marcar la cámara (flexión) al aterrizar. Controla la posición arriba, muestra el dominio y luego desplázate al siguiente movimiento."
+  ],
+  "notasFinales": [
+    "Karen, tu avance te exige ahora un control quirúrgico de tu propio cuerpo. No permitas que la búsqueda de altura sacrifique la limpieza de tu eje cervical y tu base.",
+    "El Taeguk 8 se gana en la estabilidad de los aterrizajes. Si controlas el aire y la caída, el Poomsae es tuyo.",
+    "Cualquier duda con la fijación de la cadera o la estabilidad en el salto, coméntame de inmediato.",
+    "¡Feliz entrenamiento y a darle con todo!"
+  ]
+}
