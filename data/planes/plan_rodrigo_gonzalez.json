@@ -1,106 +1,94 @@
 {
-  "updated_at": "Actualizado dom 12 de abril",
+  "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
-  "enfoque_corto": "Flexibilidad + Trabajo técnico poomsae",
-  "enfoque": "Desarrollo técnico y presentación en poomsae",
- "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico + Ap/Yop Chagui + Pyonwong",
+  "enfoque": "Corrección estructural del eje y alineación cervical durante el pateo, junto con el dominio de la distribución de peso en posiciones cortas para Pyonwong.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Avanzado",
+      "titulo": "ChanonaFlex • Nivel 1",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
-    },
-    {
-      "titulo": "ChanonaFlex • desde Propuesta - Nivel 3",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
-     {
-      "titulo": "Yop Chagui - NIVEL 2",
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Ap Chagui - NIVEL 2",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Dollyo Chagui - NIVEL 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "LUN - JUE",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
-     {
-      "titulo": "Ap Chagui +  Yop Chagui + Turn hips con silla o barra",
-      "enfoque": "Fortalecimiento + potencia",
-      "reps": "10 reps / 2 series por pierna",
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Control de talón de base y extensión total de rodilla",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drivesdk"
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Linea 3 koryo + sentadilla",
-      "enfoque": "Equilibrio + Exigencia + Potencia",
-      "reps": "12 reps / 1 serie por lado",
+      "titulo": "Ap + Extension",
+      "enfoque": "Control cervical y firmeza de cadera",
+      "reps": "12 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drivesdk"
+      "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
     },
     {
-      "titulo": "Fortalecimiento de Tobillo con banda",
-      "enfoque": "Fortalecimiento de tobillo",
-      "reps": "20 reps / 2 series",
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Alineación de torso y fijación de cadera",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
-    },
-    {
-      "titulo": "Torcion cadera con banda",
-      "enfoque": "Potencia en cadera",
-      "reps": "20 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUNES - MIERCOLES - SÁBADO",
+  "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Chuchum + Giro + Jakdari +  Yop - Ejercicio",
-      "enfoque": "Control + Alineacion + técnica",
-      "reps": "10 reps por lado / 1 serie",
+      "titulo": "Pyonwong completo",
+      "enfoque": "Distribución de peso 70/30 y verticalidad",
+      "reps": "5 reps completas",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1z0tEpdciDc-QqCm2AqdcJ8Q-wZrUhZ3Z/view?usp=drivesdk"
+      "url": "https://drive.google.com/file/d/1dxU_-ztAr7vYc8v6HHZBEhv1PMmhphT7/view?usp=drive_link"
     },
     {
-      "titulo": "L3 Taeguk 8 - T8 L3",
-      "enfoque": "Control + explosividad",
-      "reps": "10 reps / 2 series",
+      "titulo": "Keumgang position + Yop Chagui - Pyonwong",
+      "enfoque": "Estabilidad y alineación de torso",
+      "reps": "10 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1yNXOjP9b6Zgf7UC48anqyO0E5BcFQyXH/view?usp=drivesdk"
+      "url": "https://drive.google.com/file/d/1ePjQf4z7o0MsxC0D3yYTRhBevbpwOtFe/view?usp=drive_link"
     },
     {
-      "titulo": "L3 Taebaek - Correcta ejecución por movimiento",
-      "enfoque": "Técnica + corrección",
-      "reps": "20 reps por lado / 2 series",
+      "titulo": "Twit Kubi hacia atras - Transiciones",
+      "enfoque": "Alineación vertical de la pierna trasera",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1AP-k7qaZI9ibVi-Qo7wNijf1xWZuuwME/view?usp=drive_link"
     }
   ],
   "apuntes": [
-"Muy bien campeón, nuestro trabajo ha estado siendo espectacular y en esta semana se han ido viendo puntos importantes en referente a nustro desempeño y no solo eso,sino en nuestro enfoque técnico",
-"Continuaremos trabajando en base a nuestra vista, equilibrio y presentación en poomsae para reforzar puntos específicos en donde los jueces llevan el ojo"
+    "En el pateo frontal, busque que la pierna de apoyo se extienda en su totalidad. Una rodilla semiflexionada debilita la imagen técnica ante los jueces.",
+    "Control de cadera: se está proyectando al frente durante la ejecución de la Ap Chagui. Debe mantenerla firme y anclada para no desplazar el centro de gravedad.",
+    "Especial atención a la cervical: evite mover el cuello o la cabeza al intentar ganar altura en la Ap Chagui. El torso debe subir como un bloque único.",
+    "En Yop Chagui, mantenga la alineación del torso; no lo gire. El torso debe estar en la misma línea que la patada para mostrar un control neuromuscular real.",
+    "En Pyonwong, sus Twit Kubi deben marcar el 70/30. La pierna de atrás debe estar vertical y alineada con el cuerpo; si el peso se va al centro, pierde la esencia de la posición.",
+    "Vigile el talón de base: no permita que se eleve. Al levantarlo, la pierna de apoyo tiende a flexionarse, perdiendo toda la firmeza del eje.",
+    "No acelere por inercia. Marque cada movimiento en 'modo congelamiento', asegurando que el juez vea el inicio, trayecto y final nítido de cada técnica."
   ],
   "notasFinales": [
-    "Cualquier duda, por favor comenteme",
-    "¡Feliz entrenamiento campeón!"
+    "Campeon, Pyonwong es una poomsae de equilibrio y calma. Si logras dominar tu peso en las posiciones cortas, la patada lateral saldrá con mucha más facilidad.",
+    "Recuerda: la altura de la patada nunca debe comprometer la verticalidad de tu espalda ni la firmeza de tu base.",
+    "Cualquier duda avísame.",
+    "¡Feliz entrenamiento y a darle con todo, campeón!"
   ]
 }
