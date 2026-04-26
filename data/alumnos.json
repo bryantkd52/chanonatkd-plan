@@ -236,6 +236,30 @@
     "plan_activo": "ChanonaTKD - Dragones",
     "suscripcion_activa": "Abril",
     "objetivo_proximo": "Mejorar pateo y flexibilidad desde 0"
+  },
+
+  "karen_rodriguez": {
+    "nombre": "Karen Rodriguez",
+    "plan": "plan_karen_rodriguez.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Abril",
+    "objetivo_proximo": "Mejorar poomsae a nivel competitivo taeguk 8"
+  },
+
+  "carlos_cobo": {
+    "nombre": "Carlos Cobo",
+    "plan": "plan_carlos_cobo.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Abril",
+    "objetivo_proximo": "Mejorar poomsae a nivel competitivo"
+  },
+
+  "maria_ponce": {
+    "nombre": "Maria Ponce",
+    "plan": "plan_maria_ponce.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Abril",
+    "objetivo_proximo": "Mejorar poomsae a nivel competitivo"
   }
 
 }
