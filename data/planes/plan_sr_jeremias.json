@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado dom 12 de abril",
+  "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
-  "enfoque_corto": "Flexibilidad + Fuerza isométrica + Combo de pateo descendente y giro con gancho",
-  "enfoque": "Nuestro camino continua en la perfeccion de movimiento en nuestros pateos especificos",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico Activo + Ap Chagui",
+  "enfoque": "Corrección estructural de la Ap Chagui, eliminando movimientos parásitos en cervicales y cadera, y garantizando la extensión total de la base.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
       "titulo": "ChanonaFlex • Nivel 1",
@@ -15,71 +15,64 @@
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
-     {
-      "titulo": "Yop Chagui - NIVEL 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
     {
-      "titulo": "Ap Chagui - NIVEL 1",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio.mp4",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "LUNES A SÁBADO",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
-     {
-      "titulo": "Circular + gancho - paso 5",
-      "enfoque": "Entendimiento de la transición y pasos",
-      "reps": "20 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1chH_9pxZxSpXSw3pNgzZV5Aa_ip9Frxz/view?usp=drive_link"
-    },
     {
-      "titulo": "Circular + gancho - paso 6",
-      "enfoque": "Entendimiento de la transición y pasos",
-      "reps": "20 reps",
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Fijación del talón y extensión total de la rodilla base",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dyKMDDW_AlxUbwuiOYZS2mWmI1AaKlk6/view?usp=drive_link"
-    },
-    {
-      "titulo": "Descendente adentro Paso a paso",
-      "enfoque": "Entendimiento de la transición de este pateo",
-      "reps": "20 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1s6_JEuvoZvwTcJxCuI974SrUUY2wpJqD/view?usp=drive_link"
-    },
-    {
-      "titulo": "Descendente adentro + giro con gancho - kicks",
-      "enfoque": "Entendimiento de la transición de este pateo",
-      "reps": "20 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Utxu-zt9YXALglpK-1TIc5xj7Uf5gfzq/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
       "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Exigencia en ap chaguis directo a cuadriceps",
-      "reps": "20 reps / 3 series por pierna",
+      "enfoque": "Control de cadera y estabilidad del torso",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+    },
+    {
+      "titulo": "Propuesta + ap chagui reps",
+      "enfoque": "Control neuromuscular para evitar el movimiento de cadera",
+      "reps": "12 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Elevacion de talones frente a pared",
+      "enfoque": "Fortalecimiento de tobillo para evitar elevación",
+      "reps": "30 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1OvmO3nrmM--QtIvgsREzFGANsCzzbXin/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
+  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
   "poomsae": [],
   "apuntes": [
-    "LEER NOTAS FINALES"
+    "Busque que su pierna de apoyo se extienda en su totalidad en cada Ap Chagui. Una rodilla flexionada resta presencia y firmeza técnica.",
+    "La cadera se está proyectando hacia el frente durante la ejecución; debe mantenerla firme y cuadrada. No permita que el deseo de altura desplace su centro de gravedad.",
+    "Especial atención en su cervical: mantenga la vista fija y el cuello neutro. Evite mover la cabeza al intentar patear más alto, ya que esto delata falta de control técnico.",
+    "Vigile estrictamente su talón de base. Si el talón se eleva, la rodilla se flexiona por inercia; mantenga el pie 'atornillado' al piso.",
+    "No acelere de más. Aplique el concepto de 'congelamiento' en cada impacto: marque la extensión, sostenga un microsegundo y recoja con la misma velocidad.",
+    "Recuerde que en competencia, el movimiento cervical o la elevación del talón son deducciones de .1 de forma inmediata."
   ],
   "notasFinales": [
-    "Estas proximas semanas estaremos dando continuidad a nuestro entrenamiento y trabajo de flexibilidad, fortalecimiento y precisión técnica en nuestros movimientos, por lo que vamos a continuar a su vez tambien con ejercicios específicos como el pateo, es ahí cuando debemos de sentir los puntos específicos de nuestro trabajo clave de nuestro trabajo físico",
-    "Cualquier duda, por favor comentame",
-    "¡Feliz entrenamiento!"
+    "Estamos trabajando en la pulcritud de su técnica. El control del cuello y la cadera es lo que separa a un formista de élite.",
+    "No sacrifique su estructura por la altura de la patada. Prefiero una patada a nivel medio perfecta que una alta con errores de base.",
+    "Cualquier duda con los ejercicios de alineación, coménteme pronto.",
+    "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
