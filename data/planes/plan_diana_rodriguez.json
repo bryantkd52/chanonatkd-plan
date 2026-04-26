@@ -1,103 +1,93 @@
 {
-  "updated_at": "Actualizado dom 12 de abril",
+  "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 12 al sábado 25 de abril del 2026",
-  "enfoque_corto": "Trabajo específico de Taeguk 8",
-  "enfoque": "Le daremos seguimiento a nuestra poomsae Taeguk 8, en base  a lo que vimos en nuestras clases grabadas que estan en la seccion de poomsae en este plan de entrenamiento",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "cycle": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Taeguk 8 Líneas 3 y 4 + Técnica de Ap Chagui",
+  "enfoque": "Perfeccionamiento de las transiciones complejas en Taeguk 8 y consolidación estructural de la Ap Chagui, priorizando alineación y control del eje.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
-      "dia": "LUNES A VIERNES",
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE (No deje de hacer estos ejercicios)",
+  "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Ap Chagui - NIVEL 2",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Yop Chagui - NIVEL 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Dollyo Chagui - NIVEL 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "LUNES A SÁBADO",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
-     {
-      "titulo": "Torsión de cadera con banda",
-      "enfoque": "Fortalecimiento y precisión de movimiento en cadera, glúteo, ingle e isquiotibiales",
-      "reps": "Fallo y después 30 reps",
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Control de talón de apoyo y extensión de rodilla base",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Fortalecimiento de tobillo con banda",
-      "enfoque": "Fortalecimiento de tobillo para mejorar la estabilidad y evitar lesiones",
-      "reps": "30 reps",
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Control de cadera y precisión en el impacto",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
-    },
-    {
-      "titulo": "L2 T4 mas lento yop chaguis",
-      "enfoque": "Tecnica + fortalecimiento + estabilidad +  equilibrio",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iKsyFRARPRVJj0RUlStqXjYOgeLwUgJU/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ap + Extension ",
-      "enfoque": "Tecnica + fortalecimiento + flex activa",
-      "reps": "10 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Transición Taeguk 8 - L1 a L2 T8",
-      "reps": "10 min",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1PC4Rgs-4I6Bml1FTC-kl_bljImEfCow8/view?usp=drive_link"
-    },
-    {
-      "titulo": "Taeguk 8 - Primer movimiento",
-      "reps": "10 min",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1DWX9g7vzlLsRQGNNi4RxxlA4Cz3_pHiJ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Doble Ap Chagui + Aterrizaje - Taeguk 8",
-      "reps": "10 min",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mAlHFT6A4qise0_70UKO8UNcf_oJhjge/view?usp=drive_link"
+      "titulo": "Timing - Líneas 3 y 4 de Taeguk 8",
+      "enfoque": "Ritmo técnico y cortes de movimiento",
+      "reps": "15 min de práctica técnica",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1YURQ133tgo_2gfa3jUT3V2GXsfFYQn_F/view?usp=drive_link"
     },
     {
       "titulo": "L3 Taeguk 8 - T8 L3",
-      "reps": "10 min",
+      "enfoque": "Precisión en las transiciones y bloqueos",
+      "reps": "10 reps de la línea completa",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1yNXOjP9b6Zgf7UC48anqyO0E5BcFQyXH/view?usp=drive_link"
+    },
+    {
+      "titulo": "L4 Taeguk 8 - T8 L4",
+      "enfoque": "Control de peso y dirección de defensas",
+      "reps": "10 reps de la línea completa",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1GCH6JTNZhtumNmek2I0UWW9auQgA9w6w/view?usp=drive_link"
+    },
+    {
+      "titulo": "CLASE Taeguk 8 - Linea 3",
+      "enfoque": "Precisión tecnica de la poomsae",
+      "reps": "Seguir lo indicado en la clase",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1NIixJUDX7ZMRaW58B3k-9tM9MwRuXGuU&usp=drive_copy"
+    },
+    {
+      "titulo": "CLASE Taeguk 8 - Linea 4",
+      "enfoque": "Precisión tecnica de la poomsae",
+      "reps": "Seguir lo indicado en la clase",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1kwTTqByejthBb67u187UJvI94fAmQczS&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "LEER NOTAS FINALES"
+    "Busque campeona siempre mantener las alineaciones correctas de nuestra poomsae Taeguk 8 en las líneas 3 y 4. Esta poomsae ha sido un poco compleja, pero usted lo ha ido haciendo excelente; no debemos confiarnos, sino aprovechar esa inercia para pulir cada detalle.",
+    "En la línea 4, ponga especial atención a la velocidad de las defensas y al corte de movimiento; cada llegada debe ser nítida y con máxima fijación.",
+    "Al ejecutar Ap Chagui, la pierna de apoyo debe mantenerse extendida en su totalidad. No permita que el talón se eleve, esto es vital para su puntuación de presentación.",
+    "Procure confiar mucho en su capacidad y su ejecución, apoyándose 100% en el material técnico que le proporciono en este plan.",
+    "Recuerde la encapsulación: el control neuromuscular al recoger la pierna es lo que define un nivel profesional."
   ],
   "notasFinales": [
-    "La continuidad que le demos a nuestro entrenamiento es clave para poder mejorar de forma especifica y directa, si solo repetimos como nos sentimos comodos entonces la mejora no llegará, debemos de mantenernos firmes de que cada ejecucion que estamos haciendo no es la mas perfecta y por eso debemos de corregirla en cada repeticion para lograr el perfeccionamiento de nuestros movimientos",
-"Las clases estarán en la seccion de poomsae, le dejaré uno por semana, si aun no lo ve no se preocupe, estará en cuanto esté disponible",
-    "¡Feliz entrenamiento campeona!"
+    "Campeona, su evolución técnica es notable. Taeguk 8 es una forma que exige madurez en el timing y usted está lista para dominarla.",
+    "Utilice los audios de timing para internalizar el ritmo de competencia; el secreto del Poomsae vive en las transiciones.",
+    "Cualquier duda con los recorridos de las líneas 3 y 4, coménteme de inmediato.",
+    "¡Feliz entrenamiento y a seguir dándole con todo, campeona!"
   ]
 }
