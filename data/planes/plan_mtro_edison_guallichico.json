@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado dom 12 de abril",
+  "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
-  "enfoque_corto": "Flexibilidad + Técnico pateo",
-  "enfoque": "Trabajamos en base a ejercicios de fortalecimiento de pateo con el timer",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico activo + T4 Línea 3",
+  "enfoque": "Corrección estructural de la Ap Chagui enfocada en la fijación del talón de base y el control de la cadera, junto con el perfeccionamiento técnico de la línea 3 de Taeguk 4.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
       "titulo": "ChanonaFlex • Nivel 1",
@@ -13,10 +13,10 @@
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - VIE",
+  "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Ap Chagui - NIVEL 1",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
@@ -24,73 +24,49 @@
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
-     {
-      "titulo": "Ap + Yop + Turn hips silla",
-      "enfoque": "Cuádriceps + Equilibrio",
-      "reps": "10 reps por pierna / 2 series",
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Fijación del talón y extensión de rodilla base",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Cuádriceps + Equilibrio",
-      "reps": "10 reps / 2 series",
+      "enfoque": "Control de cadera y equilibrio del eje",
+      "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
-    },
-    {
-      "titulo": "Linea 3 Koryo - Sentadilla y camara / apoyo con barra",
-      "enfoque": "Estabilidad + técnica + fuerza",
-      "reps": "10 reps / 3 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=drive_link"
-    },
-    {
-      "titulo": "Doble yop hold - landing L3 koryo - Apoyo de barra",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "10 reps / 3 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
-      "enfoque": "Fortalecimiento + firmeza",
-      "reps": "10 reps por lado/ 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUN - MIE - VIE",
   "poomsae": [
     {
-      "titulo": "Transicion L3 a L4 de T4 -  taeguk 4",
-      "enfoque": "Repetición + técnica + precisión",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jywGe4cJnLzTFwwpX_JlXR7GPUxlBSMk/view?usp=drivesdk"
+      "titulo": "Timing - Línea 3 de Taeguk 4",
+      "enfoque": "Ritmo técnico y audio de referencia",
+      "reps": "Seguir audio / 15 min",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1wj_ri9Jloap-xOSWoxi7k-mxSa3X5RqH/view?usp=drive_link"
     },
     {
-     "titulo": "Ap + Backfist de T4 L4 - Taeguk 4",
-      "enfoque": "Repetición + técnica + precisión",
+      "titulo": "Transicion L2 a 3 T4 - pies",
+      "enfoque": "Técnica de dirección y transición",
       "reps": "20 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1BtdMNbAEA77j4-GIMxgreKYNDnbnYeiO/view?usp=drivesdk"
-    },
-    {
-     "titulo": "Thicking clock 3 hours Relaxing Tic Toc - Relajante Sonido de Reloj",
-      "enfoque": "Ritmo + timer",
-      "reps": "Lo que el ejercicio indique",
-      "tipo": "video",
-      "url": "https://www.youtube.com/watch?v=rKwsVIjzBvk"
+      "url": "https://drive.google.com/file/d/1-Jlts5WH0nNHnSfaUom-9EOsJltoVjD2/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Mi sugerencia es trabajar los ejercicios y las poomsaes en base a el timer con el que trabajamos la ultima clase, maestro, por lo que le dejo e link del video del timer para que pueda trabajar con el, es importante que se enfoque en mantener la intensidad durante todo el ejercicio, incluso cuando sienta cansancio, es ahí en donde se hace la diferencia",
-    "Continuamos trabajando con estos ejercicios especificos maestro, tomando en cuanta los puntos importantes que vimos en nuestro taeguk 4 en la ultima clase"
+    "Busque en su pateo frontal que la pierna de apoyo se extienda en su totalidad. Cualquier flexión mínima le restará estética y altura real.",
+    "Control de cadera: Note que su cadera se proyecta al frente al ejecutar la Ap Chagui. Debe mantenerla firme y bloqueada, evitando movimientos parásitos durante el pateo.",
+    "Atención especial en el talón de base: No permita que el talón se eleve para ganar altura. Prefiero que la patada sea más baja pero con el talón anclado al piso. Esto es lo que realmente mejorará su técnica a largo plazo.",
+    "En la línea 3 de Taeguk 4, vigile que las transiciones de los pies sean precisas y que el peso corporal se desplace correctamente entre posturas.",
+    "La firmeza del eje es el punto clave en este ciclo. Si controla el pie de apoyo, dominará la poomsae completa."
   ],
   "notasFinales": [
-    "Seguimos trabajando con el enfoque de perfeccionamiento técnico, por lo que es importante que se enfoque en cada uno de los detalles técnicos que hemos visto en clase, y que siga trabajando con el timer para poder fortalecer la técnica de pateo y la potencia de nuestro pateo, es fundamental que mantenga la intensidad durante todo el ejercicio para poder lograr una mejora significativa en nuestro rendimiento",
-     "Cualquier duda, por favor comenteme",
-     "¡Feliz entrenamiento!"
+    "Maestro, estamos trabajando en la base de la pirámide técnica. El control del talón de apoyo es un detalle que los jueces de alto nivel observan meticulosamente.",
+    "Priorice la calidad técnica sobre la altura por estas dos semanas. Una vez que el cerebro automatice la extensión y el talón abajo, la altura vendrá con mayor potencia.",
+    "Cualquier duda técnica con la transición hacia la línea 3, coménteme de inmediato.",
+    "¡Feliz entrenamiento y a darle con todo, Maestro!"
   ]
 }
