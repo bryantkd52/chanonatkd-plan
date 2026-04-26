@@ -1,0 +1,87 @@
+{
+  "updated_at": "Actualizado dom 26 de abril",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico + Ap Chagui + Taeguk 4 L1",
+  "enfoque": "Control estructural del eje y corrección de vicios posturales en el pateo frontal, junto con el perfeccionamiento de las transiciones de peso y preparaciones en la primera línea de Taeguk 4.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "MAR - JUE - SAB",
+  "pateoTecnico": [
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Fijación de talón y extensión total de rodilla base",
+      "reps": "20 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Elevacion de talones frente a pared",
+      "enfoque": "Control de estabilidad y fortalecimiento de tobillo",
+      "reps": "30 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1OvmO3nrmM--QtIvgsREzFGANsCzzbXin/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap chagui + Propuesta stand",
+      "enfoque": "Control de cadera y alineación cervical",
+      "reps": "12 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1xDDf3xWV9jLSS2buYRk0ocGBw8eRKigi/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Timing - Línea 1 de Taeguk 4",
+      "enfoque": "Ritmo técnico y cortes de movimiento",
+      "reps": "15 min de práctica",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1bsYb3xTwREsd2YgQhfgNaKlBigu8eayr/view?usp=drive_link"
+    },
+    {
+      "titulo": "Transicion manos y pies L1 T4",
+      "enfoque": "Sincronización de pasos y preparaciones",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1NglZlc_b57Vsi9geRsDXEeSg97bJGQJB/view?usp=drive_link"
+    },
+    {
+      "titulo": "Transicion twit kubi a ap kubi",
+      "enfoque": "Empuje explosivo y transferencia de peso",
+      "reps": "15 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1xxdEMXYZWYiNLG15IzzqNNaYQR65YXsa/view?usp=drive_link"
+    }
+  ],
+  "apuntes": [
+    "En tu pateo frontal, la pierna de apoyo debe extenderse en su totalidad. No permitas que el talón de base se eleve, ya que esto provoca una flexión que desestabiliza toda la estructura.",
+    "La cadera debe mantenerse firme; evita proyectarla hacia el frente al patear. Asimismo, especial atención a la cervical: no muevas el cuello buscando altura, el control viene desde la base, no desde el torso.",
+    "Busca mantener la precisión sin acelerar de más; marca cada movimiento en modo 'congelamiento'. Patada a patada, técnica a técnica.",
+    "En Taeguk 4 L1, el Sonnal Montong Bakkat Makki debe mostrar una transición de brazos clara y fluida según lo vimos en clase.",
+    "En Twit Kubi, mantén el peso atrás de forma profesional; al avanzar a Ap Kubi, el empuje debe ser explosivo desde la pierna trasera.",
+    "Para el golpe medio con mano abierta: la preparación inicia a mitad de la transición de la pierna. Las manos deben estar listas antes de llegar al paso final para ejecutar con firmeza en el impacto."
+  ],
+  "notasFinales": [
+    "Profe, estamos limpiando detalles que marcan la diferencia en el área de competencia. Controlar tu cuello y tu talón de apoyo te dará una imagen mucho más profesional.",
+    "No te desesperes por la altura de la patada, el dominio del eje es lo que realmente impresiona a los jueces. Paciencia y estructura.",
+    "Cualquier duda con la transición del golpe abierto, coméntame para revisarlo.",
+    "¡Feliz entrenamiento y a darle con todo!"
+  ]
+}
