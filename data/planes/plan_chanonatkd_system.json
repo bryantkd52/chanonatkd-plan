@@ -1,82 +1,100 @@
 {
-  "updated_at": "Actualizado dom 12 de abril",
+  "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 13 al sábado 25 de abril del 2026 (dos semanas)",
-  "enfoque_corto": "Flexibilidad + Fuerza isométrica",
-  "enfoque": "Le damos seguimiento a nuestro entrenamiento específico de desarrollo de fuerza y flexibilidad para las proximas dos semanas",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico activo + Ap Chagui",
+  "enfoque": "Desarrollo de la base estructural del pateo frontal, priorizando el control neuromuscular del eje y la estabilidad del pie de apoyo sobre la altura de la patada.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "Lubricación - ChanonaTKD",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1RuhdS9If2L6QBhR6xplM5CEhFmLxR-Wq/view?usp=drive_link"
-    },
-    {
-      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
-    },
-    {
       "titulo": "ChanonaFlex • Nivel 1",
-      "dia": "LUNES - MIERCOLES - VIERNES",
+      "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUNES A SABADO (VERIFICA LOS DIAS POR EJERCICIO)",
+  "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
-     {
-      "titulo": "Yop Chagui - NIVEL 1 / LUNES - JUEVES",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
     {
-      "titulo": "Ap Chagui - NIVEL 1 / MARTES - SÁBADO",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio / MIERCOLES  - VIERNES",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
   "pateoDias": "LUNES A SÁBADO",
   "pateoTecnico": [
-     {
-      "titulo": "propuesta + ap chagui reps",
-      "enfoque": "Fortalecimiento + estiramiento",
-      "reps": "10 reps / 1 serie por pierna",
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Control de talón y extensión de rodilla base",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Fortalecimiento + técnica",
-      "reps": "10 reps / 1 serie por pierna",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Control, alineación y equilibrio",
+      "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Control de cadera y potencia muscular",
+      "reps": "15 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+    },
+    {
+      "titulo": "Elevacion de talones frente a pared",
+      "enfoque": "Fortalecimiento de tobillo para estabilidad de base",
+      "reps": "30 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1OvmO3nrmM--QtIvgsREzFGANsCzzbXin/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "SESION DE ENTRENAMIENTO EN LÍNEA",
+  "poomsaeDias": "Sesiones de entrenamiento",
   "poomsae": [
     {
-      "titulo": "Primera Sesión ChanonaTKD System",
-      "enfoque": "Sesion en línea",
-      "reps": "2 veces por semana",
+      "titulo": "Primera sesión - Sabado 1 de abril 2026",
+      "enfoque": "Flexibilidad + Isometrico activo",
+      "reps": "1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1vOfIaIZoli63oh8HoVaKsqYjBVy0449A/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1vOfIaIZoli63oh8HoVaKsqYjBVy0449A&usp=drive_copy"
+    },
+    {
+      "titulo": "Segunda sesión - Sabado 11 de abril 2026",
+      "enfoque": "Flexibilidad + Isometrico activo",
+      "reps": "1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=18hVQbuObLo0aaXcScuJX2jwHBmm4-QC3&usp=drive_copy"
+    },
+    {
+      "titulo": "Tercera sesión - Sabado 18 de abril 2026",
+      "enfoque": "Flexibilidad",
+      "reps": "1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1C1BmLCXFONjyPI_zECb83ARagwu4fuWx&usp=drive_copy"
+    },
+    {
+      "titulo": "Cuarta sesión - Sabado 25 de abril 2026",
+      "enfoque": "Flexibilidad + isometrico + pateo frontal",
+      "reps": "1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1-YJlW2I-Xo1oIsCl8pcXMRsCbD6_cULC&usp=drive_copy"
     }
   ],
-  "apuntes": [],
-  "notasFinales": [
-    "En las proximas dos semanas estaremos entrenando en base a estos ejercicios que hemos estado viendo, pero con la diferencia de que esta vez debes comentarme que tal te fue con cada uno de ellos el dia sabado despues de tu entrenamiento del fin de semana, que por cierto, les estaré dejando la 2da y 3ra clase justo en la seccion de poomsae, la 3ra clase lo harás el dia domingo 12 y la 3ra clase lo estarás haciendo el sábado 25 de abril, por lo ue debes de estar al pendiente de lo que estamos trabajando en base a las clases tambien y tomando en cuenta cada detalle",
-    "Cualquier duda, por favor comentenme",
-    "¡Feliz entrenamiento!"
+  "apuntes": [
+    "Busca siempre que tu pateo se mantenga firme y con intención. Lo principal en este ciclo no es la altura máxima, sino el dominio estructural de la patada.",
+    "Punto primordial: La pierna de apoyo debe mantenerse extendida en su totalidad durante el impacto y el recobro.",
+    "Vigila estrictamente el talón de apoyo; no debe elevarse en ningún momento. Mantenerlo en el piso es lo que garantiza un eje corporal sólido.",
+    "Controla la cadera para que no se proyecte hacia el frente de forma prematura. El control neuromuscular aquí es lo que define una Ap Chagui de nivel competitivo.",
+    "Recuerda que una pierna de apoyo flexionada o un talón levantado son deducciones de .1 que afectan directamente tu puntuación de presentación."
+  ],
+  "notesFinales": [
+    "El éxito en el Poomsae moderno reside en la estabilidad. Si logras que tu Ap Chagui sea inamovible desde la base, estarás construyendo un sistema de pateo profesional.",
+    "Entrena con estructura: no repitas por repetir, corrige cada detalle antes de lanzar la siguiente patada.",
+    "Cualquier duda con los ejercicios de control de cadera, coméntame de inmediato para ajustarlo.",
+    "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
