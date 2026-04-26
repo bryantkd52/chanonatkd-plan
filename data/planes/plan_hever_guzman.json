@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado dom 12 de abril",
+  "updated_at": "Actualizado dom 26 de abril",
   "nivel": "Nivel Avanzado",
-  "ciclo": "Lunes 13 al sábado 25 de abril del 2026",
-  "enfoque_corto": "Flexibilidad + Técnico pateo + poomsae",
-  "enfoque": "Perfeccionamiento técnico de poomsae rumbo al nacional",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico + Ap Chagui + Taeguk 5 L1, L2 y L3",
+  "enfoque": "Desarrollo de la potencia explosiva y el control neuromuscular del eje, enfocándose en la extensión de la base y la firmeza de la cadera en Taeguk 5.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Todos Niveles",
@@ -19,7 +19,7 @@
       "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "MARTES - JUEVES - SÁBADO",
   "isometrico": [
     {
       "titulo": "Ap Chagui - NIVEL 2",
@@ -28,94 +28,64 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Isométrico Activo - Dollyo Chagui - Nivel 2",
+      "titulo": "Isométrico activo - Dollyo Chagui - Nivel 2",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB (trabajar con mucho enfoque)",
+  "pateoDias": "MIÉRCOLES - VIERNES",
   "pateoTecnico": [
-     {
-      "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Cuádriceps + Ap Chagui + Fortalecimiento",
-      "reps": "10 reps por lado/ 2 series",
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Extensión completa de la pierna de base y control de talón",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Ap + Yop + Turn hips silla",
-      "enfoque": "Potencia + técnica + fuerza",
-      "reps": "10 reps por lado/ 2 series",
+      "titulo": "Ap + Extension",
+      "enfoque": "Fortalecimiento y control de cadera firme",
+      "reps": "15 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
-    },
-    {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Control + técnica + extensión de rodilla",
-      "reps": "9 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUN - MIE - JUE (Sigue perfeccionando estas áreas, no las omitas)",
+  "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Transición doble montong makki - L1 a L2 T5",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "30 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1nS4odRmRR7Da-q3oGTI1UOYhuqKpzCah/view?usp=drive_link"
+      "titulo": "Linea 1 de Taeguk 5",
+      "enfoque": "Timing y potencia en defensas",
+      "reps": "Audio de referencia",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1eKmGnaSuBGbEftOqYbgrp80NYUQkmqEC/view?usp=drive_link"
     },
     {
       "titulo": "Talones transicion - L2 T5",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "30 reps / 1 serie",
+      "enfoque": "Control del eje y fijación del talón",
+      "reps": "15 reps / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1Tg7zQiS4SxKsOMdAdaY17vNdnegdc1WA/view?usp=drive_link"
     },
     {
-      "titulo": "Correcto aterrizaje y prep golpe revés- L2 T5 ACTUALIZACION el golpe sale desde la cintura",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "30 reps / 1 serie",
+      "titulo": "Sonnal y codazo + timing - T5 L3",
+      "enfoque": "Velocidad de trayecto y precisión final",
+      "reps": "10 reps completas",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1sYO2lMMZOuZF7-doTLcXFO7itTmlKVe1/view?usp=drive_link"
-    },
-    {
-      "titulo": "Are + montong + Ap  - T5 L4",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "30 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1FwqSElEVd8CZ6QQNKTFSjow2yYjUgwxG/view?usp=drive_link"
-    },
-    {
-      "titulo": "Olgul + Yop + Codazo - T5 L5",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "30 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf/view?usp=drive_link"
-    },
-    {
-      "titulo": "Are +  Ap + Golpe - T5 L6",
-      "enfoque": "Control + técnica + fuerza",
-      "reps": "30 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1838t3kpNzYH2Bxq39v_3WWh03o5tepR2/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1yFJM2dRU3-OJCETZq5i9iYkz72W2aOnT/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Las alineaciones de ap kubi no deben de ser lineales como si estuvieramos parados en una cuerda, pero tampoco como si estuvieramos abiertos, la alineacion de las ap kubis se basan en alineacion de la cadera, ahí es en donde debe de basar su estructura y alineación de ap kubi o posicion larga",
-    "Nuestros recorridos en la poomsae son tan importantes como tambien el como terminamos, es por eso que debemos de asegurarnos de comenzar exactamente de donde debe salir cada movimiento, para mostrarle al juez que estamos ejecutando correctamente nuestros movimientos y recorridos"
+    "Busque que en su patada frontal, la pierna de base siempre esté en extensión completa. Si la base se flexiona, perdemos la estructura profesional de la técnica.",
+    "La cadera debe mantenerse firme en todo momento; no la lleve hacia el frente durante el pateo para evitar desplazar el eje corporal.",
+    "Cuando practique sus poomsaes, hágalas con fuerza y potencia desde la primera repetición. No espere al final de la clase para meter intensidad, ya que el cuerpo debe mecanizar la fuerza real en todo momento.",
+    "En la línea 3 de Taeguk 5, cuide el timing entre el Sonnal y el codazo; el impacto debe ser seco y preciso.",
+    "Mete potencia en todo momento, campeón; eso es lo que marcará la diferencia real entre tu entrenamiento y el de los demás."
   ],
   "notasFinales": [
-    "Continuamos trabajando duro campeón, en este plan estaremos trabajando para las proximas dos semanas, por lo que es super importante que se ejecute de la forma mas específica y potente posible, me refiero a que cada movimiento tiene gran importancia, incluso si algunos pueden repetirse, esto es con la intensión de crear dominio en su ejecucion y así pasar al siguiente nivel profesional",
-    "Todo el exito en su entrenamiento campeón, y comenteme cualquier duda que tenga",
-    "Feliz entrenamiento! "
+    "Hever, tu nivel avanzado requiere que la potencia sea una constante, no una opción. Entrenar sin fuerza es como no entrenar.",
+    "El enfoque en la extensión de la pierna de apoyo te dará la estabilidad necesaria para que tus movimientos se vean contundentes ante cualquier juez.",
+    "Cualquier duda con los ejercicios de cadera o el timing de T5, escríbeme de inmediato.",
+    "¡Feliz entrenamiento y a darle con todo, campeón!"
   ]
 }
