@@ -1,218 +1,70 @@
-:root {
-  --bg: #050505;
-  --panel: rgba(15, 15, 15, 0.75);
-  --text: #ffffff;
-  --muted: #a0a0a0;
-  --red: #ff1f1f;
-  --red-glow: rgba(255, 31, 31, 0.4);
-  --line: rgba(255, 255, 255, 0.08);
-  --radius: 20px;
-  --accent: #3ee58a;
+/* ESTILOS PARA CARTAS DESPLEGABLES (MÓDULOS DE EXPANSIÓN) */
+.expandable-card .cardBody {
+  padding-bottom: 25px; /* Espacio extra para el CTA final */
+  position: relative;
 }
 
-* { box-sizing: border-box; scroll-behavior: smooth; }
-body {
+/* Contenedor de detalles inicialmente oculto y animado */
+.card-details {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease-out, margin-top 0.4s ease-out;
+  margin-top: 0;
+}
+
+/* Clase que activa el despliegue (se añade con JS) */
+.card-details.active {
+  max-height: 500px; /* Suficiente para la lista de beneficios */
+  margin-top: 20px;
+}
+
+/* Lista de beneficios simplificada para dentro de las cartas */
+.benefit-list-mini {
+  list-style: none;
+  padding: 0;
   margin: 0;
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  color: var(--text);
-  background: var(--bg);
-  line-height: 1.6;
 }
 
-/* Background Estético */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: -1;
-  background: 
-    radial-gradient(circle at 10% 10%, rgba(255, 31, 31, 0.15), transparent 40%),
-    radial-gradient(circle at 90% 90%, rgba(255, 31, 31, 0.1), transparent 40%);
-}
-
-.appShell {
-  display: grid;
-  grid-template-columns: 300px 1fr;
-  gap: 20px;
-  padding: 20px;
-  max-width: 1440px;
-  margin: 0 auto;
-}
-
-/* SIDEBAR GLASS */
-.sidebar {
-  position: sticky;
-  top: 20px;
-  height: calc(100vh - 40px);
-  background: var(--panel);
-  backdrop-filter: blur(10px);
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  padding: 24px;
-  display: flex;
-  flex-direction: column;
-}
-
-.logoImg {
-  width: 60px; height: 60px;
-  border-radius: 15px;
-  margin-bottom: 15px;
-  box-shadow: 0 0 20px var(--red-glow);
-}
-
-.brand h1 { font-size: 22px; margin: 0; letter-spacing: -0.5px; }
-.brand p { color: var(--red); font-size: 12px; font-weight: 700; text-transform: uppercase; margin: 5px 0 0; }
-
-.menu { margin: 40px 0; display: flex; flex-direction: column; gap: 10px; }
-.btn {
-  text-decoration: none;
+.benefit-list-mini li {
+  font-size: 13px;
   color: var(--muted);
-  padding: 14px;
-  border-radius: 12px;
-  font-size: 14px;
-  transition: 0.3s;
+  margin-bottom: 8px;
   display: flex;
-  align-items: center;
-  gap: 12px;
-  border: 1px solid transparent;
-}
-.btn:hover, .btn.active {
-  background: rgba(255, 31, 31, 0.1);
-  color: var(--text);
-  border-color: rgba(255, 31, 31, 0.3);
-}
-.dot { width: 6px; height: 6px; background: currentColor; border-radius: 50%; }
-
-/* MAIN CONTENT */
-.main { min-width: 0; }
-
-.topbar {
-  background: var(--panel);
-  padding: 25px;
-  border-radius: var(--radius);
-  border: 1px solid var(--line);
-  margin-bottom: 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  backdrop-filter: blur(10px);
-}
-.kicker { font-size: 11px; color: var(--red); font-weight: 800; letter-spacing: 2px; }
-.topbar h2 { margin: 5px 0 0; font-size: 24px; }
-
-.section {
-  background: var(--panel);
-  border-radius: var(--radius);
-  border: 1px solid var(--line);
-  margin-bottom: 30px;
-  overflow: hidden;
-}
-
-.sectionHead {
-  padding: 15px 25px;
-  background: rgba(255, 255, 255, 0.03);
-  border-bottom: 1px solid var(--line);
-  display: flex;
-  justify-content: space-between;
+  gap: 10px;
   align-items: center;
 }
-.sectionHead h3 { font-size: 14px; margin: 0; letter-spacing: 1px; color: var(--muted); }
 
-/* VIDEO AREA */
-.videoWrap { padding: 20px; }
-.videoFrame {
-  border-radius: 15px;
-  overflow: hidden;
-  aspect-ratio: 16/9;
-  box-shadow: 0 20px 50px rgba(0,0,0,0.5);
-  border: 1px solid var(--line);
-}
-.videoFrame iframe { width: 100%; height: 100%; border: 0; }
-
-.main-cta { text-align: center; padding: 20px 0 40px; }
-.highlight-text { font-size: 18px; margin-bottom: 20px; color: var(--muted); }
-
-/* CURSO HIGHLIGHT */
-.highlight-section {
-  background: linear-gradient(145deg, rgba(255, 31, 31, 0.1), rgba(15, 15, 15, 0.9));
-  border: 1px solid rgba(255, 31, 31, 0.3);
-}
-.courseGrid {
-  display: grid;
-  grid-template-columns: 350px 1fr;
-  gap: 30px;
-  padding: 25px;
-}
-.imgFrame { position: relative; border-radius: 15px; overflow: hidden; }
-.imgFrame img { width: 100%; height: 100%; object-fit: cover; }
-.imgOverlay {
-  position: absolute; bottom: 0; width: 100%;
-  background: rgba(255, 31, 31, 0.9);
-  padding: 8px; text-align: center; font-size: 11px; font-weight: 700;
+.benefit-list-mini li span {
+  color: var(--accent); /* Usando el color accent verde para el checklist */
+  font-weight: bold;
 }
 
-.courseInfo h4 { font-size: 24px; margin: 0 0 15px; color: var(--red); }
-.benefit-list { margin: 20px 0; }
-.benefit { margin-bottom: 10px; font-size: 14px; display: flex; gap: 10px; }
-
-.priceContainer {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  margin-top: 30px;
-  padding-top: 20px;
-  border-top: 1px solid var(--line);
-}
-.priceCard .mainPrice { font-size: 32px; font-weight: 800; }
-.priceCard .altPrices { font-size: 12px; color: var(--muted); }
-
-/* CARDS GRID */
-.gridCards {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 20px;
-  padding: 25px;
-}
-.card {
-  background: rgba(255, 255, 255, 0.03);
-  border: 1px solid var(--line);
-  border-radius: 15px;
-  transition: 0.3s;
+/* Contenedor de botones para manejar la aparición del final */
+.card-ctas {
   display: flex;
   flex-direction: column;
-}
-.card:hover { transform: translateY(-5px); border-color: var(--red); }
-.cardImg img { width: 100%; aspect-ratio: 16/9; object-fit: cover; border-bottom: 1px solid var(--line); }
-.cardBody { padding: 20px; flex-grow: 1; display: flex; flex-direction: column; }
-.cardBody h5 { margin: 0 0 10px; font-size: 16px; }
-.cardBody p { font-size: 13px; color: var(--muted); margin-bottom: 20px; flex-grow: 1; }
-.cardPrice { font-weight: 700; color: var(--accent); margin-bottom: 15px; }
-
-/* UTILS */
-.action {
-  display: block; text-align: center; text-decoration: none;
-  padding: 12px; border-radius: 10px; font-weight: 700; font-size: 14px;
-  background: rgba(255, 255, 255, 0.05); color: #fff; border: 1px solid var(--line);
-  transition: 0.3s;
-}
-.action.primary { background: var(--red); border: none; box-shadow: 0 10px 20px rgba(255, 31, 31, 0.2); }
-.action.primary:hover { background: #e60000; transform: scale(1.02); }
-.action.big { padding: 18px; font-size: 16px; }
-
-.badge { padding: 4px 10px; border-radius: 5px; font-size: 10px; font-weight: 800; }
-.badge.red { background: var(--red); }
-.badge.ok { background: var(--accent); color: #000; }
-
-.pulse { animation: pulse 2s infinite; }
-@keyframes pulse {
-  0% { box-shadow: 0 0 0 0 rgba(255, 31, 31, 0.4); }
-  70% { box-shadow: 0 0 0 15px rgba(255, 31, 31, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(255, 31, 31, 0); }
+  gap: 10px;
+  margin-top: 20px;
 }
 
-@media (max-width: 980px) {
-  .appShell { grid-template-columns: 1fr; }
-  .sidebar { height: auto; position: relative; top: 0; }
-  .courseGrid { grid-template-columns: 1fr; }
-  .priceContainer { flex-direction: column; align-items: stretch; }
+/* Botón final inicialmente oculto y animado */
+.cta-final {
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  width: 100%; /* Asegurar ancho completo si es CTA final */
+}
+
+/* Clase que activa la aparición del botón final (se añade con JS) */
+.cta-final.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* Ajustes de tag color */
+.tag.tag-red {
+    background: rgba(255, 31, 31, 0.15);
+    color: var(--red);
 }
