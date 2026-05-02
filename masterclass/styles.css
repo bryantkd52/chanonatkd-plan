@@ -8,7 +8,6 @@
   --line: rgba(255, 255, 255, 0.08);
   --radius: 20px;
   --accent: #3ee58a;
-  --gold: #ffc107;
 }
 
 * { box-sizing: border-box; scroll-behavior: smooth; }
@@ -94,8 +93,8 @@ body::before {
   justify-content: space-between;
   align-items: center;
 }
-.kicker { font-size: 11px; color: var(--red); font-weight: 800; letter-spacing: 2px; display: block; margin-bottom: 5px;}
-.topbar h2 { margin: 0; font-size: 24px; }
+.kicker { font-size: 11px; color: var(--red); font-weight: 800; letter-spacing: 2px; }
+.topbar h2 { margin: 5px 0 0; font-size: 24px; }
 
 .section {
   background: var(--panel);
@@ -127,65 +126,82 @@ body::before {
 .main-cta { text-align: center; padding: 20px 0 40px; }
 .highlight-text { font-size: 18px; margin-bottom: 20px; color: var(--muted); }
 
-/* ==== SUPER CURSO (NUEVO DISEÑO VERTICAL) ==== */
+/* ==== SECCIÓN SUPER CURSO (NUEVO DISEÑO APILADO) ==== */
 .highlight-section { background: linear-gradient(145deg, rgba(255, 31, 31, 0.08), rgba(15, 15, 15, 0.9)); border: 1px solid rgba(255, 31, 31, 0.3); }
+.courseContainer { padding: 25px; display: flex; flex-direction: column; gap: 25px; }
 
-.courseVertical { display: flex; flex-direction: column; padding: 25px; }
-
-/* Banner superior de la imagen */
-.imgFrame-banner {
+/* Imagen Full Width controlada */
+.imgFrameFull {
+  position: relative;
   width: 100%;
   border-radius: 16px;
   overflow: hidden;
-  margin-bottom: 30px;
   border: 1px solid var(--line);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-  position: relative;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.6);
 }
-.imgFrame-banner img { width: 100%; aspect-ratio: 21/9; object-fit: cover; display: block; }
-@media (max-width: 600px) {
-    .imgFrame-banner img { aspect-ratio: 16/9; }
+.imgFrameFull img {
+  width: 100%;
+  display: block;
+  aspect-ratio: 3/2; /* Mantiene la proporción exacta de 1536x1024 */
+  object-fit: cover;
+}
+.imgOverlay {
+  position: absolute; bottom: 0; width: 100%;
+  background: rgba(255, 31, 31, 0.95);
+  padding: 10px; text-align: center; font-size: 13px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 1px;
 }
 
-.imgOverlay { position: absolute; bottom: 0; width: 100%; background: rgba(255, 31, 31, 0.9); padding: 8px; text-align: center; font-size: 12px; font-weight: 700; text-transform: uppercase; }
-
-.courseInfo { width: 100%; max-width: 900px; margin: 0 auto; text-align: center; }
-.courseInfo h4 { font-size: 28px; margin: 0 0 15px; color: var(--red); }
-.courseInfo p { color: var(--muted); font-size: 15px; margin-bottom: 25px; }
-
-/* Beneficios centrados */
-.benefit-list { margin: 0 auto 30px; display: inline-block; text-align: left; }
+.courseInfoFull h4 { font-size: 26px; margin: 0 0 15px; color: var(--red); }
+.courseInfoFull p { color: var(--muted); font-size: 15px; margin-bottom: 20px; line-height: 1.7; }
 .benefit-list .benefit { margin-bottom: 12px; font-size: 15px; display: flex; gap: 10px; align-items: flex-start;}
 
-/* CAJA DE PROMOCIÓN (Reloj + Precios) */
-.promo-box {
-    background: rgba(20, 20, 20, 0.8);
-    border: 2px solid rgba(255, 31, 31, 0.5);
-    border-radius: 16px;
-    padding: 30px 20px;
-    margin-top: 20px;
-    box-shadow: 0 15px 35px rgba(255,31,31,0.15);
+/* Bloque de Oferta (Temporizador + Precios) */
+.offerBlock {
+  background: rgba(255, 31, 31, 0.05);
+  border: 1px solid rgba(255, 31, 31, 0.25);
+  border-radius: 16px;
+  padding: 30px;
+  margin-top: 30px;
+  text-align: center;
+}
+.timer-wrapper { margin-bottom: 20px; }
+.timer-label { font-size: 14px; font-weight: 800; color: #ff4d4d; letter-spacing: 1px; }
+.timer-display {
+  font-size: 48px; font-weight: 900; color: #ffffff;
+  font-variant-numeric: tabular-nums;
+  line-height: 1; margin-top: 5px;
+  text-shadow: 0 0 20px rgba(255, 31, 31, 0.6);
 }
 
-.timer-header { font-size: 14px; font-weight: 800; color: var(--red); letter-spacing: 2px; margin-bottom: 10px; }
-.timer-display { font-size: 48px; font-weight: 900; font-variant-numeric: tabular-nums; line-height: 1; margin-bottom: 15px; text-shadow: 0 0 20px rgba(255,31,31,0.5); }
-.screenshot-cta { background: rgba(255,255,255,0.05); padding: 15px; border-radius: 10px; border-left: 4px solid var(--accent); color: #fff; font-size: 14px; margin: 0 auto 25px; max-width: 500px; text-align: left; }
+.priceContainerStacked { margin-bottom: 20px; }
+.strikePrice {
+  text-decoration: line-through;
+  color: var(--muted);
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.mainPrice { font-size: 38px; font-weight: 800; color: #fff; line-height: 1.1; margin-bottom: 5px;}
+.altPrices { font-size: 15px; color: var(--accent); font-weight: bold; }
 
-.priceContainer { margin-bottom: 25px; }
-.old-price { text-decoration: line-through; color: var(--muted); font-size: 15px; margin-bottom: 5px; }
-.new-price { font-size: 24px; font-weight: 800; color: var(--accent); }
+.screenshot-cta {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 15px 20px;
+  border-radius: 12px;
+  margin: 25px 0;
+  text-align: left;
+  border-left: 4px solid var(--accent);
+}
+.screenshot-cta p { margin: 0; font-size: 14px; color: var(--text); line-height: 1.5; }
 
-
-/* CARDS GRID (Servicios) */
+/* CARDS GRID */
 .gridCards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; padding: 25px; }
-.card { background: rgba(255, 255, 255, 0.02); border: 1px solid var(--line); border-radius: 18px; display: flex; flex-direction: column; overflow: hidden; transition: 0.3s;}
-.card:hover { border-color: rgba(255, 31, 31, 0.3); background: rgba(255, 255, 255, 0.04); transform: translateY(-5px); }
+.card { background: rgba(255, 255, 255, 0.02); border: 1px solid var(--line); border-radius: 18px; display: flex; flex-direction: column; overflow: hidden; }
 .cardImg img { width: 100%; aspect-ratio: 16/9; object-fit: cover; border-bottom: 1px solid var(--line); }
 .cardBody { padding: 20px; display: flex; flex-direction: column; flex-grow: 1; }
 .cardBody h5 { margin: 0 0 10px; font-size: 18px; color: #fff; }
 .cardBody p { font-size: 13px; color: var(--muted); margin-bottom: 15px; }
-.cardPrice { font-weight: 800; color: #fff; font-size: 16px; margin: 10px 0; line-height: 1.3;}
-.cardPrice small { font-size: 12px; font-weight: 400; color: var(--muted); }
+.cardPrice { font-weight: 800; color: #fff; font-size: 16px; margin: 10px 0; }
+.cardPrice small { font-size: 12px; color: var(--muted); font-weight: normal; }
 
 /* DESPLEGABLES */
 .card-details { max-height: 0; overflow: hidden; transition: 0.4s ease-out; }
@@ -198,13 +214,10 @@ body::before {
 .action { display: block; text-align: center; text-decoration: none; padding: 12px; border-radius: 12px; font-weight: 700; font-size: 13px; color: #fff; border: 1px solid var(--line); transition: 0.3s; cursor: pointer; }
 .action.primary { background: var(--red); border: none; box-shadow: 0 10px 20px rgba(255, 31, 31, 0.2); }
 .action.primary:hover { transform: scale(1.03); background: #e60000; }
-.action.big { padding: 18px 24px; font-size: 16px; border-radius: 14px; width: 100%; max-width: 400px; margin: 0 auto;}
+.action.big { padding: 18px; font-size: 16px; }
 
 .cta-final { display: none; margin-top: 10px; }
 .cta-final.show { display: block; animation: fadeIn 0.3s forwards; }
-
-.tag { font-size: 10px; font-weight: 800; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 12px; width: max-content; }
-.tag-red { background: rgba(255, 31, 31, 0.15); color: #ff4d4d; }
 
 @keyframes fadeIn { from { opacity: 0; transform: translateY(-5px); } to { opacity: 1; transform: translateY(0); } }
 
@@ -215,8 +228,14 @@ body::before {
   100% { box-shadow: 0 0 0 0 rgba(255, 31, 31, 0); }
 }
 
+/* RESPONSIVE */
 @media (max-width: 980px) {
   .appShell { grid-template-columns: 1fr; }
   .sidebar { height: auto; position: relative; top: 0; }
-  .topbar { flex-direction: column; align-items: flex-start; gap: 15px; }
+  .topbar { flex-direction: column; align-items: flex-start; gap: 10px; }
+}
+@media (max-width: 600px) {
+  .timer-display { font-size: 38px; }
+  .mainPrice { font-size: 30px; }
+  .offerBlock { padding: 20px 15px; }
 }
