@@ -65,8 +65,8 @@
             </div>
             <div class="ctaBlock main-cta">
                 <p class="highlight-text">¿Listo para dejar de repetir y empezar a corregir?</p>
-                <a class="action primary big pulse" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20acabo%20de%20ver%20la%20Masterclass%20y%20quiero%20información%20sobre%20el%20Super%20Curso%20Ilimitado" target="_blank">
-                  🚀 QUIERO EL SUPER CURSO ILIMITADO
+                <a class="action primary big pulse" href="#curso">
+                  🚀 VER OFERTA DEL SUPER CURSO ILIMITADO
                 </a>
             </div>
           </div>
@@ -93,14 +93,25 @@
                     <div class="benefit"><span>✅</span> <strong>Metodología Chanona:</strong> Técnica progresiva desde la base.</div>
                 </div>
 
-                <div class="priceContainer">
-                  <div class="priceCard">
-                    <span class="label">Inversión Única</span>
-                    <div class="mainPrice">$2,100 <small>MXN</small></div>
-                    <div class="altPrices">$145 USD • €135 EUR</div>
+                <div class="priceContainer promo-container">
+                  <div class="priceHeaderRow">
+                    <div class="priceCard">
+                      <span class="label">Precio Regular:</span>
+                      <div class="oldPrice"><s>$2,800 MXN • $185 USD • €165 EUR</s></div>
+                      <span class="label" style="color: var(--accent); margin-top: 10px; display: block;">Oferta Especial:</span>
+                      <div class="mainPrice">$2,100 <small>MXN</small></div>
+                      <div class="altPrices">$145 USD • €135 EUR</div>
+                    </div>
                   </div>
-                  <a class="action primary big" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20inscripción%20al%20Super%20Curso%20Ilimitado" target="_blank">
-                    ADQUIRIR ACCESO ILIMITADO
+                  
+                  <div class="timerBox">
+                    <div class="timerHeader">🔥 Tu descuento de $700 MXN expira en:</div>
+                    <div id="countdown-timer" class="countdown">07:00:00</div>
+                    <p class="screenshot-cta">📸 <strong>PASO OBLIGATORIO:</strong> Toma captura de pantalla de este contador y envíala a mi WhatsApp presionando el botón de abajo para que tu descuento sea válido.</p>
+                  </div>
+
+                  <a class="action primary big pulse" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20tengo%20mi%20captura%20de%20pantalla%20del%20Super%20Curso.%20Quiero%20validar%20mi%20descuento%20a%20$2100%20MXN" target="_blank">
+                    🎁 ENVIAR CAPTURA POR WHATSAPP Y UNIRME
                   </a>
                 </div>
               </div>
@@ -117,7 +128,7 @@
               
               <article class="card featured-card expandable-card">
                 <div class="cardImg">
-                  <img src="./imagenes/chanonatkdSystem.jpg" alt="ChanonaTKD System">
+                  <img src="./imagenes/bryan_system_elite.jpg" alt="ChanonaTKD System">
                 </div>
                 <div class="cardBody">
                   <span class="tag tag-red">LO MÁS BUSCADO</span>
@@ -296,16 +307,12 @@
           </div>
         </section>
 
-        <footer class="bottomNote" style="text-align: center; padding: 40px 20px; color: var(--muted); border-top: 1px solid var(--line);">
-          <p>Soy <strong>Bryan Herrera</strong>, entrenador profesional de poomsae con amplia experiencia en entrenamiento profesional y online</p>
-          <p>No pierdas mas el tiempo y comienza <strong>HOY MISMO</strong> tu entrenamiento profesional desde donde estés</p>
-        </footer>
-
       </div>
     </main>
   </div>
 
   <script>
+    // SCRIPT PARA DESPLEGABLES
     function toggleDetails(id, btn) {
       const details = document.getElementById(id);
       const ctaFinal = btn.nextElementSibling;
@@ -321,7 +328,7 @@
       }
     }
 
-    // Scroll Spy para el menú lateral
+    // SCRIPT PARA EL SCROLL DEL MENÚ
     const links = Array.from(document.querySelectorAll('.menu .btn'));
     const sections = links.map(a => document.querySelector(a.getAttribute('href'))).filter(Boolean);
     const setActive = (id) => {
@@ -333,6 +340,43 @@
       });
     }, { rootMargin: "-30% 0px -30% 0px", threshold: 0.1 });
     sections.forEach(s => obs.observe(s));
+
+    // SCRIPT DEL TEMPORIZADOR DE 7 HORAS (PERSISTENTE)
+    document.addEventListener("DOMContentLoaded", function() {
+      const timerElement = document.getElementById('countdown-timer');
+      if (timerElement) {
+        const timerKey = 'chanonatkd_supercurso_end';
+        let endTime = localStorage.getItem(timerKey);
+
+        // Si no existe, configurar para 7 horas a partir de ahora
+        if (!endTime) {
+          endTime = new Date().getTime() + (7 * 60 * 60 * 1000);
+          localStorage.setItem(timerKey, endTime);
+        }
+
+        const updateTimer = () => {
+          const now = new Date().getTime();
+          const distance = endTime - now;
+
+          if (distance <= 0) {
+            timerElement.innerHTML = "00:00:00";
+            return;
+          }
+
+          const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+          const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+          const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+          timerElement.innerHTML = 
+            String(hours).padStart(2, '0') + ":" + 
+            String(minutes).padStart(2, '0') + ":" + 
+            String(seconds).padStart(2, '0');
+        };
+
+        setInterval(updateTimer, 1000);
+        updateTimer();
+      }
+    });
   </script>
 </body>
 </html>
