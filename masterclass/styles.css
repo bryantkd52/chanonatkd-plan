@@ -19,7 +19,6 @@ body {
   line-height: 1.6;
 }
 
-/* Background Estético Elite */
 body::before {
   content: "";
   position: fixed;
@@ -39,7 +38,7 @@ body::before {
   margin: 0 auto;
 }
 
-/* SIDEBAR GLASS */
+/* SIDEBAR */
 .sidebar {
   position: sticky;
   top: 20px;
@@ -82,7 +81,6 @@ body::before {
 
 /* MAIN CONTENT */
 .main { min-width: 0; }
-
 .topbar {
   background: var(--panel);
   padding: 25px;
@@ -126,7 +124,7 @@ body::before {
 .main-cta { text-align: center; padding: 20px 0 40px; }
 .highlight-text { font-size: 18px; margin-bottom: 20px; color: var(--muted); }
 
-/* SUPER CURSO HIGHLIGHT */
+/* SUPER CURSO HIGHLIGHT (CON TEMPORIZADOR) */
 .highlight-section { background: linear-gradient(145deg, rgba(255, 31, 31, 0.08), rgba(15, 15, 15, 0.9)); border: 1px solid rgba(255, 31, 31, 0.3); }
 .courseGrid { display: grid; grid-template-columns: 350px 1fr; gap: 30px; padding: 25px; }
 .imgFrame { position: relative; border-radius: 15px; overflow: hidden; }
@@ -134,17 +132,48 @@ body::before {
 .imgOverlay { position: absolute; bottom: 0; width: 100%; background: rgba(255, 31, 31, 0.9); padding: 8px; text-align: center; font-size: 11px; font-weight: 700; }
 .courseInfo h4 { font-size: 24px; margin: 0 0 15px; color: var(--red); }
 .benefit-list .benefit { margin-bottom: 10px; font-size: 14px; display: flex; gap: 10px; }
-.priceContainer { display: flex; align-items: center; gap: 20px; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--line); }
-.priceCard .mainPrice { font-size: 32px; font-weight: 800; color: #fff; }
+
+/* NUEVOS ESTILOS DEL PRECIO Y CONTADOR */
+.promo-container { 
+  display: flex; 
+  flex-direction: column; 
+  background: rgba(255, 31, 31, 0.05); 
+  border: 1px solid rgba(255, 31, 31, 0.2); 
+  padding: 20px; 
+  border-radius: 16px; 
+  margin-top: 25px; 
+}
+.priceHeaderRow { display: flex; justify-content: center; text-align: center; }
+.priceCard .label { font-size: 12px; text-transform: uppercase; color: var(--muted); font-weight: 800; letter-spacing: 1px; }
+.priceCard .oldPrice { color: var(--muted); font-size: 16px; margin: 5px 0; text-decoration: line-through; opacity: 0.7; }
+.priceCard .mainPrice { font-size: 38px; font-weight: 900; color: #fff; line-height: 1; margin: 5px 0; }
+.priceCard .altPrices { font-size: 14px; color: var(--muted); font-weight: 600; }
+
+.timerBox { 
+  background: #000; 
+  border: 1px solid rgba(255,255,255,0.1); 
+  border-radius: 12px; 
+  padding: 15px; 
+  text-align: center; 
+  margin: 20px 0; 
+  box-shadow: inset 0 0 20px rgba(255,31,31,0.1);
+}
+.timerHeader { color: var(--red); font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+.countdown { font-family: monospace; font-size: 42px; font-weight: bold; color: #fff; letter-spacing: 2px; line-height: 1; margin-bottom: 12px; text-shadow: 0 0 10px rgba(255,255,255,0.3); }
+.screenshot-cta { font-size: 13px; color: var(--accent); margin: 0; line-height: 1.5; padding: 0 10px; }
 
 /* CARDS GRID */
 .gridCards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; padding: 25px; }
-.card { background: rgba(255, 255, 255, 0.02); border: 1px solid var(--line); border-radius: 18px; display: flex; flex-direction: column; overflow: hidden; }
+.card { background: rgba(255, 255, 255, 0.02); border: 1px solid var(--line); border-radius: 18px; display: flex; flex-direction: column; overflow: hidden; transition: 0.3s; }
+.card:hover { transform: translateY(-5px); border-color: rgba(255,31,31,0.3); background: rgba(255,255,255,0.04); }
 .cardImg img { width: 100%; aspect-ratio: 16/9; object-fit: cover; border-bottom: 1px solid var(--line); }
 .cardBody { padding: 20px; display: flex; flex-direction: column; flex-grow: 1; }
 .cardBody h5 { margin: 0 0 10px; font-size: 18px; color: #fff; }
 .cardBody p { font-size: 13px; color: var(--muted); margin-bottom: 15px; }
-.cardPrice { font-weight: 800; color: #fff; font-size: 16px; margin: 10px 0; }
+.cardPrice { font-weight: 800; color: #fff; font-size: 16px; margin: 10px 0; line-height: 1.4; }
+
+.tag { font-size: 10px; font-weight: 800; padding: 4px 8px; border-radius: 4px; display: inline-block; margin-bottom: 12px; width: max-content; }
+.tag-red { background: rgba(255, 31, 31, 0.15); color: #ff4d4d; }
 
 /* DESPLEGABLES */
 .card-details { max-height: 0; overflow: hidden; transition: 0.4s ease-out; }
@@ -156,7 +185,7 @@ body::before {
 /* BOTONES */
 .action { display: block; text-align: center; text-decoration: none; padding: 12px; border-radius: 12px; font-weight: 700; font-size: 13px; color: #fff; border: 1px solid var(--line); transition: 0.3s; cursor: pointer; }
 .action.primary { background: var(--red); border: none; box-shadow: 0 10px 20px rgba(255, 31, 31, 0.2); }
-.action.primary:hover { transform: scale(1.03); background: #e60000; }
+.action.primary:hover { transform: scale(1.02); background: #e60000; }
 .cta-final { display: none; margin-top: 10px; }
 .cta-final.show { display: block; animation: fadeIn 0.3s forwards; }
 
