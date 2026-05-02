@@ -33,11 +33,10 @@
     </aside>
 
     <main class="main">
-      
       <header class="topbar">
         <div class="titleBlock">
           <span class="kicker">ENTRENAMIENTO TÉCNICO AVANZADO</span>
-          <h2>Dominio de Patada al Cielo y Control</h2>
+          <h2>Dominio del Poomsae y Freestyle</h2>
         </div>
         <div class="chipRow">
           <div class="chip red">🎯 Alto Rendimiento</div>
@@ -49,7 +48,7 @@
 
         <section class="section" id="video">
           <div class="sectionHead">
-            <h3>🎬 CLASE MAESTRA: EL SISTEMA DE CONTROL</h3>
+            <h3>🎬 1. CLASE MAESTRA: EL SISTEMA DE CONTROL</h3>
             <div class="badge ok">ACCESO GRATUITO</div>
           </div>
           <div class="sectionBody">
@@ -74,16 +73,18 @@
 
         <section class="section highlight-section" id="curso">
           <div class="sectionHead">
-            <h3>🏆 SUPER CURSO ILIMITADO</h3>
-            <span class="badge red">ACCESO VITALICIO</span>
+            <h3>🏆 2. SUPER CURSO ILIMITADO</h3>
+            <span class="badge red">OFERTA DE TIEMPO LIMITADO</span>
           </div>
           <div class="sectionBody">
-            <div class="courseGrid">
-              <div class="imgFrame">
+            <div class="courseStack">
+              
+              <div class="imgFrame imgHero">
                 <img src="./imagenes/superCurso.jpg" alt="Super Curso Ilimitado">
                 <div class="imgOverlay">Actualizaciones Gratis para siempre</div>
               </div>
-              <div class="courseInfo">
+              
+              <div class="courseInfoStack">
                 <h4>El Sistema Definitivo de Poomsae y Freestyle</h4>
                 <p>No es un tutorial. Es la estructura técnica que usan los campeones para dominar el eje, el timing y la potencia real.</p>
                 
@@ -93,27 +94,33 @@
                     <div class="benefit"><span>✅</span> <strong>Metodología Chanona:</strong> Técnica progresiva desde la base.</div>
                 </div>
 
-                <div class="priceContainer promo-container">
-                  <div class="priceHeaderRow">
-                    <div class="priceCard">
-                      <span class="label">Precio Regular:</span>
-                      <div class="oldPrice"><s>$2,800 MXN • $185 USD • €165 EUR</s></div>
-                      <span class="label" style="color: var(--accent); margin-top: 10px; display: block;">Oferta Especial:</span>
+                <div class="promoContainer">
+                  <div class="priceBox">
+                    <div class="oldPrice">
+                      <span>Valor real:</span>
+                      <s>$2,800 MXN | $185 USD | €165 EUR</s>
+                    </div>
+                    <div class="newPrice">
+                      <span class="label-oferta">OFERTA ESPECIAL:</span>
                       <div class="mainPrice">$2,100 <small>MXN</small></div>
                       <div class="altPrices">$145 USD • €135 EUR</div>
                     </div>
                   </div>
-                  
+
                   <div class="timerBox">
-                    <div class="timerHeader">🔥 Tu descuento de $700 MXN expira en:</div>
-                    <div id="countdown-timer" class="countdown">07:00:00</div>
-                    <p class="screenshot-cta">📸 <strong>PASO OBLIGATORIO:</strong> Toma captura de pantalla de este contador y envíala a mi WhatsApp presionando el botón de abajo para que tu descuento sea válido.</p>
+                    <p class="timerTitle">⏳ ESTA PROMOCIÓN TERMINA EN:</p>
+                    <div class="countdown" id="superCursoTimer">07:00:00</div>
+                    <div class="screenshotCta">
+                      <p>📸 <strong>¡Toma una captura de pantalla!</strong></p>
+                      <p>Para aplicar el descuento, envíame la captura a WhatsApp antes de que el contador llegue a cero.</p>
+                    </div>
                   </div>
 
-                  <a class="action primary big pulse" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20tengo%20mi%20captura%20de%20pantalla%20del%20Super%20Curso.%20Quiero%20validar%20mi%20descuento%20a%20$2100%20MXN" target="_blank">
-                    🎁 ENVIAR CAPTURA POR WHATSAPP Y UNIRME
+                  <a class="action primary big pulse" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20tengo%20mi%20captura%20de%20pantalla%20para%20aplicar%20el%20descuento%20del%20Super%20Curso%20Ilimitado.%20¡Quiero%20entrar!" target="_blank">
+                    🎁 ENVIAR CAPTURA A WHATSAPP
                   </a>
                 </div>
+
               </div>
             </div>
           </div>
@@ -121,7 +128,7 @@
 
         <section class="section" id="catalogo">
           <div class="sectionHead">
-            <h3>📊 SISTEMAS DE ENTRENAMIENTO</h3>
+            <h3>📊 3. SISTEMAS DE ENTRENAMIENTO</h3>
           </div>
           <div class="sectionBody">
             <div class="gridCards">
@@ -181,7 +188,7 @@
 
         <section class="section" id="personalizado">
           <div class="sectionHead">
-            <h3>👤 COACHING DE ÉLITE Y PERSONALIZADO</h3>
+            <h3>👤 4. COACHING DE ÉLITE Y PERSONALIZADO</h3>
           </div>
           <div class="sectionBody">
             <div class="gridCards">
@@ -211,9 +218,7 @@
               </article>
 
               <article class="card expandable-card">
-                <div class="cardImg">
-                  <img src="./imagenes/aceleradorTecnico.jpg" alt="Acelerador Técnico">
-                </div>
+                <div class="cardImg"><img src="./imagenes/aceleradorTecnico.jpg" alt="Acelerador Técnico"></div>
                 <div class="cardBody">
                   <span class="tag">CORRECCIÓN EXPRESA</span>
                   <h5>Acelerador Técnico</h5>
@@ -256,9 +261,7 @@
               </article>
 
               <article class="card expandable-card">
-                <div class="cardImg">
-                  <img src="./imagenes/avanzado.jpg" alt="Avanzado">
-                </div>
+                <div class="cardImg"><img src="./imagenes/avanzado.jpg" alt="Avanzado"></div>
                 <div class="cardBody">
                    <span class="tag tag-red">MÁXIMA EXIGENCIA</span>
                   <h5>Avanzado de Campeones</h5>
@@ -281,9 +284,7 @@
               </article>
               
               <article class="card expandable-card">
-                <div class="cardImg">
-                  <img src="./imagenes/avanzadoFlex.jpg" alt="Avanzado Flex">
-                </div>
+                <div class="cardImg"><img src="./imagenes/avanzadoFlex.jpg" alt="Avanzado Flex"></div>
                 <div class="cardBody">
                   <h5>Avanzado Flex Pro</h5>
                   <p>Entrenamiento premium elite adaptado a tu tiempo.</p>
@@ -307,16 +308,20 @@
           </div>
         </section>
 
+        <footer class="bottomNote" style="text-align: center; padding: 40px 20px; color: var(--muted); border-top: 1px solid var(--line);">
+          <p>Soy <strong>Bryan Herrera</strong>, entrenador de selecciones nacionales y quiero ayudarte.</p>
+          <p>Si quieres que te entrene GRATIS comenta la palabra <strong>ChanonaTKD</strong> en mis redes y te enviaré un regalo.</p>
+        </footer>
+
       </div>
     </main>
   </div>
 
   <script>
-    // SCRIPT PARA DESPLEGABLES
+    // Lógica Desplegables
     function toggleDetails(id, btn) {
       const details = document.getElementById(id);
       const ctaFinal = btn.nextElementSibling;
-
       if (details.classList.contains('active')) {
         details.classList.remove('active');
         btn.innerText = (id === 'system-details') ? 'Ver detalles técnicos' : 'Ver detalles';
@@ -328,7 +333,7 @@
       }
     }
 
-    // SCRIPT PARA EL SCROLL DEL MENÚ
+    // Lógica Scroll Menu
     const links = Array.from(document.querySelectorAll('.menu .btn'));
     const sections = links.map(a => document.querySelector(a.getAttribute('href'))).filter(Boolean);
     const setActive = (id) => {
@@ -341,41 +346,41 @@
     }, { rootMargin: "-30% 0px -30% 0px", threshold: 0.1 });
     sections.forEach(s => obs.observe(s));
 
-    // SCRIPT DEL TEMPORIZADOR DE 7 HORAS (PERSISTENTE)
+    // Lógica del Temporizador Persistente (7 Horas)
     document.addEventListener("DOMContentLoaded", function() {
-      const timerElement = document.getElementById('countdown-timer');
-      if (timerElement) {
-        const timerKey = 'chanonatkd_supercurso_end';
-        let endTime = localStorage.getItem(timerKey);
+      const timerElement = document.getElementById('superCursoTimer');
+      if (!timerElement) return;
 
-        // Si no existe, configurar para 7 horas a partir de ahora
-        if (!endTime) {
-          endTime = new Date().getTime() + (7 * 60 * 60 * 1000);
-          localStorage.setItem(timerKey, endTime);
+      const duration = 7 * 60 * 60 * 1000; // 7 horas en milisegundos
+      let endTime = localStorage.getItem('chanonaPromoEndTime');
+
+      if (!endTime) {
+        endTime = Date.now() + duration;
+        localStorage.setItem('chanonaPromoEndTime', endTime);
+      } else {
+        endTime = parseInt(endTime, 10);
+      }
+
+      function updateTimer() {
+        const now = Date.now();
+        let remaining = endTime - now;
+
+        if (remaining <= 0) {
+          remaining = 0; // Se queda en cero para generar miedo a perderlo o FOMO
         }
 
-        const updateTimer = () => {
-          const now = new Date().getTime();
-          const distance = endTime - now;
+        const hours = Math.floor((remaining / (1000 * 60 * 60)) % 24);
+        const minutes = Math.floor((remaining / 1000 / 60) % 60);
+        const seconds = Math.floor((remaining / 1000) % 60);
 
-          if (distance <= 0) {
-            timerElement.innerHTML = "00:00:00";
-            return;
-          }
-
-          const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-          const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-          const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-          timerElement.innerHTML = 
-            String(hours).padStart(2, '0') + ":" + 
-            String(minutes).padStart(2, '0') + ":" + 
-            String(seconds).padStart(2, '0');
-        };
-
-        setInterval(updateTimer, 1000);
-        updateTimer();
+        timerElement.innerText =
+          String(hours).padStart(2, '0') + ':' +
+          String(minutes).padStart(2, '0') + ':' +
+          String(seconds).padStart(2, '0');
       }
+
+      setInterval(updateTimer, 1000);
+      updateTimer();
     });
   </script>
 </body>
