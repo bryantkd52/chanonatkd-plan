@@ -1,6 +1,6 @@
 {
   "rafa_hernandez": {
-    "nombre": "Rafa Hernandez",
+    "nombre": "Rafa Hernande",
     "plan": "plan_rafa.json",
     "plan_activo": "Avanzado de campeones",
     "suscripcion_activa": "Renovar suscripción",
@@ -260,6 +260,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Abril",
     "objetivo_proximo": "Mejorar poomsae a nivel competitivo"
+  },
+
+  "luis_holanda": {
+    "nombre": "Luis Holanda",
+    "plan": "plan_luis_holanda.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Mayo",
+    "objetivo_proximo": "Forjar bases rumbo a poomsae de excelencia"
   }
 
 }
