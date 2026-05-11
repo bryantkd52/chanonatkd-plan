@@ -1,79 +1,91 @@
 {
-  "updated_at": "Actualizado dom 26 de abril",
+  "updated_at": "Actualizado dom 10 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico + Ap Chagui + 360 + Combo",
-  "enfoque": "Desarrollo de la estabilidad estructural del eje y corrección de vicios posturales en el pateo frontal, además de la progresión técnica en 360 y combinaciones de impacto.",
+  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Combinación Pateo/Golpe + 360 Kick",
+  "enfoque": "Entrenamiento de progresión intermedia enfocado en la fluidez de transiciones de combate y el perfeccionamiento de la fase final del 360 kick.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Nivel 1",
+      "titulo": "Chanonaflex - intermedio",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+    },
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
       "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Circuito Isométrico Activo - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Extensión total de pierna de apoyo y control de talón",
-      "reps": "20 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    },
-    {
-      "titulo": "360 kick - transicion correcta del giro",
-      "enfoque": "Mecánica de giro y control de eje corporal",
-      "reps": "10 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1li8_ZtU3__tD3jSev8nYIwGl6qoXHuBA&usp=drive_copy"
-    },
-    {
       "titulo": "Pucho + Ap Chagui + Giro golpe",
-      "enfoque": "Fluidez en el combo y precisión de impacto",
+      "enfoque": "Combinación técnica exclusiva de fluidez y precisión",
       "reps": "15 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=15ZssVKzl60NXNrB4oL9bWsjdO9uefnCw&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=15ZssVKzl60NXNrB4oL9bWsjdO9uefnCw"
     },
     {
-      "titulo": "Propuesta + ap chagui reps",
-      "enfoque": "Firmeza de cadera y control cervical",
-      "reps": "12 reps por pierna / 2 series",
+      "titulo": "360 kick - Intercambio de pierna",
+      "enfoque": "Fase avanzada de potencia en el aire",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
-    }
-  ],
-  "poomsaeDias": "LUNES A SÁBADO",
-  "poomsae": [
+      "url": "https://drive.google.com/open?id=1fkHSoJxtdlKB_sf7Nxb5UOxr6p-DHeVi"
+    },
     {
-      "titulo": "Ap chagui, prep y aterrizaje correcto",
-      "enfoque": "Control de eje y congelamiento técnico",
-      "reps": "20 reps / 1 serie",
+      "titulo": "360 kick - lento y en pasos finos",
+      "enfoque": "Control de trayectoria y equilibrio",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1_84i__dVgwQfasUIb_V1C8i-fvvKfxNU"
+    },
+    {
+      "titulo": "360kick lento",
+      "enfoque": "Mecánica de giro y fijación de vista",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Jt5JEi2zPfJJ9FCbEdfnAQKvnoUNKFui"
+    },
+    {
+      "titulo": "Ap + Dollyo + Yop con regreso",
+      "enfoque": "Control neuromuscular y resistencia de base",
+      "reps": "8 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
     }
   ],
-  "apuntes": [
-    "Busca en tu pateo frontal que la pierna de apoyo se extienda en su totalidad; la base debe ser una columna sólida.",
-    "La cadera se está yendo al frente cuando ejecutas la Ap Chagui; debemos mantenerla firme y anclada, sin movimientos parásitos al patear.",
-    "Especial atención en la cervical: evita mover el cuello o la cabeza compensando la altura de la patada, mantén la vista fija y el torso alineado.",
-    "Control estricto del talón de base: se está elevando involuntariamente, lo que causa la flexión de la rodilla de apoyo. Mantenlo pegado al piso.",
-    "Trabajen de forma consistente en el pateo 360 y el combo con golpe, enfocándose en no perder el eje durante la rotación."
-  ],
+  "poomsae": [],
+  "apuntes": [],
   "notasFinales": [
-    "Este ciclo es de limpieza técnica profunda. Corregir el talón y la cervical ahora les dará una ventaja visual enorme en competencia.",
-    "El combo de Pucho + Ap + Giro requiere que la mente esté tan firme como el cuerpo. No busquen velocidad, busquen exactitud biomecánica.",
-    "Cualquier detalle con la transición del 360, coméntenme para revisarlo en video.",
+    "Mtro. Mariano y Agustina, este ciclo mantenemos un ritmo de progresión intermedia para consolidar los avances logrados.",
+    "He asignado ejercicios específicos de 360 kick enfocados en las etapas finales del giro, ya que su nivel de avance así lo requiere.",
+    "La combinación de Pucho + Golpe es un trabajo exclusivo para ustedes en este periodo; busquen que la transición entre la patada y el puño sea inmediata y explosiva.",
+    "Recuerden que el enfoque principal es la flexibilidad funcional y la fuerza isométrica para dar soporte a sus patadas avanzadas.",
+    "Con mucho cuidado maestro en referente a la lesión que nos está ahí molestando",
     "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
