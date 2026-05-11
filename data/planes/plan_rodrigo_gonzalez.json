@@ -1,105 +1,92 @@
 {
-  "updated_at": "Actualizado dom 26 de abril",
+  "updated_at": "Actualizado dom 10 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico + Ap Chagui + Pyonwong completo",
-  "enfoque": "Corrección estructural del eje y control cervical en el pateo frontal, junto con el dominio de la alineación horizontal y equilibrio en Pyonwong.",
-  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Post-Recuperación Tobillo + Pyonwong + Keumgang (Jakdari)",
+  "enfoque": "Reincorporación progresiva post-lesión de tobillo. Reducción de carga al 50% con enfoque en control isométrico suave, equilibrio en Jakdari Seogui y precisión técnica en Pyonwong.",
+  "chanonaflexDias": "LUN A SAB · 1 serie suave",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Avanzado",
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     },
     {
-      "titulo": "ChanonaFlex • desde Propuesta - Nivel 3",
+      "titulo": "ChanonaFlex • Nivel 1",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "MARTES - JUEVES (Carga reducida)",
   "isometrico": [
     {
-      "titulo": "Yop Chagui - NIVEL 2",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["POST-LESION, CONTROL"]
     },
     {
-      "titulo": "Ap Chagui - NIVEL 2",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Dollyo Chagui - NIVEL 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["POST-LESION, CONTROL"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "MIÉRCOLES - VIERNES (Ejecución suave)",
   "pateoTecnico": [
     {
-      "titulo": "Ap Chagui Extensión completa",
-      "enfoque": "Control de pierna de apoyo y alineación de cadera",
-      "reps": "20 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU"
-    },
-    {
-      "titulo": "Yop Chagui + Toque piso + Equilibrio",
-      "enfoque": "Fortalecimiento lateral y control de caída",
-      "reps": "10 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1ZQ3ud3bkEQJcvSnUelWDVR4ECdwv1_Vn"
-    },
-    {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Fijación del talón y control cervical",
-      "reps": "20 reps / 2 series",
+      "enfoque": "Control de estabilidad sin impacto fuerte en tobillo",
+      "reps": "10 reps suaves por pierna / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
+      "enfoque": "Recuperación funcional y estabilidad de la base",
+      "reps": "15 reps lentas / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Pyonwong completo",
-      "enfoque": "Alineación horizontal y equilibrio en Jakdari Seogui",
-      "reps": "5 reps completas",
+      "titulo": "Pyonwong completo - Solo técnica",
+      "enfoque": "Marcación de trayectorias y tiempos de poomsae",
+      "reps": "3 reps muy lentas",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1dxU_-ztAr7vYc8v6HHZBEhv1PMmhphT7"
+      "url": "https://drive.google.com/file/d/1dxU_-ztAr7vYc8v6HHZBEhv1PMmhphT7/view?usp=drive_link"
     },
     {
-      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
-      "enfoque": "Precisión lineal del brazo asistente",
-      "reps": "15 reps marcando el corte",
+      "titulo": "Giro correcto keumgang - pies",
+      "enfoque": "Control del Jakdari Seogui y presión interna",
+      "reps": "10 reps con pausa de 5 seg",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
     },
     {
       "titulo": "Keumgang position + Yop Chagui - Pyonwong",
-      "enfoque": "Bloqueo y firmeza para evitar caída",
-      "reps": "10 reps por lado",
+      "enfoque": "Firmeza del torso y equilibrio de eje",
+      "reps": "5 reps por lado",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ePjQf4z7o0MsxC0D3yYTRhBevbpwOtFe/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Busca en tu pateo frontal que la pierna de apoyo se extienda en su totalidad; la firmeza de la base es lo que proyecta potencia.",
-    "La cadera se está yendo al frente en la Ap Chagui. Debes mantenerla firme y neutra, controlando el movimiento desde el core sin desplazar el eje.",
-    "Atención especial en tu cervical: no permitas que el cuello se mueva o se proyecte al intentar patear más alto. La cabeza debe seguir la línea de la columna.",
-    "Vigila tu talón de base: si se eleva, pierdes estabilidad y terminas flexionando la rodilla de apoyo, lo cual es una deducción técnica segura.",
-    "En Pyonwong, el Sonnal Montong Bakkat Makki debe ser lineal. El brazo asistente debe estar estrictamente en horizontal, sin torsiones extrañas.",
-    "Tras la Ap Chagui, busca bloquear correctamente la Yop Chagui para mantener la alineación y evitar la caída. Marca el 'congelamiento' en cada técnica."
+    "Mi champ, estamos regresando de una lesión de tobillo, por lo que la prioridad es la propiocepción y no la potencia. Baja la carga considerablemente; si hay dolor, detente.",
+    "En la Ap Chagui, busca específicamente no flexionar la pierna de apoyo. Debe estar firme y extendida para proteger la articulación del tobillo mediante una base sólida.",
+    "Firmeza en el torso: No lleves los hombros al frente. Si la pierna está inestable por la recuperación, compensa con un torso rígido y bien alineado.",
+    "Direccionamiento: La rodilla debe guiar la patada. En Yop Chagui, flexiona la rodilla al pecho con control antes de extender; eso también es direccionar.",
+    "En Keumgang, el Jakdari Seogui debe ser preciso: al llegar con el pie a la parte interna de la rodilla, aprieta ambas rodillas hacia adentro para ganar equilibrio.",
+    "Para mantener la altura en Jakdari sin bajar la pierna elevada, flexiona ligeramente la rodilla de apoyo (solo lo necesario para amortiguar) manteniendo la firmeza del torso."
   ],
   "notasFinales": [
-    "Champ, estamos puliendo los detalles que definen el nivel profesional. La quietud de tu cabeza y la firmeza de tu talón son la clave este ciclo.",
-    "Pyonwong es una poomsae de equilibrio absoluto; no aceleres, prefiere marcar cada movimiento con total nitidez.",
-    "Si sientes que la cervical se tensa, baja un poco la altura del pateo hasta que logres controlarlo.",
-    "¡Feliz entrenamiento y a darle con todo, campeón!"
+    "Campeón, bienvenido de vuelta a los entrenamientos duros. Este plan es el 'pico hacia abajo' de tu recuperación; sé inteligente y paciente con tu cuerpo.",
+    "El objetivo no es patear alto ni fuerte hoy, sino recuperar la confianza en tu apoyo. Haz los movimientos de Pyonwong de forma fluida y sin tensión excesiva.",
+    "Reporta cualquier molestia en el tobillo tras las sesiones de Jakdari Seogui.",
+    "¡Feliz regreso y a darle con calma pero con técnica, campeón!"
   ]
 }
