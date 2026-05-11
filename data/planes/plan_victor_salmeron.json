@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 26 de abril",
-  "nivel": "Nivel Avanzado Progresivo",
-  "ciclo": "Lunes 4 al sábado 9 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico + Ap Chagui + Estructura de Base",
-  "enfoque": "Corrección profunda del eje central, alineación de cadera y control cervical durante el pateo, sumado a la limpieza de trayectorias en defensas básicas y transiciones de pasos post ausencia médica.",
+  "updated_at": "Actualizado dom 10 de mayo",
+  "nivel": "Nivel Avanzado",
+  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico + Ap Chagui + Taeguk 1 (L1-L3)",
+  "enfoque": "Desarrollo de la extensión estructural en el pateo y perfeccionamiento de la mecánica de preparación y postura en las primeras tres líneas de Taeguk 1.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -13,18 +13,30 @@
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     },
     {
-      "titulo": "ChanonaFlex • Avanzado",
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
+      "titulo": "Ap Chagui - NIVEL 2",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico activo - Dollyo Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Yop Chagui - NIVEL 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
@@ -32,62 +44,82 @@
   "pateoTecnico": [
     {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Control de talón y extensión de rodilla base",
-      "reps": "20 reps por pierna / 2 series",
+      "enfoque": "Control de talón de apoyo y extensión de rodilla",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Ap + Extension",
-      "enfoque": "Control de cadera firme y extensión total",
-      "reps": "12 reps por lado / 2 series",
+      "titulo": "Ap chagui + Propuesta stand",
+      "enfoque": "Fortalecimiento de cuádriceps y control de torso",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1xDDf3xWV9jLSS2buYRk0ocGBw8eRKigi/view?usp=drive_link"
     },
     {
-      "titulo": "Propuesta + ap chagui reps",
-      "enfoque": "Estabilidad del torso y control cervical",
-      "reps": "15 reps por pierna / 2 series",
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Direccionamiento de rodilla y precisión",
+      "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az"
+    },
+    {
+      "titulo": "Ap + Descendente frontal circuito",
+      "enfoque": "Estabilidad y extensión de la pierna de base",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Transicion ap seogui",
-      "enfoque": "Trayectoria lineal de pasos sin pasar por dentro",
-      "reps": "20 reps de avance directo",
+      "titulo": "Taeguk 1 - Espejo paso a paso",
+      "enfoque": "Mecánica de preparación y posturas (L1-L3)",
+      "reps": "5 reps de cada sección",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/173-ABbGz9ZYn095O4pc769w-WgN3eyxO/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1AP1did1HVwyMQy8byxTCLx9fy32IHhWM"
     },
     {
-      "titulo": "Preparacion correcta del golpe",
-      "enfoque": "Dirección del brazo asistente hacia el frente",
-      "reps": "30 reps marcadas",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1YqTL-tIYcgR5kYa2ShQInBnmbeQAU1Jy/view?usp=drive_link"
+      "titulo": "Timing - Poomsae Taeguk 1",
+      "enfoque": "Ritmo y cortes de movimiento",
+      "reps": "Seguir audio",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1Osjpm45GDBwaZL2ZNTrh6rM9obakMTG3/view?usp=drive_link"
     },
     {
-      "titulo": "Ap chagui, prep y aterrizaje correcto",
-      "enfoque": "Control de congelamiento y modo uno a uno",
-      "reps": "20 reps con pausa técnica",
+      "titulo": "Jueves 7 - Continuidad Taeguk 1",
+      "enfoque": "Clase grabada - Repaso técnico",
+      "reps": "Sesión completa",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=11sIF7OyHL9_C7wmavN-T1OvmzLHsROwo"
+    },
+    {
+      "titulo": "Jueves 19 - Clase Online Taeguk 1",
+      "enfoque": "Clase grabada - Detalle de movimientos",
+      "reps": "Sesión completa",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1xQkawHhONY7V36FaAuEz1R8Iv5bSbomM"
+    },
+    {
+      "titulo": "Jueves 14 - Taeguk 1 Conclusión",
+      "enfoque": "Clase grabada - Estructura final",
+      "reps": "Sesión completa",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1H5DucqGHCiY6moTUJ4qrPifVPVSPJRxa"
     }
   ],
   "apuntes": [
-    "En tu Ap Chagui, la pierna de apoyo debe extenderse en su totalidad. Vigila el talón de base: si se eleva, flexionas la rodilla y pierdes la estructura profesional.",
-    "Control de cadera y cervical: La cadera debe mantenerse firme sin irse al frente al patear. Evita mover el cuello o inclinar la cervical para ganar altura; la altura debe venir de la flexibilidad funcional, no del desbalance.",
-    "Mecánica de Are Makki: La preparación es brazo a cintura y el otro al hombro, sin cruzar. Mantén la alineación de la muñeca hacia adentro y evita tirar los hombros hacia atrás en la preparación; no te tuerzas.",
-    "Trayectorias y Giros: En Ap Seogui, avanza de forma lineal, no pases el pie por el centro. En los giros, mueve todo el cuerpo en paralelo; la vista debe girar al mismo tiempo que preparas el movimiento, no después.",
-    "Detalle de Montong Makki: Al preparar, los dedos miran hacia afuera. Solo al ejecutar y hacer el impacto final deben girar hacia adentro.",
-    "Ejecución en Ap Kubi: Gira la cadera con explosividad al llegar a la posición para proyectar máxima potencia técnica."
+    "Busca específicamente no flexionar la pierna de apoyo cuando estés pateando; esta siempre debe estar firme y extendida durante tu Ap Chagui.",
+    "En nuestra postura siempre debemos mantener firmeza en el torso. Evita llevar los hombros al frente; aunque la pierna esté inestable, el torso debe permanecer recto.",
+    "Direcciona siempre con la rodilla hacia el objetivo. Al flexionar la rodilla al pecho antes de patear, ya estás direccionando tu técnica.",
+    "En las defensas y golpes de Taeguk 1, dale prioridad absoluta a tus preparaciones y posiciones. Las manos deben seguir el timing que trabajamos en clase, pero la esencia está en la postura general.",
+    "Recuerda que la base de Taeguk 1 es la simplicidad ejecutada con perfección; no aceleres, marca cada corte."
   ],
   "notasFinales": [
-    "Victor, estamos en una etapa de limpieza técnica agresiva. Vamos mejorando el movimiento, ahora necesitamos el control quirúrgico del eje corporal poco a poco por la ausencia obligatoria que debimos tomar",
-    "Aplica el 'congelamiento' en cada técnica. No corras; marca cada impacto, quédate un instante y luego fluye a la siguiente preparación.",
-    "Pon especial atención a los apuntes de la vista en las transiciones, es lo que da la intención de ataque/defensa real.",
+    "Victor, este ciclo requiere exigencia técnica sin necesidad de una intensidad física demandante. Enfóquese en la limpieza de cada movimiento.",
+    "Las clases grabadas de los jueves están siempre disponibles aquí para que pueda repasar los detalles finos de Taeguk 1 siempre que entrene.",
+    "Poco a poco dominaremos la extensión de la base; confíe en el material de apoyo y en su capacidad de corrección.",
     "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
