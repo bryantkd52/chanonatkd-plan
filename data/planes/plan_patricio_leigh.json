@@ -1,99 +1,91 @@
 {
-  "updated_at": "Actualizado dom 26 de abril",
+  "updated_at": "Actualizado dom 10 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
-  "enfoque_corto": "Estructura Poomsae Superior + Control de Eje y Alineación",
-  "enfoque": "Refinamiento técnico en Sipjin, Pyonwong y Taebaek, con énfasis quirúrgico en la estabilidad de la cadera, la alineación cervical y la correcta distribución de peso en posiciones cortas.",
-  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Pyonwong Completo + Keumgang Jakdari Seogui + Post-Competencia",
+  "enfoque": "Fase de descarga post-competencia (Brasil). Enfoque en control neuromuscular suave, estabilidad en posiciones de equilibrio y corrección de la pierna de apoyo.",
+  "chanonaflexDias": "LUN - MIE - VIE · 1 serie (Suave)",
   "chanonaflex": [
     {
-      "titulo": "Chanonaflex - intermedio",
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "ChanonaFlex • Nivel intermedio",
+      "dia": "LUN - MIE - VIE",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "MARTES Y JUEVES (Carga reducida)",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["REUPERACIÓN, CONTROL"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["REUPERACIÓN, CONTROL"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "LUNES - MIÉRCOLES",
   "pateoTecnico": [
     {
+      "titulo": "Ap + Dollyo + Yop con regreso",
+      "enfoque": "Control de pierna de apoyo y firmeza de torso sin explosividad",
+      "reps": "5 reps por pierna / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
+    },
+    {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Extensión total de pierna de apoyo y control cervical",
-      "reps": "20 reps por pierna / 2 series",
+      "enfoque": "Extensión de rodilla base y fijación de talón",
+      "reps": "10 reps por pierna / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ejercicio 12 - Yop Chagui",
-      "enfoque": "Alineación de torso y fijación de cadera",
-      "reps": "10 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1rWkqFQhFatE3TgXkKwOeS4jRQiUeECuO/view?usp=drive_link"
-    },
-    {
-      "titulo": "Balance Ap + Dollyo + Yop",
-      "enfoque": "Control neuromuscular y firmeza del eje",
-      "reps": "10 reps / 1 serie por pierna",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
   "poomsae": [
     {
-      "titulo": "Linea 1 Sipjin",
-      "enfoque": "Control de meditación y verticalidad",
-      "reps": "Entendimiento tecnico",
+      "titulo": "Pyonwong completo - OMITIR MANOS ABIERTAS",
+      "enfoque": "Timing suave y precisión en desplazamientos",
+      "reps": "3 reps completas",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1-BXW5GXAc5HBhcvYcyUiZxZUnV11MZEA&usp=drive_copy"
+      "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link"
     },
     {
-      "titulo": "Pyonwong completo",
-      "enfoque": "Estabilidad en Chuchum Seogui y cortes",
-      "reps": "5 reps completas",
+      "titulo": "Giro correcto keumgang - pies",
+      "enfoque": "Ajuste de Jakdari Seogui y presión interna de rodillas",
+      "reps": "10 reps por lado / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dxU_-ztAr7vYc8v6HHZBEhv1PMmhphT7/view?usp=drive_link"
-    },
-    {
-      "titulo": "L3 Taebaek - Correcta ejecución por movimiento",
-      "enfoque": "Transiciones de Twit Kubi y técnica de brazo",
-      "reps": "10 reps de la línea",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
     },
     {
       "titulo": "Keumgang position + Yop Chagui - Pyonwong",
-      "enfoque": "Alineación de torso y equilibrio en un pie",
-      "reps": "10 reps por lado",
+      "enfoque": "Firmeza de la posición y flexión de rodilla de apoyo",
+      "reps": "5 reps por lado / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ePjQf4z7o0MsxC0D3yYTRhBevbpwOtFe/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Maestro, busque en su pateo frontal que la pierna de apoyo se extienda en su totalidad; la base debe ser una columna sólida para proyectar la fuerza.",
-    "La cadera tiende a irse al frente durante la ejecución de la Ap Chagui; debemos mantenerla firme y neutral para no comprometer el eje.",
-    "Especial atención en la zona cervical: evite el movimiento compensatorio del cuello al buscar mayor altura en el pateo. La mirada y el cuello deben mantenerse fijos.",
-    "En las Yop Chaguis, es imperativo mantener la alineación del torso; no permita que este gire fuera del plano, mantenga la torsión correcta entre hombros y cadera.",
-    "En las posiciones cortas, especialmente en Twit Kubi, asegure la alineación vertical de la pierna trasera. El peso debe estar marcado al 70/30 para que el trabajo de base sea visible ante los jueces."
+    "Busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; esta siempre debe estar firme y extendida en nuestra Ap Chagui.",
+    "En nuestra postura siempre debemos mantener nuestra firmeza en el torso; no lleve los hombros al frente. Puede que la pierna esté inestable por el cansancio post-competencia, pero jamás su torso.",
+    "Direccione siempre con la rodilla hacia el objetivo. En Yop Chagui, la flexión previa al pecho es parte fundamental de ese direccionamiento.",
+    "En Keumgang, busquemos que los Jakdari Seoguis se vean firmes y precisos. Al llegar con el pie a la parte interna de la rodilla, apriete las rodillas hacia adentro para sellar la posición.",
+    "Al elevar la pierna, procure que esta no baje. El secreto es flexionar un poco más la rodilla de apoyo para mantener la firmeza y el nivel de la posición."
   ],
   "notasFinales": [
-    "Maestro, trabajar Sipjin, Pyonwong y Taebaek simultáneamente requiere un dominio del eje muy preciso. Este ciclo nos enfocaremos en que la estructura no se rompa por buscar estética.",
-    "La firmeza cervical y de cadera le darán esa apariencia de 'bloque' que los jueces buscan en las poomsaes superiores.",
-    "Cualquier duda con las transiciones de Pyonwong, estaré atento para revisarlo en la próxima sesión.",
-    "¡Feliz entrenamiento y a darle con todo, Maestro!"
+    "Excelente trabajo en Brasil, aun no tengo mucho conocimiento de que es lo que hicimos por allá, pero estoy muy emocionado por saber que tal nos fue a detalle tecnico y a profundidad, le envío un abrazo con mucho cariño y afecto.",
+    "Este ciclo reduciremos considerablemente la carga para permitir que el cuerpo se recupere. Haga los movimientos de forma fluida y suave, enfocándose en la sensación técnica.",
+    "Disfrute de esta semana de descarga, se la ha ganado. ¡Seguimos trabajando con inteligencia!",
+    "Cualquier duda, coménteme, Maestro."
   ]
 }
