@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 26 de abril",
+  "updated_at": "Actualizado dom 10 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico Activo + Control de Ap Chagui",
-  "enfoque": "Corrección técnica de la patada de frente, priorizando la fijación del eje cervical, la estabilidad de la cadera y la extensión total de la base sobre la altura del pateo.",
+  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Taeguk 6 (L1-L3) + Control Estructural de Pateo",
+  "enfoque": "Desarrollo de la estabilidad estructural en Taeguk 6, priorizando la extensión de la pierna de apoyo y la firmeza del torso en las transiciones y el pateo frontal.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -11,6 +11,12 @@
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    },
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
@@ -20,53 +26,101 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Dollyo Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1y02E8_WF2d624jJWJvinIn2oNIBcbXcc/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
+      "titulo": "Ap + Dollyo + Yop con regreso",
+      "enfoque": "Control de pierna de apoyo y firmeza de torso",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
+    },
+    {
+      "titulo": "Ap + Descendente frontal circuito",
+      "enfoque": "Direccionamiento de rodilla y extensión de base",
+      "reps": "12 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
+    },
+    {
+      "titulo": "Secuencia Ap + Dollyo + Yop",
+      "enfoque": "Equilibrio neuromuscular y encadenamiento",
+      "reps": "5 secuencias por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
+    },
+    {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Control de talón de apoyo y extensión de rodilla",
-      "reps": "20 reps por pierna / 2 series",
+      "enfoque": "Fijación del talón y rodilla de apoyo extendida",
+      "reps": "20 reps por lado / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Estabilidad de cadera y control de cervical",
-      "reps": "10 reps por pierna / 2 series",
+      "titulo": "Circuito elevacion + sostener + circular",
+      "enfoque": "Fortalecimiento de cuádriceps y sostén técnico",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ap Chagui sentado",
-      "enfoque": "Aislamiento de cadera y técnica de extensión",
-      "reps": "15 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kgNL9L8yGHWr_vMbbCZYIelzlZvqIqzX/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Ap chagui, prep y aterrizaje correcto",
-      "enfoque": "Mecánica de congelamiento y fijación de eje",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Timing - Línea 1 de Taeguk 6",
+      "enfoque": "Ritmo de competencia y audios de referencia",
+      "reps": "10 min de práctica",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1Qlt4HXhI6Pw77woVdH-rPP6QfC16qJ9O"
+    },
+    {
+      "titulo": "Timing - Línea 2 y 3 de Taeguk 6",
+      "enfoque": "Transiciones fluidas y cortes",
+      "reps": "10 min de práctica",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1asDEGqi_YWGMnDZioMY_lYOZUpYIZPAR"
+    },
+    {
+      "titulo": "L2 a L3 de Taeguk 6 - T6",
+      "enfoque": "Precisión en defensas y giros",
+      "reps": "10 reps conscientes",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1qM7-pg_CPQ480Oqb3fKD-nb4noUaKEEy"
+    },
+    {
+      "titulo": "Defensa a la cara Taeguk 6",
+      "enfoque": "Trayectoria y punto de impacto",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1t7jfM7QOba7tFmJ6kfcXNYonl-pyJJrv"
+    },
+    {
+      "titulo": "Ap chagui, prep y aterrizaje correcto",
+      "enfoque": "Control de eje en Taeguk 6",
+      "reps": "15 reps por pierna",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz"
     }
   ],
   "apuntes": [
-    "Busca en tu pateo frontal que la pierna de apoyo se extienda en su totalidad; la columna vertebral del Poomsae nace de una base firme.",
-    "Control de cadera: se está yendo al frente al ejecutar la Ap Chagui. Debemos mantenerla firme y cuadrada, sin que se desplace cuando pateamos.",
-    "Especial atención en tu cervical: nota que se mueve al intentar patear más alto. El cuello debe mantenerse neutro y firme, sin tensión extra.",
-    "Vigila el talón de base: se está elevando en el momento del impacto, lo que provoca que flexiones la pierna de apoyo por compensación. Mantenlo anclado.",
-    "Busca siempre la precisión: no aceleres de más. Marca cada movimiento en modo 'congelamiento', patada a patada, asegurando el control total antes de bajar."
+    "Busca específicamente no flexionar la pierna de apoyo cuando estamos pateando. Esta siempre debe estar firme y extendida, tanto en Ap Chagui como en Dollyo Chagui.",
+    "En las líneas 1, 2 y 3 de Taeguk 6, mantén siempre la firmeza en el torso. No lleves los hombros al frente; aunque la pierna pueda estar inestable, el torso jamás debe perder su eje.",
+    "Debes direccionar siempre con la rodilla hacia donde estás pateando. La rodilla es tu guía técnica para que la patada no se 'abra' o pierda potencia.",
+    "En Taeguk 6, las defensas exteriores y giros deben ejecutarse con el talón de apoyo bien anclado hasta el momento de la transición. No permitas que el talón se eleve prematuramente.",
+    "Usa los audios de timing para las primeras tres líneas; el contraste entre la fluidez del giro y el congelamiento del bloqueo es lo que marcará la diferencia ante el juez."
   ],
   "notasFinales": [
-    "Carlos, este ciclo es para 'limpiar' la estructura. Prefiero una patada a nivel medio perfectamente alineada que una alta con errores de base.",
-    "El control cervical es la clave de la elegancia en competencia. Si tu cabeza no se mueve, tu presentación subirá puntos inmediatamente.",
-    "Sé consciente de tu talón en cada repetición. Si se levanta, la repetición no cuenta. ¡Disciplina técnica ante todo!",
+    "Carlos, estamos entrando en una fase de madurez técnica con Taeguk 6. El control de su pierna de base determinará la limpieza de su forma completa.",
+    "He incluido los nuevos circuitos de encadenamiento para fortalecer su equilibrio dinámico. No los salte, son la clave de su estabilidad.",
+    "Cualquier duda con los recorridos de la línea 2 y 3, coméntame de inmediato.",
     "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
