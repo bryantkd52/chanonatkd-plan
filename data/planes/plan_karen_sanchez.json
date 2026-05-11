@@ -1,11 +1,17 @@
 {
-  "updated_at": "Actualizado dom 26 de abril",
+  "updated_at": "Actualizado dom 10 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico + Yop Chagui + Koryo L1 y L2",
-  "enfoque": "Corrección estructural profunda en Koryo y perfeccionamiento del eje en pateo frontal y lateral. Énfasis en alineaciones de muñecas, torsión y técnica de posiciones.",
-  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Poomsae + Preparación Pre-Competencia Nacional",
+  "enfoque": "Semana de descarga física y máximo enfoque técnico. Prioridad en la limpieza de trayectorias, timing de competencia y estabilidad de base rumbo al Nacional en Tlaxcala.",
+  "chanonaflexDias": "LUN A SAB · 1 serie (Mantenimiento suave)",
   "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
     {
       "titulo": "ChanonaFlex • Nivel 1",
       "dia": "LUNES A SÁBADO",
@@ -13,129 +19,130 @@
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
-  "isometrico": [
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    }
-  ],
-  "pateoDias": "MAR - JUE - SAB",
-  "pateoTecnico": [
-    {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Extensión completa de la pierna de base y control de cadera",
-      "reps": "20 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ejercicio 7 - Yop Chagui",
-      "enfoque": "Evitar proyección de glúteo y mantener alineación del torso",
-      "reps": "10 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/198q-dEzz9xLIOrraEZvtUr9vFKGJz6M2/view?usp=drive_link"
-    },
-    {
-      "titulo": "Doble yop hold - landing L3 koryo",
-      "enfoque": "Marcación y velocidad en las flexiones de rodilla",
-      "reps": "7 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ/view?usp=drive_link"
-    }
-  ],
-  "poomsaeDias": "LUNES A SÁBADO",
+  "isometricoDias": "NO ASIGNADO ESTA SEMANA - DESCARGA PRE-COMPETENCIA",
+  "isometrico": [],
+  "pateoDias": "NO ASIGNADO ESTA SEMANA - ENFOQUE 100% TÉCNICO POOMSAE",
+  "pateoTecnico": [],
+  "poomsaeDias": "LUNES A SÁBADO - RITMO DE COMPETENCIA",
   "poomsae": [
     {
-      "titulo": "Linea 1 Koryo - Precisión + Timing",
-      "enfoque": "Alineación de muñecas y potencia desde el inicio",
-      "reps": "10 reps conscientes",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK/view?usp=drive_link"
+      "titulo": "Timing - Taeguk 4 completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1GP9xzelmZAbrDWCGC8Dk6gdEv0EBX_3c"
     },
     {
-      "titulo": "Linea 2 Koryo - 2.1 ap chagui + golpes",
-      "enfoque": "Altura de golpe al cuello y firmeza de base",
-      "reps": "10 reps conscientes",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv/view?usp=drive_link"
+      "titulo": "Timing - Taeguk 5 completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1--AwHnV5lJmIIn731C16_5-ZAohMTIiH"
     },
     {
-      "titulo": "Koryo L4 - Golpes y defensas",
-      "enfoque": "Torsión y control de puño asistente",
-      "reps": "10 reps conscientes",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1UHV_mYsNFt3pZIiQKAWXIYWjGcpoguwP/view?usp=drive_link"
+      "titulo": "Timing - Taeguk 6 completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1CQ2D_gBn5p8PHkZPp_D1D1CmVPyVK8O7"
     },
     {
-      "titulo": "Koryo L3 - Lado  izquierdo",
-      "enfoque": "Precisión tecnica y camara",
-      "reps": "10 reps conscientes",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1d39Oz_ASS6Yb-BIUclGe9QrT-WP9BgwS&usp=drive_copy"
+      "titulo": "Timing - Taeguk 7 completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1x6fTm5Scjblt833cYAiupEHzayFBGhzM"
     },
     {
-      "titulo": "Koryo L3 - Lado derecho",
-      "enfoque": "Precisión tecnica y camara",
-      "reps": "10 reps conscientes",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=116eSAk3WUKVvXneFxAAyuyrG0mu7pwIi&usp=drive_copy"
+      "titulo": "Timing - Taeguk 8 completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1pJBYwhdY3gxXQjiw63daDLy1zz8AI0FG"
     },
     {
-      "titulo": "Koryo L3 - concentracion 8 seg",
-      "enfoque": "Precisión tecnica y concentracion",
-      "reps": "10 reps conscientes",
+      "titulo": "Timing - Koryo completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1x7PbLqLXGT4QWARKK6biWmvD81JKpGDK"
+    },
+    {
+      "titulo": "Timing - Keumgang completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1ubqU5a0bxt3vji_MpwVE_6leLFcrk2TB"
+    },
+    {
+      "titulo": "Línea 1 Taeguk 7 - T7 L1",
+      "enfoque": "Estabilidad y eje corporal",
+      "reps": "5 reps",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=12W8m2JmF9ICQiA6T1q8DB2TNpoSa_wNJ&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1H4mcONZfDmg2fP7UA-nSSgXdPsg42lJC"
+    },
+    {
+      "titulo": "L3 Taeguk 7 - Linea 3 Taeguk 7",
+      "enfoque": "Precisión en Bom Seogui",
+      "reps": "5 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1GRHKn-kKMmgY0mJ6japbwVK8AqiP8yAv"
+    },
+    {
+      "titulo": "L4 T8 - Linea 4 Taeguk 8 - Lento",
+      "enfoque": "Limpieza de trayectorias",
+      "reps": "5 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1tzS67xEzs3v28T1-kYC1ImguBsXvlsuE"
+    },
+    {
+      "titulo": "Giro correcto keumgang - pies",
+      "enfoque": "Equilibrio y base",
+      "reps": "10 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view"
+    },
+    {
+      "titulo": "Giro correcto keumgang - brazos",
+      "enfoque": "Coordinación y timing",
+      "reps": "10 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-/view"
+    },
+    {
+      "titulo": "Kawi Makki Lento - L4 T7 Linea 4 Taeguk 7",
+      "enfoque": "Control neuromuscular",
+      "reps": "8 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1LMHTtDYnYbKvph1y9FNuE2bTjTpW_avc"
+    },
+    {
+      "titulo": "Ap chagui, prep y aterrizaje correcto",
+      "enfoque": "Extensión de pierna de apoyo",
+      "reps": "10 reps por pierna",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz"
+    },
+    {
+      "titulo": "Simulacion de competencia - NO VIDEO",
+      "enfoque": "Presentación y seguridad",
+      "reps": "2 vueltas completas",
+      "tipo": "ejercicio NO VIDEO",
+      "url": "#"
     }
   ],
   "apuntes": [
-    "En la patada frontal, la pierna de base DEBE estar en extensión completa; la cadera firme sin proyectarse al frente.",
-    "No esperes al final de la clase para meter potencia; entrena con fuerza desde el primer movimiento, eso marca la diferencia técnica.",
-    "En Yop Chagui: Corrige la postura de la cadera, evita 'sacar la pompita'. En las dobles Yop Chagui, falta marcación y velocidad en las flexiones de rodilla.",
-    "Alineación: Las muñecas en defensas interiores deben estar rectas y en línea con los hombros. Los golpes de mano abierta en Línea 2 van al cuello, no al estómago.",
-    "Posiciones: La rodilla trasera en Twit Kubi debe estar alineada, no torcida hacia adentro. En el giro de la Línea 3, gira sobre la bola del pie, nunca sobre el talón.",
-    "Preparaciones: Los codos en defensas exteriores deben separarse del cuerpo al preparar. Las Are Makki con mano abierta necesitan usar la cámara de la Ap Chagui para una preparación sólida.",
-    "Detalles finos: Los codazos preparan de pecho a pecho. En el movimiento circular grande, las manos siempre ven al frente y se juntan suavemente como imanes.",
-    "Brazo asistente: En la última línea, no olvides la preparación del brazo asistente en las defensas bajas; ambos brazos deben trabajar simultáneamente.",
-    "Koryo linea 3",
-"Mantener el equilibrio y tomarse el tiempo neceario para lograr mantenerlo en el eje4rcicio hecho par la linea 3 de koryo",
-"Apachurrar lo suficiente el brazo del costado para garantizar que se vea el brazo del costado se vea firme y correcto a nivel tecnico",
-"La rodilla al hacer camara de regreso la baja mucho, debe de mantenerla firme y arriba para que esta se mantenga en equilibrio de forma general la posicion y así poder mantener la firmeza de los movimientos",
-"En el caso del paso de cruce, el pie de atrás no la está elevando, debe de levantar el talon de forma notoria justo cuando está cruzando para que tecnicamente sea correcto",
-"Mucho enfoque en las sonnal montong bakkat makki de la inea uno de T4, las preparaciones estan llevandose de forma diferente",
-"Foco en el primer movimiento de keumhang, ya que se ve como golpes en vez de defensa",
-"Necesitamos ejecutar con mayor seguridad nuestro hakdari seogui, ya que al subir lento podemos perder el equibrio",
-"En t5 la velocidad de nuestros movimientos en general se vieron en una sola linea, es decir que no se vio la diferencia entre golpes y defensas",
-"En yop chaguis el puño del costado sigue en torsion",
-"Linea 3 de koryo las sonnal esta girando para recibir golpe antes de tiempo",
-"Los movimientos de brazos en linea 3 deben de ser mas marcados",
-"La velocidad de koryo en llinea 2 esta muy rapida en comparacion de toda la poomsae, debe de haber un equilibrio",
-"Linea 2 T8 la mano trasera se queda muy adentro, hay que alinear con el cuerpo",
-"Los golpes en Taeguk 8 las  muñecas estan con ligera flexion",
-"En t7 en la linea 5 en el paso de cruce no cruza completamente",
-"En el primer movimiento de t8 los brazos esta haciendo el mismo detalle de la linea 1 de t4",
-"En keumgang la primera linea estamos haciendo carrusel",
-"En hakdari seogui segundo de la linea 4 esta jalando con desconfianza, debe de hacerlo con precision el movimiento previo para poder subir con seguridad",
-"Los montong makki las esta casi temrinando cuando ya esta sacando apo chagui",
-"Algo muy comun que voy notando es un patron de arrastras la punta del pie en el piso cuando hace una transicion",
-"En el regreso de las ap chaguis de T6 esta dejando caer rapido, debemos de controlar primero arriba y despues aterrizar",
-"Tambien en la linea 3 de t6 estamos arrastrando",
-"Las bom seoguis en taeguk 7 estan muy anchas, deben de ser como ap seoguis (posicion corta)",
-"En la linea 2 de T8 el paso de cruce no esta cruzando soolo esta pegando los pies en la transicion"
+    "Busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; esta siempre debe estar firme y extendida en nuestra Ap Chagui. Cualquier flexión es una deducción de .1.",
+    "En nuestra postura siempre debemos mantener nuestra firmeza en el torso. No lleves los hombros al frente; aunque la pierna esté inestable, el torso debe verse imponente.",
+    "Direccionamiento: La rodilla debe apuntar siempre hacia donde pateas. Al flexionar al pecho, ya estás direccionando tu objetivo.",
+    "Prioridad en las defensas: Trabaja con el timing de clase, pero dale prioridad absoluta a la preparación y la postura final. Ahí reside la esencia del Poomsae competitivo.",
+    "Semana de descarga: El objetivo es llegar con los músculos descansados y la mente enfocada. Ejecuta con precisión técnica, no con fatiga física.",
+    "Nos vemos en Tlaxcala campeona."
   ],
   "notasFinales": [
-    "Campeona, este plan tiene una carga técnica muy alta. No te satures, enfócate en corregir un detalle a la vez hasta que se vuelva natural.",
-    "Recuerda que en competencia, una muñeca torcida o un talón mal apoyado son deducciones de .1 que restan elegancia a tu ejecución.",
-    "Cualquier duda con las transiciones de Koryo o la torsión de cadera, coméntame de inmediato.",
-    "¡Feliz entrenamiento y a darle con todo, campeona!"
+    "Champ, este es tu plan maestro para el Nacional. Hemos eliminado la carga física para que tu cuerpo esté al 100% de explosividad el día 15.",
+    "Confía en el proceso y en el trabajo que hemos hecho. Repasa los videos de timing para que el ritmo sea natural en el tatami.",
+    "Cualquier duda de último minuto, escríbeme. ¡Vamos por ese podio en Tlaxcala!",
+    "¡Feliz entrenamiento y con todo, campeona!"
   ]
 }
