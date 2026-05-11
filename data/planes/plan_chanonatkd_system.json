@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 26 de abril",
+  "updated_at": "Actualizado dom 10 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico activo + Ap Chagui",
-  "enfoque": "Desarrollo de la base estructural del pateo frontal, priorizando el control neuromuscular del eje y la estabilidad del pie de apoyo sobre la altura de la patada.",
+  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico activo + Pateo circular + Movilidad Cadera",
+  "enfoque": "Desarrollo técnico del pateo circular priorizando la extensión total de la pierna de apoyo y el control neuromuscular del torso para una estabilidad profesional.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -11,49 +11,62 @@
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    },
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Dollyo Chagui - - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1y02E8_WF2d624jJWJvinIn2oNIBcbXcc/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "LUNES A SÁBADO",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Control de talón y extensión de rodilla base",
-      "reps": "20 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    },
-    {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Control, alineación y equilibrio",
+      "titulo": "Ap + Dollyo + Yop con regreso",
+      "enfoque": "Control de pierna de apoyo y firmeza de torso",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
     },
     {
-      "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Control de cadera y potencia muscular",
-      "reps": "15 reps por pierna / 2 series",
+      "titulo": "Circuito elevacion + sostener + circular",
+      "enfoque": "Movilidad de cadera y fortalecimiento de cuádriceps",
+      "reps": "12 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
     },
     {
-      "titulo": "Elevacion de talones frente a pared",
-      "enfoque": "Fortalecimiento de tobillo para estabilidad de base",
-      "reps": "30 reps / 2 series",
+      "titulo": "Secuencia Ap + Dollyo + Yop",
+      "enfoque": "Encadenamiento técnico y equilibrio",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1OvmO3nrmM--QtIvgsREzFGANsCzzbXin/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
+    },
+    {
+      "titulo": "Torcion cadera con banda",
+      "enfoque": "Movilidad y potencia en la rotación de cadera",
+      "reps": "30 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circular - 1",
+      "enfoque": "Trayectoria correcta y técnica de impacto",
+      "reps": "20 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1c2u9l4tcX8C5qIaZ7Rau0WmPZ0_KRx3H"
     }
   ],
-  "poomsaeDias": "Sesiones de entrenamiento",
+  "poomsaeDias": "SÁBADOS (SESIONES GRABADAS)",
   "poomsae": [
     {
       "titulo": "Primera sesión - Sabado 1 de abril 2026",
@@ -89,19 +102,26 @@
       "reps": "1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1y9Ci-8FLMFacLKNzvMqbVXKhVlW-6xhL&usp=drive_copy"
+    },
+    {
+      "titulo": "Sexta sesión - Sabado 9 de mayo 2026",
+      "enfoque": "Flexibilidad + movilidad + pateo circular",
+      "reps": "1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=10Qz4PJQXgbViLA9XiGOAMAM0P3Wim8KK&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "Busca siempre que tu pateo se mantenga firme y con intención. Lo principal en este ciclo no es la altura máxima, sino el dominio estructural de la patada.",
-    "Punto primordial: La pierna de apoyo debe mantenerse extendida en su totalidad durante el impacto y el recobro.",
-    "Vigila estrictamente el talón de apoyo; no debe elevarse en ningún momento. Mantenerlo en el piso es lo que garantiza un eje corporal sólido.",
-    "Controla la cadera para que no se proyecte hacia el frente de forma prematura. El control neuromuscular aquí es lo que define una Ap Chagui de nivel competitivo.",
-    "Recuerda que una pierna de apoyo flexionada o un talón levantado son deducciones de .1 que afectan directamente tu puntuación de presentación."
+    "Busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; esta siempre debe estar firme y extendida, especialmente en Dollyo Chagui para asegurar el eje.",
+    "En nuestra postura siempre debemos mantener nuestra firmeza en el torso. No permitas que los hombros se proyecten al frente; el torso debe ser el pilar de tu estabilidad.",
+    "Debemos direccionar siempre con nuestra rodilla hacia donde estamos pateando. El éxito de la Dollyo Chagui depende de que la rodilla apunte al objetivo antes de la extensión.",
+    "No permitas que el talón de apoyo se eleve. Mantenerlo anclado al piso es lo que diferencia un pateo de exhibición de uno de competencia profesional.",
+    "Pon especial atención a los ejercicios de movilidad de cadera para permitir una rotación fluida sin comprometer la postura del torso."
   ],
-  "notesFinales": [
-    "El éxito en el Poomsae moderno reside en la estabilidad. Si logras que tu Ap Chagui sea inamovible desde la base, estarás construyendo un sistema de pateo profesional.",
-    "Entrena con estructura: no repitas por repetir, corrige cada detalle antes de lanzar la siguiente patada.",
-    "Cualquier duda con los ejercicios de control de cadera, coméntame de inmediato para ajustarlo.",
+  "notasFinales": [
+    "Este ciclo se centra en la limpieza estructural del pateo circular. La firmeza de tu base es lo que permitirá que la patada sea vistosa y potente.",
+    "Ya tienes la sexta sesión grabada en tu plan; úsala como referencia para corregir los detalles vistos en la clase del sábado.",
+    "Recuerda: la pierna puede estar inestable, pero jamás nuestro torso. El control neuromuscular es tu prioridad.",
     "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
