@@ -1,0 +1,148 @@
+{
+  "updated_at": "Actualizado dom 10 de mayo",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Poomsae + Preparación Pre-Competencia Nacional",
+  "enfoque": "Semana de descarga física y máximo enfoque técnico. Prioridad en la limpieza de trayectorias, timing de competencia y estabilidad de base rumbo al Nacional en Tlaxcala.",
+  "chanonaflexDias": "LUN A SAB · 1 serie (Mantenimiento suave)",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "NO ASIGNADO ESTA SEMANA - DESCARGA PRE-COMPETENCIA",
+  "isometrico": [],
+  "pateoDias": "NO ASIGNADO ESTA SEMANA - ENFOQUE 100% TÉCNICO POOMSAE",
+  "pateoTecnico": [],
+  "poomsaeDias": "LUNES A SÁBADO - RITMO DE COMPETENCIA",
+  "poomsae": [
+    {
+      "titulo": "Timing - Taeguk 4 completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1GP9xzelmZAbrDWCGC8Dk6gdEv0EBX_3c"
+    },
+    {
+      "titulo": "Timing - Taeguk 5 completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1--AwHnV5lJmIIn731C16_5-ZAohMTIiH"
+    },
+    {
+      "titulo": "Timing - Taeguk 6 completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1CQ2D_gBn5p8PHkZPp_D1D1CmVPyVK8O7"
+    },
+    {
+      "titulo": "Timing - Taeguk 7 completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1x6fTm5Scjblt833cYAiupEHzayFBGhzM"
+    },
+    {
+      "titulo": "Timing - Taeguk 8 completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1pJBYwhdY3gxXQjiw63daDLy1zz8AI0FG"
+    },
+    {
+      "titulo": "Timing - Koryo completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1x7PbLqLXGT4QWARKK6biWmvD81JKpGDK"
+    },
+    {
+      "titulo": "Timing - Keumgang completo",
+      "enfoque": "Ritmo y cortes técnicos",
+      "reps": "3 reps",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1ubqU5a0bxt3vji_MpwVE_6leLFcrk2TB"
+    },
+    {
+      "titulo": "Línea 1 Taeguk 7 - T7 L1",
+      "enfoque": "Estabilidad y eje corporal",
+      "reps": "5 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1H4mcONZfDmg2fP7UA-nSSgXdPsg42lJC"
+    },
+    {
+      "titulo": "L3 Taeguk 7 - Linea 3 Taeguk 7",
+      "enfoque": "Precisión en Bom Seogui",
+      "reps": "5 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1GRHKn-kKMmgY0mJ6japbwVK8AqiP8yAv"
+    },
+    {
+      "titulo": "L4 T8 - Linea 4 Taeguk 8 - Lento",
+      "enfoque": "Limpieza de trayectorias",
+      "reps": "5 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1tzS67xEzs3v28T1-kYC1ImguBsXvlsuE"
+    },
+    {
+      "titulo": "Giro correcto keumgang - pies",
+      "enfoque": "Equilibrio y base",
+      "reps": "10 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view"
+    },
+    {
+      "titulo": "Giro correcto keumgang - brazos",
+      "enfoque": "Coordinación y timing",
+      "reps": "10 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-/view"
+    },
+    {
+      "titulo": "Kawi Makki Lento - L4 T7 Linea 4 Taeguk 7",
+      "enfoque": "Control neuromuscular",
+      "reps": "8 reps",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1LMHTtDYnYbKvph1y9FNuE2bTjTpW_avc"
+    },
+    {
+      "titulo": "Ap chagui, prep y aterrizaje correcto",
+      "enfoque": "Extensión de pierna de apoyo",
+      "reps": "10 reps por pierna",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz"
+    },
+    {
+      "titulo": "Simulacion de competencia - NO VIDEO",
+      "enfoque": "Presentación y seguridad",
+      "reps": "2 vueltas completas",
+      "tipo": "ejercicio NO VIDEO",
+      "url": "#"
+    }
+  ],
+  "apuntes": [
+    "Busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; esta siempre debe estar firme y extendida en nuestra Ap Chagui. Cualquier flexión es una deducción de .1.",
+    "En nuestra postura siempre debemos mantener nuestra firmeza en el torso. No lleves los hombros al frente; aunque la pierna esté inestable, el torso debe verse imponente.",
+    "Direccionamiento: La rodilla debe apuntar siempre hacia donde pateas. Al flexionar al pecho, ya estás direccionando tu objetivo.",
+    "Prioridad en las defensas: Trabaja con el timing de clase, pero dale prioridad absoluta a la preparación y la postura final. Ahí reside la esencia del Poomsae competitivo.",
+    "Semana de descarga: El objetivo es llegar con los músculos descansados y la mente enfocada. Ejecuta con precisión técnica, no con fatiga física.",
+    "Nos vemos en Tlaxcala campeona."
+  ],
+  "notasFinales": [
+    "Karen, este es tu plan maestro para el Nacional. Hemos eliminado la carga física para que tu cuerpo esté al 100% de explosividad el día 15.",
+    "Confía en el proceso y en el trabajo que hemos hecho. Repasa los videos de timing para que el ritmo sea natural en el tatami.",
+    "Cualquier duda de último minuto, escríbeme. ¡Vamos por ese podio en Tlaxcala!",
+    "¡Feliz entrenamiento y con todo, campeona!"
+  ]
+}
