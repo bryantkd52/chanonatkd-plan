@@ -1,209 +1,158 @@
 {
-  "updated_at": "Actualizado dom 5 de abril",
+  "updated_at": "Actualizado dom 10 de mayo",
   "nivel": "Nivel Profesional",
-  "ciclo": "Abril del 2026",
-  "enfoque_corto": "Timing + fortalecimiento + flexibilidad + pateo alto",
-  "enfoque": "En las semanas del 6 al 19 de abril nuestro enfoque será en el trabajo de poomsae, no en lo fisico, solo lo tecnico, despues de esa fecha si continuamos con nuestro trabajo de desarrollo de fuerza, flexibilidad y más",
-  "chanonaflexDias": "LUNES A SÁBADO",
+  "ciclo": "Mayo 2026",
+  "enfoque_corto": "Poomsaes Avanzadas + Control Estructural + Isométrico",
+  "enfoque": "Ciclo de alto rendimiento enfocado en la limpieza técnica de Koryo, Keumgang, Taebaek y Sipjin. Prioridad en la extensión de la pierna de base y firmeza del torso ante la proximidad de competencias.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "Pre-Chanonaflex - Todos Niveles - ESTO SI PARA CALENTAR",
+      "titulo": "Chanonaflex - Avanzado",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=drive_link"
     },
     {
-      "titulo": "Chanonaflex Desde Propuesta - Nivel 3 - ESTO SI COMO ESTIRAMIENTO SIEMPRE",
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "MARTES - JUEVES - SÁBADO",
+  "isometricoDias": "MARTES - JUEVES - SÁBADO (Cuidar zona del glúteo)",
   "isometrico": [
     {
-      "titulo": "Yop Chagui - NIVEL 2",
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico activo - Dollyo Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico activo - Yop Chagui - Nivel 2",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Ap Chagui - NIVEL 2",
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO",
+  "pateoDias": "LUNES - MIÉRCOLES - VIERNES",
   "pateoTecnico": [
-      {
-        "titulo": "Salto desplate + 3 ap chaguis - NO VIDEO",
-        "enfoque": "Fortalecimiento de cuádriceps + explosividad de ap chagui",
-        "reps": "10 reps por lado / 2 series por pierna",
-        "tipo": "ejercicio",
-        "url": "#"
-      },
-      {
-        "titulo": "L2 Koryo - hold en ap chaguis",
-        "enfoque": "Fortalecimiento de cuádriceps",
-        "reps": "10 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1lww5GhU6ZYxtSnnqkniIr04Snu6H3A-L/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ap Chagui + Elevación",
-        "enfoque": "Extensión y potencia de ap chagui",
-        "reps": "20 reps por lado / 2 series",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=drive_link"
-      },
-      {
-        "titulo": "Balance  Ap + Dollyo + Yop - Cuádriceps",
-        "enfoque": "Fortalecimiento de cuádriceps en diferentes patadas y control",
-        "reps": "10 reps / 1 serie por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ejercicioo 12 - Yop Chagui",
-        "enfoque": "Equilibrio + control + tecnica",
-        "reps": "10 reps / 1 serie por lado",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1rWkqFQhFatE3TgXkKwOeS4jRQiUeECuO/view?usp=drive_link"
-      },
-      {
-        "titulo": "Circuito Hold con banda L2 Koryo",
-        "enfoque": "Equilibrio + control + fortalecimiento",
-        "reps": "20 reps / 1 serie por lado",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ejercicio de fortalecimiento de tobillo con banda ESTO SI LO HARÁ 3 VECES POR SEMANA",
-        "enfoque": "Fortalecimiento de tobillo",
-        "reps": "20 reps por lado / 1 serie",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ap Chagui contra pared",
-        "enfoque": "Extensión de pierna en exigencia",
-        "reps": "20 reps / 2 series por lado",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-      },
-      {
-      "titulo": "Elevación banda + poomsae L1 de T7 a Jitae con polainas",
-      "reps": "50 reps elevación * 5 reps poomsae / LUNES Y VIERNES",
-      "tipo": "EJERCICIO - NO VIDEO",
-      "url": "#"
+    {
+      "titulo": "Ap + Dollyo + Yop con regreso",
+      "enfoque": "Control de pierna de apoyo y firmeza de torso",
+      "reps": "10 reps por pierna / 2 series",
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
     },
     {
-      "titulo": "Elevación mancuernas + poomsae L1 de T7 a Jitae con polainas",
-      "reps": "50 reps elevación * 5 reps poomsae / MIERCOLES",
-      "tipo": "EJERCICIO - NO VIDEO",
-      "url": "#"
-    }
-  ],
-  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
-  "poomsae": [
-    {
-      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
+      "titulo": "Ap + Descendente frontal circuito",
+      "enfoque": "Direccionamiento de rodilla y extensión de base",
+      "reps": "10 reps / 2 series",
+      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
     },
     {
-      "titulo": "Doble yop hold + landing L3 + L1 koryo",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
+      "titulo": "Secuencia Ap + Dollyo + Yop",
+      "enfoque": "Equilibrio neuromuscular y encadenamiento",
+      "reps": "5 secuencias / 2 series",
+      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
     },
     {
-      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
+      "titulo": "Circuito elevacion + sostener + circular",
+      "enfoque": "Fortalecimiento y sostén sin impacto",
+      "reps": "10 reps / 2 series",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
     },
     {
-      "titulo": "Olgul + Yop + Codazo - T5 L5",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf/view?usp=drive_link"
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Fijación del talón y extensión de rodilla base",
+      "reps": "20 reps / 2 series",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Circuito Hold SIN banda L2 Koryo",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
+      "titulo": "L2 Koryo - hold en ap chaguis",
+      "enfoque": "Fortalecimiento específico para poomsae",
+      "reps": "10 reps / 1 serie",
+      "url": "https://drive.google.com/open?id=1lww5GhU6ZYxtSnnqkniIr04Snu6H3A-L"
     },
     {
-      "titulo": "Propuesta + ap chagui reps",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Control técnico y equilibrio absoluto",
+      "reps": "10 reps / 1 serie",
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
     },
     {
-      "titulo": "Fortalecimiento de Tobillo con banda",
-      "reps": "10 reps por lado/ 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+      "titulo": "Ejercicio 15 - Yop Chagui",
+      "enfoque": "Desarrollo de fuerza para Yop Chagui avanzada",
+      "reps": "15 reps / 2 series",
+      "url": "https://drive.google.com/file/d/17YveGmdGny-g79ofbFy4D_YplmQ8j2RQ/view?usp=drive_link"
     },
     {
       "titulo": "Torcion cadera con banda",
-      "reps": "10 reps / 2 series por lado",
-      "tipo": "video",
+      "enfoque": "Movilidad y potencia controlada",
+      "reps": "20 reps / 1 serie",
       "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
     },
     {
-      "titulo": "Poomsae por día - T7 a Jitae",
-      "reps": "10 min por línea/ LUNES A VIERNES",
-      "tipo": "EJERCICIO - NO VIDEO",
-      "url": "#"
+      "titulo": "Fortalecimiento de tobillo con banda",
+      "enfoque": "Estabilidad del talón de apoyo",
+      "reps": "20 reps / 1 serie",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Koryo completo",
+      "enfoque": "Timing y simultaneidad de bloqueos",
+      "reps": "3 reps completas",
+      "url": "https://drive.google.com/open?id=1x7PbLqLXGT4QWARKK6biWmvD81JKpGDK"
+    },
+    {
+      "titulo": "Giro correcto keumgang - pies",
+      "enfoque": "Estabilidad en Jakdari Seogui",
+      "reps": "20 reps por lado",
+      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
+    },
+    {
+      "titulo": "L3 Taebaek - Correcta ejecución",
+      "enfoque": "Precisión y recorridos de brazos",
+      "reps": "10 reps línea completa",
+      "url": "https://drive.google.com/file/d/1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Sipjin completo",
+      "enfoque": "Paciencia en meditaciones y cortes",
+      "reps": "3 reps completas",
+      "url": "https://drive.google.com/open?id=1e0zfoqwkGOolb8TZd1gaKqUCSxfuVDgF"
+    },
+    {
+      "titulo": "Keumgang completo",
+      "enfoque": "Firmeza absoluta y control del giro",
+      "reps": "3 reps completas",
+      "url": "https://drive.google.com/open?id=1ubqU5a0bxt3vji_MpwVE_6leLFcrk2TB"
     }
   ],
   "apuntes": [
-    "En este mes tenemos una buena activación competitiva, por lo que hay que tomar muy en cuenta los puntos específicos de cada indicación referente a las fechas en las que estaremos entrenando únicamente poomsae y ejercicios de poomsae y las fechas en las que estaremos trabajando nuevamente físico",
-    "Nuestro enfoque en estas dos semanas siguientes será la parte técnica y presentación, parte de eso debemos de convertir nuestras ap chaguis de las patadas mas explosivas que podamos hacer, ya que ahí es en donde los jueces también nos dan mayor puntuación, la idea es lograr hacerlo potente, agil, con facilidad de elevación y a su vez que se vea muy natural, para lograr eso debemos de utilizar toda la fuerza que hemos venido desarrollando y hacer las ejecuciones a maxima explosividad",
-    "Los movimientos como defensas y golpes se ven bien, pero debemos de aumentar la torsión del torso y de las muñecas para aumentar la precisión, no solo que se vea que llega, sino que se vea el control y la fuerza controlada a maxima explosividad",
-    "En el caso de correcciones de poomsae en referente a la competencia que acaba de pasar en La Loma:",
-    "En Taeguk 7, estamos preparando montong makki casi en la camara, es decir que no esta mal del todo pero debe ser justo en la camara, usted se está adelantando ya que apenas falta un poco para terminar de flexionar la rodilla de regreso y ya está preparando, lo que da sensacion de que está preparando cuando la pierna aun está extendida por así decir",
-    "Las bom seoguis de la linea 3 en taeguk 7 estuvieron muy cortas, al menos en el video luce de esa forma sin embargo aunque estuviera ahí, estoy seguro que lo hicimos muy pequeñito, así que hay que tomar en cuenta que debemos de mantener la distancia de un pie exacto iniciando en la punta de los dedos del pie de atras...es un ajuste pequeño pero muy importante",
-    "Sus pasos de la linea 4 de taeguk 7, lucen un poco como si estuvieramos haciendo pasos hacia afuera, no están del todo afuera, pero lucen así, procure llevar sus pasos de forma directa y sin escalar internas, solo directo...",
-    "De igual forma en las defensas de la linea 4, necesitamos mas explosividad, precisión pero sobre todo VELOCIDAD en cada movimiento, ya que se notó un poco lento el movimiento",
-    "En la linea 4 de taeguk 7, las ap kubis lucieron muy cortitas, necesitamos un poco mas de apertura, a veces incluso cumpliendo con los parámetros no significa que debamos hacerlo así exactamente, los parámetros están para ser una guía y ya lo adaptamos a nuestra estructura corporal",
-    "Hablando nuevamente de la linea 5, el nivel de fuerza y precisión de los movimientos si necesitamos mas potencia y velocidad, aquí bajamos la intensidad incluso más, por lo que es necesario ponerle ojo ahí...",
-    "Sonnal en la ultima linea (penultimo movimiento de taeguk 7) lució algo suave y a su vez muy rápida, es decir, que apenas terminó el movimiento y ya estaba ejecutando el golpe final",
-    "En el caso del kiap excelente",
-    "Ahora hablaremos de Keumgang:",
-    "La linea uno me gustó, lo único que le pediría es que aumente la velocidad y precisión...",
-    "Hakdari sogui muy bien controlado (el primero) sin embargo siento que estaba a punto de perder el equilibrio casi al final y tuvo que continuar algo acelerado los siguientes movimientos, es decir, el golpe lateral...no se ve mal, quizá los jueces no lo notaron, pero yo si...en el caso de los demás movimientos, como el golpe lateral ahí si noté mucho que el movimiento no se terminó cuando estabamos ya empezando a girar, lo que tenemos que hacer es girar y sostener el congelamiento un pequeño instante, luego con maxima explosividad vamos con el siguiente, pero que no se vea taaaan seguido ya que eso hace ver al movimiento como que no se termina",
-    "De igual forma Santul Makki (la posicion de montaña o el de los brazos a los laterales con kiap) ahí no le dimos el tiempo de espera con el kiap, al ser un movimiento en el que debemos de gritar, entonces debe de notarse esa energía, no solamente llegar, gritar rápido y continuar al siguiente, no eso le quita la esencia de los gritos...",
-    "Cuando hicimos el santul makki de regreso, hicimos un pequeño movimiento de torsión de cuello hacia al frente, hay que tener cuidado de eso, hay que mantener siempre firme el torso y el cuello en todo momento incluso cuando estamos haciendo un cambio de dirección, cuando incluso tenemos que girar la cabeza, el cuello no debe de irse hacia al frente...",
-    "Los siguientes dos hakdari soguis son estupendos, pero en el caso de la linea 4, en donde hacemos el giro y de nuevo la posición, si se notó cierto descontrol, fue mínimo pero se notó, en especial porque el pie lucé separada de la rodilla y la pierna de apoyo se ve como semiflexionada en vez de tener la flexión requerida",
-    "Mismas indicaciones para el otro lado, son basicamente los mismos errores...",
-    "Vamos a hablar ahora sobre taeguk 8:",
-    "La linea uno me gustó mucho, considero que vamos mejorando mucho aquí en esta poomsae, pero tenemos un pequeño detalle, cuando hicimos la doble ap chagui y aterrizamos se notó algo descontrolado, no se vió como caída pero no se vió controlado, es decir que nos hizo falta hacer camara para hacer notar el control y después de ello, continuar con la maxima potencia que se notó en esta ocasión...de ahí en general en esa línea, todo super bien",
-    "En la linea numero dos nada malo, solo un detalle mínimo, cuando ejecutamos el primer y 3er movimiento, el brazo que va atrás luce ligeramente más abierto de lo que debería, así que cerraremos ligeramente para asegurar que esté en vertical",
-    "En la linea 3 ahí si encontré puntos que debemos mejorar de inmediato y que no son dificiles...el punto es que se vió muy suave, y se nota más porque en todo su inicio se notá potente y ahí se nota una baja por lo tanto a nivel presentación si le estarían bajando la puntuación, ya que debe ser uniforme el nivel de potencia de toda la poomsae...",
-    "Al igual la ultima defensa de la linea 4, esa es la que se vió mas suave...debe de hacer tanto el movimiento de pies como también el del brazo más potente, rápido y explosivo",
-    "En la linea numero 4, las sonnal montong bakkat makki lucieron bastante suaves, preparación dentro de lo que cabe bien y todo, pero en fuerza bajó mucho...",
-    "En el caso del golpe despues de la ap chagui, fue super suave, pero este es derivado de que cuando ejecutamos la ap chagui, elevamos nuestros codos y eso hace que justamente perdamos fuerza...",
-    "Todo lo demás, unicamente meterle más potencia a los movimientos...",
-    "Ahora hablaremos de nuestro taebaek:",
-    "En el caso de la primera preparación, cuando cruzamos tecnicamente todo está bien, solamente que cuando cruzamos los estamos llevando las manos por encima de los hombros, esto debe de ser en alineación de los hombros",
-    "Ahora en el caso de el giro para cambiar de dirección (en la misma linea uno) es necesario girar con la base de la encapsulación, ya que nuestro giuro se vió forzado (no lento) forzado porque nuestra defensa en vez de ir fluida, se nota algo pesado por el giro forzado",
-    "En el caso de la linea dos, hablando del ultimo Ap Kubi, el pie está terminando con torción hacia adentro, esto porque el cuerpo está preparandose para girar, pero sabemos que no debemos hacer esas preparaciones prematuras, sino terminar bien el pie hacia al frente cuando estamos en Ap Kubi y de ahí, irnos con encapsulación para girar con maxima velocidad pero cuidando las alineaciones de los pies...la rodilla no se salva, la rodilla frontal también se está torciendo...",
-    "En el caso de la linea 3, las twit kubis nos hizo falta más flexión de la posición, es decir que se vió como si estuviera parada, necesitamos comenzar a flexionar más...aunque entiendo que duele la rodilla, pero hay que flexionar mas porque ahí nos estarían quitando puntuación",
-    "En la misma línea numero 3, debemos de buscar el control total de nuestra yop chagui, ya que ahí si se notó mucho el descontrol y la caída de nuestra pierna, por lo que si necesitamos trabajar mucho más en referente a la camara cuando recogemos, ejecutamos, recogemos nuevamente la pierna (rodilla al pecho) y finalmente recoger el torso, pero sin llevarlo a lo vertical en su totalidad",
-    "Tambien en esta linea, no marcamos el hakdari sogui antes de la yop chagui, es necesario marcar muy bien esa parte ya que no debemos de pasarlo de rapido, en el video se nota que apenas está tocando o marcando esta posición, por lo que es necesario marcar mucho mas ahí ya que tambien de esto se deriba el equilibrio",
-    "En este momento, la linea 4 unicamente le pediría que le ponga mas precisión, ya que a nivel técnico no noto algo mas evidente de lo visto, se ve bien, solo cuidar el pie en el ultimo ap kubi, ya que no se nota en el video pero cuidar que no se vea torcido igual que en la linea 2",
-    "En la ultima linea, la #5 se notó una baja de velocidad y potencia muy notoria, es necesario campeona no bajar la intensidad, por eso la marcación explosiva en todo momento pero con precisión para mantener el timing y ritmo de la poomsae de forma general",
-    "Por el momento, hablando de forma individual eso es lo que debe usted saber, todo esto se transfiere a todas las demás poomsaes, esto es lo más específico posible y a su vez nos ayuda a que mejoremos las otras áreas...pregunteme cualquier duda campeona"
+    "Busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; esta siempre debe estar firme y extendida en nuestra Ap Chagui para evitar deducciones de .1.",
+    "Firmeza en el torso: Los hombros no deben colapsar hacia el frente. La pierna puede ser inestable por el dolor de glúteo, pero el torso debe lucir impecable para el juez.",
+    "Direccionamiento: La rodilla debe marcar el objetivo antes de la extensión. En Ap Chagui, la rodilla al pecho es el primer paso del direccionamiento profesional.",
+    "Mecánica de mano: Prioriza las preparaciones y el timing que vimos en clase. No aceleres el trayecto, enfócate en la trayectoria y el impacto final (corte).",
+    "Puntos clave de reglamento: Posiciones y posturas son la esencia. Un Chuchum Seogui o Ap Kubi mal ejecutado resta más que una patada bajita."
   ],
   "notasFinales": [
-    "Este mes se vienen eventos en los cuales aprovecharemos para foguearnos y seguir notando los puntos de mejora que debemos tomar, en los apuntes de poomsae debe de tomar en cuenta siempre lo que le comento, haga justamente eso que le menciono ahí ya que es en donde nos falta apretar más las tuercas",
-    "Cualquier duda, por favor comentame campeona",
-    "¡Feliz entrenamiento!"
+    "Campeona, el entrenamiento será intenso pero inteligente. Cuida el dolor en el glúteo; si hay molestia punzante, baja la altura pero mantén la extensión de la base.",
+    "RECORDATORIO DE COMPETENCIA: 3 días antes del evento, el entrenamiento debe ser suave. Prioridad técnica absoluta, nada de carga física pesada.",
+    "Confía en tu capacidad; has trabajado las poomsaes avanzadas con gran excelencia, ahora solo es cuestión de ajustar las tuercas finales.",
+    "¡Feliz entrenamiento y a darle con todo, campeona!"
   ]
 }
