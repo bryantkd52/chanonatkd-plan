@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 26 de abril",
+  "updated_at": "Actualizado dom 10 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 27 de abril al sábado 9 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico activo + T4 Línea 3",
-  "enfoque": "Corrección estructural de la Ap Chagui enfocada en la fijación del talón de base y el control de la cadera, junto con el perfeccionamiento técnico de la línea 3 de Taeguk 4.",
+  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Isométrico + Koryo Líneas 1, 2 y 3",
+  "enfoque": "Desarrollo de la estabilidad estructural en Poomsae Koryo, centrando el trabajo en la extensión de la pierna de apoyo y el control del torso durante las transiciones técnicas.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -11,6 +11,12 @@
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    },
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
@@ -20,53 +26,94 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Fijación del talón y extensión de rodilla base",
-      "reps": "20 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    },
-    {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Control de cadera y equilibrio del eje",
+      "titulo": "Ap + Dollyo + Yop con regreso",
+      "enfoque": "Control de pierna de apoyo y firmeza de torso",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
-    }
-  ],
-  "poomsaeDias": "LUN - MIE - VIE",
-  "poomsae": [
-    {
-      "titulo": "Timing - Línea 3 de Taeguk 4",
-      "enfoque": "Ritmo técnico y audio de referencia",
-      "reps": "Seguir audio / 15 min",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1wj_ri9Jloap-xOSWoxi7k-mxSa3X5RqH/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
     },
     {
-      "titulo": "Transicion L2 a 3 T4 - pies",
-      "enfoque": "Técnica de dirección y transición",
+      "titulo": "Secuencia Ap + Dollyo + Yop",
+      "enfoque": "Equilibrio neuromuscular y encadenamiento",
+      "reps": "5 secuencias por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
+    },
+    {
+      "titulo": "Ap + Descendente frontal circuito",
+      "enfoque": "Direccionamiento de rodilla y extensión de base",
+      "reps": "12 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
+    },
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Fijación de talón de apoyo y extensión de base",
       "reps": "20 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-Jlts5WH0nNHnSfaUom-9EOsJltoVjD2/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Linea 1 Koryo - Precisión + Timing",
+      "enfoque": "Control de transiciones y pesos",
+      "reps": "10 min de práctica",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Linea 2 Koryo - 2.1 ap chagui + golpes",
+      "enfoque": "Extensión de pierna de apoyo en el pateo",
+      "reps": "10 reps de la línea",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv/view?usp=drive_link"
+    },
+    {
+      "titulo": "Koryo L3 - Concentración 8 seg",
+      "enfoque": "Control del torso y firmeza en la meditación",
+      "reps": "5 reps con máxima calidad",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/12W8m2JmF9ICQiA6T1q8DB2TNpoSa_wNJ/view?usp=drive_link"
+    },
+    {
+      "titulo": "Camara Yop + L3 Koryo",
+      "enfoque": "Direccionamiento de rodilla al pecho y estabilidad",
+      "reps": "10 reps por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1pawGP6dSyFvgL_Ly22ePFP7XR_cImOcq/view?usp=drive_link"
+    },
+    {
+      "titulo": "Timing - Koryo completo",
+      "enfoque": "Ritmo y audio de referencia para competencia",
+      "reps": "Seguir el audio",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1x7PbLqLXGT4QWARKK6biWmvD81JKpGDK/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Busque en su pateo frontal que la pierna de apoyo se extienda en su totalidad. Cualquier flexión mínima le restará estética y altura real.",
-    "Control de cadera: Note que su cadera se proyecta al frente al ejecutar la Ap Chagui. Debe mantenerla firme y bloqueada, evitando movimientos parásitos durante el pateo.",
-    "Atención especial en el talón de base: No permita que el talón se eleve para ganar altura. Prefiero que la patada sea más baja pero con el talón anclado al piso. Esto es lo que realmente mejorará su técnica a largo plazo.",
-    "En la línea 3 de Taeguk 4, vigile que las transiciones de los pies sean precisas y que el peso corporal se desplace correctamente entre posturas.",
-    "La firmeza del eje es el punto clave en este ciclo. Si controla el pie de apoyo, dominará la poomsae completa."
+    "Mtro, busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; esta siempre debe estar firme y extendida en nuestra Ap Chagui para evitar deducciones de presentación.",
+    "En nuestra postura siempre debemos mantener la firmeza en el torso. No lleves los hombros al frente; la pierna puede estar inestable, pero jamás nuestro torso o cabeza.",
+    "Debemos direccionar siempre con nuestra rodilla hacia donde estamos pateando. Incluso en Yop Chagui (Línea 3 de Koryo), flexionar la rodilla al pecho es parte esencial del direccionamiento.",
+    "En la línea 3 de Koryo, aprovecha la concentración de 8 segundos para estabilizar tu eje antes de la siguiente transición.",
+    "No permitas que el talón de apoyo se eleve. Mantenerlo en el piso es la clave para la potencia controlada que exige Koryo."
   ],
   "notasFinales": [
-    "Maestro, estamos trabajando en la base de la pirámide técnica. El control del talón de apoyo es un detalle que los jueces de alto nivel observan meticulosamente.",
-    "Priorice la calidad técnica sobre la altura por estas dos semanas. Una vez que el cerebro automatice la extensión y el talón abajo, la altura vendrá con mayor potencia.",
-    "Cualquier duda técnica con la transición hacia la línea 3, coménteme de inmediato.",
-    "¡Feliz entrenamiento y a darle con todo, Maestro!"
+    "Mtro, Koryo es una poomsae que demuestra la madurez del atleta. El control de tu torso en este ciclo será el diferencial para tu nivel de Dragones.",
+    "He agregado los nuevos ejercicios de encadenamiento (Ap+Dollyo+Yop) para que trabajes la memoria muscular sin sacrificar la extensión de base.",
+    "Cualquier duda con los recorridos de las líneas 2 y 3, coméntame de inmediato.",
+    "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
