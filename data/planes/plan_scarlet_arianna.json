@@ -1,85 +1,85 @@
 {
-  "updated_at": "Actualizado dom 26 de abril",
-  "nivel": "Nivel dragones",
-  "ciclo": " Lunes 27 de abril al Sábado 9 de mayo del 2026",
-  "enfoque_corto": "Timing + fortalecimiento + técnica Taeguk 7",
-  "enfoque": "Precisión de movimientos, corrección y cortes  de poomsae",
-  "isometricoDias": "MARTES - JUEVES",
+  "updated_at": "Actualizado dom 10 de mayo",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Taeguk 7 Líneas 1, 2 y 3 + Control Estructural",
+  "enfoque": "Perfeccionamiento de las primeras tres líneas de Taeguk 7, priorizando la preparación técnica de defensas y la extensión total de la pierna de apoyo en el pateo.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "chanonaflex": [
+    {
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    },
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
       "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico Activo - Dollyo Chagui - - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1y02E8_WF2d624jJWJvinIn2oNIBcbXcc/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "LUNES - MIÉRCOLES - VIERNES",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
-      {
-        "titulo": "Ap chaguis dos bloques",
-        "enfoque": "Cuadriceps + equilibrio",
-        "reps": "10 reps / 1 serie por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ejercicio 1 - Yop Chagui",
-        "enfoque": "Fortalecimiento para explosividad de Yop Chaguis",
-        "reps": "10 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ejercicio 2 - Yop Chagui",
-        "enfoque": "Fortalecimiento + control para explosividad de Yop Chaguis",
-        "reps": "10 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
-      }
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Fijación de talón y extensión de rodilla de apoyo",
+      "reps": "20 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Control de cadera y firmeza del torso",
+      "reps": "15 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+    }
   ],
-  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
+  "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Propuesta + ap chagui reps",
-      "reps": "10 reps / 1 serie",
+      "titulo": "Línea 1 Taeguk 7 - T7 L1",
+      "enfoque": "Timing y precisión en la preparación de defensas",
+      "reps": "10 reps de la línea",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1H4mcONZfDmg2fP7UA-nSSgXdPsg42lJC"
     },
     {
-      "titulo": "Fortalecimiento de Tobillo con banda",
-      "reps": "10 reps por lado/ 1 serie",
+      "titulo": "L2 Taeguk 7 - Linea 2 Taeguk 7",
+      "enfoque": "Alineación de posiciones y firmeza de torso",
+      "reps": "10 reps de la línea",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1XOR1VIxFlV9V__4-nQ2nrqqTIjCBwXA3"
     },
     {
-      "titulo": "Torcion cadera con banda",
-      "reps": "10 reps / 1 serie",
+      "titulo": "L3 Taeguk 7 - Linea 3 Taeguk 7",
+      "enfoque": "Encapsulación y transiciones de peso",
+      "reps": "10 reps de la línea",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1GRHKn-kKMmgY0mJ6japbwVK8AqiP8yAv"
     }
   ],
   "apuntes": [
-    "Esta semana no tuvimos oportunidad de conectarnos, pero continuamos trabajando con taeguk 7, seguimos con la linea #3, los puntos importantes de correccion son los siguientes:",
-    "Busca siempre que el brazo que prepara las defensas estén un poco mas abiertas, las defensas cerradas nos quitan puntos",
-    "Cuando ejecutemos pateo como las ap chaguis, es importante que nuestra pierna de apoyo se mantenga en todo momento en extension total como tambien tener la espalda recta",
-    "Cuando ejecutamos las defensas bajas con mano abierta y brazo asistente en el abdomen, busca que los brazos asistentes si ñleguen al abdomen y no mas al frente, como tambien que se mantengan en alineación con la pierna frontal y no hacia afuera",
-    "los pasos siempre deben de ir en linea, no busques hacer pasos hacia afuera"
+    "Campeona, busca específicamente no flexionar la pierna de apoyo cuando estés pateando; esta debe mantenerse firme y extendida en cada Ap Chagui.",
+    "Firmeza en el torso: no lleves los hombros al frente. Tu pierna puede mostrar inestabilidad momentánea, pero tu torso debe ser una estructura inamovible.",
+    "Direccionamiento: la rodilla debe apuntar siempre al objetivo desde la flexión inicial al pecho. No saltes este paso técnico.",
+    "En las defensas de Taeguk 7, dale prioridad a las preparaciones y a la correcta trayectoria de las manos con el timing que trabajamos en clase.",
+    "Recuerda que las posiciones y la postura general son la esencia de tu Poomsae; un paso mal alineado afecta toda la presentación técnica."
   ],
   "notasFinales": [
-    "Seguimos trabajando en base a nuestro plan de entrenamiento es lo mas importante ya que es en donde podemos mejorar de manera consistente, siga y continue las instrucciones y los ejercicios que tenemos para esta semana, el enfoque es muy bueno y es lo que necesitamos para seguir mejorando en nuestra técnica y potencia de pateo",
-    "Cualquier duda, por favor comentame campeona",
-    "¡Feliz entrenamiento!"
+    "Champ, estás entrando en un nivel de detalle donde la paciencia es tu mejor aliada. Taeguk 7 requiere un control absoluto de tus transiciones.",
+    "Enfócate en los videos de las líneas 1, 2 y 3 para limpiar cualquier movimiento extra en tus defensas.",
+    "Cualquier duda con el recorrido de la línea 3, coméntame para revisarlo en nuestra siguiente sesión.",
+    "¡Feliz entrenamiento y a darle con todo, campeona!"
   ]
 }
