@@ -1,148 +1,144 @@
 {
-  "updated_at": "Actualizado dom 10 de mayo",
-  "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
-  "enfoque_corto": "Poomsae + Preparación Pre-Competencia Nacional",
-  "enfoque": "Semana de descarga física y máximo enfoque técnico. Prioridad en la limpieza de trayectorias, timing de competencia y estabilidad de base rumbo al Nacional en Tlaxcala.",
-  "chanonaflexDias": "LUN A SAB · 1 serie (Mantenimiento suave)",
+  "updated_at": "Actualizado lun 18 de mayo",
+  "nivel": "Nivel Dragones (Freestyle Focus)",
+  "ciclo": "Lunes 18 al sábado 23 de mayo del 2026",
+  "enfoque_corto": "Flexibilidad + Yop Chagui + Ap Dollyo (Base Freestyle)",
+  "enfoque": "Fortalecimiento estructural, flexibilidad funcional y control biomecánico del pateo para consolidar las habilidades obligatorias de Freestyle.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
-    {
-      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
-    },
     {
       "titulo": "ChanonaFlex • Nivel 1",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "NO ASIGNADO ESTA SEMANA - DESCARGA PRE-COMPETENCIA",
-  "isometrico": [],
-  "pateoDias": "NO ASIGNADO ESTA SEMANA - ENFOQUE 100% TÉCNICO POOMSAE",
-  "pateoTecnico": [],
-  "poomsaeDias": "LUNES A SÁBADO - RITMO DE COMPETENCIA",
+  "isometricoDias": "LUN - MIE - VIE",
+  "isometrico": [
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Circuito Yop chagui con Bloque",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo",
+      "tags": ["BLOQUE, CONTROL, EJE"]
+    },
+    {
+      "titulo": "Circuito Isométrico Activo - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
+  ],
+  "pateoDias": "MAR - JUE - SAB",
+  "pateoTecnico": [
+    {
+      "titulo": "Ap + Dollyo + Yop con regreso",
+      "enfoque": "Control de pierna de apoyo y transiciones limpias",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
+    },
+    {
+      "titulo": "Secuencia Ap + Dollyo + Yop",
+      "enfoque": "Mecánica de encadenamiento y balance para Freestyle",
+      "reps": "5 secuencias por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
+    },
+    {
+      "titulo": "Ap + Descendente frontal circuito",
+      "enfoque": "Alineación del eje y movilidad de cadera",
+      "reps": "12 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
+    },
+    {
+      "titulo": "Circuito elevacion + sostener + circular",
+      "enfoque": "Resistencia neuromuscular en la altura máxima",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
+    },
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Fijación del talón de base e impacto seco",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    }
+  ],
+  "poomsaeDias": "LUNES A SÁBADO (HABILIDADES OBLIGATORIAS)",
   "poomsae": [
     {
-      "titulo": "Timing - Taeguk 4 completo",
-      "enfoque": "Ritmo y cortes técnicos",
-      "reps": "3 reps",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1GP9xzelmZAbrDWCGC8Dk6gdEv0EBX_3c"
-    },
-    {
-      "titulo": "Timing - Taeguk 5 completo",
-      "enfoque": "Ritmo y cortes técnicos",
-      "reps": "3 reps",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1--AwHnV5lJmIIn731C16_5-ZAohMTIiH"
-    },
-    {
-      "titulo": "Timing - Taeguk 6 completo",
-      "enfoque": "Ritmo y cortes técnicos",
-      "reps": "3 reps",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1CQ2D_gBn5p8PHkZPp_D1D1CmVPyVK8O7"
-    },
-    {
-      "titulo": "Timing - Taeguk 7 completo",
-      "enfoque": "Ritmo y cortes técnicos",
-      "reps": "3 reps",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1x6fTm5Scjblt833cYAiupEHzayFBGhzM"
-    },
-    {
-      "titulo": "Timing - Taeguk 8 completo",
-      "enfoque": "Ritmo y cortes técnicos",
-      "reps": "3 reps",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1pJBYwhdY3gxXQjiw63daDLy1zz8AI0FG"
-    },
-    {
-      "titulo": "Timing - Koryo completo",
-      "enfoque": "Ritmo y cortes técnicos",
-      "reps": "3 reps",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1x7PbLqLXGT4QWARKK6biWmvD81JKpGDK"
-    },
-    {
-      "titulo": "Timing - Keumgang completo",
-      "enfoque": "Ritmo y cortes técnicos",
-      "reps": "3 reps",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1ubqU5a0bxt3vji_MpwVE_6leLFcrk2TB"
-    },
-    {
-      "titulo": "Línea 1 Taeguk 7 - T7 L1",
-      "enfoque": "Estabilidad y eje corporal",
-      "reps": "5 reps",
+      "titulo": "Análisis de Eje en Yop Chagui Olímpica",
+      "enfoque": "Mantener torso firme y alineación de la cadera",
+      "reps": "15 min de práctica consciente",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1H4mcONZfDmg2fP7UA-nSSgXdPsg42lJC"
+      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
     },
     {
-      "titulo": "L3 Taeguk 7 - Linea 3 Taeguk 7",
-      "enfoque": "Precisión en Bom Seogui",
-      "reps": "5 reps",
+      "titulo": "Circuito aterrizaje + estabilidad funcional",
+      "enfoque": "Amortiguación y control neuromuscular en caídas",
+      "reps": "15 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1GRHKn-kKMmgY0mJ6japbwVK8AqiP8yAv"
+      "url": "https://drive.google.com/file/d/1mP-G5_nVAfH5VyUTdJfkUW1Pw-WjgWil/view?usp=drive_link"
     },
     {
-      "titulo": "L4 T8 - Linea 4 Taeguk 8 - Lento",
-      "enfoque": "Limpieza de trayectorias",
-      "reps": "5 reps",
+      "titulo": "Pucho + Ap Chagui + Giro golpe",
+      "enfoque": "Coordinación dinámica y velocidad de reacción",
+      "reps": "12 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1tzS67xEzs3v28T1-kYC1ImguBsXvlsuE"
+      "url": "https://drive.google.com/open?id=15ZssVKzl60NXNrB4oL9bWsjdO9uefnCw"
     },
     {
-      "titulo": "Giro correcto keumgang - pies",
-      "enfoque": "Equilibrio y base",
-      "reps": "10 reps",
+      "titulo": "Torcion cadera con banda",
+      "enfoque": "Direccionamiento de rodilla para patada múltiple",
+      "reps": "25 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view"
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
     },
     {
-      "titulo": "Giro correcto keumgang - brazos",
-      "enfoque": "Coordinación y timing",
-      "reps": "10 reps",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Sostén técnico y control de la pierna de abajo",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-/view"
-    },
-    {
-      "titulo": "Kawi Makki Lento - L4 T7 Linea 4 Taeguk 7",
-      "enfoque": "Control neuromuscular",
-      "reps": "8 reps",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1LMHTtDYnYbKvph1y9FNuE2bTjTpW_avc"
-    },
-    {
-      "titulo": "Ap chagui, prep y aterrizaje correcto",
-      "enfoque": "Extensión de pierna de apoyo",
-      "reps": "10 reps por pierna",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz"
-    },
-    {
-      "titulo": "Simulacion de competencia - NO VIDEO",
-      "enfoque": "Presentación y seguridad",
-      "reps": "2 vueltas completas",
-      "tipo": "ejercicio NO VIDEO",
-      "url": "#"
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; esta siempre debe estar firme y extendida en nuestra Ap Chagui. Cualquier flexión es una deducción de .1.",
-    "En nuestra postura siempre debemos mantener nuestra firmeza en el torso. No lleves los hombros al frente; aunque la pierna esté inestable, el torso debe verse imponente.",
-    "Direccionamiento: La rodilla debe apuntar siempre hacia donde pateas. Al flexionar al pecho, ya estás direccionando tu objetivo.",
-    "Prioridad en las defensas: Trabaja con el timing de clase, pero dale prioridad absoluta a la preparación y la postura final. Ahí reside la esencia del Poomsae competitivo.",
-    "Semana de descarga: El objetivo es llegar con los músculos descansados y la mente enfocada. Ejecuta con precisión técnica, no con fatiga física.",
-    "Nos vemos en Tlaxcala campeona."
+    "Zayre y Zuleyka, en el Freestyle la espectacularidad no sirve si no hay control técnico base. Vamos a compensar y fortalecer su estructura utilizando estos bloques específicos de flexibilidad, isométricos activos y pateo técnico.",
+    "El objetivo principal es perfeccionar y entender la biomecánica correcta de la patada: la pierna de abajo debe estar firme y totalmente extendida, y el talón de apoyo jamás debe levantarse.",
+    "Al dominar este control neuromuscular del eje y la cadera, tendrán la base sólida necesaria para ejecutar con máxima precisión sus habilidades obligatorias de Freestyle en el área de competencia.",
+    "Enfóquense en el direccionamiento de la rodilla desde la cámara de preparación. Si la rodilla no apunta al objetivo desde el inicio, la patada pierde línea y estabilidad aérea.",
+    "Mantengan el torso firme y alineado en todo momento, evitando proyectar los hombros hacia adelante, especialmente al encadenar Ap, Dollyo y Yop Chagui."
   ],
   "notasFinales": [
-    "Karen, este es tu plan maestro para el Nacional. Hemos eliminado la carga física para que tu cuerpo esté al 100% de explosividad el día 15.",
-    "Confía en el proceso y en el trabajo que hemos hecho. Repasa los videos de timing para que el ritmo sea natural en el tatami.",
-    "Cualquier duda de último minuto, escríbeme. ¡Vamos por ese podio en Tlaxcala!",
-    "¡Feliz entrenamiento y con todo, campeona!"
+    "Campeonas, el Freestyle de alto rendimiento se construye sobre una base técnica impecable. Una patada múltiple o una patada al cielo solo puntúan alto si el eje y el recobro son perfectos.",
+    "He estructurado este ciclo con sus nuevos videos específicos de encadenamiento dinámico (Ap + Dollyo + Yop) e isométricos con bloque para blindar sus rodillas y caderas.",
+    "Entrenen con estructura y máxima conciencia en cada repetición. Si tienen dudas con la aplicación de estos ejercicios a sus rutinas, avísenme de inmediato.",
+    "¡A romperla en este ciclo, con toda la fuerza del ChanonaTKD System!"
   ]
 }
