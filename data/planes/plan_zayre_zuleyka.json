@@ -1,144 +1,112 @@
 {
-  "updated_at": "Actualizado lun 18 de mayo",
-  "nivel": "Nivel Dragones (Freestyle Focus)",
-  "ciclo": "Lunes 18 al sábado 23 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Yop Chagui + Ap Dollyo (Base Freestyle)",
-  "enfoque": "Fortalecimiento estructural, flexibilidad funcional y control biomecánico del pateo para consolidar las habilidades obligatorias de Freestyle.",
-  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "updated_at": "Actualizado lun 25 de mayo de 2026",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 25 de mayo al sábado 6 de junio de 2026",
+  "enfoque_corto": "Flexibilidad avanzada + técnica aérea Freestyle + rutina musical",
+  "enfoque": "En este ciclo trabajaremos juntas los movimientos técnicos de Freestyle que comenzarán a formar su rutina: Twio Yop Chagui, múltiples saltando y 360 kick. El objetivo no será hacer muchos movimientos sin control, sino aprenderlos paso a paso con cadera, alineación corporal, despegues potentes y aterrizajes seguros para después unirlos con la música que me enviaron.",
+  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Nivel 1",
+      "titulo": "Chanonaflex - Avanzado",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
-    },
-    {
-      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=sharing"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / CADERA Y CONTROL OBLIGATORIO",
   "isometrico": [
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=sharing",
+      "tags": ["CADERA, FUERZA, CONTROL, YOP CHAGUI"]
     },
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
+      "titulo": "Isométrico activo - Dollyo Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Circuito Yop chagui con Bloque",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo",
-      "tags": ["BLOQUE, CONTROL, EJE"]
-    },
-    {
-      "titulo": "Circuito Isométrico Activo - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Glúteo y gancho - Isométrico activo",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=sharing",
+      "tags": ["CADERA, ROTACIÓN, FUERZA, FREESTYLE"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / BASE DE POTENCIA Y ALINEACIÓN",
   "pateoTecnico": [
     {
-      "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Control de pierna de apoyo y transiciones limpias",
-      "reps": "10 reps por pierna / 2 series",
+      "titulo": "Ap Chagui Extension completa",
+      "enfoque": "Alineación de espalda, extensión de pierna de apoyo y control de cámara para preparar el pateo aéreo",
+      "reps": "15 repeticiones por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
     },
     {
-      "titulo": "Secuencia Ap + Dollyo + Yop",
-      "enfoque": "Mecánica de encadenamiento y balance para Freestyle",
-      "reps": "5 secuencias por pierna / 2 series",
+      "titulo": "Sentadilla Ap Chagui",
+      "enfoque": "Fortalecimiento de cuádriceps y potencia necesaria para despegues altos",
+      "reps": "10 repeticiones / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
-    },
-    {
-      "titulo": "Ap + Descendente frontal circuito",
-      "enfoque": "Alineación del eje y movilidad de cadera",
-      "reps": "12 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
-    },
-    {
-      "titulo": "Circuito elevacion + sostener + circular",
-      "enfoque": "Resistencia neuromuscular en la altura máxima",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
-    },
-    {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Fijación del talón de base e impacto seco",
-      "reps": "20 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO (HABILIDADES OBLIGATORIAS)",
+  "poomsaeDias": "LUNES A SÁBADO / HABILIDADES FREESTYLE PARA LA RUTINA",
   "poomsae": [
     {
-      "titulo": "Análisis de Eje en Yop Chagui Olímpica",
-      "enfoque": "Mantener torso firme y alineación de la cadera",
-      "reps": "15 min de práctica consciente",
+      "titulo": "Twio Yop Chagui en piso  - Paso 1 - Mecanización",
+      "enfoque": "Mecanizar la cámara, meter la cadera correctamente y entender el eje de Yop Chagui antes del salto",
+      "reps": "20 repeticiones / 2 series del lado que salga mejor / LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1QAGt9CLUUrfMq_lsEROh_K5Kt6FMpfNy/view?usp=sharing"
     },
     {
-      "titulo": "Circuito aterrizaje + estabilidad funcional",
-      "enfoque": "Amortiguación y control neuromuscular en caídas",
-      "reps": "15 reps / 2 series",
+      "titulo": "Twio YopChagui piso - Coordinacion piernas - paso 2",
+      "enfoque": "Coordinación de piernas y preparación del pateo aéreo desde el piso, cuidando cadera y espalda",
+      "reps": "20 repeticiones / 1 serie del lado que salga mejor / LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mP-G5_nVAfH5VyUTdJfkUW1Pw-WjgWil/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1EIebP9oP7hqsh4iz7mcraIdVTG9IZjmF/view?usp=sharing"
     },
     {
-      "titulo": "Pucho + Ap Chagui + Giro golpe",
-      "enfoque": "Coordinación dinámica y velocidad de reacción",
-      "reps": "12 reps por lado / 2 series",
+      "titulo": "TwioYopChagui - Paso 3 - Pasos y ejecucion",
+      "enfoque": "Unir transición, despegue y ejecución de la Yop Chagui saltando con cadera correctamente colocada",
+      "reps": "20 repeticiones / 2 series del lado que salga mejor / MIÉRCOLES - VIERNES - SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=15ZssVKzl60NXNrB4oL9bWsjdO9uefnCw"
+      "url": "https://drive.google.com/file/d/1nTAm1mTFythQBkGavBRGIan3a6XWeIDT/view?usp=sharing"
     },
     {
-      "titulo": "Torcion cadera con banda",
-      "enfoque": "Direccionamiento de rodilla para patada múltiple",
-      "reps": "25 reps por pierna / 2 series",
+      "titulo": "Multiples Saltando - Paso 1",
+      "enfoque": "Aprender la coordinación aérea únicamente con rodillas, manteniendo postura, eje y aterrizaje seguro",
+      "reps": "20 repeticiones / 2 series del lado que salga mejor / MARTES - JUEVES - SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1ylQufnwuIOF8A_BrU-ALfPk_FVR0e8P4/view?usp=sharing"
     },
     {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Sostén técnico y control de la pierna de abajo",
-      "reps": "10 reps / 2 series",
+      "titulo": "Multiples  Saltando - Paso 2",
+      "enfoque": "Iniciar la patada en el aire entendiendo la transición entre ambas piernas sin perder alineación",
+      "reps": "10 repeticiones / 2 series del lado que salga mejor / MARTES - JUEVES - SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1qpUoR6jXxm9S0sPQ8MKtn63wtHw5H3eM/view?usp=sharing"
+    },
+    {
+      "titulo": "Multiples Saltando - Paso 3 pateo progresivo",
+      "enfoque": "Aumentar el pateo aéreo progresivamente manteniendo estructura, limpieza y amortiguación al aterrizar",
+      "reps": "10 repeticiones / 2 series del lado que salga mejor / JUEVES - SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1vd7nF5b-YMANRhfHujzQ0vJNdIqz0eqv/view?usp=sharing"
+    },
+    {
+      "titulo": "360 kick -  paso a paso progresivo 0 a 100",
+      "enfoque": "Construir el 360 kick desde una altura baja, cuidando giro, despegue, ubicación en el aire y aterrizaje con flexión de rodillas",
+      "reps": "10 repeticiones / 2 series del lado que salga mejor / MIÉRCOLES - SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1fo_p9ioEGNlPRY6ghrPzz5cXmZJnjZAu/view?usp=sharing"
     }
   ],
   "apuntes": [
-    "Zayre y Zuleyka, en el Freestyle la espectacularidad no sirve si no hay control técnico base. Vamos a compensar y fortalecer su estructura utilizando estos bloques específicos de flexibilidad, isométricos activos y pateo técnico.",
-    "El objetivo principal es perfeccionar y entender la biomecánica correcta de la patada: la pierna de abajo debe estar firme y totalmente extendida, y el talón de apoyo jamás debe levantarse.",
-    "Al dominar este control neuromuscular del eje y la cadera, tendrán la base sólida necesaria para ejecutar con máxima precisión sus habilidades obligatorias de Freestyle en el área de competencia.",
-    "Enfóquense en el direccionamiento de la rodilla desde la cámara de preparación. Si la rodilla no apunta al objetivo desde el inicio, la patada pierde línea y estabilidad aérea.",
-    "Mantengan el torso firme y alineado en todo momento, evitando proyectar los hombros hacia adelante, especialmente al encadenar Ap, Dollyo y Yop Chagui."
+    "Busquen chicas mantener siempre las alineaciones y estructuras del cuerpo, sobre todo la postura de la espalda, para conservar el eje corporal en el aire y ejecutar movimientos limpios evitando lesiones en los aterrizajes.",
+    "En las Yop Chaguis, el punto principal de este ciclo será meter bien la cadera: la patada no debe salir solamente de la pierna, sino de una cámara bien dirigida y una cadera que acompañe la ejecución sin perder la línea del cuerpo.",
+    "En los despegues procuren subir altas y potentes. En los aterrizajes deben recibir siempre con flexión de rodillas, porque esa flexión es el amortiguador más importante de toda atleta de Freestyle.",
+    "No busquen hacer el movimiento completo con prisa. Primero mecanicen cada paso, después unan la transición y finalmente busquen que se vea fluido con la música."
   ],
   "notasFinales": [
-    "Campeonas, el Freestyle de alto rendimiento se construye sobre una base técnica impecable. Una patada múltiple o una patada al cielo solo puntúan alto si el eje y el recobro son perfectos.",
-    "He estructurado este ciclo con sus nuevos videos específicos de encadenamiento dinámico (Ap + Dollyo + Yop) e isométricos con bloque para blindar sus rodillas y caderas.",
-    "Entrenen con estructura y máxima conciencia en cada repetición. Si tienen dudas con la aplicación de estos ejercicios a sus rutinas, avísenme de inmediato.",
-    "¡A romperla en este ciclo, con toda la fuerza del ChanonaTKD System!"
+    "Con estos movimientos que hemos venido trabajando, vamos a crear nuestra rutina con la música que me enviaron. Les pido que no se estresen, pero sí procuren confiar en su instinto y en lo que tengan; aunque sean solamente tres movimientos, con eso comenzaremos y esa será una tarea importante.",
+    "El objetivo de estas dos semanas no es saturarlas de elementos, sino darles herramientas reales para construir una rutina fuerte, limpia y segura. Cada ejercicio nuevo tiene una función directa en lo que presentarán.",
+    "Cualquier duda o sensación extraña durante los aterrizajes, por favor coméntenme de inmediato chicas.",
+    "¡Feliz entrenamiento y a darle con todo, campeonas!"
   ]
 }
