@@ -1,19 +1,19 @@
 {
-  "updated_at": "Actualizado dom 10 de mayo",
+  "updated_at": "Actualizado dom 24 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
-  "enfoque_corto": "Taeguk 7 Líneas 1, 2 y 3 + Control Estructural",
-  "enfoque": "Perfeccionamiento de las primeras tres líneas de Taeguk 7, priorizando la preparación técnica de defensas y la extensión total de la pierna de apoyo en el pateo.",
+  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
+  "enfoque_corto": "Flexibilidad avanzada + Control de Ap y Yop Chagui + Taeguk 7",
+  "enfoque": "Construcción de la precisión técnica y detención consciente en Taeguk 7, combinada con el fortalecimiento del eje y rango avanzado en pateo frontal y de lado.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Nivel 1",
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
     },
     {
-      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "titulo": "Pre-Chanonaflex - Todos Niveles",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
@@ -22,64 +22,97 @@
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Circuito Yop chagui con Bloque",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
+      "titulo": "Ap + Dollyo + Yop con regreso",
+      "enfoque": "Control de la pierna base y recuperación del eje",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
+    },
+    {
+      "titulo": "Secuencia Ap + Dollyo + Yop",
+      "enfoque": "Mecánica de alineación y encadenamiento continuo",
+      "reps": "5 secuencias por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
+    },
+    {
+      "titulo": "Ap + Descendente frontal circuito",
+      "enfoque": "Direccionamiento y control neuromuscular del descenso",
+      "reps": "12 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
+    },
+    {
+      "titulo": "Circuito elevacion + sostener + circular",
+      "enfoque": "Estabilidad del torso y fuerza de sostén en cadera",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
+    },
+    {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Fijación de talón y extensión de rodilla de apoyo",
+      "enfoque": "Fijación absoluta del talón de apoyo en el piso",
       "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Control de cadera y firmeza del torso",
-      "reps": "15 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Línea 1 Taeguk 7 - T7 L1",
-      "enfoque": "Timing y precisión en la preparación de defensas",
-      "reps": "10 reps de la línea",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1H4mcONZfDmg2fP7UA-nSSgXdPsg42lJC"
-    },
-    {
       "titulo": "L2 Taeguk 7 - Linea 2 Taeguk 7",
-      "enfoque": "Alineación de posiciones y firmeza de torso",
-      "reps": "10 reps de la línea",
+      "enfoque": "Corte exacto en transiciones y control de postura",
+      "reps": "10 ejecuciones conscientes",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1XOR1VIxFlV9V__4-nQ2nrqqTIjCBwXA3"
     },
     {
       "titulo": "L3 Taeguk 7 - Linea 3 Taeguk 7",
-      "enfoque": "Encapsulación y transiciones de peso",
-      "reps": "10 reps de la línea",
+      "enfoque": "Precisión posicional y detención sin reajustes",
+      "reps": "10 ejecuciones conscientes",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1GRHKn-kKMmgY0mJ6japbwVK8AqiP8yAv"
+    },
+    {
+      "titulo": "Kawi Makki Lento - L4 T7 Linea 4 Taeguk 7",
+      "enfoque": "Sincronización técnica y fluidez progresiva",
+      "reps": "8 ejecuciones controladas",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1LMHTtDYnYbKvph1y9FNuE2bTjTpW_avc"
     }
   ],
   "apuntes": [
-    "Campeona, busca específicamente no flexionar la pierna de apoyo cuando estés pateando; esta debe mantenerse firme y extendida en cada Ap Chagui.",
-    "Firmeza en el torso: no lleves los hombros al frente. Tu pierna puede mostrar inestabilidad momentánea, pero tu torso debe ser una estructura inamovible.",
-    "Direccionamiento: la rodilla debe apuntar siempre al objetivo desde la flexión inicial al pecho. No saltes este paso técnico.",
-    "En las defensas de Taeguk 7, dale prioridad a las preparaciones y a la correcta trayectoria de las manos con el timing que trabajamos en clase.",
-    "Recuerda que las posiciones y la postura general son la esencia de tu Poomsae; un paso mal alineado afecta toda la presentación técnica."
+    "Buscaremos practicar diario nuestros ejercicios específicos de poomsae, campeona. ¿A qué me refiero? A que cada movimiento debe ser bien ejecutado y acorde a lo que hemos trabajado en clase. No se salga de esa estructura porque cuando usted lo mejora, lo hace estupendamente, así que continúe con esa atención y mentalidad ganadora.",
+    "No trate de hacerlo rápido, busque hacerlo bien y preciso. No agregue movimientos o haga ajustes si no está segura de la trayectoria.",
+    "Es preferible que entrenando se quede un momento quieta para después continuar con el verdadero movimiento, que acostumbrarnos a uno incorrecto y después tener que cambiarlo. Esto, por supuesto, debe ser hecho durante el entrenamiento.",
+    "Ya que tengamos la poomsae más marcada y bien memorizada correctamente es entonces cuando empezaremos a hacerlo con más fluidez.",
+    "En las líneas de Taeguk 7, cuide que los bloqueos y golpes detengan su inercia de inmediato. Congelar el movimiento en la posición exacta es lo que convence al jueceo."
   ],
-  "notasFinales": [
-    "Champ, estás entrando en un nivel de detalle donde la paciencia es tu mejor aliada. Taeguk 7 requiere un control absoluto de tus transiciones.",
-    "Enfócate en los videos de las líneas 1, 2 y 3 para limpiar cualquier movimiento extra en tus defensas.",
-    "Cualquier duda con el recorrido de la línea 3, coméntame para revisarlo en nuestra siguiente sesión.",
-    "¡Feliz entrenamiento y a darle con todo, campeona!"
+  "notesFinales": [
+    "Campeona, tu capacidad técnica es excelente cuando te concentras en la estructura exacta de cada paso. No lleves prisa en las series de Taeguk 7.",
+    "Usa la estrategia de congelar el movimiento si dudas de la posición; el cerebro aprende más de la pausa correcta que de la velocidad con errores.",
+    "Revisa con mucha atención los videos de las líneas de Taeguk 7 antes de iniciar tu práctica diaria.",
+    "¡Confía en tu proceso y sigue entrenando con esa mentalidad de campeona!"
   ]
 }
