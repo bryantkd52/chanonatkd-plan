@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 10 de mayo",
+  "updated_at": "Actualizado dom 24 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico + Control Estructural de Pateo",
-  "enfoque": "Desarrollo de la firmeza del torso y la extensión total de la pierna de apoyo en las tres patadas fundamentales (Ap, Dollyo y Yop Chagui).",
+  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
+  "enfoque_corto": "Flexibilidad + Ap Chagui + Keumgang Hakdari Seogui y L1",
+  "enfoque": "Trabajo técnico progresivo de baja carga y alta precisión, enfocado en el control del eje, la propiocepción abdominal y la estabilidad del equilibrio en un solo pie para Keumgang.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -28,110 +28,85 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico Activo - Dollyo Chagui - - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1y02E8_WF2d624jJWJvinIn2oNIBcbXcc/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
       "titulo": "Circuito Isométrico Activo - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Glúteo y gancho - Isométrico activo",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
-      "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Control de pierna de apoyo y firmeza de torso",
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Control de talón de apoyo y extensión de rodilla base",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
-    },
-    {
-      "titulo": "Ap + Descendente frontal circuito",
-      "enfoque": "Direccionamiento de rodilla y extensión de base",
-      "reps": "12 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
-    },
-    {
-      "titulo": "Secuencia Ap + Dollyo + Yop",
-      "enfoque": "Equilibrio neuromuscular y encadenamiento",
-      "reps": "5 secuencias por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
-    },
-    {
-      "titulo": "Circuito elevacion + sostener + circular",
-      "enfoque": "Fortalecimiento de cuádriceps y sostén",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
-    },
-    {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Fijación de talón de apoyo",
-      "reps": "20 reps / 2 series",
-      "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    }
-  ],
-  "poomsaeDias": "LUNES A SÁBADO (ENFOQUE TÉCNICO DE PATEO)",
-  "poomsae": [
-    {
-      "titulo": "Ap chagui, prep y aterrizaje correcto",
-      "enfoque": "Firmeza del torso y alineación de hombros",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
-    },
-    {
-      "titulo": "Torcion cadera con banda",
-      "enfoque": "Direccionamiento de rodilla y potencia de cadera",
-      "reps": "30 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
-      "enfoque": "Estabilidad del talón de apoyo",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     },
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
       "enfoque": "Control técnico y equilibrio absoluto",
-      "reps": "10 reps / 2 series",
+      "reps": "8 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap + Descendente frontal circuito",
+      "enfoque": "Direccionamiento y control suave de caída",
+      "reps": "8 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
+    },
+    {
+      "titulo": "Ap + Dollyo + Yop con regreso",
+      "enfoque": "Control neuromuscular y estabilidad pausada",
+      "reps": "6 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
+    },
+    {
+      "titulo": "Secuencia Ap + Dollyo + Yop",
+      "enfoque": "Alineación postural del torso sin aceleración",
+      "reps": "4 secuencias por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
+    }
+  ],
+  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsae": [
+    {
+      "titulo": "Hakdari Seogui equilibrio base - Keumgang",
+      "enfoque": "Presión de rodilla interna y contracción de abdomen",
+      "reps": "5 sostenedores de 15 seg por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1V6_zfIyng5pZ23wStNHzs1jJ_6O5Rg6Q/view?usp=drive_link"
+    },
+    {
+      "titulo": "Keumgang Hakdari Seogui transicion",
+      "enfoque": "Mecánica del pie de apoyo y control de eje",
+      "reps": "8 reps lentas conscientes",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
+    },
+    {
+      "titulo": "Linea 1 Keumgang - Control y balance",
+      "enfoque": "Alineación de la primera línea y posiciones firmes",
+      "reps": "6 reps completas de la línea",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1tzLShWE2ftfxZSAvvzyn7oGTstvXrM13/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Busque específicamente no flexionar la pierna de apoyo cuando estamos pateando. Esta siempre debe estar firme y extendida, esto aplica estrictamente para Ap Chagui, Dollyo Chagui y Yop Chagui.",
-    "En nuestra postura siempre debemos mantener la firmeza en el torso. No lleve los hombros al frente; la pierna puede estar inestable, pero jamás nuestro torso.",
-    "Debemos direccionar siempre con nuestra rodilla hacia donde estamos pateando. Incluso en Yop Chagui, la flexión de rodilla al pecho es el inicio del direccionamiento correcto.",
-    "Punto primordial: El talón de apoyo no debe elevarse. Mantenerlo en el piso es la clave para la potencia y el equilibrio profesional.",
-    "Utilice los nuevos circuitos de encadenamiento (Ap + Dollyo + Yop) para mecanizar la transición sin perder la extensión de la base."
+    "Alma, en este ciclo vamos a trabajar de manera muy suave y con un volumen bajo de repeticiones para priorizar la máxima calidad técnica.",
+    "Al realizar el Hakdari Seogui en Keumgang, busca en todo momento apretar fuertemente la posición. Mete las rodillas cuando estés en un solo pie.",
+    "Mantén el abdomen apretado en todo momento de la estabilidad. Esto sirve para engañar al cerebro y generar la sensación neuromuscular de estar completamente 'agarrada' al piso.",
+    "Para el pateo de Ap Chagui, mantén la pierna de apoyo completamente extendida y el torso firme, evitando que los hombros se vayan hacia el frente.",
+    "Tómate el tiempo necesario en cada ejercicio. No busques velocidad ni fatiga, concéntrate en la propiocepción y el equilibrio."
   ],
   "notasFinales": [
-    "Este ciclo es para construir cimientos de acero. Olvide la altura por un momento y concéntrese en la rectitud de su torso y su pierna de base.",
-    "He agregado ejercicios nuevos de encadenamiento y direccionamiento que son fundamentales para su progreso en el nivel Dragones. Estúdielos a detalle.",
-    "Cualquier duda con los nuevos links o la mecánica de los circuitos, coméntame de inmediato.",
-    "¡Feliz entrenamiento y a darle con todo!"
+    "Alma Patricia, este plan está estructurado para avanzar a un ritmo tranquilo pero sumamente firme. La clave de Keumgang es la paciencia y la estabilidad interna.",
+    "Usa los videos de apoyo para replicar exactamente la postura del torso y la contracción del centro.",
+    "Cualquier duda o si sientes fatiga en la articulación de apoyo, avísame de inmediato para ajustar las cargas.",
+    "¡Feliz entrenamiento, campeona! Vamos paso a paso con mucha seguridad."
   ]
 }
