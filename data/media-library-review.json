@@ -1,7 +1,7 @@
 {
   "review_name": "ChanonaTKD Media Library - Decisiones de revisión",
   "review_date": "2026-05-25",
-  "review_status": "review_complete_pending_library_consolidation",
+  "review_status": "active_with_approved_additions_files",
   "applies_to": "data/media-library.json",
   "reviewed_by": "Bryan Herrera",
   "decisions": [
@@ -126,6 +126,9 @@
       "url": "https://www.youtube.com/watch?v=rKwsVIjzBvk",
       "approval_status": "approved_by_bryan"
     }
+  ],
+  "approved_additions_files": [
+    "data/media-library-additions-2026-05-25.json"
   ],
   "next_consolidation_rule": "Construir una biblioteca canónica aprobada que incluya los recursos aprobados y excluya de selección automática las URLs históricas bloqueadas."
 }

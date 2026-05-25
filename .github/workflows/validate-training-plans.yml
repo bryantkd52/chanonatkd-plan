@@ -4,13 +4,14 @@ on:
   push:
     branches:
       - sistema-seguro-codex-2026
+      - recursos-nuevos-2026-05-25
     paths:
       - 'data/planes/**/*.json'
       - 'data/alumnos.json'
-      - 'data/media-library.json'
-      - 'data/media-library-review.json'
+      - 'data/media-library*.json'
       - 'schemas/training-plan.schema.json'
       - 'scripts/validate-plan.js'
+      - 'scripts/validate-media-library.js'
       - 'scripts/validate-students.js'
       - 'scripts/update-renewal.js'
       - '.github/workflows/validate-training-plans.yml'
@@ -20,10 +21,10 @@ on:
     paths:
       - 'data/planes/**/*.json'
       - 'data/alumnos.json'
-      - 'data/media-library.json'
-      - 'data/media-library-review.json'
+      - 'data/media-library*.json'
       - 'schemas/training-plan.schema.json'
       - 'scripts/validate-plan.js'
+      - 'scripts/validate-media-library.js'
       - 'scripts/validate-students.js'
       - 'scripts/update-renewal.js'
       - '.github/workflows/validate-training-plans.yml'
@@ -34,7 +35,7 @@ permissions:
 
 jobs:
   validar-cambios:
-    name: Validar planes y renovaciones modificadas
+    name: Validar planes, biblioteca y renovaciones
     runs-on: ubuntu-latest
 
     steps:
@@ -54,21 +55,25 @@ jobs:
         run: |
           set -euo pipefail
           node --check scripts/validate-plan.js
+          node --check scripts/validate-media-library.js
           node --check scripts/validate-students.js
           node --check scripts/update-renewal.js
           node - <<'NODE'
           const fs = require('fs');
+          const review = JSON.parse(fs.readFileSync('data/media-library-review.json', 'utf8'));
           const files = [
             'data/alumnos.json',
             'data/media-library.json',
             'data/media-library-review.json',
-            'schemas/training-plan.schema.json'
+            'schemas/training-plan.schema.json',
+            ...(review.approved_additions_files || [])
           ];
           for (const file of files) {
             JSON.parse(fs.readFileSync(file, 'utf8'));
             console.log(`JSON válido: ${file}`);
           }
           NODE
+          node scripts/validate-media-library.js
           node scripts/validate-students.js
 
       - name: Definir rango de cambios
@@ -157,4 +162,4 @@ jobs:
 
       - name: Confirmar revisión sin planes ni renovaciones
         if: steps.changed_plans.outputs.has_plans == 'false' && steps.changed_students.outputs.has_students == 'false'
-        run: echo "Los archivos de seguridad son válidos; esta actualización no modifica planes ni renovaciones reales."
+        run: echo "La biblioteca y los archivos de seguridad son válidos; esta actualización no modifica planes ni renovaciones reales."
