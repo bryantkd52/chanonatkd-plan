@@ -1,7 +1,7 @@
 {
   "review_name": "ChanonaTKD Media Library - Decisiones de revisión",
   "review_date": "2026-05-25",
-  "review_status": "review_complete_pending_library_consolidation",
+  "review_status": "active_approved_resources_with_new_additions",
   "applies_to": "data/media-library.json",
   "reviewed_by": "Bryan Herrera",
   "decisions": [
@@ -124,6 +124,184 @@
       "media_type": "audio",
       "default_section": "poomsae",
       "url": "https://www.youtube.com/watch?v=rKwsVIjzBvk",
+      "approval_status": "approved_by_bryan"
+    }
+  ],
+  "approved_new_resources": [
+    {
+      "title": "L3 T8- Linea 3 de Taeguk 8 - Lento",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Sonnal Montong Bakkat Makki / Twit kubi / Transicion / Ap Chagui",
+      "technical_objective": "Correccion tecnica lenta",
+      "recommended_usage": "20 repeticiones",
+      "url": "https://drive.google.com/file/d/1D0g3Jmt0weJ90WGhV8LpACklDeghuC-d/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "L4 T8 - Linea 4 Taeguk 8 - Lento",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Sonnal Montong Bakkat Makki / Bom Seogui / Transicion / Ap Chagui / Ap Kubi",
+      "technical_objective": "Correccion tecnica lenta",
+      "recommended_usage": "20 repeticiones",
+      "url": "https://drive.google.com/file/d/1tzS67xEzs3v28T1-kYC1ImguBsXvlsuE/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "L5 T8 - Linea 5 Taeguk 8 - Lento",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Geodureo Arae Makki (defensa baja apoyada) / Twit kubi / Transicion / doble Ap Chagui marcado / Ap kubi",
+      "technical_objective": "Correccion tecnica lenta",
+      "recommended_usage": "20 repeticiones",
+      "url": "https://drive.google.com/file/d/1nsXWqxj_9Ia6R_ZYI6X-PGZl2ZyhdEmE/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "L6 T8 - Linea 6 Taeguk 8",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Sonnal Makki / Twit kubi / Transicion a Ap Kubi / codazo, golpe de revés y golpe normal",
+      "technical_objective": "Correccion tecnica lenta",
+      "recommended_usage": "20 repeticiones",
+      "url": "https://drive.google.com/file/d/1kQLONEpCVDcXNfAANHqOMcGZSAOmWXU6/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "L2 Taeguk 7 - Linea 2 Taeguk 7",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Geodureo Batangson Arae Makki (defensa bajo con la palma de la mano apoyada) / Twit kubi / Transicion de twit kubi a twit kubi",
+      "technical_objective": "Correccion tecnica lenta",
+      "recommended_usage": "10 repeticiones",
+      "url": "https://drive.google.com/file/d/1XOR1VIxFlV9V__4-nQ2nrqqTIjCBwXA3/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "L3 Taeguk 7 - Linea 3 Taeguk 7",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Batangson Geodureo Momtong An Makki / Deung Jumeok Ap Chigi / Transicion / Bom Seogui",
+      "technical_objective": "Correccion tecnica lenta",
+      "recommended_usage": "20 repeticiones",
+      "url": "https://drive.google.com/file/d/1GRHKn-kKMmgY0mJ6japbwVK8AqiP8yAv/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Kawi Makki Lento - L4 T7 Linea 4 Taeguk 7",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Kawi Makki / Ap Kubi",
+      "technical_objective": "Correccion tecnica lenta",
+      "recommended_usage": "20 repeticiones con enfoque por lado",
+      "url": "https://drive.google.com/file/d/1LMHTtDYnYbKvph1y9FNuE2bTjTpW_avc/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Ap Chagui Extension completa",
+      "media_type": "video",
+      "default_section": "pateoTecnico",
+      "recommended_level": "todos",
+      "related_technique": "Ap Chagui / Ap Seogui",
+      "technical_objective": "Correccion tecnica lenta / Alineacion de la espalda y pierna de apoyo",
+      "recommended_usage": "15 repeticiones por pierna",
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Sentadilla Ap Chagui",
+      "media_type": "video",
+      "default_section": "pateoTecnico",
+      "recommended_level": "todos",
+      "related_technique": "Sentadilla Squad + Ap Chagui consecutiva",
+      "technical_objective": "Fortalecimiento de Cuádriceps y pateo tecnico",
+      "recommended_usage": "10 repeticiones",
+      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Twio Yop Chagui en piso - Paso 1 - Mecanización",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Yop Chagui para Freestyle",
+      "technical_objective": "Correccion tecnica lenta",
+      "recommended_usage": "20 repeticiones / 2 series del lado que le salga mejor",
+      "url": "https://drive.google.com/file/d/1QAGt9CLUUrfMq_lsEROh_K5Kt6FMpfNy/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Twio YopChagui piso - Coordinacion piernas - paso 2",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Yop Chagui para Freestyle",
+      "technical_objective": "Lubricacion y preparacion para la ejecucion de este pateo aereo pero desde el piso",
+      "recommended_usage": "20 repeticiones / 1 serie del lado que le salga mejor",
+      "url": "https://drive.google.com/file/d/1EIebP9oP7hqsh4iz7mcraIdVTG9IZjmF/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "TwioYopChagui - Paso 3 - Pasos y ejecucion",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Yop Chagui para Freestyle",
+      "technical_objective": "Correcta ejecucion y tansicion del despegue hacia el salto y pateo",
+      "recommended_usage": "20 repeticiones / 2 series del lado que le salga mejor",
+      "url": "https://drive.google.com/file/d/1nTAm1mTFythQBkGavBRGIan3a6XWeIDT/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Multiples Saltando - Paso 1",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Patadas multiples para Freestyle",
+      "technical_objective": "Entendimiento unicamente con rodillas pero saltando",
+      "recommended_usage": "20 repeticiones / 2 series del lado que le salga mejor",
+      "url": "https://drive.google.com/file/d/1ylQufnwuIOF8A_BrU-ALfPk_FVR0e8P4/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Multiples Saltando - Paso 2",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Patadas multiples para Freestyle",
+      "technical_objective": "Comenzamos a hacer una patada en el aire entendiendo la transicion de cada pierna",
+      "recommended_usage": "10 repeticiones / 2 series del lado que le salga mejor",
+      "url": "https://drive.google.com/file/d/1qpUoR6jXxm9S0sPQ8MKtn63wtHw5H3eM/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Multiples Saltando - Paso 3 pateo progresivo",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Patadas multiples para Freestyle",
+      "technical_objective": "Comenzamos a patear más",
+      "recommended_usage": "10 repeticiones / 2 series del lado que le salga mejor",
+      "url": "https://drive.google.com/file/d/1vd7nF5b-YMANRhfHujzQ0vJNdIqz0eqv/view?usp=sharing",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "360 kick - paso a paso progresivo 0 a 100",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "recommended_level": "todos",
+      "related_technique": "Patada 360 para Freestyle",
+      "technical_objective": "Corrección técnica lenta y progresiva desde el primer paso hacia la mecanización completa a una altura baja",
+      "recommended_usage": "10 repeticiones / 2 series del lado que le salga mejor",
+      "url": "https://drive.google.com/file/d/1fo_p9ioEGNlPRY6ghrPzz5cXmZJnjZAu/view?usp=sharing",
       "approval_status": "approved_by_bryan"
     }
   ],
