@@ -1,0 +1,78 @@
+{
+  "review_name": "ChanonaTKD Media Library - Decisiones de revisión",
+  "review_date": "2026-05-25",
+  "review_status": "partial_review_pending_final_approval",
+  "applies_to": "data/media-library.json",
+  "reviewed_by": "Bryan Herrera",
+  "decisions": [
+    {
+      "conflict_id": "pyonwong-completo-audio-video",
+      "status": "resolved",
+      "decision": "Conservar ambos recursos porque no son duplicados: la opción A es audio de Pyonwong completo y la opción B es video de Pyonwong completo.",
+      "canonical_resources": [
+        {
+          "title": "Timing - Pyonwong completo",
+          "media_type": "audio",
+          "default_section": "poomsae",
+          "url": "https://drive.google.com/open?id=1dxU_-ztAr7vYc8v6HHZBEhv1PMmhphT7&usp=drive_copy",
+          "approval_status": "approved_by_bryan"
+        },
+        {
+          "title": "Pyonwong completo - OMITIR MANOS ABIERTAS YA QUE HUBO ACTUALIZACIÓN",
+          "media_type": "video",
+          "default_section": "poomsae",
+          "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link",
+          "approval_status": "approved_by_bryan"
+        }
+      ]
+    },
+    {
+      "conflict_id": "circuito-aterrizaje-prep-t5-l2-duplicate",
+      "status": "resolved",
+      "decision": "Es el mismo video. Conservar una sola entrada canónica en la categoría de poomsae, por relación directa con Taeguk 5 Línea 2; retirar el duplicado de pateo básicas/intermedias cuando se consolide la biblioteca aprobada.",
+      "canonical_resource": {
+        "title": "Circuito aterrizaje + prep - T5 L2",
+        "media_type": "video",
+        "default_section": "poomsae",
+        "url": "https://drive.google.com/open?id=1PVxwOGM_EDJm0SIrRumga-CUDv466-rj&usp=drive_copy",
+        "approval_status": "approved_by_bryan"
+      },
+      "duplicate_to_retire": {
+        "url": "https://drive.google.com/open?id=1mP-G5_nVAfH5VyUTdJfkUW1Pw-WjgWil&usp=drive_copy"
+      }
+    },
+    {
+      "conflict_id": "transicion-ap-kubi-a-ap-kubi-two-links",
+      "status": "needs_distinctive_names_before_automatic_use",
+      "decision": "Conservar ambos enlaces. Bryan confirmó los dos títulos, pero por el momento solo se distinguen por el uso de mayúsculas/minúsculas; esa diferencia no es suficiente para selección automática segura.",
+      "resources_pending_distinctive_title": [
+        {
+          "current_title": "Transicion ap kubi a ap kubi",
+          "url": "https://drive.google.com/open?id=1GFswX5pFCIA84NIvmi0t1ZfZcEiAc1yv&usp=drive_copy"
+        },
+        {
+          "current_title": "Transicion Ap Kubi a Ap Kubi",
+          "url": "https://drive.google.com/open?id=1aXojkxi9SDk10XS_OUDvYgIIkAvd5Thk&usp=drive_copy"
+        }
+      ],
+      "required_next_step": "Bryan debe indicar qué diferencia técnica muestra cada video o asignar un nombre identificable a cada versión."
+    }
+  ],
+  "unreviewed_pending_resources": {
+    "current_plans_pending_confirmation": [
+      "Ap + Dollyo + Yop con regreso",
+      "Ap + Descendente frontal circuito",
+      "Secuencia Ap + Dollyo + Yop",
+      "Circuito elevacion + sostener + circular",
+      "Pucho + Ap Chagui + Giro golpe",
+      "Circuito Yop chagui con Bloque"
+    ],
+    "historical_examples_pending_confirmation": [
+      "Lubricación - ChanonaTKD",
+      "Primera Sesión ChanonaTKD System",
+      "Ap chaguis con bloques",
+      "Thicking clock 3 hours Relaxing Tic Toc - Relajante Sonido de Reloj"
+    ],
+    "note": "Pyonwong completo en video fue aprobado mediante la resolución correspondiente y deja de pertenecer a esta lista pendiente."
+  }
+}
