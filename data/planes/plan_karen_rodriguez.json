@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 10 de mayo",
+  "updated_at": "Actualizado dom 24 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
-  "enfoque_corto": "Taeguk 8 Línea 1 + Control Estructural de Ap Chagui",
-  "enfoque": "Perfeccionamiento de la primera línea de Taeguk 8 centrado en la estabilidad del eje y la extensión total de la pierna de apoyo durante el pateo frontal.",
+  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
+  "enfoque_corto": "Flexibilidad + Ap Chagui + Taeguk 8 Estructural",
+  "enfoque": "Desarrollo del control de ritmo, trayectoria precisa de defensas y erradicación de inercias automáticas en Taeguk 8, complementado con la fijación estructural de la Ap Chagui.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -28,6 +28,12 @@
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
       "titulo": "Circuito Isométrico Activo - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
@@ -37,83 +43,90 @@
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Control de talón de apoyo y extensión de rodilla",
-      "reps": "20 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    },
-    {
       "titulo": "Ap + Descendente frontal circuito",
-      "enfoque": "Direccionamiento de rodilla y control de caída",
-      "reps": "12 reps / 2 series",
+      "enfoque": "Control de la pierna de apoyo y alineación del eje",
+      "reps": "12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
     },
     {
-      "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Firmeza del torso y control neuromuscular",
+      "titulo": "Ap + Dollyo + Yop con regreso",
+      "enfoque": "Control neuromuscular y balance de cadera",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
     },
     {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Equilibrio absoluto y extensión de base",
-      "reps": "8 reps por lado / 2 series",
+      "titulo": "Secuencia Ap + Dollyo + Yop",
+      "enfoque": "Estabilidad estructural en cámara de pateo",
+      "reps": "5 secuencias por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
+    },
+    {
+      "titulo": "Circuito elevacion + sostener + circular",
+      "enfoque": "Fortalecimiento de base y sostén del muslo",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
+    },
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Extensión de rodilla base y fijación de talón",
+      "reps": "20 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Taeguk 8 - Primer movimiento",
-      "enfoque": "Precisión técnica y fijación de hombros",
-      "reps": "20 reps / 2 series",
+      "titulo": "L3 T8 - Línea 3 de Taeguk 8 - Lento",
+      "enfoque": "Trayectoria correcta y marcación consciente",
+      "reps": "10 reps de la línea",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1DWX9g7vzlLsRQGNNi4RxxlA4Cz3_pHiJ/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1D0g3Jmt0weJ90WGhV8LpACklDeghuC-d"
     },
     {
-      "titulo": "Doble Ap Chagui + Aterrizaje - Taeguk 8",
-      "enfoque": "Extensión de pierna de apoyo en doble pateo",
-      "reps": "15 reps / 2 series",
+      "titulo": "L4 T8 - Línea 4 de Taeguk 8 - Lento",
+      "enfoque": "Control de transiciones y desaceleración",
+      "reps": "10 reps de la línea",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mAlHFT6A4qise0_70UKO8UNcf_oJhjge/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1tzS67xEzs3v28T1-kYC1ImguBsXvlsuE"
     },
     {
-      "titulo": "Transición Taeguk 8 - L1 a L2 T8",
-      "enfoque": "Control de eje y peso corporal",
-      "reps": "10 reps / 2 series",
+      "titulo": "L5 T8 - Línea 5 de Taeguk 8 - Lento",
+      "enfoque": "Mecánica corporal en movimientos lentos",
+      "reps": "8 reps conscientes",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1PC4Rgs-4I6Bml1FTC-kl_bljImEfCow8/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1nsXWqxj_9Ia6R_ZYI6X-PGZl2ZyhdEmE"
     },
     {
-      "titulo": "Timing - Línea 1 de Taeguk 8",
-      "enfoque": "Ritmo de competencia y cortes",
-      "reps": "Seguir audio 10 min",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1c4DKxDT0xTvIPj1dyuCwEcGO-UO2ctIu"
+      "titulo": "L6 T8 - Línea 6 de Taeguk 8",
+      "enfoque": "Precisión y congelamiento del impacto final",
+      "reps": "8 reps de la línea",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1kQLONEpCVDcXNfAANHqOMcGZSAOmWXU6"
     },
     {
       "titulo": "Ap chagui, prep y aterrizaje correcto",
-      "enfoque": "Firmeza en el torso y direccionamiento",
-      "reps": "15 reps / 2 series",
+      "enfoque": "Mecanización de la base en transiciones de T8",
+      "reps": "15 reps por pierna / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; esta siempre debe estar firme y extendida en nuestra Ap Chagui dentro de la Línea 1.",
-    "En nuestra postura siempre debemos mantener nuestra firmeza en el torso; no debemos llevar los hombros al frente. La pierna puede estar inestable, pero jamás nuestro torso.",
-    "Debemos direccionar siempre con nuestra rodilla hacia donde estamos pateando. El control de la rodilla es lo que guía la trayectoria de la patada.",
-    "En Taeguk 8, la doble Ap Chagui requiere un control extra: no permitas que el talón de apoyo se eleve en ninguno de los dos impactos.",
-    "Recuerda que la presentación impecable nace de una base sólida y un torso erguido. Cualquier flexión innecesaria resta .1 de puntuación."
+    "Es muy importante que tomes en cuenta cada movimiento: no te adelantes ni te aceleres. Mantente enfocada en la marcación y en el trayecto correcto de cada técnica para que se marque ante el juez en todo momento y tu cuerpo mecanice la estructura real.",
+    "No practiques como tu cuerpo te indica hacerlo de forma natural y cómoda; hazlo de la forma incómoda, ahí es donde el cuerpo opone resistencia al cambio y es donde realmente se construye la mejora técnica.",
+    "Al ejecutar la Ap Chagui dentro de las líneas de Taeguk 8, la pierna de apoyo debe mantenerse perfectamente extendida y el talón anclado al piso. No sacrifiques la base por buscar altura.",
+    "Utiliza los videos de las líneas 3, 4, 5 y 6 en formato lento para analizar el recorrido milimétrico de tus manos y la correcta distribución del peso en las posiciones.",
+    "Vamos súper bien, poco a poco y con enfoque diario. Practicando con estructura estoy seguro de que nuestros resultados seguirán siendo favorables."
   ],
   "notasFinales": [
-    "Karen, este ciclo es para dominar el inicio de Taeguk 8. Si controlas tu base y tu torso en esta primera línea, el resto de la poomsae fluirá con mucha más potencia.",
-    "No te apresures en la doble patada; marca la cámara de cada una para asegurar que los jueces vean tu técnica.",
-    "Cualquier duda con los ejercicios de fortalecimiento de tobillo, coméntame de inmediato.",
+    "El alto rendimiento se define en la zona de incomodidad. Cuando obligas a tu cuerpo a corregir una trayectoria automática, estás entrenando como una atleta de élite.",
+    "Apóyate por completo en el material lento de Taeguk 8 que incluimos en este ciclo. Úsalo para auditar tu propio movimiento antes de acelerarlo.",
+    "Cualquier duda con los trayectos de las líneas avanzadas, avísame de inmediato.",
     "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
