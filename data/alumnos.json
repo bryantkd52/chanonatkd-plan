@@ -276,6 +276,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Mayo",
     "objetivo_proximo": "Inicialización Freestyle"
+  },
+
+  "martin_morales": {
+    "nombre": "Martin Morales",
+    "plan": "plan_martin_morales.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Mayo",
+    "objetivo_proximo": "Flexibilidad + movilidad activa + fuerza de cadera"
   }
 
 }
