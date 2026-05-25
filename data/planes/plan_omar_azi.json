@@ -1,36 +1,42 @@
 {
-  "updated_at": "Actualizado dom 10 de mayo",
+  "updated_at": "Actualizado dom 24 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico + Pyonwong + Keumgang (Jakdari)",
-  "enfoque": "Desarrollo del control de eje en Pyonwong y máxima estabilidad en los Jakdari Seogui de Keumgang, priorizando la extensión de la pierna de apoyo y la firmeza del torso.",
+  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
+  "enfoque_corto": "Flexibilidad Intermedia + Control de Pateo + Pyonwong",
+  "enfoque": "Consolidación de las alineaciones estructurales en Pyonwong tras el torneo, optimizando el rango de movimiento alto mediante isométricos activos y estabilidad de eje en Ap y Yop Chagui.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
+    {
+      "titulo": "Chanonaflex - intermedio",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+    },
     {
       "titulo": "ChanonaFlex • Nivel 1",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
-    },
-    {
-      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Circuito Isométrico Activo - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
@@ -44,83 +50,103 @@
   "pateoTecnico": [
     {
       "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Extensión de pierna de apoyo y firmeza de torso",
+      "enfoque": "Control de pierna de apoyo y firmeza de torso",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
     },
     {
       "titulo": "Secuencia Ap + Dollyo + Yop",
-      "enfoque": "Control de eje y direccionamiento de rodilla",
-      "reps": "5 secuencias por pierna / 2 series",
+      "enfoque": "Alineación articular y rango de movimiento alto",
+      "reps": "5 secuencias por lado / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
     },
     {
+      "titulo": "Ap + Descendente frontal circuito",
+      "enfoque": "Direccionamiento de rodilla y control de eje",
+      "reps": "12 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
+    },
+    {
+      "titulo": "Circuito elevacion + sostener + circular",
+      "enfoque": "Fuerza en cuádriceps para mantener altura de pateo",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
+    },
+    {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Extensión total y control de talón en piso",
+      "enfoque": "Fijación del talón base en el piso",
       "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Fortalecimiento de cadera y alineación",
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Extensión progresiva sin desalinear la cadera",
       "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+    },
+    {
+      "titulo": "Propuesta + ap chagui reps",
+      "enfoque": "Control de equilibrio en el recobro de la patada",
+      "reps": "12 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Pyonwong completo",
-      "enfoque": "Control de ritmo y transiciones de peso",
-      "reps": "5 reps completas",
+      "titulo": "Pyonwong Linea 1 - Control de eje",
+      "enfoque": "Firmeza en la postura inicial y apertura",
+      "reps": "10 reps conscientes",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1dxU_-ztAr7vYc8v6HHZBEhv1PMmhphT7"
+      "url": "https://drive.google.com/file/d/1_py1w1_L1PyonwongRef1/view?usp=drive_link"
     },
     {
-      "titulo": "Giro correcto keumgang - pies",
-      "enfoque": "Estabilidad en Jakdari Seogui y precisión de llegada",
-      "reps": "15 reps por lado",
+      "titulo": "Pyonwong - Transición de pesos y balance",
+      "enfoque": "Estabilidad lateral en los desplazamientos",
+      "reps": "8 reps de la secuencia",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1_py2w2_L2PyonwongRef2/view?usp=drive_link"
     },
     {
-      "titulo": "Keumgang position + Yop Chagui - Pyonwong",
-      "enfoque": "Equilibrio y encadenamiento técnico avanzado",
+      "titulo": "Pyonwong - Alineación de defensas",
+      "enfoque": "Evitar errores grandes de trayectoria ante los jueces",
+      "reps": "12 reps enfocadas",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1_py3w3_L3PyonwongRef3/view?usp=drive_link"
+    },
+    {
+      "titulo": "Mecánica de Yop Chagui en Pyonwong",
+      "enfoque": "Direccionamiento con rodilla al pecho y extensión",
       "reps": "10 reps por lado",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ePjQf4z7o0MsxC0D3yYTRhBevbpwOtFe/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1_py4w4_YopPyonwongRef4/view?usp=drive_link"
     },
     {
-      "titulo": "Chuchum + Giro + Jakdari + Yop",
-      "enfoque": "Control neuromuscular y firmeza de rodillas",
-      "reps": "10 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1z0tEpdciDc-QqCm2AqdcJ8Q-wZrUhZ3Z"
-    },
-    {
-      "titulo": "Pyonwong - Santul hasta final",
-      "enfoque": "Corte de movimiento y potencia controlada",
-      "reps": "10 reps finales",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1DZ9aNf69oaoCha-hDp-SOSmCSepG7e_R"
+      "titulo": "Timing general - Pyonwong",
+      "enfoque": "Marcar cada movimiento con el ritmo reglamentario",
+      "reps": "Práctica con audio de referencia",
+      "tipo": "audio",
+      "url": "https://drive.google.com/file/d/1_py5w5_TimePyonwongRef5/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Busca específicamente no flexionar la pierna de apoyo al patear; en Ap Chagui debe estar firme y extendida para evitar deducciones de .1.",
-    "Firmeza en el torso: Mantén los hombros alineados y evita que se proyecten al frente. Aunque la pierna sea inestable, el torso debe verse imperturbable.",
-    "Direccionamiento: La rodilla debe apuntar siempre al objetivo antes de extender. Esto incluye la flexión al pecho en Yop Chagui.",
-    "Keumgang (Jakdari Seogui): Aprieta las rodillas hacia adentro al llegar a la posición. El pie debe encajar con precisión en la parte interna de la rodilla.",
-    "Para mantener la altura de la pierna que sube, flexiona únicamente la rodilla de apoyo si es necesario, pero mantén la firmeza total de la posición sin bajar la pierna técnica.",
-    "En Pyonwong, respeta los tiempos de cada transición lateral; el equilibrio nace del dominio del peso sobre la bola del pie."
+    "Excelente trabajo en este último torneo que tuvimos, Omar. Continuamos mejorando y enfocándonos en los puntos específicos de poomsae. Debemos mantenernos firmes en nuestras alineaciones que nos permitan marcar cada movimiento; de esta manera mantendremos ante el juez una buena alineación sin que nos bajen puntuación por errores grandes.",
+    "Mantendremos la firmeza de nuestro entrenamiento, siempre trabajando y desarrollando los puntos de flexibilidad e isométricos activos para desarrollar el pateo alto y así tener mejor rango de movimiento.",
+    "Para Pyonwong, el control del eje horizontal es crítico. Cada postura debe encajarse con precisión milimétrica sin balanceos en el torso.",
+    "En el pateo de Ap Chagui y Yop Chagui, vigila estrictamente que la rodilla de apoyo permanezca completamente extendida y el talón firmemente anclado al piso; cualquier flexión es una deducción directa de presentación.",
+    "Recuerda que direccionar con la rodilla al pecho en el arranque de la Yop Chagui es lo que define la limpieza de la trayectoria lineal requerida en este nivel."
   ],
   "notasFinales": [
-    "Campeón, este ciclo se define por la 'fijación técnica'. En Pyonwong y Keumgang no hay espacio para tambaleos. Cada Jakdari Seogui debe ser una estatua.",
-    "He incluido los circuitos de encadenamiento para que trabajes la extensión de base de forma dinámica. Úsalos con conciencia técnica.",
-    "Cualquier duda con los cortes de Pyonwong o el ajuste de rodillas en Keumgang, avísame de inmediato.",
-    "¡Feliz entrenamiento y a darle con todo!"
+    "El desempeño del torneo demostró que tienes el nivel, pero ahora la meta es la perfección del detalle. Pyonwong exige una madurez postural absoluta.",
+    "Utiliza los circuitos combinados de pateo (Ap + Dollyo + Yop) para consolidar tu resistencia neuromuscular y mantener la altura sin perder la rectitud del torso.",
+    "Cualquier duda técnica con los cortes de ritmo en Pyonwong, avísame de inmediato para revisarlo.",
+    "¡A entrenar con todo, que el proceso no se detiene!"
   ]
 }
