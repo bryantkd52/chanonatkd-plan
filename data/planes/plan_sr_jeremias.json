@@ -1,138 +1,112 @@
 {
-  "updated_at": "Actualizado dom 10 de mayo",
+  "updated_at": "Actualizado lun 25 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico + Control Estructural de Pateo",
-  "enfoque": "Desarrollo de la firmeza del torso y la extensión total de la pierna de apoyo en las tres patadas fundamentales (Ap, Dollyo y Yop Chagui).",
+  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
+  "enfoque_corto": "Flexibilidad + Circuitos de pateo Ap Chagui, Yop Chagui, pucho y pivote",
+  "enfoque": "Mantendremos el enfoque técnico de nuestro pateo con circuitos de Ap Chagui, Yop Chagui y combinaciones de pucho con pivote, buscando control neuromuscular, eje corporal y corte de movimiento en cada repetición",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
     {
       "titulo": "ChanonaFlex • Nivel 1",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
-    },
-    {
-      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "titulo": "Ap Chagui - NIVEL 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "titulo": "Yop Chagui - NIVEL 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico Activo - Dollyo Chagui - - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1y02E8_WF2d624jJWJvinIn2oNIBcbXcc/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Circuito Isométrico Activo - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Glúteo y gancho - Isométrico activo",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
-      "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Control de pierna de apoyo y firmeza de torso",
-      "reps": "10 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
-    },
-    {
-      "titulo": "Ap + Descendente frontal circuito",
-      "enfoque": "Direccionamiento de rodilla y extensión de base",
-      "reps": "12 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
-    },
-    {
-      "titulo": "Secuencia Ap + Dollyo + Yop",
-      "enfoque": "Equilibrio neuromuscular y encadenamiento",
-      "reps": "5 secuencias por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
-    },
-    {
-      "titulo": "Circuito elevacion + sostener + circular",
-      "enfoque": "Fortalecimiento de cuádriceps y sostén",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
-    },
-    {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Fijación de talón de apoyo",
-      "reps": "20 reps / 2 series",
+      "enfoque": "Control de pierna de apoyo extendida, espalda recta y elevación frontal",
+      "reps": "20 reps por lado / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Rango, control neuromuscular y precisión de Ap Chagui",
+      "reps": "10 reps por nivel / 2 series por pierna",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap + Yop + Turn hips silla",
+      "enfoque": "Fortalecimiento de cuádriceps, pivote de cadera y eje corporal",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Cámara, extensión y regreso de Yop Chagui sin perder postura",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Control, equilibrio y corte de movimiento en Yop Chagui",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
+    },
+    {
+      "titulo": "Pucho + Ap chagui",
+      "enfoque": "Combinación de pucho, entrada frontal y estabilidad del aterrizaje",
+      "reps": "20 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1EfSyQwOzZ9HrzP1QX9EA-XBXEAyWDncp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Pucho + Ap + Cicular + Giro gancho - Paso a paso",
+      "enfoque": "Combinación de pucho, pivote, timing y transición técnica",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1UnpTtOU7sQeG2KJSrIixpO3P2O8xXqPK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Combinacion pucho + desliz + giro gancho - 1",
+      "enfoque": "Pivote, desplazamiento y control del eje corporal en combinación",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Li6ozOE3E22xeZ7DKrtyT-IWt40flQmg/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO (ENFOQUE TÉCNICO DE PATEO)",
-  "poomsae": [
-    
-    {
-      "titulo": "Ap chagui, prep y aterrizaje correcto",
-      "enfoque": "Firmeza del torso y alineación de hombros",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
-    },
-    {
-      "titulo": "Torcion cadera con banda",
-      "enfoque": "Direccionamiento de rodilla y potencia de cadera",
-      "reps": "30 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
-      "enfoque": "Estabilidad del talón de apoyo",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
-    },
-    {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Control técnico y equilibrio absoluto",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
-    }
-  ],
+  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
+  "poomsae": [],
   "apuntes": [
-    "Busque específicamente no flexionar la pierna de apoyo cuando estamos pateando. Esta siempre debe estar firme y extendida, esto aplica estrictamente para Ap Chagui, Dollyo Chagui y Yop Chagui.",
-    "En nuestra postura siempre debemos mantener la firmeza en el torso. No lleve los hombros al frente; la pierna puede estar inestable, pero jamás nuestro torso.",
-    "Debemos direccionar siempre con nuestra rodilla hacia donde estamos pateando. Incluso en Yop Chagui, la flexión de rodilla al pecho es el inicio del direccionamiento correcto.",
-    "Punto primordial: El talón de apoyo no debe elevarse. Mantenerlo en el piso es la clave para la potencia y el equilibrio profesional.",
-    "Utilice los nuevos circuitos de encadenamiento (Ap + Dollyo + Yop) para mecanizar la transición sin perder la extensión de la base."
+    "Mantendremos el enfoque técnico de nuestro pateo, combinaciones y ejercicios de pateo",
+    "En las patadas frontales es super importante mantener la pierna de apoyo extendida y la espalda recta, porque si la rodilla se flexiona o el torso se va hacia adelante se descuadra la posición y visualmente puede parecer falta de control",
+    "La Ap Chagui debe salir con cámara clara, extensión limpia y regreso controlado; si el movimiento se cae o pierde eje corporal, se puede ver como falta de dominio técnico y nos pueden descontar .1",
+    "En Yop Chagui debemos cuidar que la cadera no se abra de más antes de tiempo; primero cámara, luego extensión, luego corte de movimiento y regreso, siempre con control neuromuscular",
+    "En las combinaciones de pucho y pivote, la encapsulación debe ayudar a girar sin pasos extras, porque cada paso de más puede verse como una transición sucia y puede costarnos .1 por pérdida de precisión",
+    "Busca que cada combinación tenga timing: entrada fuerte, pateo limpio, aterrizaje estable y corte final sin mover brazos o torso de más"
   ],
   "notasFinales": [
-    "Este ciclo es para construir cimientos de acero. Olvide la altura por un momento y concéntrese en la rectitud de su torso y su pierna de base.",
-    "He agregado ejercicios nuevos de encadenamiento y direccionamiento que son fundamentales para su progreso en el nivel Dragones. Estúdielos a detalle.",
-    "Cualquier duda con los nuevos links o la mecánica de los circuitos, coméntame de inmediato.",
+    "Jeremias, esta etapa será muy importante para ganar rango y perfeccionamiento técnico en tus patadas, por eso quiero que entrenes con mucha atención en la pierna de apoyo, espalda recta y control de cada repetición",
+    "No busques hacerlo rápido si todavía se descuadra la postura; primero controlamos, luego aumentamos velocidad y finalmente le damos potencia con buen timing",
+    "Cualquier duda, por favor comentame",
     "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
