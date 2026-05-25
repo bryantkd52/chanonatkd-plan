@@ -1,43 +1,112 @@
 {
-  "updated_at": "Actualizado dom 8 de marzo del 2026",
+  "updated_at": "Actualizado lun 25 de mayo de 2026",
   "nivel": "Nivel Avanzado Progresivo",
-  "ciclo": "Lunes 9 al sábado 14 de marzo del 2026",
-  "enfoque_corto": "Flexibilidad + fuerza isométrica",
- "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Flexibilidad + pateo al cielo + Koryo líneas 1 y 2",
+  "enfoque": "En este ciclo trabajaremos el desarrollo progresivo de la flexibilidad y el pateo al cielo, cuidando que la cámara de Ap Chagui y Yop Chagui regrese siempre al pecho, que la pierna de apoyo se mantenga firme y extendida, y que la técnica de Koryo en las líneas 1 y 2 se realice con precisión, timing y control corporal.",
+  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "Circuito ChanonaFlex - Nivel 1",
+      "titulo": "Circuito Chanonaflex - Básico",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=sharing"
     }
   ],
-  "isometricoDias": "LUNES - MIERCOLES - VIERNES",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES",
   "isometrico": [
-     {},
     {
-      "titulo": "Isométrico activo - Yop Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
-    {}
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    }
   ],
-  "pateoDias": "NO ASIGNADO POR EL MOMENTO",
+  "pateoDias": "MARTES - JUEVES - SÁBADO",
   "pateoTecnico": [
-    {}
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Alineación, extensión de la pierna de apoyo y control de la cámara",
+      "reps": "12 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap Chagui 3 niveles",
+      "enfoque": "Elevación progresiva con rodilla al pecho y eje corporal firme",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az&usp=drive_copy"
+    },
+    {
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Cámara de rodilla al pecho, extensión controlada y postura lineal",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
+    },
+    {
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Control al recoger la pierna y estabilidad de la pierna de apoyo",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    }
   ],
-  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
+  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
   "poomsae": [
-    {}
+    {
+      "titulo": "Linea 1 Koryo - Precisión + Timing",
+      "enfoque": "Precisión, firmeza de brazos y corte de movimiento",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 2 Koryo - 2.1 ap chagui + golpes",
+      "enfoque": "Cámara de Ap Chagui, pierna de apoyo firme y golpes lineales",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 2.2 Koryo",
+      "enfoque": "Continuidad técnica, postura y timing de la línea 2",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1p90iF0JXyFoMq7AW28VYw4g4bQekSYgQ&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 1 Koryo",
+      "enfoque": "Ritmo y timing de ejecución",
+      "reps": "2 ejecuciones completas con el audio",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1_k4JjzJoUEm0al3K5H50CKPR92-qqi4I&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 2 Koryo",
+      "enfoque": "Ritmo y timing de ejecución",
+      "reps": "2 ejecuciones completas con el audio",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1bHFcpMm4BQcRHyNp80cE_XjZunvQVtJ_&usp=drive_copy"
+    }
   ],
   "apuntes": [
-    "LEER NOTAS FINALES"
+    "Buscar que la pierna de apoyo se mantenga firme y completamente extendida cuando ejecutemos Ap Chagui y Yop Chagui, evitando perder la alineación del eje corporal.",
+    "En cada pateo al cielo, la rodilla debe subir y regresar al pecho antes de extender y antes de aterrizar; el control de la cámara es prioridad en este ciclo.",
+    "Buscar que nuestra postura sea siempre lineal y correcta, sin inclinar el torso ni romper la alineación durante el pateo o los movimientos de Koryo.",
+    "Los brazos no deben verse sueltos; deben mantenerse firmes, definidos y lineales con el cuerpo durante las líneas 1 y 2 de Koryo."
   ],
   "notasFinales": [
-    "En esta semana le daremos continuidad a nuestro trabajo de fortalecimiento y flexibilidad de forma progresiva, tuvimos clases grabadas y tenemos que contnuar trabajando con esas a su vez con este plan de entrenamiento tambien",
-    "Los videos asignados deben de reproducirse sin ningun problema, solo debes ver que el dispositivo en donde te estás conectando coincida con el correo de gmail que me enviaste ya que es ahí en donde te di todo el acceso",
-    "Cualquier duda, por favor comentame",
-    "¡Feliz entrenamiento!"
+    "Vamos trabajando muy bien. En este ciclo trabajaremos con mucho enfoque en esas dos líneas de Koryo, en donde veremos cosas específicas para que no te abrumes mentalmente y puedas mantenerte tranquilo, pero a su vez seguir trabajando inteligentemente.",
+    "No busques avanzar con prisa: busca dominar la cámara, la postura y la firmeza de cada movimiento. La calidad de cada repetición será lo que nos lleve al siguiente nivel.",
+    "Cualquier duda, por favor coméntame campeón.",
+    "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
