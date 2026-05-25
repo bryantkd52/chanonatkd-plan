@@ -1,91 +1,118 @@
 {
-  "updated_at": "Actualizado dom 10 de mayo",
+  "updated_at": "Actualizado dom 24 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
-  "enfoque_corto": "Pyonwong Completo + Keumgang Jakdari Seogui + Post-Competencia",
-  "enfoque": "Fase de descarga post-competencia (Brasil). Enfoque en control neuromuscular suave, estabilidad en posiciones de equilibrio y corrección de la pierna de apoyo.",
-  "chanonaflexDias": "LUN - MIE - VIE · 1 serie (Suave)",
+  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
+  "enfoque_corto": "Entrenamiento Progresivo Post-Cirugía + Control Base",
+  "enfoque": "Reactivación neuromuscular progresiva enfocada en la seguridad de la columna, fortalecimiento isométrico y control estructural de Ap y Yop Chagui sin impacto adverso.",
+  "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
+    {
+      "titulo": "Chanonaflex - intermedio",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+    },
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
-    },
-    {
-      "titulo": "ChanonaFlex • Nivel intermedio",
-      "dia": "LUN - MIE - VIE",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "MARTES Y JUEVES (Carga reducida)",
+  "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["REUPERACIÓN, CONTROL"]
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["REUPERACIÓN, CONTROL"]
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Circuito Yop chagui con Bloque",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
-  "pateoDias": "LUNES - MIÉRCOLES",
+  "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
-      "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Control de pierna de apoyo y firmeza de torso sin explosividad",
-      "reps": "5 reps por pierna / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
-    },
-    {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Extensión de rodilla base y fijación de talón",
-      "reps": "10 reps por pierna / 1 serie",
+      "enfoque": "Estabilidad del eje sin sobrecarga lumbar",
+      "reps": "12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Circuito elevacion + sostener + circular",
+      "enfoque": "Activación neuromuscular de cadera y soporte",
+      "reps": "8 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
+    },
+    {
+      "titulo": "Propuesta + ap chagui reps",
+      "enfoque": "Control de alineación y extensión de base",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Elevacion de talones frente a pared",
+      "enfoque": "Fortalecimiento de tobillo para soporte axial",
+      "reps": "20 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1OvmO3nrmM--QtIvgsREzFGANsCzzbXin/view?usp=drive_link"
+    },
+    {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mecánica técnica y descarga en columna",
+      "reps": "8 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "MARTES - JUEVES - SÁBADO",
+  "poomsaeDias": "LUNES A SÁBADO (ESTRUCTURA DE LÍNEAS)",
   "poomsae": [
     {
-      "titulo": "Pyonwong completo - OMITIR MANOS ABIERTAS",
-      "enfoque": "Timing suave y precisión en desplazamientos",
-      "reps": "3 reps completas",
+      "titulo": "Ap chagui, prep y aterrizaje correcto",
+      "enfoque": "Firmeza del torso y absorción de impacto",
+      "reps": "15 reps conscientes / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
     },
     {
-      "titulo": "Giro correcto keumgang - pies",
-      "enfoque": "Ajuste de Jakdari Seogui y presión interna de rodillas",
-      "reps": "10 reps por lado / 1 serie",
+      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
+      "enfoque": "Fijación del talón y balance general",
+      "reps": "15 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     },
     {
-      "titulo": "Keumgang position + Yop Chagui - Pyonwong",
-      "enfoque": "Firmeza de la posición y flexión de rodilla de apoyo",
-      "reps": "5 reps por lado / 1 serie",
+      "titulo": "Torcion cadera con banda",
+      "enfoque": "Movilidad controlada sin rotación lumbar forzada",
+      "reps": "15 reps fluidas / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ePjQf4z7o0MsxC0D3yYTRhBevbpwOtFe/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; esta siempre debe estar firme y extendida en nuestra Ap Chagui.",
-    "En nuestra postura siempre debemos mantener nuestra firmeza en el torso; no lleve los hombros al frente. Puede que la pierna esté inestable por el cansancio post-competencia, pero jamás su torso.",
-    "Direccione siempre con la rodilla hacia el objetivo. En Yop Chagui, la flexión previa al pecho es parte fundamental de ese direccionamiento.",
-    "En Keumgang, busquemos que los Jakdari Seoguis se vean firmes y precisos. Al llegar con el pie a la parte interna de la rodilla, apriete las rodillas hacia adentro para sellar la posición.",
-    "Al elevar la pierna, procure que esta no baje. El secreto es flexionar un poco más la rodilla de apoyo para mantener la firmeza y el nivel de la posición."
+    "Maestro, tras su cirugía en la columna, la prioridad absoluta es el entrenamiento progresivo. Diseñamos este ciclo para activar el cuerpo con máxima energía sin comprometer el eje lumbar.",
+    "Al ejecutar Ap y Yop Chagui, la pierna de apoyo debe mantenerse firme y extendida. Esto distribuye correctamente la fuerza en el piso y reduce la carga en la columna.",
+    "Mantenga una firmeza estricta en el torso. Evite llevar los hombros al frente o colapsar la postura; si la pierna base muestra inestabilidad, prefiera reducir la altura antes de perder la verticalidad del torso.",
+    "El direccionamiento con la rodilla hacia el objetivo es clave. En Yop Chagui, la flexión controlada de la rodilla al pecho es lo que nos permite direccionar correctamente y proteger la zona baja de la espalda.",
+    "Ejecute los isométricos activos y el trabajo de flexibilidad con control neuromuscular total, evitando rebotes o rangos de dolor."
   ],
   "notasFinales": [
-    "Excelente trabajo en Brasil, aun no tengo mucho conocimiento de que es lo que hicimos por allá, pero estoy muy emocionado por saber que tal nos fue a detalle tecnico y a profundidad, le envío un abrazo con mucho cariño y afecto.",
-    "Este ciclo reduciremos considerablemente la carga para permitir que el cuerpo se recupere. Haga los movimientos de forma fluida y suave, enfocándose en la sensación técnica.",
-    "Disfrute de esta semana de descarga, se la ha ganado. ¡Seguimos trabajando con inteligencia!",
-    "Cualquier duda, coménteme, Maestro."
+    "Maestro, ha pasado tiempo desde Brasil y esta etapa post-cirugía exige inteligencia técnica. Vamos a construir su regreso de forma impecable y positiva.",
+    "La estructura de este plan está hecha para mantenerlo fuerte y enfocado en su próximo evento, cuidando cada articulación como un profesional de élite.",
+    "Monitoree cada sensación. Si hay molestia en la zona lumbar, detenga la serie y avíseme de inmediato para recalibrar.",
+    "¡Es un honor seguir trabajando con usted en este camino, Maestro. Vamos con todo!"
   ]
 }
