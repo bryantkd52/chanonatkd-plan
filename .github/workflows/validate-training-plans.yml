@@ -153,7 +153,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          node scripts/validate-students.js --compare ../../tmp/alumnos_base.json
+          node scripts/validate-students.js --compare /tmp/alumnos_base.json
 
       - name: Confirmar revisión sin planes ni renovaciones
         if: steps.changed_plans.outputs.has_plans == 'false' && steps.changed_students.outputs.has_students == 'false'
