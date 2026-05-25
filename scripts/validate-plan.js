@@ -8,8 +8,8 @@
  *
  * Este script no modifica archivos. Solo reporta errores y advertencias.
  * Lee:
- *   - data/media-library.json         (catálogo base entregado por Bryan)
- *   - data/media-library-review.json  (correcciones y aprobaciones oficiales)
+ *   - data/media-library.json          (catálogo base entregado por Bryan)
+ *   - data/media-library-review.json   (correcciones y aprobaciones oficiales)
  *   - schemas/training-plan.schema.json (contrato documental del formato)
  */
 
@@ -20,21 +20,10 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const REQUIRED_PLAN_KEYS = [
-  'updated_at',
-  'nivel',
-  'ciclo',
-  'enfoque_corto',
-  'enfoque',
-  'chanonaflexDias',
-  'chanonaflex',
-  'isometricoDias',
-  'isometrico',
-  'pateoDias',
-  'pateoTecnico',
-  'poomsaeDias',
-  'poomsae',
-  'apuntes',
-  'notasFinales'
+  'updated_at', 'nivel', 'ciclo', 'enfoque_corto', 'enfoque',
+  'chanonaflexDias', 'chanonaflex', 'isometricoDias', 'isometrico',
+  'pateoDias', 'pateoTecnico', 'poomsaeDias', 'poomsae',
+  'apuntes', 'notasFinales'
 ];
 const OPTIONAL_PLAN_KEYS = ['extras'];
 const RESOURCE_SECTIONS = ['chanonaflex', 'isometrico', 'pateoTecnico', 'poomsae', 'extras'];
@@ -69,12 +58,12 @@ function isNonEmptyString(value) {
   return typeof value === 'string' && value.trim().length > 0;
 }
 
-function pushError(errors, location, message) {
-  errors.push(`${location}: ${message}`);
+function resourceKey(title, url, mediaType) {
+  return `${title}\u0000${url}\u0000${mediaType}`;
 }
 
-function pushWarning(warnings, location, message) {
-  warnings.push(`${location}: ${message}`);
+function pushError(errors, location, message) {
+  errors.push(`${location}: ${message}`);
 }
 
 function walkStrings(value, location, visit) {
@@ -94,16 +83,24 @@ function walkStrings(value, location, visit) {
 function buildMediaPolicy() {
   const base = readJson('data/media-library.json');
   const review = readJson('data/media-library-review.json');
-  const allowedUrls = new Set();
+  const allowedResources = new Set();
+  const resourcesByUrl = new Map();
   const blockedUrls = new Set();
-  const knownTitlesByUrl = new Map();
-  const audioUrls = new Set();
 
-  function addAllowed(title, url, mediaType) {
-    allowedUrls.add(url);
-    if (!knownTitlesByUrl.has(url)) knownTitlesByUrl.set(url, new Set());
-    knownTitlesByUrl.get(url).add(title);
-    if (mediaType === 'audio') audioUrls.add(url);
+  function removeUrlRegistrations(url) {
+    const previous = resourcesByUrl.get(url) || [];
+    previous.forEach((resource) => allowedResources.delete(resourceKey(resource.title, url, resource.mediaType)));
+    resourcesByUrl.delete(url);
+  }
+
+  function addAllowed(title, url, mediaType, canonicalOverride = false) {
+    if (canonicalOverride) removeUrlRegistrations(url);
+    const registered = resourcesByUrl.get(url) || [];
+    if (!registered.some((item) => item.title === title && item.mediaType === mediaType)) {
+      registered.push({ title, mediaType });
+      resourcesByUrl.set(url, registered);
+    }
+    allowedResources.add(resourceKey(title, url, mediaType));
   }
 
   Object.values(base.categories_provided_by_bryan || {}).forEach((category) => {
@@ -112,17 +109,17 @@ function buildMediaPolicy() {
 
   (review.decisions || []).forEach((decision) => {
     const resources = decision.canonical_resources || (decision.canonical_resource ? [decision.canonical_resource] : []);
-    resources.forEach((resource) => addAllowed(resource.title, resource.url, resource.media_type));
+    resources.forEach((resource) => addAllowed(resource.title, resource.url, resource.media_type, true));
     (decision.historical_urls_blocked_for_automatic_assignment || []).forEach((url) => blockedUrls.add(url));
   });
 
   (review.approved_resources_previously_pending || []).forEach((resource) => {
-    addAllowed(resource.title, resource.url, resource.media_type);
+    addAllowed(resource.title, resource.url, resource.media_type, true);
   });
 
-  blockedUrls.forEach((url) => allowedUrls.delete(url));
+  blockedUrls.forEach((url) => removeUrlRegistrations(url));
 
-  return { allowedUrls, blockedUrls, knownTitlesByUrl, audioUrls };
+  return { allowedResources, resourcesByUrl, blockedUrls };
 }
 
 function validateTopLevel(plan, errors) {
@@ -165,7 +162,7 @@ function validateTopLevel(plan, errors) {
   });
 }
 
-function validateResource(resource, section, index, mediaPolicy, errors, warnings) {
+function validateResource(resource, section, index, mediaPolicy, errors) {
   const location = `$.${section}[${index}]`;
   if (!resource || typeof resource !== 'object' || Array.isArray(resource) || Object.keys(resource).length === 0) {
     pushError(errors, location, 'debe ser un objeto de recurso completo; no usar objetos vacíos.');
@@ -206,29 +203,27 @@ function validateResource(resource, section, index, mediaPolicy, errors, warning
     pushError(errors, `${location}.tipo`, `tipo "${resource.tipo}" no permitido. Usar video, audio o folder.`);
   }
 
-  if (!isNonEmptyString(resource.url)) return;
+  if (!isNonEmptyString(resource.url) || !isNonEmptyString(resource.titulo) || !isNonEmptyString(resource.tipo)) return;
 
   if (mediaPolicy.blockedUrls.has(resource.url)) {
     pushError(errors, `${location}.url`, 'URL histórica bloqueada; existe una versión canónica aprobada por Bryan.');
-  } else if (!mediaPolicy.allowedUrls.has(resource.url)) {
+    return;
+  }
+
+  const registeredForUrl = mediaPolicy.resourcesByUrl.get(resource.url);
+  if (!registeredForUrl) {
     pushError(errors, `${location}.url`, 'URL no autorizada en la biblioteca oficial/revisión aprobada.');
+    return;
   }
 
-  const urlIsAudio = mediaPolicy.audioUrls.has(resource.url);
-  if ((resource.tipo === 'audio' || urlIsAudio) && section !== 'poomsae') {
+  if (!mediaPolicy.allowedResources.has(resourceKey(resource.titulo, resource.url, resource.tipo))) {
+    const registeredText = registeredForUrl.map((item) => `"${item.title}" (${item.mediaType})`).join(' | ');
+    pushError(errors, location, `la URL existe, pero no está aprobada con este título y tipo. Recurso(s) autorizado(s): ${registeredText}.`);
+  }
+
+  const isAudio = registeredForUrl.some((item) => item.mediaType === 'audio');
+  if ((resource.tipo === 'audio' || isAudio) && section !== 'poomsae') {
     pushError(errors, location, 'los audios de timing solo pueden asignarse dentro de la sección poomsae.');
-  }
-  if (urlIsAudio && resource.tipo !== 'audio') {
-    pushError(errors, `${location}.tipo`, 'esta URL está aprobada como audio y debe declararse con tipo "audio".');
-  }
-
-  const expectedTitles = mediaPolicy.knownTitlesByUrl.get(resource.url);
-  if (expectedTitles && !expectedTitles.has(resource.titulo)) {
-    pushWarning(
-      warnings,
-      `${location}.titulo`,
-      `la URL es válida, pero el título no coincide exactamente con el catálogo. Títulos registrados: ${Array.from(expectedTitles).join(' | ')}.`
-    );
   }
 }
 
@@ -257,35 +252,26 @@ function main() {
   const plan = readJson(relativePlanPath);
   const mediaPolicy = buildMediaPolicy();
   const errors = [];
-  const warnings = [];
 
   validateTopLevel(plan, errors);
   RESOURCE_SECTIONS.forEach((section) => {
     if (!Array.isArray(plan[section])) return;
-    plan[section].forEach((resource, index) => {
-      validateResource(resource, section, index, mediaPolicy, errors, warnings);
-    });
+    plan[section].forEach((resource, index) => validateResource(resource, section, index, mediaPolicy, errors));
   });
   validatePrivacy(plan, errors);
 
   console.log(`\nValidación ChanonaTKD: ${relativePlanPath}`);
-  console.log(`URLs autorizadas activas: ${mediaPolicy.allowedUrls.size}`);
+  console.log(`Recursos autorizados activos: ${mediaPolicy.allowedResources.size}`);
   console.log(`URLs históricas bloqueadas: ${mediaPolicy.blockedUrls.size}\n`);
-
-  if (warnings.length > 0) {
-    console.log('ADVERTENCIAS:');
-    warnings.forEach((warning) => console.log(`- ${warning}`));
-    console.log('');
-  }
 
   if (errors.length > 0) {
     console.error('VALIDACIÓN FALLIDA:');
     errors.forEach((error) => console.error(`- ${error}`));
-    console.error(`\nResultado: ${errors.length} error(es), ${warnings.length} advertencia(s).`);
+    console.error(`\nResultado: ${errors.length} error(es).`);
     process.exit(1);
   }
 
-  console.log(`VALIDACIÓN APROBADA: 0 errores, ${warnings.length} advertencia(s).`);
+  console.log('VALIDACIÓN APROBADA: 0 errores.');
   process.exit(0);
 }
 
