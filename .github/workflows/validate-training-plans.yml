@@ -1,0 +1,116 @@
+name: Validar planes ChanonaTKD
+
+on:
+  push:
+    branches:
+      - sistema-seguro-codex-2026
+    paths:
+      - 'data/planes/**/*.json'
+      - 'data/media-library.json'
+      - 'data/media-library-review.json'
+      - 'schemas/training-plan.schema.json'
+      - 'scripts/validate-plan.js'
+      - '.github/workflows/validate-training-plans.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'data/planes/**/*.json'
+      - 'data/media-library.json'
+      - 'data/media-library-review.json'
+      - 'schemas/training-plan.schema.json'
+      - 'scripts/validate-plan.js'
+      - '.github/workflows/validate-training-plans.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar-planes-modificados:
+    name: Validar JSON nuevos o modificados
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obtener repositorio
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24.x'
+          package-manager-cache: false
+
+      - name: Verificar archivos de control y sintaxis del validador
+        shell: bash
+        run: |
+          set -euo pipefail
+          node --check scripts/validate-plan.js
+          node - <<'NODE'
+          const fs = require('fs');
+          const files = [
+            'data/media-library.json',
+            'data/media-library-review.json',
+            'schemas/training-plan.schema.json'
+          ];
+          for (const file of files) {
+            JSON.parse(fs.readFileSync(file, 'utf8'));
+            console.log(`JSON válido: ${file}`);
+          }
+          NODE
+
+      - name: Identificar planes cambiados
+        id: changed_plans
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          PUSH_BEFORE: ${{ github.event.before }}
+          CURRENT_SHA: ${{ github.sha }}
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+
+          if [[ "$EVENT_NAME" == "pull_request" ]]; then
+            BASE="$PR_BASE_SHA"
+            HEAD="$PR_HEAD_SHA"
+          elif [[ "$EVENT_NAME" == "push" ]]; then
+            BASE="$PUSH_BEFORE"
+            HEAD="$CURRENT_SHA"
+            if [[ -z "$BASE" || "$BASE" =~ ^0+$ ]]; then
+              BASE="$(git rev-list --max-parents=0 HEAD | tail -n 1)"
+            fi
+          else
+            BASE="HEAD~1"
+            HEAD="HEAD"
+          fi
+
+          echo "Comparando $BASE..$HEAD"
+          git diff --name-only --diff-filter=ACMR "$BASE" "$HEAD" -- 'data/planes/*.json' > /tmp/changed_plans.txt || true
+
+          if [[ ! -s /tmp/changed_plans.txt ]]; then
+            echo "No hay planes JSON nuevos o modificados en este cambio."
+            echo "has_plans=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "Planes detectados para validación:"
+          cat /tmp/changed_plans.txt
+          echo "has_plans=true" >> "$GITHUB_OUTPUT"
+
+      - name: Validar cada plan cambiado
+        if: steps.changed_plans.outputs.has_plans == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          while IFS= read -r plan; do
+            echo "Validando: $plan"
+            node scripts/validate-plan.js "$plan"
+          done < /tmp/changed_plans.txt
+
+      - name: Confirmar que no se modificaron planes
+        if: steps.changed_plans.outputs.has_plans == 'false'
+        run: echo "Los archivos de seguridad son válidos; esta actualización no modifica planes de alumnos."
