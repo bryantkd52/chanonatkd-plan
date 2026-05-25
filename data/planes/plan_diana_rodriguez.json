@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado dom 10 de mayo",
+  "updated_at": "Actualizado dom 24 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
-  "enfoque_corto": "Taeguk 8 Completa + Control de Base y Postura",
-  "enfoque": "Perfeccionamiento técnico de Taeguk 8 (L1-L6) con énfasis en la estabilidad de las posiciones Bom Seogui y Twit Kubi, además de la extensión total de la pierna de apoyo en pateo.",
+  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
+  "enfoque_corto": "Flexibilidad + Ap/Yop Chagui + Fijación en T8 y Koryo",
+  "enfoque": "Desarrollo de la memoria motriz y la precisión neuromuscular en Taeguk 8 y Koryo, priorizando la marcación técnica y la estabilidad de base en las patadas antes de aplicar velocidad.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
     {
@@ -26,104 +26,107 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+    },
+    {
+      "titulo": "Circuito Yop chagui con Bloque",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo",
+      "tags": ["ESTABILIDAD, EJE, BLOQUEO"]
     }
   ],
   "pateoDias": "MAR - JUE - SAB",
   "pateoTecnico": [
     {
-      "titulo": "Ap + Yop + Turn hips silla",
-      "enfoque": "Control de pierna de apoyo y firmeza de torso",
-      "reps": "10 reps por pierna / 2 series",
-      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO"
-    },
-    {
       "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Direccionamiento de rodilla y equilibrio",
-      "reps": "8 reps / 2 series",
+      "enfoque": "Control de pierna de apoyo y retorno del eje en Koryo",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
       "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
     },
     {
+      "titulo": "Secuencia Ap + Dollyo + Yop",
+      "enfoque": "Mecanización técnica y extensión de la base",
+      "reps": "5 secuencias por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
+    },
+    {
       "titulo": "Ap + Descendente frontal circuito",
-      "enfoque": "Extensión de rodilla base",
+      "enfoque": "Direccionamiento y control neuromuscular",
       "reps": "12 reps / 2 series",
+      "tipo": "video",
       "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
     },
     {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Estabilidad del talón de apoyo",
-      "reps": "20 reps / 2 series",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+      "titulo": "Circuito elevacion + sostener + circular",
+      "enfoque": "Fuerza estática en cámara de pateo para Koryo",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
     },
     {
-      "titulo": "Secuencia Ap + Dollyo + Yop",
-      "enfoque": "Control neuromuscular avanzado",
-      "reps": "5 reps / 2 series",
-      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
+      "titulo": "Yop Chagui con soporte de pared",
+      "enfoque": "Firmeza de cadera y alineación de talón",
+      "reps": "15 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO",
   "poomsae": [
     {
-      "titulo": "Taeguk 8 - Primer movimiento",
-      "enfoque": "Firmeza de torso y vista directa",
-      "reps": "15 reps",
-      "url": "https://drive.google.com/file/d/1DWX9g7vzlLsRQGNNi4RxxlA4Cz3_pHiJ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Transición Taeguk 8 - L1 a L2 T8",
-      "enfoque": "Máxima velocidad en giros",
-      "reps": "10 reps",
-      "url": "https://drive.google.com/file/d/1PC4Rgs-4I6Bml1FTC-kl_bljImEfCow8/view?usp=drive_link"
-    },
-    {
       "titulo": "L3 T8- Linea 3 de Taeguk 8 - Lento",
-      "enfoque": "Control de finalización de movimiento",
-      "reps": "10 reps",
+      "enfoque": "Marcación estricta y control de pausa",
+      "reps": "8 repeticiones conscientes",
+      "tipo": "video",
       "url": "https://drive.google.com/open?id=1D0g3Jmt0weJ90WGhV8LpACklDeghuC-d"
     },
     {
       "titulo": "L4 T8 - Linea 4 Taeguk 8 - Lento",
-      "enfoque": "Fuerza controlada y técnica de brazos",
-      "reps": "10 reps",
+      "enfoque": "Uso de memoria motriz y fijación de posturas",
+      "reps": "8 repeticiones conscientes",
+      "tipo": "video",
       "url": "https://drive.google.com/open?id=1tzS67xEzs3v28T1-kYC1ImguBsXvlsuE"
     },
     {
       "titulo": "L5 T8 - Linea 5 Taeguk 8 - Lento",
-      "enfoque": "Direccionamiento de rodillas en Bom Seogui",
-      "reps": "10 reps",
+      "enfoque": "Transición limpia y sincronía de pesos",
+      "reps": "6 repeticiones conscientes",
+      "tipo": "video",
       "url": "https://drive.google.com/open?id=1nsXWqxj_9Ia6R_ZYI6X-PGZl2ZyhdEmE"
     },
     {
       "titulo": "L6 T8 - Linea 6 Taeguk 8",
-      "enfoque": "Explosividad final y Kiap",
-      "reps": "10 reps",
-      "url": "https://drive.google.com/open?id=1kQLONEpCVDcXNfAANHqOMcGZSAOmWXU6"
+      "enfoque": "Continuidad técnica sin acelerar el impacto",
+      "reps": "6 repeticiones conscientes",
+      "tipo": "video",
+      "url": "https://drive.open?id=1kQLONEpCVDcXNfAANHqOMcGZSAOmWXU6"
     },
     {
-      "titulo": "Doble Ap Chagui + Aterrizaje - Taeguk 8",
-      "enfoque": "Control de eje y no elevar talón",
-      "reps": "15 reps",
-      "url": "https://drive.google.com/file/d/1mAlHFT6A4qise0_70UKO8UNcf_oJhjge/view?usp=drive_link"
-    },
-    {
-      "titulo": "Taeguk 8 completo",
-      "enfoque": "Timing competitivo y precisión",
-      "reps": "5 reps completas",
-      "url": "https://drive.google.com/open?id=1pJBYwhdY3gxXQjiw63daDLy1zz8AI0FG"
+      "titulo": "Linea 1 Koryo - Precisión + Timing",
+      "enfoque": "Simultaneidad y control de eje en golpes",
+      "reps": "8 repeticiones completas",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; debe estar firme y extendida, especialmente en Yop Chagui.",
-    "En tu postura, mantén la firmeza en el torso. No lleves los hombros al frente; la pierna puede estar inestable, pero jamás tu torso.",
-    "Direcciona siempre con la rodilla hacia el objetivo. Al flexionar al pecho en Yop Chagui, ya estás direccionando.",
-    "En Taeguk 8, ejecuta con máxima velocidad y fuerza. Los giros y vistas deben ser precisos; cuida cada finalización de movimiento.",
-    "En las Bom Seoguis, las rodillas deben direccionar hacia la defensa, no hacia afuera. Reserva la apertura para la Twit Kubi.",
-    "Hablando de Twit Kubi, busca que la pierna de atrás domine el peso; evita que el cuerpo se incline hacia el frente."
+    "Campeona, es muy importante que tome en cuenta cada movimiento en Taeguk 8 y Koryo. No se adelante ni acelere las posiciones, y evite inventar trayectorias.",
+    "Procure usar la memoria para que su cuerpo mecanice la secuencia de forma automática. Trate de acordarse de cada transición y, hasta que esté completamente segura, ejecute.",
+    "Primero asegure la precisión; después podemos aplicar velocidad. La parte más importante de este ciclo es la marcación, congelando un instante el final para que el juez note la calidad técnica.",
+    "En el pateo de Yop Chagui para Koryo, use el circuito con bloque para asegurar que la rodilla de apoyo no se flexione y que la cadera sostenga el plano correcto.",
+    "Cualquier elevación del talón base o falta de definición en los lentos de Taeguk 8 restará puntos clave en presentación en competencia."
   ],
   "notasFinales": [
-    "Campeona, este plan cubre la Taeguk 8 completa. Es una poomsae exigente que requiere toda tu concentración en las transiciones de Bom Seogui.",
-    "No permitas que la fatiga afecte tu postura; recuerda que el control del torso es lo que te dará la puntuación de presentación.",
-    "Cualquier duda con los nuevos videos de las líneas lentas de T8, coméntame de inmediato.",
-    "¡Feliz entrenamiento y a darle con todo, campeona!"
+    "Champ, vamos súper bien. Con enfoque diario y práctica consciente, estoy seguro de que no se le olvidará ningún movimiento de estas formas.",
+    "La confianza nace del orden: use el material lento de Taeguk 8 para grabar el mapa del poomsae en su mente.",
+    "Si tiene dudas con alguna de las transiciones de las líneas finales de Taeguk 8, avíseme de inmediato.",
+    "¡A entrenar con todo el enfoque, campeona!"
   ]
 }
