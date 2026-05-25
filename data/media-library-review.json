@@ -1,14 +1,14 @@
 {
   "review_name": "ChanonaTKD Media Library - Decisiones de revisión",
   "review_date": "2026-05-25",
-  "review_status": "partial_review_pending_final_approval",
+  "review_status": "review_complete_pending_library_consolidation",
   "applies_to": "data/media-library.json",
   "reviewed_by": "Bryan Herrera",
   "decisions": [
     {
       "conflict_id": "pyonwong-completo-audio-video",
       "status": "resolved",
-      "decision": "Conservar ambos recursos porque no son duplicados: la opción A es audio de Pyonwong completo y la opción B es video de Pyonwong completo.",
+      "decision": "Conservar ambos recursos: uno es audio de timing de Pyonwong completo y el otro es el video técnico actualizado de Pyonwong completo.",
       "canonical_resources": [
         {
           "title": "Timing - Pyonwong completo",
@@ -27,52 +27,105 @@
       ]
     },
     {
-      "conflict_id": "circuito-aterrizaje-prep-t5-l2-duplicate",
+      "conflict_id": "transicion-ap-kubi-a-ap-kubi-corrected",
       "status": "resolved",
-      "decision": "Es el mismo video. Conservar una sola entrada canónica en la categoría de poomsae, por relación directa con Taeguk 5 Línea 2; retirar el duplicado de pateo básicas/intermedias cuando se consolide la biblioteca aprobada.",
+      "decision": "Bryan confirmó que este es el recurso correspondiente a Transicion ap kubi a ap kubi.",
+      "canonical_resource": {
+        "title": "Transicion ap kubi a ap kubi",
+        "media_type": "video",
+        "default_section": "poomsae",
+        "url": "https://drive.google.com/open?id=1GFswX5pFCIA84NIvmi0t1ZfZcEiAc1yv&usp=drive_copy",
+        "approval_status": "approved_by_bryan"
+      }
+    },
+    {
+      "conflict_id": "circuito-aterrizaje-prep-t5-l2-corrected",
+      "status": "resolved_with_previous_aliases_blocked",
+      "decision": "Bryan confirmó que el enlace canónico para Circuito aterrizaje + prep - T5 L2 es el indicado aquí. Las URLs anteriormente clasificadas con este mismo título se conservan solo como referencia histórica y quedan bloqueadas para selección automática hasta depuración final.",
       "canonical_resource": {
         "title": "Circuito aterrizaje + prep - T5 L2",
         "media_type": "video",
         "default_section": "poomsae",
-        "url": "https://drive.google.com/open?id=1PVxwOGM_EDJm0SIrRumga-CUDv466-rj&usp=drive_copy",
+        "url": "https://drive.google.com/open?id=1aXojkxi9SDk10XS_OUDvYgIIkAvd5Thk&usp=drive_copy",
         "approval_status": "approved_by_bryan"
       },
-      "duplicate_to_retire": {
-        "url": "https://drive.google.com/open?id=1mP-G5_nVAfH5VyUTdJfkUW1Pw-WjgWil&usp=drive_copy"
-      }
-    },
-    {
-      "conflict_id": "transicion-ap-kubi-a-ap-kubi-two-links",
-      "status": "needs_distinctive_names_before_automatic_use",
-      "decision": "Conservar ambos enlaces. Bryan confirmó los dos títulos, pero por el momento solo se distinguen por el uso de mayúsculas/minúsculas; esa diferencia no es suficiente para selección automática segura.",
-      "resources_pending_distinctive_title": [
-        {
-          "current_title": "Transicion ap kubi a ap kubi",
-          "url": "https://drive.google.com/open?id=1GFswX5pFCIA84NIvmi0t1ZfZcEiAc1yv&usp=drive_copy"
-        },
-        {
-          "current_title": "Transicion Ap Kubi a Ap Kubi",
-          "url": "https://drive.google.com/open?id=1aXojkxi9SDk10XS_OUDvYgIIkAvd5Thk&usp=drive_copy"
-        }
-      ],
-      "required_next_step": "Bryan debe indicar qué diferencia técnica muestra cada video o asignar un nombre identificable a cada versión."
+      "historical_urls_blocked_for_automatic_assignment": [
+        "https://drive.google.com/open?id=1mP-G5_nVAfH5VyUTdJfkUW1Pw-WjgWil&usp=drive_copy",
+        "https://drive.google.com/open?id=1PVxwOGM_EDJm0SIrRumga-CUDv466-rj&usp=drive_copy"
+      ]
     }
   ],
-  "unreviewed_pending_resources": {
-    "current_plans_pending_confirmation": [
-      "Ap + Dollyo + Yop con regreso",
-      "Ap + Descendente frontal circuito",
-      "Secuencia Ap + Dollyo + Yop",
-      "Circuito elevacion + sostener + circular",
-      "Pucho + Ap Chagui + Giro golpe",
-      "Circuito Yop chagui con Bloque"
-    ],
-    "historical_examples_pending_confirmation": [
-      "Lubricación - ChanonaTKD",
-      "Primera Sesión ChanonaTKD System",
-      "Ap chaguis con bloques",
-      "Thicking clock 3 hours Relaxing Tic Toc - Relajante Sonido de Reloj"
-    ],
-    "note": "Pyonwong completo en video fue aprobado mediante la resolución correspondiente y deja de pertenecer a esta lista pendiente."
-  }
+  "approved_resources_previously_pending": [
+    {
+      "title": "Ap + Dollyo + Yop con regreso",
+      "media_type": "video",
+      "default_section": "pateoTecnico",
+      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Ap + Descendente frontal circuito",
+      "media_type": "video",
+      "default_section": "pateoTecnico",
+      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Secuencia Ap + Dollyo + Yop",
+      "media_type": "video",
+      "default_section": "pateoTecnico",
+      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Circuito elevacion + sostener + circular",
+      "media_type": "video",
+      "default_section": "pateoTecnico",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Pucho + Ap Chagui + Giro golpe",
+      "media_type": "video",
+      "default_section": "pateoTecnico",
+      "url": "https://drive.google.com/open?id=15ZssVKzl60NXNrB4oL9bWsjdO9uefnCw",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Circuito Yop chagui con Bloque",
+      "media_type": "video",
+      "default_section": "isometrico",
+      "url": "https://drive.google.com/open?id=1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Lubricación - ChanonaTKD",
+      "media_type": "video",
+      "default_section": "chanonaflex",
+      "url": "https://drive.google.com/file/d/1RuhdS9If2L6QBhR6xplM5CEhFmLxR-Wq/view?usp=drive_link",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Primera Sesión ChanonaTKD System",
+      "media_type": "video",
+      "default_section": "poomsae",
+      "url": "https://drive.google.com/file/d/1vOfIaIZoli63oh8HoVaKsqYjBVy0449A/view?usp=drive_link",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Ap chaguis con bloques",
+      "media_type": "video",
+      "default_section": "pateoTecnico",
+      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link",
+      "approval_status": "approved_by_bryan"
+    },
+    {
+      "title": "Thicking clock 3 hours Relaxing Tic Toc - Relajante Sonido de Reloj",
+      "media_type": "audio",
+      "default_section": "poomsae",
+      "url": "https://www.youtube.com/watch?v=rKwsVIjzBvk",
+      "approval_status": "approved_by_bryan"
+    }
+  ],
+  "next_consolidation_rule": "Construir una biblioteca canónica aprobada que incluya los recursos aprobados y excluya de selección automática las URLs históricas bloqueadas."
 }
