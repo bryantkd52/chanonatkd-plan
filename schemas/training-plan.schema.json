@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chanonatkd.example/schemas/training-plan.schema.json",
+  "title": "ChanonaTKD Training Plan",
+  "description": "Contrato obligatorio para planes nuevos o modificados de ChanonaTKD. Las comprobaciones de URLs aprobadas, privacidad y audios de timing se ejecutan adicionalmente en scripts/validate-plan.js.",
+  "type": "object",
+  "required": [
+    "updated_at",
+    "nivel",
+    "ciclo",
+    "enfoque_corto",
+    "enfoque",
+    "chanonaflexDias",
+    "chanonaflex",
+    "isometricoDias",
+    "isometrico",
+    "pateoDias",
+    "pateoTecnico",
+    "poomsaeDias",
+    "poomsae",
+    "apuntes",
+    "notasFinales"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "updated_at": { "$ref": "#/$defs/nonEmptyText" },
+    "nivel": { "$ref": "#/$defs/nonEmptyText" },
+    "ciclo": { "$ref": "#/$defs/nonEmptyText" },
+    "enfoque_corto": { "$ref": "#/$defs/nonEmptyText" },
+    "enfoque": { "$ref": "#/$defs/nonEmptyText" },
+    "chanonaflexDias": { "$ref": "#/$defs/nonEmptyText" },
+    "chanonaflex": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/resource" }
+    },
+    "isometricoDias": { "$ref": "#/$defs/nonEmptyText" },
+    "isometrico": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/resource" }
+    },
+    "pateoDias": { "$ref": "#/$defs/nonEmptyText" },
+    "pateoTecnico": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/resource" }
+    },
+    "poomsaeDias": { "$ref": "#/$defs/nonEmptyText" },
+    "poomsae": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/resource" }
+    },
+    "extras": {
+      "description": "Sección opcional; usar únicamente cuando Bryan la solicite o ya exista en el plan actualizado.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/resource" }
+    },
+    "apuntes": { "$ref": "#/$defs/textList" },
+    "notasFinales": { "$ref": "#/$defs/textList" }
+  },
+  "$defs": {
+    "nonEmptyText": {
+      "type": "string",
+      "minLength": 1
+    },
+    "textList": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/nonEmptyText" }
+    },
+    "resource": {
+      "type": "object",
+      "required": ["titulo", "tipo", "url"],
+      "additionalProperties": false,
+      "properties": {
+        "titulo": { "$ref": "#/$defs/nonEmptyText" },
+        "dia": { "$ref": "#/$defs/nonEmptyText" },
+        "enfoque": { "$ref": "#/$defs/nonEmptyText" },
+        "reps": { "$ref": "#/$defs/nonEmptyText" },
+        "tipo": {
+          "type": "string",
+          "enum": ["video", "audio", "folder"]
+        },
+        "url": { "$ref": "#/$defs/nonEmptyText" },
+        "tags": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/nonEmptyText" }
+        }
+      }
+    }
+  }
+}
