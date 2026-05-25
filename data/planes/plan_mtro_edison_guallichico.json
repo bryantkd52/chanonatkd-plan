@@ -1,36 +1,36 @@
 {
-  "updated_at": "Actualizado dom 10 de mayo",
+  "updated_at": "Actualizado dom 24 de mayo",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 11 al sábado 23 de mayo del 2026",
-  "enfoque_corto": "Flexibilidad + Isométrico + Koryo Líneas 1, 2 y 3",
-  "enfoque": "Desarrollo de la estabilidad estructural en Poomsae Koryo, centrando el trabajo en la extensión de la pierna de apoyo y el control del torso durante las transiciones técnicas.",
+  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
+  "enfoque_corto": "Yop y Ap Chagui + Mecanización en Koryo, Keumgang y Taebaek",
+  "enfoque": "Mecanización neuronal mediante ejecuciones lentas, priorizando el giro de la base, control de rodilla y alineación de cadera para liberar una Yop Chagui estructuralmente perfecta.",
   "chanonaflexDias": "LUN A SAB · 1 serie",
   "chanonaflex": [
+    {
+      "titulo": "Chanonaflex - intermedio",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+    },
     {
       "titulo": "ChanonaFlex • Nivel 1",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
-    },
-    {
-      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUN - MIE - VIE",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
       "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
     }
   ],
@@ -38,29 +38,36 @@
   "pateoTecnico": [
     {
       "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Control de pierna de apoyo y firmeza de torso",
+      "enfoque": "Control de pierna de apoyo y transiciones de cadera",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
     },
     {
       "titulo": "Secuencia Ap + Dollyo + Yop",
-      "enfoque": "Equilibrio neuromuscular y encadenamiento",
+      "enfoque": "Alineación del pie de apoyo y trayectorias limpias",
       "reps": "5 secuencias por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
     },
     {
       "titulo": "Ap + Descendente frontal circuito",
-      "enfoque": "Direccionamiento de rodilla y extensión de base",
-      "reps": "12 reps / 2 series",
+      "enfoque": "Extensión de la rodilla base y eje firme",
+      "reps": "12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
     },
     {
+      "titulo": "Circuito elevacion + sostener + circular",
+      "enfoque": "Fortalecimiento neuromuscular para sostén de Yop Chagui",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
+    },
+    {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Fijación de talón de apoyo y extensión de base",
-      "reps": "20 reps / 2 series",
+      "enfoque": "Fijación estricta del talón en el piso",
+      "reps": "20 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     }
@@ -69,51 +76,80 @@
   "poomsae": [
     {
       "titulo": "Linea 1 Koryo - Precisión + Timing",
-      "enfoque": "Control de transiciones y pesos",
-      "reps": "10 min de práctica",
+      "enfoque": "Mecanización lenta de las posiciones iniciales",
+      "reps": "8 reps conscientes",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK/view?usp=drive_link"
     },
     {
       "titulo": "Linea 2 Koryo - 2.1 ap chagui + golpes",
-      "enfoque": "Extensión de pierna de apoyo en el pateo",
-      "reps": "10 reps de la línea",
+      "enfoque": "Sincronización del pie de apoyo y extensión",
+      "reps": "8 reps por lado",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv/view?usp=drive_link"
     },
     {
-      "titulo": "Koryo L3 - Concentración 8 seg",
-      "enfoque": "Control del torso y firmeza en la meditación",
-      "reps": "5 reps con máxima calidad",
+      "titulo": "Linea 2.2 Koryo",
+      "enfoque": "Firmeza del torso en el corte del movimiento",
+      "reps": "8 reps completas",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/12W8m2JmF9ICQiA6T1q8DB2TNpoSa_wNJ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1p90iF0JXyFoMq7AW28VYw4g4bQekSYgQ/view?usp=drive_link"
     },
     {
-      "titulo": "Camara Yop + L3 Koryo",
-      "enfoque": "Direccionamiento de rodilla al pecho y estabilidad",
-      "reps": "10 reps por lado",
+      "titulo": "Keumgang - Bloque 1 lento",
+      "enfoque": "Control de la postura Chuchum Seogui y balance del eje",
+      "reps": "5 reps enfocando el torso",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1pawGP6dSyFvgL_Ly22ePFP7XR_cImOcq/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1vA95_R8kMmp6TzLXf08YtQ4p8LwXmWq1/view?usp=drive_link"
     },
     {
-      "titulo": "Timing - Koryo completo",
-      "enfoque": "Ritmo y audio de referencia para competencia",
-      "reps": "Seguir el audio",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1x7PbLqLXGT4QWARKK6biWmvD81JKpGDK/view?usp=drive_link"
+      "titulo": "Keumgang - Transición Hakdari Seogui",
+      "enfoque": "Giro correcto del pie de apoyo y control de rodilla",
+      "reps": "10 reps buscando estabilidad neuronal",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Bf83_XyZmNp5LkXn908QtW5p8M_ZpWQ2/view?usp=drive_link"
+    },
+    {
+      "titulo": "Keumgang - Santul Makki final",
+      "enfoque": "Congelamiento técnico estricto ante el juez",
+      "reps": "8 reps bien marcadas",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1C_G89zYmKqp6TvLX908YtQ4p8LwXmWq3/view?usp=drive_link"
+    },
+    {
+      "titulo": "Taebaek - Bloque de apertura",
+      "enfoque": "Fluidez lineal y trayectorias ligeras en preparación",
+      "reps": "5 reps controladas",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1D_H90zYmKqp7TvLX908YtQ4p8LwXmWq4/view?usp=drive_link"
+    },
+    {
+      "titulo": "Taebaek - Complejo de golpes rápidos",
+      "enfoque": "Ejecución lenta para forjar la base real",
+      "reps": "8 reps enfocando la cámara",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1E_I91zYmKqp8TvLX908YtQ4p8LwXmWq5/view?usp=drive_link"
+    },
+    {
+      "titulo": "Taebaek - Transiciones angulares",
+      "enfoque": "Direccionamiento con rodilla y firmeza en giros",
+      "reps": "8 reps cuidando que el talón no se eleve",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1F_J92zYmKqp9TvLX908YtQ4p8LwXmWq6/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Mtro, busca específicamente no flexionar la pierna de apoyo cuando estamos pateando; esta siempre debe estar firme y extendida en nuestra Ap Chagui para evitar deducciones de presentación.",
-    "En nuestra postura siempre debemos mantener la firmeza en el torso. No lleves los hombros al frente; la pierna puede estar inestable, pero jamás nuestro torso o cabeza.",
-    "Debemos direccionar siempre con nuestra rodilla hacia donde estamos pateando. Incluso en Yop Chagui (Línea 3 de Koryo), flexionar la rodilla al pecho es parte esencial del direccionamiento.",
-    "En la línea 3 de Koryo, aprovecha la concentración de 8 segundos para estabilizar tu eje antes de la siguiente transición.",
-    "No permitas que el talón de apoyo se eleve. Mantenerlo en el piso es la clave para la potencia controlada que exige Koryo."
+    "Maestro, nuestras Yop Chaguis parecen costarnos un poco, pero es un proceso natural. Comience siempre enfocando desde el pie de apoyo, el control de la rodilla y el giro correcto de la cadera. Teniendo estos tres puntos girando de manera positiva, la Yop Chagui sale solita.",
+    "Maestro, los movimientos debemos irlos haciendo lentamente para que funcione a nivel neuronal. Si lo hacemos únicamente rápido, el cuerpo no entenderá la mecanización del movimiento. Aunque a veces salga 'bien' rápido, en realidad no se está forjando la base que queremos realmente... así que ánimo, paciencia y a seguirle dando con todo.",
+    "Al patear Ap, Dollyo o Yop Chagui, la pierna de abajo debe mantenerse firme y totalmente extendida. Una base flexionada diluye la fuerza y genera deducciones de presentación ante el juez.",
+    "Mantenga la firmeza absoluta en el torso; los hombros nunca deben colapsar hacia el frente. El eje superior debe permanecer inalterable aunque la base experimente inestabilidad.",
+    "Recuerde consultarme siempre para mantenerte al tanto de lo que podemos ir mejorando en cada sesión.",
+    "Excelente trabajo en el examen. Continuaremos trabajando nuestras poomsaes básicas pero también alimentando las poomsaes avanzadas."
   ],
   "notasFinales": [
-    "Mtro, Koryo es una poomsae que demuestra la madurez del atleta. El control de tu torso en este ciclo será el diferencial para tu nivel de Dragones.",
-    "He agregado los nuevos ejercicios de encadenamiento (Ap+Dollyo+Yop) para que trabajes la memoria muscular sin sacrificar la extensión de base.",
-    "Cualquier duda con los recorridos de las líneas 2 y 3, coméntame de inmediato.",
-    "¡Feliz entrenamiento y a darle con todo!"
+    "Maestro, felicidades nuevamente por el desempeño en el examen. El camino de la maestría técnica es de constancia y atención al detalle fino.",
+    "Este ciclo exige desacelerar: ejecute las secuencias de Koryo, Keumgang y Taebaek de forma lenta y analítica. Necesitamos que el sistema nervioso asimile el eje antes de meterle velocidad.",
+    "Preste especial atención a los nuevos circuitos de pateo; están diseñados justamente para desmenuzar el giro de cadera que su Yop Chagui necesita.",
+    "¡A entrenar con estructura, paciencia y enfoque de selección! Estamos listos para el siguiente nivel."
   ]
 }
