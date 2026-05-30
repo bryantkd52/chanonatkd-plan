@@ -1,118 +1,178 @@
 {
-  "updated_at": "Actualizado dom 24 de mayo",
+  "updated_at": "Actualizado sáb 30 de mayo de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
-  "enfoque_corto": "Flexibilidad avanzada + Control de Ap y Yop Chagui + Taeguk 7",
-  "enfoque": "Construcción de la precisión técnica y detención consciente en Taeguk 7, combinada con el fortalecimiento del eje y rango avanzado en pateo frontal y de lado.",
-  "chanonaflexDias": "LUN A SAB · 1 serie",
-  "chanonaflex": [
-    {
-      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Pre-Chanonaflex - Todos Niveles",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
-    }
-  ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "ciclo": "Sábado 30 de mayo al viernes 5 de junio de 2026",
+  "enfoque_corto": "Koryo intensivo + Yop Chagui + marcación técnica",
+  "enfoque": "En este ciclo trabajaremos de forma intensiva toda la poomsae Koryo, enfocándonos en marcar con claridad cada movimiento, preparar correctamente las defensas, ejecutar con explosividad controlada y corregir la Yop Chagui para que la rodilla entre al pecho antes de patear. La prioridad será que cada línea se vea precisa, limpia y entendible para el juez.",
+  "chanonaflexDias": "NO ASIGNADO EN ESTE CICLO",
+  "chanonaflex": [],
+  "isometricoDias": "LUNES A JUEVES / YOP CHAGUI NIVEL 2",
   "isometrico": [
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Circuito Yop chagui con Bloque",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "tags": ["YOP CHAGUI, CADERA, FUERZA, CONTROL"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "LUNES A JUEVES / CONTROL DE AP CHAGUI Y YOP CHAGUI",
   "pateoTecnico": [
     {
-      "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Control de la pierna base y recuperación del eje",
-      "reps": "10 reps por pierna / 2 series",
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Meter la rodilla al pecho antes de ejecutar la Yop Chagui y evitar que se vea como patada circular",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
-      "titulo": "Secuencia Ap + Dollyo + Yop",
-      "enfoque": "Mecánica de alineación y encadenamiento continuo",
-      "reps": "5 secuencias por pierna / 2 series",
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Controlar cámara, extensión y regreso de la pierna sin perder el eje corporal",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
     },
     {
-      "titulo": "Ap + Descendente frontal circuito",
-      "enfoque": "Direccionamiento y control neuromuscular del descenso",
-      "reps": "12 reps / 2 series",
+      "titulo": "Koryo L1 hold yop + Pyonwong",
+      "enfoque": "Control de Yop Chagui, cámara al pecho y alineación de torso para Koryo",
+      "reps": "10 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
+      "url": "https://drive.google.com/open?id=1EvUXdSs21NOAQR8OkD5ip6MeEApvUDDy&usp=drive_copy"
     },
     {
-      "titulo": "Circuito elevacion + sostener + circular",
-      "enfoque": "Estabilidad del torso y fuerza de sostén en cadera",
+      "titulo": "Doble yop hold + landing L3 + L1 koryo",
+      "enfoque": "Sostener la pierna, corregir aterrizaje y mantener la Yop Chagui con rodilla al pecho",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap Chagui Extension completa",
+      "enfoque": "Mejorar extensión, pierna de apoyo y postura lineal para las Ap Chaguis de Koryo",
+      "reps": "15 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
+    },
+    {
+      "titulo": "Sentadilla Ap Chagui",
+      "enfoque": "Fortalecer cuádriceps para que la pierna de apoyo se mantenga firme y estable",
       "reps": "10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
-    },
-    {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Fijación absoluta del talón de apoyo en el piso",
-      "reps": "20 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsaeDias": "SÁBADO A VIERNES / KORYO INTENSIVO",
   "poomsae": [
     {
-      "titulo": "L2 Taeguk 7 - Linea 2 Taeguk 7",
-      "enfoque": "Corte exacto en transiciones y control de postura",
-      "reps": "10 ejecuciones conscientes",
+      "titulo": "Linea 1 Koryo - Precisión + Timing",
+      "enfoque": "Marcación clara, preparación de defensas y corte de movimiento",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1XOR1VIxFlV9V__4-nQ2nrqqTIjCBwXA3"
+      "url": "https://drive.google.com/open?id=1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK&usp=drive_copy"
     },
     {
-      "titulo": "L3 Taeguk 7 - Linea 3 Taeguk 7",
-      "enfoque": "Precisión posicional y detención sin reajustes",
-      "reps": "10 ejecuciones conscientes",
+      "titulo": "Linea 2 Koryo - 2.1 ap chagui + golpes",
+      "enfoque": "Ap Chagui, golpes marcados y preparación explosiva sin perder postura",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1GRHKn-kKMmgY0mJ6japbwVK8AqiP8yAv"
+      "url": "https://drive.google.com/open?id=1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv&usp=drive_copy"
     },
     {
-      "titulo": "Kawi Makki Lento - L4 T7 Linea 4 Taeguk 7",
-      "enfoque": "Sincronización técnica y fluidez progresiva",
-      "reps": "8 ejecuciones controladas",
+      "titulo": "Linea 2.2 Koryo",
+      "enfoque": "Continuidad de línea 2, precisión de transiciones y control del peso corporal",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1LMHTtDYnYbKvph1y9FNuE2bTjTpW_avc"
+      "url": "https://drive.google.com/open?id=1p90iF0JXyFoMq7AW28VYw4g4bQekSYgQ&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L3 - Lado derecho",
+      "enfoque": "Yop Chagui, línea corporal y aterrizaje técnico del lado derecho",
+      "reps": "15 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=116eSAk3WUKVvXneFxAAyuyrG0mu7pwIi&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L3 - Lado izquierdo",
+      "enfoque": "Yop Chagui, línea corporal y aterrizaje técnico del lado izquierdo",
+      "reps": "15 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1d39Oz_ASS6Yb-BIUclGe9QrT-WP9BgwS&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L3 - Concentración 8 seg",
+      "enfoque": "Movimiento de concentración, timing y llegada clara antes de continuar",
+      "reps": "10 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=12W8m2JmF9ICQiA6T1q8DB2TNpoSa_wNJ&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L4 - Golpes y defensas",
+      "enfoque": "Preparaciones claras, defensas explosivas y brazos firmes",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1UHV_mYsNFt3pZIiQKAWXIYWjGcpoguwP&usp=drive_copy"
+    },
+    {
+      "titulo": "Camara L3 Koryo",
+      "enfoque": "Meter rodilla al pecho antes de la Yop Chagui y evitar que parezca circular",
+      "reps": "20 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=10nz0e_wowhkr4rk7uUlobLrKCFpA6OXy&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 3 Koryo - Sentadilla y camara",
+      "enfoque": "Fortalecer la cámara, postura y control de la línea 3 de Koryo",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 1 Koryo",
+      "enfoque": "Audio de timing para trabajar ritmo y cortes de la línea 1",
+      "reps": "2 ejecuciones completas con audio",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1_k4JjzJoUEm0al3K5H50CKPR92-qqi4I&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 2 Koryo",
+      "enfoque": "Audio de timing para trabajar ritmo y cortes de la línea 2",
+      "reps": "2 ejecuciones completas con audio",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1bHFcpMm4BQcRHyNp80cE_XjZunvQVtJ_&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 3 Koryo",
+      "enfoque": "Audio de timing para trabajar ritmo, Yop Chagui y concentración de línea 3",
+      "reps": "2 ejecuciones completas con audio",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=10o0AJ_apfYR0Ea07gG8vb1jnpRoC2Mtb&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 4 Koryo",
+      "enfoque": "Audio de timing para trabajar cierre, precisión y ritmo de la línea 4",
+      "reps": "2 ejecuciones completas con audio",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1xJhWCxooy4--UDr9EGnq1Je8-bQl8m84&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo completo",
+      "enfoque": "Audio de timing para integrar toda la poomsae sin correr ni perder marcación",
+      "reps": "2 ejecuciones completas con audio",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1x7PbLqLXGT4QWARKK6biWmvD81JKpGDK&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "Buscaremos practicar diario nuestros ejercicios específicos de poomsae, campeona. ¿A qué me refiero? A que cada movimiento debe ser bien ejecutado y acorde a lo que hemos trabajado en clase. No se salga de esa estructura porque cuando usted lo mejora, lo hace estupendamente, así que continúe con esa atención y mentalidad ganadora.",
-    "No trate de hacerlo rápido, busque hacerlo bien y preciso. No agregue movimientos o haga ajustes si no está segura de la trayectoria.",
-    "Es preferible que entrenando se quede un momento quieta para después continuar con el verdadero movimiento, que acostumbrarnos a uno incorrecto y después tener que cambiarlo. Esto, por supuesto, debe ser hecho durante el entrenamiento.",
-    "Ya que tengamos la poomsae más marcada y bien memorizada correctamente es entonces cuando empezaremos a hacerlo con más fluidez.",
-    "En las líneas de Taeguk 7, cuide que los bloqueos y golpes detengan su inercia de inmediato. Congelar el movimiento en la posición exacta es lo que convence al jueceo."
+    "Campeona, necesitamos marcar con mayor claridad los movimientos. Le dejaré ejercicios y videos que serán clave para poder ejecutar correctamente cada movimiento; por favor intente replicar exactamente cada movimiento que hago.",
+    "No intente hacerlo rápido, pero tampoco lento. Cada movimiento, patada y defensa debe ejecutarse de manera precisa y marcada, a un nivel en donde el juez pueda ver que el movimiento fue realizado correctamente.",
+    "En Koryo, la Yop Chagui es esencial. Si la hacemos como una patada circular, la presentación bajará muchísimo. Necesitamos trabajar en meter la rodilla al pecho antes de hacer cualquier Yop Chagui; cualquier Yop, campeona.",
+    "Procure que todas las defensas tengan su preparación clara antes de ejecutar. La preparación es la que le da intención, dirección y lectura visual al movimiento.",
+    "Nuestra mirada y posiciones son muy importantes. Cuando ejecute Twit Kubi, asegúrese de llevar el peso a la pierna trasera para que visualmente se note que la posición está bien realizada."
   ],
-  "notesFinales": [
-    "Campeona, tu capacidad técnica es excelente cuando te concentras en la estructura exacta de cada paso. No lleves prisa en las series de Taeguk 7.",
-    "Usa la estrategia de congelar el movimiento si dudas de la posición; el cerebro aprende más de la pausa correcta que de la velocidad con errores.",
-    "Revisa con mucha atención los videos de las líneas de Taeguk 7 antes de iniciar tu práctica diaria.",
-    "¡Confía en tu proceso y sigue entrenando con esa mentalidad de campeona!"
+  "notasFinales": [
+    "Procure que, de forma general, las defensas lleven su respectiva preparación clara para después ejecutar de manera explosiva.",
+    "La mirada y las posiciones son muy importantes también. Cuando ejecutamos Twit Kubi, asegúrese de llevar todo el peso en la pierna trasera para que se note que lo estamos haciendo bien.",
+    "Este ciclo será intenso, pero la clave no será hacer más por hacer más, sino repetir con intención, precisión y enfoque real en cada línea de Koryo.",
+    "Cualquier duda, por favor coménteme campeona.",
+    "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
