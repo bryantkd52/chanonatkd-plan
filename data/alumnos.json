@@ -284,6 +284,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Mayo",
     "objetivo_proximo": "Flexibilidad + movilidad activa + fuerza de cadera"
+  },
+
+  "johncell_genesis": {
+    "nombre": "Johncell Genesis",
+    "plan": "plan_johncell_genesis.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Junio",
+    "objetivo_proximo": "Mejorar técnicamente Koryo línea 1"
   }
 
 }
