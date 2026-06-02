@@ -1,0 +1,83 @@
+{
+  "updated_at": "Actualizado mié 3 de junio de 2026",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Miércoles 3 al sábado 13 de junio de 2026",
+  "enfoque_corto": "Flexibilidad base + isométrico de Ap Chagui y Yop Chagui",
+  "enfoque": "En este ciclo comenzaremos trabajando desde lo básico para mejorar flexibilidad desde nivel 1 y ejercicios isométricos de pateo en Ap Chagui y Yop Chagui. El objetivo será estimular ingle, cadera, isquiotibiales y zona lumbar con calma, enfoque técnico postural, alineación y control, sin compensar con la pierna, la espalda o los glúteos.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
+    },
+    {
+      "titulo": "Chanonaflex - intermedio",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=sharing"
+    }
+  ],
+  "isometricoDias": "MARTES - JUEVES - SÁBADO / NIVEL 1",
+  "isometrico": [
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["AP CHAGUI, FUERZA, FLEXIBILIDAD, CONTROL"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["YOP CHAGUI, CADERA, FLEXIBILIDAD, CONTROL"]
+    }
+  ],
+  "pateoDias": "MARTES - JUEVES - SÁBADO / 2 EJERCICIOS DE AP CHAGUI Y 2 DE YOP CHAGUI",
+  "pateoTecnico": [
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Aprender cámara, alineación de espalda y extensión técnica de Ap Chagui sin compensar",
+      "reps": "12 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap Chagui Extension completa",
+      "enfoque": "Trabajar extensión completa, pierna de apoyo firme y postura lineal",
+      "reps": "15 repeticiones por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
+    },
+    {
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Aprender cámara de rodilla al pecho, cadera y estructura básica de Yop Chagui",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
+    },
+    {
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Controlar extensión, regreso de la pierna y alineación del cuerpo durante Yop Chagui",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    }
+  ],
+  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
+  "poomsae": [],
+  "apuntes": [
+    "Comenzaremos trabajando desde lo básico, sintiendo y estimulando áreas como ingle, cadera, isquiotibiales y zona lumbar.",
+    "Cada uno de los estiramientos y ejercicios es importante realizarlo con calma, enfoque técnico postural y alineación.",
+    "Procure no compensar bajando la pierna, sacando los glúteos de lado o rompiendo la postura de la espalda según sea el caso.",
+    "La idea es sentir la estimulación y mantenerse en el límite que permita el cuerpo: no más de lo necesario, pero tampoco tan suave que no genere trabajo real.",
+    "Nos mantendremos trabajando esto durante la semana con intervalos de consistencia por días, por lo que hay que apartar aproximadamente 1 hora para lograr ejecutar todos los ejercicios."
+  ],
+  "notasFinales": [
+    "Bienvenido maestro a su plan de entrenamiento y al ChanonaTKD System. Su entrenamiento personalizado se encuentra aquí.",
+    "Agradezco su confianza y cualquier duda en referente a los ejercicios, por favor coménteme y procuraré responderle a la brevedad posible.",
+    "Nuevamente, bienvenido. Vamos a construir una base fuerte, segura y bien alineada desde el inicio.",
+    "¡Feliz entrenamiento!"
+  ]
+}
