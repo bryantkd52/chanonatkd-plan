@@ -292,6 +292,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Mejorar técnicamente Koryo línea 1"
+  },
+
+  "mario_lopez": {
+    "nombre": "Mario Lopez",
+    "plan": "plan_mario_lopez.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Junio",
+    "objetivo_proximo": "Flexibilidad nivel 1 e isométricos de Ap Chagui y Yop Chagui"
   }
 
 }
