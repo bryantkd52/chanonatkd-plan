@@ -1,133 +1,207 @@
 {
-  "updated_at": "Actualizado dom 15 marzo",
-  "nivel": "Nivel Avanzado",
-  "ciclo": "Lunes 16 al sábado 21 de marzo del 2026",
-  "enfoque_corto": "Timing + fortalecimiento",
-  "enfoque": "Precisión de movimientos, velocidad y ejercicios de corte en poomsae",
-  "isometricoDias": "MARTES - JUEVES",
-  "isometrico": [
+  "updated_at": "Actualizado lun 8 de junio de 2026",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Yop Chagui + Ap Chagui + Taeguk 5 + Koryo + Pyonwong",
+  "enfoque": "En este ciclo retomamos con enfoque fuerte en la técnica de Yop Chagui, Ap Chagui, Taeguk 5 línea 2, Koryo líneas 1 y 3, y Pyonwong. Buscaremos que cada patada tenga mejor cámara, mejor control del torso, más explosividad después de la preparación transitoria y mayor precisión en los golpes, codazos, aterrizajes y transiciones.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 2: LUNES - MIÉRCOLES - VIERNES",
+  "chanonaflex": [
     {
-      "titulo": "Yop Chagui - NIVEL 2",
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     },
     {
-      "titulo": "Ap Chagui - NIVEL 2",
+      "titulo": "Chanonaflex - intermedio",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico activo - Dollyo Chagui - Nivel 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
     }
   ],
-  "pateoDias": "LUNES - MIÉRCOLES - VIERNES",
-  "pateoTecnico": [
-      {
-        "titulo": "Ap chaguis dos bloques",
-        "enfoque": "Cuadriceps + equilibrio",
-        "reps": "30 reps / 1 serie por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa/view?usp=drive_link"
-      },
-      {
-        "titulo": "Propuesta + ap chagui reps",
-        "enfoque": "Fortalecimiento de cuádriceps y control",
-        "reps": "10 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ejercicio 1 - Yop Chagui",
-        "enfoque": "Fortalecimiento para explosividad de Yop Chaguis",
-        "reps": "10 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
-      },
-      {
-        "titulo": "Ejercicio 2 - Yop Chagui",
-        "enfoque": "Fortalecimiento + control para explosividad de Yop Chaguis",
-        "reps": "10 reps / 2 series por pierna",
-        "tipo": "video",
-        "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
-      }
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 2",
+  "isometrico": [
+    {
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
+    }
   ],
-  "poomsaeDias": "MARTES - JUEVES - SÁBADO (Aquí continuamos con estos ejercicios, pero hay que darle mayor explosividad",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / YOP CHAGUI, AP CHAGUI, SILLA, BLOQUE Y SPLIT",
+  "pateoTecnico": [
+    {
+      "titulo": "Ap + Yop + Turn hips silla",
+      "enfoque": "Controlar Ap Chagui y Yop Chagui con silla, centrando la fuerza en cadera y pierna de apoyo sin llevar el torso hacia atrás",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
+    },
+    {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mantener cuello, cadera y torso firmes en Ap Chagui, evitando que la cabeza se vaya al frente",
+      "reps": "9 reps / 2 series por pierna",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap Chagui Extension completa",
+      "enfoque": "Cuidar que la cadera no se vaya al frente y que la pierna de apoyo sostenga la postura en Ap Chagui",
+      "reps": "15 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
+    },
+    {
+      "titulo": "Circuito Yop chagui con Bloque",
+      "enfoque": "Desarrollar mayor altura, precisión, fuerza de apoyo y control de glúteos en Yop Chagui",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo/view?usp=drive_link"
+    },
+    {
+      "titulo": "Split de Yop Chagui",
+      "enfoque": "Mejorar altura, apertura de ingle, apertura de cadera y precisión de Yop Chagui",
+      "reps": "2 veces por semana máximo / sostener con control técnico",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Preparar la cámara de rodilla al pecho y evitar sacar glúteos al ejecutar Yop Chagui",
+      "reps": "12 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
+    },
+    {
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Explosividad después de la preparación transitoria, sin llevar hombros ni torso hacia el frente",
+      "reps": "12 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L1 hold yop + Pyonwong",
+      "enfoque": "Fortalecer Yop Chagui con transferencia a Koryo y Pyonwong, cuidando cadera, torso y pierna de apoyo",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1EvUXdSs21NOAQR8OkD5ip6MeEApvUDDy&usp=drive_copy"
+    }
+  ],
+  "poomsaeDias": "LUNES A SÁBADO / TAEGUK 5 L2, PYWONWONG, KORYO L1 Y L3",
   "poomsae": [
     {
+      "titulo": "Transición doble montong makki - L1 a L2 T5",
+      "enfoque": "Corregir entrada a línea 2, dirección de pies y control del torso en Taeguk 5",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1nS4odRmRR7Da-q3oGTI1UOYhuqKpzCah&usp=drive_copy"
+    },
+    {
+      "titulo": "Correcto aterrizaje y prep golpe revés- L2 T5",
+      "enfoque": "Aterrizaje, preparación del golpe de revés y control de cabeza sin llevarla al frente",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1sYO2lMMZOuZF7-doTLcXFO7itTmlKVe1&usp=drive_copy"
+    },
+    {
+      "titulo": "Talones transicion - L2 T5",
+      "enfoque": "Evitar que el pie derecho se vaya hacia afuera en chumbi y línea 2",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Tg7zQiS4SxKsOMdAdaY17vNdnegdc1WA&usp=drive_copy"
+    },
+    {
+      "titulo": "Circuito aterrizaje + prep - T5 L2",
+      "enfoque": "Aterrizaje, preparación, golpe de revés y control de cuello/cadera en Taeguk 5 línea 2",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1aXojkxi9SDk10XS_OUDvYgIIkAvd5Thk&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 1 Koryo - Precisión + Timing",
+      "enfoque": "Corte, precisión y control de Koryo línea 1",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L3 - Lado derecho",
+      "enfoque": "No llevar hombros al frente al recoger Yop Chagui y cuidar que la cadera no se vaya hacia atrás",
+      "reps": "15 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=116eSAk3WUKVvXneFxAAyuyrG0mu7pwIi&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L3 - Lado izquierdo",
+      "enfoque": "Evitar llevar el torso al frente en Yop Chagui izquierda y controlar el regreso de la pierna",
+      "reps": "15 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1d39Oz_ASS6Yb-BIUclGe9QrT-WP9BgwS&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L3 - Concentración 8 seg",
+      "enfoque": "Sostener sin recargarse y dirigir la fuerza al glúteo e isquiotibial de la pierna de apoyo",
+      "reps": "10 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=12W8m2JmF9ICQiA6T1q8DB2TNpoSa_wNJ&usp=drive_copy"
+    },
+    {
       "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
+      "enfoque": "Preparación de Pyonwong sin irse muy afuera y control de brazos en defensa",
       "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K&usp=drive_copy"
     },
     {
-      "titulo": "Doble yop hold + landing L3 + L1 koryo",
+      "titulo": "Pyonwong - Codazo a Codazo - Derecha a izquierda",
+      "enfoque": "Codazo pecho a pecho, sin que el codo se vaya atrás y jalando la mano hasta el pectoral contrario",
       "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Q7MJDpbWzyIRu8UUqeFB7RB5_006E8hH/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1mYj95xtS6eb5yNzInIV_UyfseDhfygg7&usp=drive_copy"
     },
     {
-      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Pyonwong - Santul hasta final",
+      "enfoque": "Cierre de Pyonwong, control de torso, brazos y precisión del último tramo",
+      "reps": "10 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1DZ9aNf69oaoCha-hDp-SOSmCSepG7e_R&usp=drive_copy"
     },
     {
-      "titulo": "Olgul + Yop +Codazo - T5 L5",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Pyonwong completo - OMITIR MANOS ABIERTAS YA QUE HUBO ACTUALIZACIÓN",
+      "enfoque": "Integrar todas las líneas de Pyonwong cuidando codazos, golpes, torso y preparación de Kungan",
+      "reps": "2 ejecuciones completas / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf/view?usp=drive_link"
-    },
-    {
-      "titulo": "Circuito Hold con banda L2 Koryo",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK/view?usp=drive_link"
-    },
-    {
-      "titulo": "Propuesta + ap chagui reps",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
-    },
-    {
-      "titulo": "Fortalecimiento de Tobillo con banda",
-      "reps": "20 reps por lado/ 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
-    },
-    {
-      "titulo": "Torcion cadera con banda",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "En T4 los movimientos los estamos haciendo ligeramente movimiento continuo, lo que significa que no estamoshaciendo corte",
-    "El movimiento de codazo hay que hacerlo a maxima velocidad pero con el corte",
-    "La entrada al area, debemos de hacerla con mayor seguridad, haciendo un estilo parecido al timing actual de las poomsaes actuales, el corte",
-    "Cuando correje los cortes los hace bien pero en el arranque tenemos que trabajar mas potencia ya que nos falta un poco mas de explosividad la salida",
-    "En los codazos de pyonwong el codo izquierdo está quedando mas abajo que el otro",
-    "Transicion de un lado al otro en la linea 3 de T5 está usando el talón para girar en vez de la bola del pie y tambien la encapsulación está algo abierta",
-    "En la L2 Taebaek, ya estamos moviendo mas el torso pero ahora estamos moviendo de mas, en el giro del brazo no hay que girar mas el torso, con la torsion del golpe es suficiente",
-    "Twit kubis y ap kubis debemos de hacerlas ligeramente mas grandes",
-    "En dollyo chagui debemos de regresar la pierna con mayor velocidad",
-    "En keumgang, debemos de darle el corte despues del giro para aguantar bien nuestro jakdari seogui",
-    "Marcar mas la linea 2 de T7, ya no es tan rapido y seguido",
-    "En las yops chaguis, debemos de jalar con mucho  ayor velocidad nuestra pierna, ya esta mucho mejor en extension y flexion, pero la velocidad para recoger aun debemos de darle maxima velocidad",
-    "En los movimientos de concentracion de T8 estamos llegando correctamente pero debemos de sostener un pequeño momento para marcar que si llegamos",
-    "En las ap chaguis de la linea 2 koryo las piernas de apoyo se están flexionando en la ejecucion de cada pateo",
-    "La ultima linea de T6 está luciendo con el timing anterior, hay que darle mayor velocidad y corte",
-    "Haremos el ajuste del timing en la linea 1 de keumgang, ya que esta muy rapido como en el anterior timng, debemos de llevarlo con maxima velocidad pero con cortes firmes"
+    "No sacar glúteos cuando ejecutamos Yop Chagui.",
+    "En el golpe en la mano buscamos no torcer, no llevar el torso hacia atrás y que el codo no se vaya hacia atrás en ese aterrizaje. El codazo siempre debe prepararse de pecho a pecho.",
+    "El torso no debe irse hacia el frente. No debemos recargarnos, solamente sostenernos. Toda la fuerza tiene que ir hacia el glúteo y el isquiotibial de la pierna de apoyo para que el Are Makki sea más potente.",
+    "El codazo del lado derecho hacerlo más pequeñito. Hacia el lado derecho, procurar jalar la mano y el puño por completo hasta el otro pectoral.",
+    "En Yop Chagui del lado izquierdo estamos llevando el torso al frente, y en el caso del derecho llevamos más la cadera hacia atrás. Hay que controlar ambos lados con mucha precisión.",
+    "En las Yop Chaguis o el pateo, procurar hacer el movimiento explosivo justo después de la preparación transitoria. Sacar la fuerza desde el abdomen y desde la pierna de apoyo.",
+    "En los ejercicios de silla, procurar no llevar el torso hacia atrás, sino llevar la cadera hacia el frente para centrar toda la fuerza.",
+    "Explosividad en los golpes al cuello. La cabeza no debe irse al frente cuando ejecutamos golpe de revés.",
+    "Procure que la cadera no se mueva hacia el frente cuando estamos en Ap Chagui, ni el cuello ni la cadera. Aguantar bien los tres grupos.",
+    "No llevar la cabeza hacia el frente cuando ejecutemos Ap Chaguis, especialmente con la pierna izquierda, que es donde más se mueve.",
+    "El último golpe de revés debe acercarse más a la axila.",
+    "Que la cadera de la pierna izquierda no se vaya al frente al patear con la izquierda, para evitar que la cabeza se vaya al frente. Mantener equilibrio y fuerza abajo para sostener, de modo que el cuello no tenga necesidad de moverse.",
+    "En la preparación de Pyonwong, no irnos muy afuera. En la Yop Chagui del lado izquierdo, después de Ap Chagui-Yop Chagui, no irnos con el glúteo afuera.",
+    "En los codazos hacia el lado derecho, cuidar que el codo izquierdo no se vaya hacia atrás. La preparación de Kungan mantenerla no tan abierta.",
+    "En el chumbi y la línea 2, cuidar que el pie derecho no se esté yendo hacia afuera. En la línea 3, cuando recogemos las Yop Chaguis, no llevar los hombros al frente."
   ],
   "notasFinales": [
-    "En esta semana haremos algunos ejercicios nuevos y otros los seguiremos manteniendo con el objetivo claro de continuar trabajando en base a la explosividad que debemos de desarrollar, vamos por muy buen camino pero debemos de trabajar arduamente para que la explosividad de nuestro pateo comience a ser mas vistoso",
-    "Cualquier duda, por favor comentame campeón",
-    "¡Feliz entrenamiento champ"
+    "Excelente forma de iniciar de nuevo campeón, esta semana le daremos con todo a nuestro plan de entrenamiento.",
+    "Procure trabajar en base a lo que vimos en clase y a los apuntes de poomsae que le dejé en el apartado correspondiente.",
+    "Este ciclo será clave para mejorar la explosividad, la precisión y la seguridad en sus ejecuciones. Vamos a trabajar con fuerza, pero también con mucha inteligencia técnica.",
+    "Cualquier duda, por favor coméntame campeón.",
+    "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
