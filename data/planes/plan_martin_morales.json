@@ -1,95 +1,55 @@
 {
-  "updated_at": "Actualizado dom 24 de mayo",
+  "updated_at": "Actualizado lun 8 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
-  "enfoque_corto": "Flexibilidad Progresiva + Isométricos Activos N1 + Yop en Silla",
-  "enfoque": "Fase de introducción y adaptación estructural, priorizando la flexibilidad funcional, el fortalecimiento base de los estabilizadores de la cadera y la mecánica de Yop Chagui con soporte.",
-  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Flexibilidad nivel 1 + isométrico activo",
+  "enfoque": "En este ciclo continuaremos trabajando flexibilidad y ejercicios de isométrico activo, todo en nivel 1. El objetivo será estimular el cuerpo de forma progresiva, mejorar control, respiración y resistencia básica sin sobrecargar. Buscaremos que el trabajo se sienta retador, pero seguro, manteniendo siempre el límite que permita el cuerpo sin exigir de más.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
-      "titulo": "ChanonaFlex • Nivel 1",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
-    },
-    {
-      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "MARTES - JUEVES - SÁBADO / NIVEL 1",
   "isometrico": [
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
     {
       "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "tags": ["AP CHAGUI, FUERZA, FLEXIBILIDAD, CONTROL"]
     },
     {
-      "titulo": "Glúteo y gancho - Isométrico activo",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Circuito Isométrico Activo - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["YOP CHAGUI, CADERA, FLEXIBILIDAD, CONTROL"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
-  "pateoTecnico": [
-    {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Control de alineación corporal y balance con soporte",
-      "reps": "10 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
-    },
-    {
-      "titulo": "Circuito elevacion + sostener + circular",
-      "enfoque": "Desarrollo de fuerza en abductores y sostén de cadera",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
-    },
-    {
-      "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Mecánica de pivote y direccionamiento de rodilla",
-      "reps": "8 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
-    },
-    {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Anclaje firme del talón base y extensión de rodilla",
-      "reps": "15 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    }
-  ],
+  "pateoDias": "NO ASIGNADO EN ESTA SEMANA",
+  "pateoTecnico": [],
   "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
   "poomsae": [],
   "apuntes": [
-    "Bienvenido a tu programa de entrenamiento ChanonaTKD, aquí tendrás lo que tienes que hacer día con día, sin que tengas que pensar o recordar lo que hicimos. Cada circuito que necesitas hacer aquí estará y se actualizará en cuanto sea necesario ajustar o cambiar los ejercicios, por lo que procura mantener siempre seguir el plan que se te pone aquí para comenzar a trabajar de forma específica y positiva en nuestro camino a tener mejor flexibilidad y movilidad.",
-    "Al usar la silla para la Yop Chagui, concéntrate en la alineación: la rodilla debe jalar fuertemente al pecho antes de la extensión. Direccionar es el secreto del control técnico.",
-    "La pierna de apoyo debe mantenerse completamente extendida en cada repetición. Si flexionas la rodilla de abajo, colapsas el eje corporal y pierdes estabilidad.",
-    "El talón de la pierna base debe estar 100% soldado al piso. Levantar el talón transfiere el peso hacia los metatarsos, rompiendo tu balance y generando deducciones.",
-    "Mantén la firmeza del torso en todo momento. Los hombros deben permanecer alineados, evitando proyectarse hacia el frente cuando extiendes la patada."
+    "Continuamos trabajando nuestra flexibilidad recordando poner la mano atrás para empujarnos en las posiciones de L y L torcida.",
+    "También debemos sostener el tiempo que nos permita el cuerpo y nuestra respiración, sin forzar de más.",
+    "No sobrecargues por querer extender más o por querer sostener más tiempo la pierna en los isométricos.",
+    "Este trabajo debe ser progresivo: debes sentir que estimula el cuerpo, pero que no lo sobre exige.",
+    "La respiración debe ayudarte a sostener mejor. Si dejas de respirar o empiezas a tensarte demasiado, baja un poco la intensidad y vuelve a controlar."
   ],
   "notasFinales": [
-    "Martin, este es el inicio de tu transformación técnica bajo el método ChanonaTKD. La consistencia y el apego estricto a esta estructura diaria son los que garantizan tu progreso.",
-    "Recuerda nuestra filosofía fundamental: entrenar con estructura es lo único que evita el estancamiento. No busques hacer más repeticiones de las marcadas, busca que las asignadas sean perfectas.",
-    "Cualquier duda técnica con la ejecución en silla o el circuito de isométricos, escríbeme de inmediato a través del chat de WhatsApp.",
-    "¡Bienvenido al sistema, enfocado y a darle con todo!"
+    "Excelente trabajo el que hemos estado haciendo.",
+    "A veces se puede sentir fuerte el progreso, pero el resultado es mucho mejor de lo que puedes llegar a pensar.",
+    "Además, esto te permitirá hacer muchas y mejores cosas a largo plazo. Esto es vida totalmente.",
+    "Mucho éxito en tu entrenamiento. Coménteme cualquier duda que tengas.",
+    "¡Feliz entrenamiento!"
   ]
 }
