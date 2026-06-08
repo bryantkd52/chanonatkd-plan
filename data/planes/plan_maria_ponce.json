@@ -1,125 +1,106 @@
 {
-  "updated_at": "Actualizado dom 24 de mayo",
+  "updated_at": "Actualizado lun 8 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
-  "enfoque_corto": "Mecánica Yop Chagui + Neuro-mecanización T4 y T5",
-  "enfoque": "Desarrollo de la base neuromuscular en Yop Chagui a través del triple pivote (pie, rodilla, cadera) y desaceleración consciente en las transiciones de Taeguk 4 y 5.",
-  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Ap Chagui + Taeguk 5 línea 2",
+  "enfoque": "En este ciclo trabajaremos la técnica de Ap Chagui y los movimientos de defensa interior como Montong An Makki, además del golpe de revés dentro de Taeguk 5 línea 2. El objetivo será construir movimientos firmes, potentes y no tensos, usando suavidad en la preparación, ejecución explosiva con velocidad y tensión final para frenar correctamente cada movimiento.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
-      "titulo": "Chanonaflex - intermedio",
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     },
     {
       "titulo": "ChanonaFlex • Nivel 1",
-      "dia": "LUNES A SÁBADO",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / AP CHAGUI NIVEL 1",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Circuito Yop chagui con Bloque",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo",
-      "tags": ["FUERZA, CONTROL, FIJACIÓN"]
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI CON SILLA",
   "pateoTecnico": [
     {
-      "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Alineación del eje y control de regreso",
-      "reps": "10 reps por pierna / 2 series",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando cuello, torso, cadera y pierna de apoyo",
+      "reps": "9 reps / 2 series por pierna",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
-    },
-    {
-      "open": "Secuencia Ap + Dollyo + Yop",
-      "enfoque": "Mecanización de transiciones de pateo",
-      "reps": "8 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
-    },
-    {
-      "titulo": "Circuito elevacion + sostener + circular",
-      "enfoque": "Sostén de la cadera y fuerza en abductores",
-      "reps": "10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Firmeza de la rodilla de apoyo extendida",
-      "reps": "15 reps por lado / 2 series",
+      "enfoque": "Trabajar cámara, extensión y control de Ap Chagui sin perder postura",
+      "reps": "12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Yop Chagui con apoyo - Eje neutro",
-      "enfoque": "Giro de 180 grados en el pie base",
+      "titulo": "Ap Chagui Extension completa",
+      "enfoque": "Mantener pierna de apoyo firme, espalda alineada y extensión completa de la patada frontal",
       "reps": "12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
+    },
+    {
+      "titulo": "Sentadilla Ap Chagui",
+      "enfoque": "Fortalecer piernas y postura para que la Ap Chagui sea más firme y estable",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO",
+  "poomsaeDias": "LUNES A SÁBADO / TAEGUK 5 LÍNEA 2",
   "poomsae": [
     {
-      "titulo": "Taeguk 4 - Desaceleración Neuro-mecanizada",
-      "enfoque": "Ejecución lenta para forjar la base real",
-      "reps": "15 min de práctica ultra lenta",
+      "titulo": "Transición doble montong makki - L1 a L2 T5",
+      "enfoque": "Entrar correctamente a la línea 2, cuidando dirección de pies, preparación y postura",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1tzLShWE2ftfxZSAvvzyn7oGTstvXrM13/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1nS4odRmRR7Da-q3oGTI1UOYhuqKpzCah&usp=drive_copy"
     },
     {
-      "titulo": "Taeguk 5 - Control de transiciones",
-      "enfoque": "Mecanización neuronal de posiciones",
-      "reps": "15 min de fijación postural",
+      "titulo": "Correcto aterrizaje y prep golpe revés- L2 T5",
+      "enfoque": "Aterrizaje correcto, preparación del golpe de revés y control del torso",
+      "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mP-G5_nVAfH5VyUTdJfkUW1Pw-WjgWil/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1sYO2lMMZOuZF7-doTLcXFO7itTmlKVe1&usp=drive_copy"
     },
     {
-      "titulo": "Timing - Línea 1 de Taeguk 4",
-      "enfoque": "Estructuración del ritmo interno",
-      "reps": "Seguir el audio 5 veces",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1bsYb3xTwREsd2YgQhfgNaKlBigu8eayr/view?usp=drive_link"
+      "titulo": "Talones transicion - L2 T5",
+      "enfoque": "Controlar pies y talones en la transición para evitar perder dirección",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Tg7zQiS4SxKsOMdAdaY17vNdnegdc1WA&usp=drive_copy"
     },
     {
-      "titulo": "Timing - Línea 2 de Taeguk 5",
-      "enfoque": "Control del pivote en giros",
-      "reps": "Seguir el audio 5 veces",
-      "tipo": "audio",
-      "url": "https://drive.google.com/file/d/177JxxwUBRrcWLybTy67ER2Hhe-iHAc7V/view?usp=drive_link"
+      "titulo": "Circuito aterrizaje + prep - T5 L2",
+      "enfoque": "Unir aterrizaje, preparación, Montong An Makki y golpe de revés con firmeza y control",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1aXojkxi9SDk10XS_OUDvYgIIkAvd5Thk&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "Nuestras Yop Chaguis parecen costar ahora, pero es un proceso natural. Comienza siempre enfocando el movimiento desde tres puntos críticos: la base del pie de apoyo, la extensión de la rodilla y el giro correcto de la cadera. Si estos tres factores giran de manera positiva y alineada, la Yop Chagui saldrá solita.",
-    "A nivel neuronal, es obligatorio hacer los movimientos de Taeguk 4 y Taeguk 5 de forma lenta. Si entrenamos únicamente rápido, el sistema nervioso no asimila la mecanización profunda. Aunque a veces parezca salir 'bien' a velocidad real, no se está forjando la base sólida que necesitamos para el área de competencia.",
-    "En las secciones técnicas de ambas poomsaes, asegúrese de congelar las posturas finales durante al menos 2 segundos antes de pasar a la siguiente transición.",
-    "La firmeza del torso es innegociable. No colapse los hombros hacia el frente durante el impacto de la patada; el eje del torso debe permanecer neutro.",
-    "Recuerde consultarme siempre para mantenerme al tanto de lo que podemos ir mejorando día con día."
+    "Profe, busque que sus movimientos sean firmes, potentes y no tensos.",
+    "Recuerde lo que hemos trabajado: suavidad en la preparación, ejecución explosiva con velocidad y tensión final para frenar el movimiento.",
+    "Esto es súper importante tomarlo en cuenta en todos nuestros movimientos, especialmente en Montong An Makki y golpe de revés de Taeguk 5 línea 2.",
+    "En Ap Chagui, cuide que la cadera, el cuello y el torso no se vayan hacia el frente. La pierna de apoyo debe sostener el movimiento.",
+    "No buscamos hacer todo rápido desde el inicio; buscamos preparar bien, ejecutar con potencia y terminar con control."
   ],
   "notasFinales": [
-    "Profe, la paciencia es una herramienta de alto rendimiento. Al trabajar lento este ciclo, estamos reconfigurando tu biomecánica para que tus formas sean indestructibles.",
-    "Enfócate en el triple pivote de tu Yop Chagui. Si controlas el pie de abajo, controlas la altura y la presentación arriba.",
-    "Cualquier duda o si sientes fatiga en la cadera con el trabajo lento, escríbeme de inmediato.",
-    "¡Ánimo, paciencia y a seguirle dando con todo!"
+    "El trabajo hecho esta semana fue sensacional. Avanzamos nuestra línea 2 de Taeguk 5 y vimos puntos importantes para mejorar.",
+    "Eso es lo más importante en estas poomsaes: entender qué corregir y repetirlo con calma, potencia y buena técnica.",
+    "Cualquier duda, por favor coménteme profe. Yo quedo atento.",
+    "¡Feliz entrenamiento y a seguir trabajando con todo!"
   ]
 }
