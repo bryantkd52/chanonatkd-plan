@@ -1,0 +1,31 @@
+{
+  "review_name": "ChanonaTKD Media Library - Recursos Yop Chagui 2026-06-08",
+  "review_date": "2026-06-08",
+  "review_status": "pending_branch_review_not_published_to_main",
+  "reviewed_by": "Bryan Herrera",
+  "duplicate_review": [
+    {
+      "submitted_title": "Circuito Yop chagui con Bloque",
+      "submitted_url": "https://drive.google.com/file/d/1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo/view?usp=drive_link",
+      "status": "duplicate_detected_not_added_again",
+      "reason": "El recurso ya existe en data/media-library-review.json como recurso aprobado previamente pendiente, con el mismo Drive ID 1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo.",
+      "existing_default_section": "isometrico",
+      "requested_default_section": "pateoTecnico",
+      "recommended_action_before_main": "No duplicar. Si Bryan desea usarlo como pateo técnico, puede actualizarse el default_section existente en una revisión posterior."
+    }
+  ],
+  "approved_new_resources": [
+    {
+      "title": "Split de Yop Chagui",
+      "media_type": "video",
+      "default_section": "pateoTecnico",
+      "recommended_level": "todos",
+      "related_skill_or_poomsae": "Taeguk 4 y 5, Koryo, Taebaek, Pyonwong",
+      "technical_objective": "Mejorar y desarrollar mayor altura y precisión de la Yop Chagui, además de apertura de ingle y cadera en la Yop Chagui.",
+      "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=drive_link",
+      "approval_status": "pending_bryan_final_review_before_main",
+      "usage_notes": "Usarlo en todos los niveles. Programar máximo dos veces por semana.",
+      "default_reps": "2 veces por semana máximo"
+    }
+  ]
+}
