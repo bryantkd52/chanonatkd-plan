@@ -300,6 +300,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Flexibilidad nivel 1 e isométricos de Ap Chagui y Yop Chagui"
+  },
+
+  "rodrigo_jalisco": {
+    "nombre": "Rodrigo Jalisco",
+    "plan": "plan_rodrigo_jalisco.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Junio",
+    "objetivo_proximo": "Flexibilidad nivel 1 e isométricos de Ap Chagui y Yop Chagui"
   }
 
 }
