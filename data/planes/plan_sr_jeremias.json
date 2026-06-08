@@ -1,13 +1,13 @@
 {
-  "updated_at": "Actualizado lun 25 de mayo",
+  "updated_at": "Actualizado lun 8 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
-  "enfoque_corto": "Flexibilidad + Circuitos de pateo Ap Chagui, Yop Chagui, pucho y pivote",
-  "enfoque": "Mantendremos el enfoque técnico de nuestro pateo con circuitos de Ap Chagui, Yop Chagui y combinaciones de pucho con pivote, buscando control neuromuscular, eje corporal y corte de movimiento en cada repetición",
-  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Pucho + pivoteo + Ap Chagui + Yop Chagui",
+  "enfoque": "En estas dos semanas seguiremos trabajando a nivel técnico el pateo de combate con estructura de pucho, pivoteo, patada frontal y patada de lado. El objetivo será mejorar la mirada fija al frente, el torso estable, la cadera activa y la capacidad de patear sin llevar el cuerpo hacia adelante, usando una ligera inclinación hacia atrás cuando sea necesario para mantener control y alcance.",
+  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
   "chanonaflex": [
     {
-      "titulo": "Pre-Chanonaflex - Todos Niveles",
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
@@ -19,94 +19,94 @@
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1",
   "isometrico": [
     {
-      "titulo": "Ap Chagui - NIVEL 1",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
     },
     {
-      "titulo": "Yop Chagui - NIVEL 1",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / PATEO DE COMBATE",
   "pateoTecnico": [
     {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Control de pierna de apoyo extendida, espalda recta y elevación frontal",
+      "titulo": "Pucho - 1",
+      "enfoque": "Mecanizar la entrada de pucho con mirada al frente, torso fijo y base estable",
       "reps": "20 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=11qYU8HFqSGpVaSqP5WM1gZbav-Y4aFOb&usp=drive_copy"
+    },
+    {
+      "titulo": "Pucho + Ap chagui",
+      "enfoque": "Unir pucho con patada frontal manteniendo el torso firme y evitando irse hacia adelante",
+      "reps": "15 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1EfSyQwOzZ9HrzP1QX9EA-XBXEAyWDncp&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Mejorar cámara, extensión y control de patada frontal con pierna de apoyo firme",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Ap Chagui 3 niveles",
-      "enfoque": "Rango, control neuromuscular y precisión de Ap Chagui",
-      "reps": "10 reps por nivel / 2 series por pierna",
+      "titulo": "Ap Chagui Extension completa",
+      "enfoque": "Mantener espalda alineada, pierna de apoyo firme y extensión completa sin perder estructura",
+      "reps": "15 repeticiones por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ap + Yop + Turn hips silla",
-      "enfoque": "Fortalecimiento de cuádriceps, pivote de cadera y eje corporal",
-      "reps": "10 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Cámara, extensión y regreso de Yop Chagui sin perder postura",
+      "enfoque": "Preparar la cámara de rodilla al pecho y ubicar la cadera antes de ejecutar la patada de lado",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Control, equilibrio y corte de movimiento en Yop Chagui",
+      "enfoque": "Controlar extensión, regreso de pierna y postura del torso en Yop Chagui",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
     },
     {
-      "titulo": "Pucho + Ap chagui",
-      "enfoque": "Combinación de pucho, entrada frontal y estabilidad del aterrizaje",
-      "reps": "20 reps por lado / 2 series",
+      "titulo": "Ap + Yop + Turn hips silla",
+      "enfoque": "Trabajar pivoteo, giro de cadera, control de eje corporal y estabilidad en patadas de combate",
+      "reps": "10 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1EfSyQwOzZ9HrzP1QX9EA-XBXEAyWDncp/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
     },
     {
       "titulo": "Pucho + Ap + Cicular + Giro gancho - Paso a paso",
-      "enfoque": "Combinación de pucho, pivote, timing y transición técnica",
-      "reps": "10 reps por lado / 2 series",
+      "enfoque": "Coordinar pucho, pivoteo, patada frontal y transición de combate sin perder postura",
+      "reps": "10 reps por lado / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1UnpTtOU7sQeG2KJSrIixpO3P2O8xXqPK/view?usp=drive_link"
-    },
-    {
-      "titulo": "Combinacion pucho + desliz + giro gancho - 1",
-      "enfoque": "Pivote, desplazamiento y control del eje corporal en combinación",
-      "reps": "10 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Li6ozOE3E22xeZ7DKrtyT-IWt40flQmg/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1UnpTtOU7sQeG2KJSrIixpO3P2O8xXqPK&usp=drive_copy"
     }
   ],
   "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
   "poomsae": [],
   "apuntes": [
-    "Mantendremos el enfoque técnico de nuestro pateo, combinaciones y ejercicios de pateo",
-    "En las patadas frontales es super importante mantener la pierna de apoyo extendida y la espalda recta, porque si la rodilla se flexiona o el torso se va hacia adelante se descuadra la posición y visualmente puede parecer falta de control",
-    "La Ap Chagui debe salir con cámara clara, extensión limpia y regreso controlado; si el movimiento se cae o pierde eje corporal, se puede ver como falta de dominio técnico y nos pueden descontar .1",
-    "En Yop Chagui debemos cuidar que la cadera no se abra de más antes de tiempo; primero cámara, luego extensión, luego corte de movimiento y regreso, siempre con control neuromuscular",
-    "En las combinaciones de pucho y pivote, la encapsulación debe ayudar a girar sin pasos extras, porque cada paso de más puede verse como una transición sucia y puede costarnos .1 por pérdida de precisión",
-    "Busca que cada combinación tenga timing: entrada fuerte, pateo limpio, aterrizaje estable y corte final sin mover brazos o torso de más"
+    "Estas siguientes dos semanas seguiremos trabajando en base a estructura de pateo de pucho, Ap Chagui y Yop Chagui, que son los pateos de combate que estaremos trabajando en nuestras sesiones de entrenamiento.",
+    "Procure mantener la mirada siempre fija al frente. La mirada es como el volante de un carro: si se mueve sin control, el cuerpo también pierde dirección.",
+    "El torso debe mantenerse siempre fijo. No debemos llevarlo hacia adelante cuando pateamos; de hecho, es preferible inclinarlo ligeramente hacia atrás para mantener control, alcance y equilibrio.",
+    "En pucho, la entrada debe ser directa, firme y sin pasos extras. La idea es entrar, patear y recuperar sin perder la postura.",
+    "En Ap Chagui y Yop Chagui, cuide que la pierna de apoyo se mantenga fuerte y que la cadera acompañe la patada sin que el cuerpo se caiga hacia adelante."
   ],
   "notasFinales": [
-    "Jeremias, esta etapa será muy importante para ganar rango y perfeccionamiento técnico en tus patadas, por eso quiero que entrenes con mucha atención en la pierna de apoyo, espalda recta y control de cada repetición",
-    "No busques hacerlo rápido si todavía se descuadra la postura; primero controlamos, luego aumentamos velocidad y finalmente le damos potencia con buen timing",
-    "Cualquier duda, por favor comentame",
+    "Vamos trabajando con mucho enfoque técnico y mejorando nuestra flexibilidad. Eso es estupendo porque vamos con mucho positivismo en nuestras bases.",
+    "Vamos avanzando mucho a nivel técnico y se nota. Hay que continuar trabajando de esa forma con consistencia.",
+    "Es un excelente alumno y vamos a seguir construyendo sus bases de combate de forma inteligente y segura.",
+    "Cualquier duda, por favor coménteme.",
     "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
