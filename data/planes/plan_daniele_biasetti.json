@@ -1,144 +1,105 @@
 {
-  "updated_at": "Actualizado dom 24 de mayo",
+  "updated_at": "Actualizado lun 8 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
-  "enfoque_corto": "Flexibilidad Intermedia + Control de Cadera (Ap y Yop)",
-  "enfoque": "Ciclo adaptado para mantener el desarrollo del pateo fundamental (Ap y Yop Chagui) a nivel intermedio, priorizando la salud articular, la dosificación de la carga en la cadera y el seguimiento fisioterapéutico.",
-  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Flexibilidad + isométrico activo + Ap Chagui + Yop Chagui",
+  "enfoque": "En este ciclo trabajaremos flexibilidad, isométrico activo y pateo técnico de Ap Chagui y Yop Chagui. La prioridad será mantener una progresión positiva, cuidando la cadera que está sentida, fortaleciendo de forma inteligente y evitando sobrecargas. Buscaremos mejorar la base técnica, la movilidad de cadera, la estabilidad y el control del pateo sin forzar rangos máximos.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
-      "titulo": "Chanonaflex - intermedio",
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     },
     {
       "titulo": "ChanonaFlex • Nivel 1",
-      "dia": "LUNES A SÁBADO",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 2",
   "isometrico": [
+    {
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
+    },
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Glúteo y gancho - Isométrico activo",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Circuito Isométrico Activo - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1aW943EQ7hfgPjMA0Cj55rUMQ2A3bEyXI/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Ap Chagui - NIVEL 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI, SILLA, BLOQUE Y YOP CHAGUI CONTROLADO",
   "pateoTecnico": [
     {
-      "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Control neuromuscular intermedio y fluidez",
-      "reps": "8 reps por pierna / 2 series (controlado)",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando cadera, torso y pierna de apoyo sin sobrecargar",
+      "reps": "8 reps / 2 series por pierna, controlado",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
-      "titulo": "Secuencia Ap + Dollyo + Yop",
-      "enfoque": "Transición técnica sin forzar rangos máximos",
-      "reps": "5 secuencias por lado / 2 series",
+      "titulo": "Ap chaguis con bloques",
+      "enfoque": "Desarrollar precisión, fuerza de apoyo y control de altura en Ap Chagui con bloque, sin forzar la cadera",
+      "reps": "8 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
-    },
-    {
-      "titulo": "Ap + Descendente frontal circuito",
-      "enfoque": "Movilidad articular controlada y eje firme",
-      "reps": "10 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
+      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
     },
     {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Alineación de rodilla base y descarga en cadera",
-      "reps": "15 reps por pierna / 2 series",
+      "enfoque": "Trabajar cámara, extensión y control de Ap Chagui sin perder postura ni generar dolor",
+      "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Propuesta + ap chagui reps",
-      "enfoque": "Firmeza del torso y estabilización del núcleo",
+      "titulo": "Ap Chagui Extension completa",
+      "enfoque": "Mantener pierna de apoyo firme, espalda alineada y extensión completa de Ap Chagui en rango cómodo",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
+    },
+    {
+      "titulo": "Sentadilla Ap Chagui",
+      "enfoque": "Fortalecer piernas y cadera de manera progresiva para mejorar la base del pateo",
+      "reps": "8 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing"
+    },
+    {
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Preparar cámara de rodilla al pecho y ubicar cadera antes de ejecutar Yop Chagui, sin buscar altura máxima",
+      "reps": "8 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
+    },
+    {
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Controlar extensión, regreso de pierna y postura del torso en Yop Chagui con rango seguro para la cadera",
+      "reps": "8 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO (DESCARGA Y TRABAJO TÉCNICO INTERMEDIO)",
-  "poomsae": [
-    {
-      "titulo": "Ap chagui, prep y aterrizaje correcto",
-      "enfoque": "Desaceleración y cuidado del eje corporal",
-      "reps": "15 reps conscientes / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1avHtkOVL1SY9c4sy4ugT5t260DCeu3Fz/view?usp=drive_link"
-    },
-    {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Sostén con asistencia para reducir tensión articular",
-      "reps": "8 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=drive_link"
-    },
-    {
-      "titulo": "Torcion cadera con banda",
-      "enfoque": "Activación del glúteo medio para estabilidad",
-      "reps": "20 reps controladas / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ/view?usp=drive_link"
-    },
-    {
-      "titulo": "Elevacion de talones frente a pared",
-      "enfoque": "Fortalecimiento de tobillo para estabilidad de base",
-      "reps": "25 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1OvmO3nrmM--QtIvgsREzFGANsCzzbXin/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
-      "enfoque": "Estabilidad del pie de apoyo sin impacto",
-      "reps": "15 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
-    }
-  ],
+  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
+  "poomsae": [],
   "apuntes": [
-    "Vamos avanzando bien poco a poco. La clave en este ciclo intermedio es la inteligencia deportiva: hay que seguir cuidando minuciosamente el dolor de la cadera.",
-    "Es obligatorio continuar con los ejercicios de movilidad y activación específicos que realizamos en clase para no sobrecargar la zona.",
-    "Debes acudir con nuestro fisioterapeuta de confianza para que te atienda y descarte formalmente cualquier inflamación que nos esté molestando en la articulación.",
-    "Al patear Ap y Yop Chagui, prioriza la firmeza del torso y la extensión de la pierna base a alturas medias; el control neuromuscular debe estar por encima de la altura de la patada en este momento.",
-    "El direccionamiento con la rodilla al pecho es vital. No lances la patada si sientes molestia; marca el recorrido técnico con suavidad."
+    "Continuamos trabajando bases técnicas y de flexibilidad para mantener nuestro entrenamiento fino.",
+    "Hay que mantenernos con firmeza, trabajando de manera progresiva en nuestra cadera para rehabilitar de manera positiva.",
+    "No busque rangos máximos si la cadera se siente cargada. Primero control, después movilidad y al final altura.",
+    "En Ap Chagui y Yop Chagui, mantenga el torso firme, la pierna de apoyo estable y la respiración controlada.",
+    "Si aparece molestia fuerte, baje intensidad de inmediato. El estímulo debe sentirse útil, no agresivo."
   ],
   "notasFinales": [
-    "Brother, a seguirle dando con todo, que esto sigue siendo un camino muy positivo. Un atleta inteligente sabe cuándo ajustar la carga para regresar más fuerte.",
-    "La flexibilidad y el pateo se mantienen estrictamente en nivel intermedio este ciclo; no busques rangos máximos hasta tener luz verde del fisio.",
-    "Mantén una comunicación constante conmigo después de cada sesión para monitorear las sensaciones en la cadera.",
-    "¡Fuerza, disciplina y excelente entrenamiento, Vengaaaa!"
+    "A seguirle dando con todo, nos mantenemos firmes trabajando con todo el power.",
+    "Vamos cuidándonos de la cadera que tenemos sentida, pero continuamos dándole de manera positiva y progresiva.",
+    "Excelente semana, hay que seguirle dando con todo como se debe.",
+    "Nos vemos en clase.",
+    "¡Feliz entrenamiento!"
   ]
 }
