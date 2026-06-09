@@ -1,112 +1,163 @@
 {
-  "updated_at": "Actualizado lun 25 de mayo de 2026",
+  "updated_at": "Actualizado lun 8 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 25 de mayo al sábado 6 de junio de 2026",
-  "enfoque_corto": "Flexibilidad avanzada + técnica aérea Freestyle + rutina musical",
-  "enfoque": "En este ciclo trabajaremos juntas los movimientos técnicos de Freestyle que comenzarán a formar su rutina: Twio Yop Chagui, múltiples saltando y 360 kick. El objetivo no será hacer muchos movimientos sin control, sino aprenderlos paso a paso con cadera, alineación corporal, despegues potentes y aterrizajes seguros para después unirlos con la música que me enviaron.",
-  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
+  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Freestyle + salto + Yop Chagui + múltiples + 360 kick",
+  "enfoque": "En este ciclo trabajaremos salto, flexibilidad, pateo técnico de Yop Chagui, múltiples saltando y giro 360 kick. También mantendremos bases de postura como Bom Seogui, Chuchum Seogui y Jakdari Seogui para que la rutina de freestyle tenga una base técnica fina, potente y segura. La prioridad será aprovechar al máximo el tiempo, mantener continuidad con la rutina de competencia y fortalecer las habilidades que se usarán en clase.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 2: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
-      "titulo": "Chanonaflex - Avanzado",
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=sharing"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
+    },
+    {
+      "titulo": "Chanonaflex - intermedio",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=sharing"
     }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / CADERA Y CONTROL OBLIGATORIO",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 2",
   "isometrico": [
+    {
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
+      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
+    },
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=sharing",
-      "tags": ["CADERA, FUERZA, CONTROL, YOP CHAGUI"]
-    },
-    {
-      "titulo": "Isométrico activo - Dollyo Chagui - Nivel 2",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dzu_m86xye5Mr8dNE_gqozNA8k_zf6Cx/view?usp=sharing",
-      "tags": ["CADERA, ROTACIÓN, FUERZA, FREESTYLE"]
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
+      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / BASE DE POTENCIA Y ALINEACIÓN",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI, SILLA, BLOQUE, YOP CHAGUI, MÚLTIPLES Y 360 KICK",
   "pateoTecnico": [
     {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mejorar equilibrio, postura y control de Ap Chagui con apoyo de silla",
+      "reps": "9 reps / 2 series por pierna",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap chaguis con bloques",
+      "enfoque": "Desarrollar precisión, fuerza de apoyo y control de altura en Ap Chagui con bloque",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
+    },
+    {
       "titulo": "Ap Chagui Extension completa",
-      "enfoque": "Alineación de espalda, extensión de pierna de apoyo y control de cámara para preparar el pateo aéreo",
-      "reps": "15 repeticiones por pierna / 2 series",
+      "enfoque": "Alineación de espalda, extensión de pierna de apoyo y control de cámara para preparar pateo aéreo",
+      "reps": "15 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
     },
     {
-      "titulo": "Sentadilla Ap Chagui",
-      "enfoque": "Fortalecimiento de cuádriceps y potencia necesaria para despegues altos",
-      "reps": "10 repeticiones / 2 series",
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Preparar cámara de rodilla al pecho, cadera y estructura básica de Yop Chagui",
+      "reps": "12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing"
-    }
-  ],
-  "poomsaeDias": "LUNES A SÁBADO / HABILIDADES FREESTYLE PARA LA RUTINA",
-  "poomsae": [
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
+    },
     {
-      "titulo": "Twio Yop Chagui en piso  - Paso 1 - Mecanización",
-      "enfoque": "Mecanizar la cámara, meter la cadera correctamente y entender el eje de Yop Chagui antes del salto",
-      "reps": "20 repeticiones / 2 series del lado que salga mejor / LUNES - MIÉRCOLES - VIERNES",
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Controlar extensión, regreso de pierna y alineación del cuerpo durante Yop Chagui",
+      "reps": "12 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    },
+    {
+      "titulo": "Twio Yop Chagui en piso - Paso 1 - Mecanización",
+      "enfoque": "Mecanizar cámara, cadera y eje corporal antes de llevar la Yop Chagui al salto",
+      "reps": "20 reps / 2 series del lado que salga mejor",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1QAGt9CLUUrfMq_lsEROh_K5Kt6FMpfNy/view?usp=sharing"
     },
     {
       "titulo": "Twio YopChagui piso - Coordinacion piernas - paso 2",
-      "enfoque": "Coordinación de piernas y preparación del pateo aéreo desde el piso, cuidando cadera y espalda",
-      "reps": "20 repeticiones / 1 serie del lado que salga mejor / LUNES - MIÉRCOLES - VIERNES",
+      "enfoque": "Coordinar piernas y preparar el pateo aéreo cuidando cadera, espalda y aterrizaje",
+      "reps": "20 reps / 1 serie del lado que salga mejor",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1EIebP9oP7hqsh4iz7mcraIdVTG9IZjmF/view?usp=sharing"
     },
     {
       "titulo": "TwioYopChagui - Paso 3 - Pasos y ejecucion",
-      "enfoque": "Unir transición, despegue y ejecución de la Yop Chagui saltando con cadera correctamente colocada",
-      "reps": "20 repeticiones / 2 series del lado que salga mejor / MIÉRCOLES - VIERNES - SÁBADO",
+      "enfoque": "Unir transición, despegue y ejecución de Yop Chagui saltando con cadera colocada",
+      "reps": "20 reps / 2 series del lado que salga mejor",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1nTAm1mTFythQBkGavBRGIan3a6XWeIDT/view?usp=sharing"
     },
     {
       "titulo": "Multiples Saltando - Paso 1",
-      "enfoque": "Aprender la coordinación aérea únicamente con rodillas, manteniendo postura, eje y aterrizaje seguro",
-      "reps": "20 repeticiones / 2 series del lado que salga mejor / MARTES - JUEVES - SÁBADO",
+      "enfoque": "Aprender coordinación aérea con rodillas, postura, eje y aterrizaje seguro",
+      "reps": "20 reps / 2 series del lado que salga mejor",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ylQufnwuIOF8A_BrU-ALfPk_FVR0e8P4/view?usp=sharing"
     },
     {
-      "titulo": "Multiples  Saltando - Paso 2",
-      "enfoque": "Iniciar la patada en el aire entendiendo la transición entre ambas piernas sin perder alineación",
-      "reps": "10 repeticiones / 2 series del lado que salga mejor / MARTES - JUEVES - SÁBADO",
+      "titulo": "Multiples Saltando - Paso 2",
+      "enfoque": "Iniciar patada en el aire y coordinar ambas piernas sin perder alineación",
+      "reps": "10 reps / 2 series del lado que salga mejor",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1qpUoR6jXxm9S0sPQ8MKtn63wtHw5H3eM/view?usp=sharing"
     },
     {
       "titulo": "Multiples Saltando - Paso 3 pateo progresivo",
-      "enfoque": "Aumentar el pateo aéreo progresivamente manteniendo estructura, limpieza y amortiguación al aterrizar",
-      "reps": "10 repeticiones / 2 series del lado que salga mejor / JUEVES - SÁBADO",
+      "enfoque": "Aumentar pateo aéreo progresivamente manteniendo estructura, limpieza y amortiguación",
+      "reps": "10 reps / 2 series del lado que salga mejor",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1vd7nF5b-YMANRhfHujzQ0vJNdIqz0eqv/view?usp=sharing"
     },
     {
-      "titulo": "360 kick -  paso a paso progresivo 0 a 100",
-      "enfoque": "Construir el 360 kick desde una altura baja, cuidando giro, despegue, ubicación en el aire y aterrizaje con flexión de rodillas",
-      "reps": "10 repeticiones / 2 series del lado que salga mejor / MIÉRCOLES - SÁBADO",
+      "titulo": "360 kick - paso a paso progresivo 0 a 100",
+      "enfoque": "Construir 360 kick desde una altura baja, cuidando giro, despegue, ubicación en el aire y aterrizaje",
+      "reps": "10 reps / 2 series del lado que salga mejor",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1fo_p9ioEGNlPRY6ghrPzz5cXmZJnjZAu/view?usp=sharing"
     }
   ],
+  "poomsaeDias": "LUNES A SÁBADO / BOM SEOGUI, CHUCHUM SEOGUI Y JAKDARI SEOGUI",
+  "poomsae": [
+    {
+      "titulo": "L3 Taebaek - Correcta ejecución por movimiento",
+      "enfoque": "Trabajar bases de postura, control de tronco y limpieza técnica para Bom Seogui y Chuchum Seogui dentro de la presentación",
+      "reps": "10 reps lentas por postura / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK&usp=drive_copy"
+    },
+    {
+      "titulo": "Hakdari Seogui equilibrio base - Keumgang",
+      "enfoque": "Mejorar equilibrio, estabilidad de rodilla, abdomen y postura en Jakdari Seogui",
+      "reps": "5 sostenidos de 15 segundos por lado",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1V6_zfIyng5pZ23wStNHzs1jJ_6O5Rg6Q/view?usp=drive_link"
+    },
+    {
+      "titulo": "Keumgang Hakdari Seogui transicion",
+      "enfoque": "Controlar transición, pie de apoyo y eje corporal para Jakdari Seogui con estabilidad",
+      "reps": "8 reps lentas conscientes",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
+    }
+  ],
   "apuntes": [
-    "Busquen chicas mantener siempre las alineaciones y estructuras del cuerpo, sobre todo la postura de la espalda, para conservar el eje corporal en el aire y ejecutar movimientos limpios evitando lesiones en los aterrizajes.",
-    "En las Yop Chaguis, el punto principal de este ciclo será meter bien la cadera: la patada no debe salir solamente de la pierna, sino de una cámara bien dirigida y una cadera que acompañe la ejecución sin perder la línea del cuerpo.",
-    "En los despegues procuren subir altas y potentes. En los aterrizajes deben recibir siempre con flexión de rodillas, porque esa flexión es el amortiguador más importante de toda atleta de Freestyle.",
-    "No busquen hacer el movimiento completo con prisa. Primero mecanicen cada paso, después unan la transición y finalmente busquen que se vea fluido con la música."
+    "Continuamos trabajando bases técnicas y de salto para mantener nuestro entrenamiento fino.",
+    "Deben continuar trabajando la rutina que comenzamos a crear para nuestra competencia. Esta rutina es la que estaremos haciendo y creando en cada clase.",
+    "Es importante que nuestras habilidades las estemos trabajando de manera continua. Debemos aprovechar al máximo el tiempo.",
+    "En freestyle, los puntos que parecen pequeños son los que hacen que la rutina se vea limpia: postura, aterrizaje, cámara, cadera, base y control.",
+    "En Yop Chagui saltando, múltiples y 360 kick, primero buscamos técnica limpia, después velocidad y finalmente explosividad.",
+    "En Bom Seogui, Chuchum Seogui y Jakdari Seogui, busquen que el cuerpo se vea estable, elegante y fuerte, como si cada postura fuera una foto de competencia."
   ],
   "notasFinales": [
-    "Con estos movimientos que hemos venido trabajando, vamos a crear nuestra rutina con la música que me enviaron. Les pido que no se estresen, pero sí procuren confiar en su instinto y en lo que tengan; aunque sean solamente tres movimientos, con eso comenzaremos y esa será una tarea importante.",
-    "El objetivo de estas dos semanas no es saturarlas de elementos, sino darles herramientas reales para construir una rutina fuerte, limpia y segura. Cada ejercicio nuevo tiene una función directa en lo que presentarán.",
-    "Cualquier duda o sensación extraña durante los aterrizajes, por favor coméntenme de inmediato chicas.",
-    "¡Feliz entrenamiento y a darle con todo, campeonas!"
+    "A seguirle dando a nuestro entrenamiento de freestyle y bases finas para la explosividad, la resistencia y la base técnica.",
+    "Debemos continuar enfocándonos en esos puntos que parecen ser innecesarios, pero que son muy importantes.",
+    "Cada salto, cada postura y cada aterrizaje deben ayudarnos a que la rutina se vea más fuerte, más limpia y más segura.",
+    "Cualquier duda, por favor coméntenme campeonas.",
+    "¡Feliz entrenamiento y a darle con todo!"
   ]
 }
