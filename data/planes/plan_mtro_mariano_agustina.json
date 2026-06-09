@@ -1,110 +1,120 @@
 {
-  "updated_at": "Actualizado dom 24 de mayo",
+  "updated_at": "Actualizado lun 8 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 25 de mayo al sábado 6 de junio del 2026",
-  "enfoque_corto": "Flexibilidad Intermedia + Control de Pateo + Adaptación Lesión",
-  "enfoque": "Ciclo enfocado en la transferencia del trabajo isométrico a secuencias dinámicas de Ap y Yop Chagui, adaptando la carga para la recuperación de rodilla del Maestro Mariano.",
-  "chanonaflexDias": "LUN A SAB · 1 serie",
+  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Salto + flexibilidad + pucho + pivoteo + 360 kick",
+  "enfoque": "En este ciclo trabajaremos salto, flexibilidad y pateo técnico de pucho, pivoteo y giro 360 kick. También reforzaremos Ap Chagui, Ap Chagui en silla y Ap Chagui con bloque para construir una base más firme, segura y útil para la competencia que viene cerca. La prioridad será entrenar con precisión, sin pena de fallar, cuidando especialmente la rodilla del Maestro para evitar sobrecargas.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
-      "titulo": "Chanonaflex - intermedio",
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
     },
     {
       "titulo": "ChanonaFlex • Nivel 1",
-      "dia": "LUNES A SÁBADO",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "LUN - MIE - VIE",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
-    },
-    {
-      "titulo": "Glúteo y gancho - Isométrico activo",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
     }
   ],
-  "pateoDias": "MAR - JUE - SAB",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI, SILLA, BLOQUE, PUCHO, PIVOTEO Y 360 KICK",
   "pateoTecnico": [
     {
-      "titulo": "Ap + Dollyo + Yop con regreso",
-      "enfoque": "Control de eje y transferencia técnica en secuencia",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando postura, cadera y pierna de apoyo",
+      "reps": "8 reps / 2 series por pierna",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap chaguis con bloques",
+      "enfoque": "Trabajar precisión, fuerza de apoyo y control de altura en Ap Chagui con bloque",
       "reps": "8 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR"
-    },
-    {
-      "titulo": "Secuencia Ap + Dollyo + Yop",
-      "enfoque": "Fluidez técnica y estabilidad neuromuscular",
-      "reps": "6 secuencias por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1mpJeBddYKmXUuJUMocQN42QzRwtlzSqr"
-    },
-    {
-      "titulo": "Ap + Descendente frontal circuito",
-      "enfoque": "Direccionamiento y control de la rodilla",
-      "reps": "10 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=10yu4P3fSnYpOuMODflI-7yyZq1alYNIH"
-    },
-    {
-      "titulo": "Circuito elevacion + sostener + circular",
-      "enfoque": "Sostén isométrico dinámico y control de cadera",
-      "reps": "8 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP"
-    },
-    {
-      "titulo": "Pucho + Ap  Chagui + Giro golpe",
-      "enfoque": "Coordinación motriz y estabilidad en el giro",
-      "reps": "10 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=15ZssVKzl60NXNrB4oL9bWsjdO9uefnCw"
+      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
     },
     {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Alineación del talón de apoyo y extensión base",
-      "reps": "15 reps por pierna / 2 series",
+      "enfoque": "Controlar cámara, extensión y regreso de Ap Chagui sin perder alineación",
+      "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Propuesta + ap chagui reps",
-      "enfoque": "Firmeza de cadera y control del centro de gravedad",
+      "titulo": "Ap Chagui Extension completa",
+      "enfoque": "Mejorar extensión, pierna de apoyo y postura para pateos más firmes",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
+    },
+    {
+      "titulo": "Pucho - 1",
+      "enfoque": "Mecanizar entrada de pucho con base estable, mirada al frente y control del torso",
+      "reps": "15 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=11qYU8HFqSGpVaSqP5WM1gZbav-Y4aFOb&usp=drive_copy"
+    },
+    {
+      "titulo": "Pucho + Ap chagui",
+      "enfoque": "Unir pucho con Ap Chagui manteniendo postura, cadera activa y pierna de apoyo firme",
+      "reps": "10 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1EfSyQwOzZ9HrzP1QX9EA-XBXEAyWDncp&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap + Yop + Turn hips silla",
+      "enfoque": "Trabajar pivoteo, giro de cadera, control del eje corporal y transición entre Ap Chagui y Yop Chagui",
+      "reps": "8 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
+    },
+    {
+      "titulo": "Pucho + Ap + Cicular + Giro gancho - Paso a paso",
+      "enfoque": "Coordinar pucho, Ap Chagui, pateo circular y giro con técnica progresiva y segura",
+      "reps": "6 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1UnpTtOU7sQeG2KJSrIixpO3P2O8xXqPK&usp=drive_copy"
+    },
+    {
+      "titulo": "360 kick - paso a paso progresivo 0 a 100",
+      "enfoque": "Construir el giro 360 kick desde una altura baja, cuidando giro, despegue, ubicación en el aire y aterrizaje seguro",
+      "reps": "8 reps / 2 series del lado que salga mejor",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1fo_p9ioEGNlPRY6ghrPzz5cXmZJnjZAu/view?usp=sharing"
     }
   ],
-  "poomsaeDias": "NO ASIGNADO ESTE CICLO",
+  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
   "poomsae": [],
   "apuntes": [
-    "Excelente trabajo de esta semana, seguimos avanzando poco a poco de manera positiva. En este ciclo nos enfocamos en ver semana a semana cada patada nueva y secuencia para poder aplicarlo a la lucha, justo en donde podemos transferir el trabajo de los tronquitos y ejercicios isométricos que hemos venido puliendo.",
-    "Atención prioritaria Maestro Mariano: Debido a la lesión de rodilla que me marca, todo el entrenamiento de este ciclo debe ejecutarse de forma reservada y controlada. Priorice el gesto técnico y la alineación sobre la potencia o la velocidad explosiva.",
-    "En las secuencias complejas como 'Ap + Dollyo + Yop con regreso', busque que la rodilla de la pierna de apoyo se mantenga firme y extendida; no flexione la base para compensar la fatiga.",
-    "Para Agustina: En el Giro 360 y secuencias dinámicas, use el ejercicio de 'Pucho + Ap  Chagui + Giro golpe' para fijar el eje del torso y evitar que los hombros se vayan hacia el frente al aterrizar.",
-    "Recuerde que flexionar la rodilla al pecho en la Yop Chagui también es direccionar; controle la cámara del pateo antes de romper la postura."
+    "En cada clase estaremos dándole continuidad a nuestros circuitos de pateo para nuestra competencia que se viene cerca.",
+    "Es muy importante mantenernos entrenando con total precisión y sin pena de caernos.",
+    "Es mejor caernos y fallar en el entrenamiento que fallar en la lucha.",
+    "Maestro, por favor cuide mucho su rodilla. No sobrecargue la pierna, no busque potencia máxima si siente molestia y priorice técnica limpia.",
+    "Agustina, mantenga confianza en los circuitos de salto y giro. Primero control, después velocidad y al final explosividad.",
+    "En pucho, pivoteo y 360 kick, el cuerpo debe girar como una sola pieza: mirada, cadera, torso y apoyo trabajando juntos."
   ],
   "notasFinales": [
-    "Han hecho un esfuerzo impecable. La clave de este bloque es la transferencia inteligente: llevar la fuerza que ganamos en estático hacia el movimiento real.",
-    "Maestro, escuche a su cuerpo en cada repetición. Si hay molestia aguda en la rodilla, detenga el ejercicio de inmediato y avíseme para hacer una regresión técnica en la plataforma.",
-    "Agustina, mantén el torso firme en las secuencias de tres patadas; el control del eje es lo que te dará la limpieza visual en competencia.",
-    "¡A entrenar con estructura y mucha inteligencia neuromuscular!"
+    "Continuamos entrenando con todo. Excelente trabajo el de esta semana.",
+    "Maestro, por favor cuide mucho su rodilla sin sobrecargar nuestra pierna para evitar lesiones futuras o prontas.",
+    "Agustina, siga trabajando con confianza y precisión, porque cada circuito nos acerca más a una rutina fuerte para competencia.",
+    "A seguir dándole con inteligencia, estructura y mucha actitud.",
+    "¡Feliz entrenamiento!"
   ]
 }
