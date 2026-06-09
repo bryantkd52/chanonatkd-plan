@@ -308,6 +308,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Flexibilidad nivel 1 e isométricos de Ap Chagui y Yop Chagui"
+  },
+
+  "benyoced_calzadilla": {
+    "nombre": "Benyoced Calzadilla",
+    "plan": "plan_benyoced_calzadilla.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Junio",
+    "objetivo_proximo": "Flexibilidad principiante e isométrico activo de Yop Chagui nivel 1"
   }
 
 }
