@@ -1,0 +1,49 @@
+{
+  "updated_at": "Actualizado lun 8 de junio de 2026",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Flexibilidad principiante + Isométrico Yop Chagui nivel 1",
+  "enfoque": "En este ciclo comenzaremos trabajando flexibilidad nivel principiante y ejercicios isométricos activos de Yop Chagui nivel 1. El objetivo será avanzar poco a poco, sin sobre exigirse, respetando el punto donde el cuerpo permita trabajar y entendiendo correctamente cada movimiento antes de aumentar intensidad o tiempo.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+    },
+    {
+      "titulo": "Chanonaflex - intermedio",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+    }
+  ],
+  "isometricoDias": "MARTES - JUEVES - SÁBADO / YOP CHAGUI NIVEL 1",
+  "isometrico": [
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
+      "tags": ["YOP CHAGUI, CADERA, FLEXIBILIDAD, CONTROL"]
+    }
+  ],
+  "pateoDias": "NO ASIGNADO A ESTE ALUMNO",
+  "pateoTecnico": [],
+  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
+  "poomsae": [],
+  "apuntes": [
+    "Comenzamos esta semana con todo. Recuerda que vamos progresando poco a poco.",
+    "No te sobre exijas. Debemos ir trabajando de manera progresiva y al punto en donde el cuerpo permita y entienda correctamente los movimientos.",
+    "Si algún ejercicio no puedes hacerlo o sientes que te lastima, por favor coméntame. Lo podemos ajustar.",
+    "En los isométricos de Yop Chagui, no busques altura máxima al inicio. Primero busca control, respiración y postura.",
+    "El estímulo debe sentirse útil y retador, pero no debe sentirse como dolor fuerte o lesión."
+  ],
+  "notasFinales": [
+    "Excelente inicio de semana en nuestro entrenamiento de flexibilidad.",
+    "No te preocupes si sientes que tienes limitaciones. Poco a poco iremos trabajando de manera positiva hacia lo que queremos.",
+    "Vamos a avanzar de manera progresiva y al ritmo que tu cuerpo nos permita.",
+    "A darle con todo en nuestro entrenamiento. Cualquier duda, por favor coméntame.",
+    "¡Feliz entrenamiento!"
+  ]
+}
