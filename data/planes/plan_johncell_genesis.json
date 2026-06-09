@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado lun 1 de junio de 2026",
+  "updated_at": "Actualizado lun 8 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 1 al sábado 6 de junio de 2026",
-  "enfoque_corto": "Koryo línea 1 + bases de Ap Chagui y Yop Chagui",
-  "enfoque": "En este primer ciclo trabajaremos con estructura, alineación y dirección clara en los objetivos. El enfoque principal será mejorar técnicamente Koryo línea 1, marcando cada preparación, postura y ejecución final, sin correr y sin apagar los movimientos. También reforzaremos Ap Chagui y Yop Chagui nivel base para construir mejor control corporal.",
-  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
+  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Koryo línea 1 y 2 + Ap Chagui + Yop Chagui",
+  "enfoque": "En este ciclo trabajaremos Koryo línea 1 y línea 2, además de pateo técnico de Yop Chagui y Ap Chagui. El objetivo será mejorar la precisión técnica, cuidar que la pierna de apoyo no se doble al patear, mantener la cadera lineal, corregir preparaciones de brazos y marcar mejor la cámara de regreso en Ap Chagui.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
@@ -13,10 +13,10 @@
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
     },
     {
-      "titulo": "Chanonaflex - intermedio",
-      "dia": "LUNES A SÁBADO",
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=sharing"
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
     }
   ],
   "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1",
@@ -34,59 +34,87 @@
       "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / BASE DE AP CHAGUI Y YOP CHAGUI",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI, SILLA, BLOQUE Y YOP CHAGUI",
   "pateoTecnico": [
     {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando pierna de apoyo, cadera lineal y brazos al pecho en impacto",
+      "reps": "9 reps / 2 series por pierna",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap chaguis con bloques",
+      "enfoque": "Trabajar precisión, fuerza de apoyo y cámara de regreso del Ap Chagui con bloque",
+      "reps": "10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
+    },
+    {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Trabajar cámara, postura y extensión de Ap Chagui sin perder alineación corporal",
-      "reps": "15 reps por pierna / 2 series",
+      "enfoque": "Controlar cámara, extensión y regreso de Ap Chagui sin doblar la pierna de apoyo",
+      "reps": "12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
       "titulo": "Ap Chagui Extension completa",
-      "enfoque": "Mejorar extensión completa, espalda alineada y pierna de apoyo firme",
-      "reps": "15 repeticiones por pierna / 2 series",
+      "enfoque": "Mantener cadera lineal, pierna de apoyo firme y extensión completa de Ap Chagui",
+      "reps": "12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
     },
     {
       "titulo": "Sentadilla Ap Chagui",
-      "enfoque": "Fortalecer cuádriceps y control de apoyo para mejorar estabilidad en las patadas",
-      "reps": "10 repeticiones / 2 series",
+      "enfoque": "Fortalecer piernas para sostener mejor Ap Chagui sin doblar la pierna de apoyo al patear",
+      "reps": "10 reps / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing"
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Aprender cámara de rodilla al pecho y control inicial de Yop Chagui",
+      "enfoque": "Preparar cámara de rodilla al pecho y mantener cadera lineal durante Yop Chagui",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Mejorar extensión, regreso y alineación del cuerpo durante Yop Chagui",
+      "enfoque": "Mejorar extensión, regreso y alineación corporal durante Yop Chagui",
       "reps": "10 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO / KORYO LÍNEA 1",
+  "poomsaeDias": "LUNES A SÁBADO / KORYO LÍNEA 1 Y LÍNEA 2",
   "poomsae": [
     {
-      "titulo": "Linea 1 Koryo - Precisión + Timing",
-      "enfoque": "Aprender Koryo línea 1 con preparación clara, postura correcta, dirección y corte de movimiento",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK&usp=drive_copy"
-    },
-    {
-      "titulo": "Linea 1 Koryo",
-      "enfoque": "Audio de timing para comprender ritmo, corte y continuidad de Koryo línea 1",
+      "titulo": "Timing - Línea 1 Koryo",
+      "enfoque": "Ritmo de competencia, cortes claros y continuidad técnica en Koryo línea 1",
       "reps": "2 ejecuciones completas con audio",
       "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1_k4JjzJoUEm0al3K5H50CKPR92-qqi4I&usp=drive_copy"
+      "url": "https://drive.google.com/file/d/1_k4JjzJoUEm0al3K5H50CKPR92-qqi4I/view?usp=drive_link"
+    },
+    {
+      "titulo": "Linea 1 Koryo - Precisión + Timing",
+      "enfoque": "Trabajar Koryo línea 1 con preparación clara, postura correcta, dirección y corte de movimiento",
+      "reps": "20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK/view?usp=drive_link"
+    },
+    {
+      "titulo": "Linea 2 Koryo - 2.1 ap chagui + golpes",
+      "enfoque": "Corregir Ap Chagui, brazos al pecho en impacto, simultaneidad del golpe y aterrizaje",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv/view?usp=drive_link"
+    },
+    {
+      "titulo": "Linea 2.2 Koryo",
+      "enfoque": "Trabajar transición a línea 2, Dwit Kubi, rodilla separada y corte de movimiento",
+      "reps": "10 reps / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1p90iF0JXyFoMq7AW28VYw4g4bQekSYgQ/view?usp=drive_link"
     },
     {
       "titulo": "Koryo L1 hold yop + Pyonwong",
@@ -97,16 +125,17 @@
     }
   ],
   "apuntes": [
-    "Comenzaremos a trabajar en nuestro Koryo línea 1 marcando cada preparación, alineación y postura.",
-    "Buscaremos con seguridad que los movimientos sean correctos, pero sobre todo que no sean rápidos ni lentos, sino marcados y bien ejecutados.",
-    "Pon mucha atención a cada movimiento, cada preparación y cada ejecución final. La preparación es la que ayuda a que el juez vea claramente la intención técnica.",
-    "No intentes memorizar todo de golpe. Primero entiende la dirección, luego la postura y después el corte final de cada movimiento.",
-    "Trabaja con paciencia: si el movimiento se siente raro al inicio, puede ser porque estamos corrigiendo hábitos y construyendo una base más limpia."
+    "Que no se doble la pierna de apoyo cuando pateamos y que la cadera se mantenga lineal.",
+    "En la preparación del golpe al cuello, que no se abra la mano desde la cintura, sino que se abra hasta que llegamos.",
+    "En las Dwit Kubis, cuando hacemos la transición a la línea número 2, que la rodilla no se pegue a la otra rodilla. Debe ser solo jalar el pie.",
+    "Al ejecutar Ap Chagui, los brazos deben ir al pecho justo en el momento del impacto y no antes.",
+    "Marcar la cámara o la flexión de la rodilla cuando estamos regresando del Ap Chagui.",
+    "No correr la línea 1 ni la línea 2 de Koryo. Primero dirección, después preparación y al final potencia."
   ],
   "notasFinales": [
-    "Johncell, bienvenido a ChanonaTKD. Te presento tu plan de entrenamiento, donde vamos a estar trabajando con estructura, alineación y sobre todo dirección en nuestros objetivos.",
-    "Este primer ciclo es para construir una base clara. No te preocupes por hacerlo perfecto de inmediato; lo importante es que cada repetición tenga intención y que cada día entiendas mejor la línea 1 de Koryo.",
-    "Por favor, cualquier duda coméntame a la brevedad.",
-    "¡Feliz entrenamiento y bienvenido al proceso!"
+    "Esta primera semana ha sido muy productiva a nivel de entrenamiento específico de técnica de Koryo.",
+    "Los puntos que pudimos ver para nuestra parte técnica son realmente importantes, sobre todo porque son detalles que pareciera que no se notan, pero sí están.",
+    "Excelente trabajo. Nos vemos en la próxima sesión con todo.",
+    "¡Feliz entrenamiento y a seguir dándole fuerte!"
   ]
 }
