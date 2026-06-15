@@ -324,6 +324,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Yop Chagui technical path and Koryo line 3"
+  },
+
+  "emilio_cdmx": {
+    "nombre": "Emilio - CDMX",
+    "plan": "plan_emilio_cdmx.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Junio",
+    "objetivo_proximo": "Plan adaptado de Ap/Yop Chagui y Taeguk 4 línea 1"
   }
 
 }
