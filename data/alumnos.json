@@ -340,6 +340,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Movilidad de cadera, Ap/Yop Chagui y Koryo línea 3"
+  },
+
+  "leticia_erguera": {
+    "nombre": "Leticia Erguera",
+    "plan": "plan_leticia_erguera.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Junio",
+    "objetivo_proximo": "Análisis técnico profesional de Ap/Yop Chagui y Taeguk 4 línea 1"
   }
 
 }
