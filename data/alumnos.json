@@ -316,6 +316,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Flexibilidad principiante e isométrico activo de Yop Chagui nivel 1"
+  },
+
+  "anna_georgia": {
+    "nombre": "Anna - Georgia",
+    "plan": "plan_anna_georgia.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Junio",
+    "objetivo_proximo": "Yop Chagui technical path and Koryo line 3"
   }
 
 }
