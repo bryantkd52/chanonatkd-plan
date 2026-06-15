@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Team Poomsae • Plan ChanonaTKD</title>
+  <style>
+    body{font-family:Arial,sans-serif;background:#0b0b0f;color:#f5f5f5;margin:0;padding:20px;line-height:1.5}
+    .wrap{max-width:960px;margin:auto}
+    .card{background:#15151d;border:1px solid #2a2a38;border-radius:18px;padding:18px;margin:16px 0}
+    h1,h2{margin:0 0 10px} a{color:#fff;text-decoration:none}
+    .btn{display:inline-block;background:#d92525;padding:10px 14px;border-radius:12px;margin-top:10px;font-weight:bold}
+    .meta{color:#cfcfd8}.item{border-top:1px solid #303040;padding:12px 0}.tag{font-size:12px;background:#29293a;border-radius:999px;padding:4px 8px;margin-right:6px}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Team Poomsae • Plan ChanonaTKD</h1>
+    <div id="app" class="card">Cargando plan...</div>
+  </div>
+  <script>
+    const app=document.getElementById('app');
+    const row=(x,i,b)=>`<div class="item"><b>${i}. ${x.titulo||'Ejercicio'}</b><div class="meta">${x.enfoque||x.nota||''}</div>${x.reps?`<div class="meta"><b>Reps:</b> ${x.reps}</div>`:''}<a class="btn" href="${x.url}" target="_blank" rel="noreferrer">▶ Reproducir</a></div>`;
+    const block=(title,arr,b)=>`<div class="card"><h2>${title}</h2>${(arr||[]).map((x,i)=>row(x,i+1,b)).join('')||'<div class="meta">No asignado.</div>'}</div>`;
+    fetch('../data/planes/plan_team_poomsae.json',{cache:'no-store'}).then(r=>r.json()).then(p=>{
+      app.innerHTML=`<h2>${p.nivel}</h2><div class="meta"><b>Ciclo:</b> ${p.ciclo}</div><div class="meta"><b>Enfoque:</b> ${p.enfoque_corto}</div><p>${p.enfoque}</p>`+
+      block('ChanonaFlex',p.chanonaflex,'ChanonaFlex')+
+      block('Isométricos',p.isometrico,'Isométrico')+
+      block('Pateo técnico',p.pateoTecnico,'Pateo')+
+      block('Poomsae',p.poomsae,'Poomsae')+
+      `<div class="card"><h2>Apuntes</h2><ol>${(p.apuntes||[]).map(x=>`<li>${x}</li>`).join('')}</ol></div>`+
+      `<div class="card"><h2>Notas finales</h2><ul>${(p.notasFinales||[]).map(x=>`<li>${x}</li>`).join('')}</ul></div>`;
+    }).catch(e=>{app.innerHTML='No se pudo cargar el plan.'});
+  </script>
+</body>
+</html>
