@@ -1,0 +1,43 @@
+{
+  "updated_at": "Actualizado lun 15 de junio de 2026",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Junio - Octubre 2026",
+  "enfoque_corto": "Team Poomsae + Ap Chagui + Yop Chagui + flexibilidad + fuerza isométrica",
+  "enfoque": "Plan grupal para dar estructura, seguimiento y continuidad al Team Poomsae durante junio a octubre de 2026. El objetivo será mejorar el nivel técnico y físico del pateo en Ap Chagui y Yop Chagui, además de fortalecer flexibilidad, fuerza isométrica y control corporal. Este plan funciona como complemento de los entrenamientos presenciales.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / CHANONAFLEX PROPUESTA: LUNES - MIÉRCOLES - VIERNES",
+  "chanonaflex": [
+    {"titulo":"Pre Chanonaflex Todos Niveles","dia":"LUNES A SÁBADO","tipo":"video","url":"https://www.youtube.com/watch?v=GIQHxt8kEAE","nota":"Preparación general antes de pateo, fuerza o poomsae."},
+    {"titulo":"Chanonaflex Desde Propuesta Nivel 3","dia":"LUNES - MIÉRCOLES - VIERNES","tipo":"video","url":"https://www.youtube.com/watch?v=UiQYkVdXddA","nota":"Trabajo de flexibilidad para apertura, movilidad de cadera y control corporal."}
+  ],
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 2",
+  "isometrico": [
+    {"titulo":"Isométrico Activo Ap Chagui Circuito 2","tipo":"video","url":"https://www.youtube.com/watch?v=a6WDtoGBiaQ","tags":["AP CHAGUI, FUERZA, CONTROL"]},
+    {"titulo":"Isométrico activo Dollyo Chagui Nivel 2","tipo":"video","url":"https://www.youtube.com/watch?v=EId1MgS63XQ","tags":["DOLLYO CHAGUI, CADERA, CONTROL"]},
+    {"titulo":"Isométrico Activo Yop Chagui Nivel 2","tipo":"video","url":"https://www.youtube.com/watch?v=VW7pVGJue9Q","tags":["YOP CHAGUI, CADERA, CONTROL"]},
+    {"titulo":"Glúteo y gancho Isométrico activo Intermedio","tipo":"video","url":"https://www.youtube.com/watch?v=3mM6jZvSb7A","tags":["GLÚTEO, GANCHO, FUERZA"]},
+    {"titulo":"Isométrico activo Ap Chagui Nivel 2","tipo":"video","url":"https://www.youtube.com/watch?v=sFlQLddr3CE","tags":["AP CHAGUI, NIVEL 2, FUERZA"]}
+  ],
+  "pateoDias": "MARTES - JUEVES - SÁBADO / YOP CHAGUI, AP + YOP Y GIRO DE CADERA",
+  "pateoTecnico": [
+    {"titulo":"Ejercicio 12 - Yop Chagui","enfoque":"Trayectoria, cámara y extensión de Yop Chagui.","reps":"10 a 15 reps por lado / 2 series","tipo":"video","url":"https://www.youtube.com/watch?v=ugHZWzzjYeI"},
+    {"titulo":"Ejercicio 11 - Yop Chagui","enfoque":"Precisión, equilibrio y fuerza específica de patada lateral.","reps":"10 a 15 reps por lado / 2 series","tipo":"video","url":"https://www.youtube.com/watch?v=zByFdxlrSe8"},
+    {"titulo":"Ejercicio 10 - Yop Chagui","enfoque":"Mecánica de Yop Chagui, cadera, apoyo, torso y regreso.","reps":"10 a 15 reps por lado / 2 series","tipo":"video","url":"https://www.youtube.com/watch?v=ycHc1OL3Na0"},
+    {"titulo":"Ejercicio 9 - Yop Chagui","enfoque":"Bases de control técnico para una Yop Chagui limpia y competitiva.","reps":"10 a 15 reps por lado / 2 series","tipo":"video","url":"https://www.youtube.com/watch?v=MPm3FqnkRao"},
+    {"titulo":"Ap + Yop + Turn Hips de Silla","enfoque":"Transición entre Ap Chagui y Yop Chagui, giro de cadera y control de eje.","reps":"8 a 12 reps por lado / 2 series","tipo":"video","url":"https://www.youtube.com/watch?v=C6Hpl7rn69k"}
+  ],
+  "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
+  "poomsae": [],
+  "apuntes": [
+    "El objetivo de este plan es darle estructura, seguimiento y guía al trabajo que vamos entrenando como Team Poomsae.",
+    "Si faltan a clase, revisen el día correspondiente para no perder continuidad.",
+    "Este plan es complemento de los entrenamientos presenciales y ayuda a mantener lineamientos de equipo.",
+    "No significa que con esto tienen todo resuelto; es una guía para no perder estructura.",
+    "Si tienen alguna molestia física, avísenme para ajustar carga o intensidad."
+  ],
+  "notasFinales": [
+    "Cualquier duda sobre si los videos reproducen o no reproducen, coméntenmelo.",
+    "Si tienen alguna lesión o molestia, avísenme a la brevedad para ajustar ejercicios.",
+    "Disfruten de su entrenamiento y mantengan la estructura del equipo.",
+    "Nos vemos dentro."
+  ]
+}
