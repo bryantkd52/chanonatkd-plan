@@ -3,40 +3,131 @@
   "nivel": "Nivel Dragones",
   "ciclo": "Junio - Octubre 2026",
   "enfoque_corto": "Team Poomsae + Ap Chagui + Yop Chagui + flexibilidad + fuerza isométrica",
-  "enfoque": "Plan grupal para dar estructura, seguimiento y continuidad al Team Poomsae durante junio a octubre de 2026. El objetivo será mejorar el nivel técnico y físico del pateo en Ap Chagui y Yop Chagui, además de fortalecer flexibilidad, fuerza isométrica y control corporal. Este plan funciona como complemento de los entrenamientos presenciales.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / CHANONAFLEX PROPUESTA: LUNES - MIÉRCOLES - VIERNES",
+  "enfoque": "Este plan grupal está diseñado para darle estructura, seguimiento y continuidad al Team Poomsae durante el ciclo junio - octubre 2026. El objetivo principal será mejorar el nivel técnico y físico del pateo en Ap Chagui y Yop Chagui, además de fortalecer flexibilidad, fuerza isométrica y control corporal. Este plan es un complemento de los entrenamientos presenciales para que el equipo no pierda guía aunque alguien falte a clase.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 2: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
-    {"titulo":"Pre Chanonaflex Todos Niveles","dia":"LUNES A SÁBADO","tipo":"video","url":"https://www.youtube.com/watch?v=GIQHxt8kEAE","nota":"Preparación general antes de pateo, fuerza o poomsae."},
-    {"titulo":"Chanonaflex Desde Propuesta Nivel 3","dia":"LUNES - MIÉRCOLES - VIERNES","tipo":"video","url":"https://www.youtube.com/watch?v=UiQYkVdXddA","nota":"Trabajo de flexibilidad para apertura, movilidad de cadera y control corporal."}
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "LUNES A SÁBADO",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
+      "nota": "Preparación general antes de pateo, fuerza o poomsae. Debe hacerse con control, respiración y buena postura."
+    },
+    {
+      "titulo": "Chanonaflex - intermedio",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link",
+      "nota": "Trabajo de flexibilidad nivel 2 para mejorar apertura, movilidad de cadera y control corporal. Ajustar intensidad si algún atleta presenta molestia."
+    }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 2",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 2 / FUERZA, CADERA Y CONTROL",
   "isometrico": [
-    {"titulo":"Isométrico Activo Ap Chagui Circuito 2","tipo":"video","url":"https://www.youtube.com/watch?v=a6WDtoGBiaQ","tags":["AP CHAGUI, FUERZA, CONTROL"]},
-    {"titulo":"Isométrico activo Dollyo Chagui Nivel 2","tipo":"video","url":"https://www.youtube.com/watch?v=EId1MgS63XQ","tags":["DOLLYO CHAGUI, CADERA, CONTROL"]},
-    {"titulo":"Isométrico Activo Yop Chagui Nivel 2","tipo":"video","url":"https://www.youtube.com/watch?v=VW7pVGJue9Q","tags":["YOP CHAGUI, CADERA, CONTROL"]},
-    {"titulo":"Glúteo y gancho Isométrico activo Intermedio","tipo":"video","url":"https://www.youtube.com/watch?v=3mM6jZvSb7A","tags":["GLÚTEO, GANCHO, FUERZA"]},
-    {"titulo":"Isométrico activo Ap Chagui Nivel 2","tipo":"video","url":"https://www.youtube.com/watch?v=sFlQLddr3CE","tags":["AP CHAGUI, NIVEL 2, FUERZA"]}
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=sharing",
+      "tags": ["AP CHAGUI, NIVEL 2, FUERZA, CONTROL"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=sharing",
+      "tags": ["YOP CHAGUI, NIVEL 2, CADERA, CONTROL"]
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"]
+    }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / YOP CHAGUI, AP + YOP Y GIRO DE CADERA",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI Y YOP CHAGUI / 20 A 25 REPS / 2 SERIES POR EJERCICIO",
   "pateoTecnico": [
-    {"titulo":"Ejercicio 12 - Yop Chagui","enfoque":"Trayectoria, cámara y extensión de Yop Chagui.","reps":"10 a 15 reps por lado / 2 series","tipo":"video","url":"https://www.youtube.com/watch?v=ugHZWzzjYeI"},
-    {"titulo":"Ejercicio 11 - Yop Chagui","enfoque":"Precisión, equilibrio y fuerza específica de patada lateral.","reps":"10 a 15 reps por lado / 2 series","tipo":"video","url":"https://www.youtube.com/watch?v=zByFdxlrSe8"},
-    {"titulo":"Ejercicio 10 - Yop Chagui","enfoque":"Mecánica de Yop Chagui, cadera, apoyo, torso y regreso.","reps":"10 a 15 reps por lado / 2 series","tipo":"video","url":"https://www.youtube.com/watch?v=ycHc1OL3Na0"},
-    {"titulo":"Ejercicio 9 - Yop Chagui","enfoque":"Bases de control técnico para una Yop Chagui limpia y competitiva.","reps":"10 a 15 reps por lado / 2 series","tipo":"video","url":"https://www.youtube.com/watch?v=MPm3FqnkRao"},
-    {"titulo":"Ap + Yop + Turn Hips de Silla","enfoque":"Transición entre Ap Chagui y Yop Chagui, giro de cadera y control de eje.","reps":"8 a 12 reps por lado / 2 series","tipo":"video","url":"https://www.youtube.com/watch?v=C6Hpl7rn69k"}
+    {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, equilibrio, postura, cadera y control de la pierna de apoyo.",
+      "reps": "20 a 25 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap chaguis con bloques",
+      "enfoque": "Trabajar precisión, fuerza de apoyo, control de altura y dirección de Ap Chagui con bloque.",
+      "reps": "20 a 25 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap Chagui contra pared",
+      "enfoque": "Reforzar cámara, extensión, regreso y control de postura sin perder alineación.",
+      "reps": "20 a 25 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
+      "titulo": "Ap Chagui Extension completa",
+      "enfoque": "Desarrollar extensión completa, postura firme y fuerza específica en Ap Chagui.",
+      "reps": "20 a 25 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
+    },
+    {
+      "titulo": "Sentadilla Ap Chagui",
+      "enfoque": "Fortalecer piernas, estabilidad y transición para un Ap Chagui más fuerte y competitivo.",
+      "reps": "20 a 25 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing"
+    },
+    {
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Marcar cámara de rodilla al pecho para que la Yop Chagui tenga trayectoria correcta y no se convierta en patada circular.",
+      "reps": "20 a 25 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
+    },
+    {
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Controlar extensión, regreso de pierna, torso y cadera sin romper la línea del cuerpo.",
+      "reps": "20 a 25 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap + Yop + Turn hips silla",
+      "enfoque": "Trabajar transición entre Ap Chagui y Yop Chagui, giro de cadera, eje corporal y control con apoyo de silla.",
+      "reps": "20 a 25 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
+    },
+    {
+      "titulo": "Circuito Yop chagui con Bloque",
+      "enfoque": "Mejorar trayectoria de Yop Chagui con bloque, cuidando cámara, cadera, equilibrio y línea de pateo.",
+      "reps": "20 a 25 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo"
+    },
+    {
+      "titulo": "Split de Yop Chagui",
+      "enfoque": "Mejorar apertura, línea de cadera y flexibilidad específica para Yop Chagui sin perder control.",
+      "reps": "20 a 25 reps controladas por lado / 2 series según nivel del atleta",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=drive_link"
+    }
   ],
   "poomsaeDias": "NO ASIGNADO POR EL MOMENTO",
   "poomsae": [],
   "apuntes": [
     "El objetivo de este plan es darle estructura, seguimiento y guía al trabajo que vamos entrenando como Team Poomsae.",
-    "Si faltan a clase, revisen el día correspondiente para no perder continuidad.",
-    "Este plan es complemento de los entrenamientos presenciales y ayuda a mantener lineamientos de equipo.",
-    "No significa que con esto tienen todo resuelto; es una guía para no perder estructura.",
-    "Si tienen alguna molestia física, avísenme para ajustar carga o intensidad."
+    "Si faltan a clases o no pueden entrenar muchos días conmigo, revisen qué toca hacer en este plan para no perder continuidad.",
+    "Si faltaste el día martes, busca qué toca hacer el martes. Si faltaste el jueves, busca qué toca el jueves. Así garantizamos avance y estructura.",
+    "Este plan está estrictamente enfocado en lo que estaremos trabajando como equipo y funciona como complemento de los entrenamientos presenciales.",
+    "No significa que con esto tienen todo resuelto; es una guía para no perder estructura y evitar el pretexto de no poder entrenar.",
+    "Si algún atleta tiene lesión, molestia o dolor fuera de lo normal, debe avisarlo antes de ejecutar los ejercicios para ajustar carga o intensidad."
   ],
   "notasFinales": [
-    "Cualquier duda sobre si los videos reproducen o no reproducen, coméntenmelo.",
-    "Si tienen alguna lesión o molestia, avísenme a la brevedad para ajustar ejercicios.",
+    "Cualquier duda sobre si los videos reproducen o no reproducen, coméntenmelo de inmediato.",
+    "Si tienen alguna lesión, favor de comentármelo a la brevedad y con confianza para determinar qué ejercicios tenemos que ajustar.",
     "Disfruten de su entrenamiento y mantengan la estructura del equipo.",
     "Nos vemos dentro."
   ]
