@@ -332,6 +332,14 @@
     "plan_activo": "Dragones",
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Plan adaptado de Ap/Yop Chagui y Taeguk 4 línea 1"
+  },
+
+  "leonardo_gonzalez": {
+    "nombre": "Leonardo Gonzalez",
+    "plan": "plan_leonardo_gonzalez.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Junio",
+    "objetivo_proximo": "Movilidad de cadera, Ap/Yop Chagui y Koryo línea 3"
   }
 
 }
