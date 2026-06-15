@@ -26,6 +26,17 @@ const logoImg = document.getElementById("logoImg");
 // Logo (tu drive directo)
 const LOGO_URL = "https://bryantkd52.github.io/chanonatkd-plan/assets/logo-chanonatkd.png";
 
+// Planes especiales que no se guardan en data/alumnos.json
+const DIRECT_PLAN_ACCESS = {
+  team_poomsae: {
+    nombre: "Team Poomsae",
+    plan: "plan_team_poomsae.json",
+    plan_activo: "Dragones",
+    suscripcion_activa: "Junio - Octubre 2026",
+    objetivo_proximo: "Estructura grupal de Ap/Yop Chagui, flexibilidad y fuerza isométrica"
+  }
+};
+
 // Render helpers
 function section(title, innerHtml){
   return `
@@ -92,8 +103,6 @@ function renderResumen(plan){
       <li><b>Isométrico activo:</b> ${safeText(plan.isometricoDias || "—")}</li>
       <li><b>Trabajo técnico pateo:</b> ${safeText(plan.pateoDias || "—")}</li>
       <li><b>Trabajo técnico poomsae:</b> ${safeText(plan.poomsaeDias || "—")}</li>
-
-      <!-- ✅ NUEVO -->
       <li><b>ChanonaFlex:</b> ${safeText(plan.chanonaflexDias || "—")}</li>
     </ul>
   `;
@@ -140,7 +149,6 @@ function renderTab(tab, plan){
     return renderListBlock("Trabajo técnico de poomsae", combinado, "Poomsae");
   }
 
-  // ✅ NUEVO TAB: ChanonaFlex
   if(tab === "chanonaflex"){
     return renderListBlock("ChanonaFlex", plan.chanonaflex, "ChanonaFlex");
   }
@@ -171,7 +179,7 @@ menu.addEventListener("click", (e)=>{
     }
 
     const alumnosMap = await loadJson("../data/alumnos.json");
-    const alumno = alumnosMap[alumnoId];
+    const alumno = alumnosMap[alumnoId] || DIRECT_PLAN_ACCESS[alumnoId];
 
     if(!alumno){
       content.innerHTML = `<div class="loaderCard"><div class="loaderTitle">Alumno no encontrado</div><div class="loaderSub">Revisa el parámetro <b>?alumno=</b></div></div>`;
