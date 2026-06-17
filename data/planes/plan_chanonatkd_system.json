@@ -1,22 +1,24 @@
 {
-  "updated_at": "Actualizado lun 1 de junio de 2026",
+  "updated_at": "Actualizado lun 15 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 1 al sábado 6 de junio de 2026",
-  "enfoque_corto": "Flexibilidad nivel intermedio + técnica de Ap Chagui y Yop Chagui",
-  "enfoque": "En este ciclo mantendremos el desarrollo técnico de pateo y flexibilidad en nivel 1 e intermedio. El objetivo será sostener una buena alineación de espalda, mejorar el control de Ap Chagui y Yop Chagui, empujarnos correctamente en los ejercicios y reconocer las sensaciones de estiramiento y fuerza sin perder postura.",
-  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
+  "ciclo": "Lunes 15 al sábado 20 de junio de 2026",
+  "enfoque_corto": "Ap Chagui + circular + Yop Chagui + flexibilidad nivel 1",
+  "enfoque": "En este ciclo continuaremos trabajando la técnica y trayectoria de Ap Chagui, pateo circular y Yop Chagui, además de seguir fortaleciendo nuestro nivel técnico y flexibilidad. La prioridad será entender cómo aplicar nuestros esfuerzos a diferentes pateos, siempre ajustando tiempos y repeticiones según lo que el cuerpo permita de forma positiva y segura.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
+      "nota": "Trabajen con respiración y control. Si el cuerpo no permite sostener todo el tiempo, ajusten sin perder intención técnica."
     },
     {
-      "titulo": "Chanonaflex - intermedio",
-      "dia": "LUNES A SÁBADO",
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link",
+      "nota": "Nivel 1 para seguir construyendo flexibilidad sin sobrecargarse. Lleguen hasta donde el cuerpo permita de manera positiva."
     }
   ],
   "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1",
@@ -25,54 +27,68 @@
       "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
     },
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["FUERZA, FORTALECIMIENTO, FLEX"]
+      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
+      "nota": "Trabajar de forma controlada. Si el nivel se siente muy fuerte, bajar intensidad o reducir tiempo de trabajo."
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI Y YOP CHAGUI",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI, CIRCULAR Y YOP CHAGUI EN SILLA",
   "pateoTecnico": [
     {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, equilibrio, postura y control de pierna de apoyo.",
+      "reps": "10 reps por pierna / 2 series, ajustar si el cuerpo lo pide",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap chaguis con bloques",
+      "enfoque": "Trabajar precisión, fuerza de apoyo y control de altura en Ap Chagui con bloque.",
+      "reps": "10 reps por pierna / 2 series, ajustar si el cuerpo lo pide",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
+    },
+    {
       "titulo": "Ap Chagui contra pared",
-      "enfoque": "Control de talón de apoyo, extensión de rodilla y alineación de espalda",
-      "reps": "10 reps por pierna / 2 series",
+      "enfoque": "Controlar cámara, extensión y regreso de Ap Chagui sin perder alineación.",
+      "reps": "10 reps por pierna / 2 series, ajustar si el cuerpo lo pide",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
-      "titulo": "Ap Chagui Extension completa",
-      "enfoque": "Extensión completa, pierna de apoyo firme y postura lineal",
-      "reps": "15 repeticiones por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
-    },
-    {
-      "titulo": "Sentadilla Ap Chagui",
-      "enfoque": "Fortalecimiento de cuádriceps y control de apoyo para mejorar estabilidad",
-      "reps": "10 repeticiones / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing"
-    },
-    {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Cámara de rodilla al pecho y control inicial de Yop Chagui",
-      "reps": "10 reps por pierna / 2 series",
+      "enfoque": "Marcar cámara de rodilla al pecho para que la Yop Chagui salga con trayectoria correcta.",
+      "reps": "10 reps por pierna / 2 series, ajustar si el cuerpo lo pide",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Extensión, regreso de la pierna y alineación del cuerpo durante Yop Chagui",
-      "reps": "10 reps por pierna / 2 series",
+      "enfoque": "Controlar extensión, regreso de pierna, torso y cadera sin romper la línea del cuerpo.",
+      "reps": "10 reps por pierna / 2 series, ajustar si el cuerpo lo pide",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap + Yop + Turn hips silla",
+      "enfoque": "Trabajar transición entre Ap Chagui y Yop Chagui, giro de cadera, eje corporal y control con silla.",
+      "reps": "8 a 10 reps por lado / 2 series, ajustar si el cuerpo lo pide",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "SÁBADOS (SESIONES GRABADAS) / SE MANTIENEN LAS 9 CLASES",
+  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO / SE MANTIENEN LAS CLASES GRABADAS",
   "poomsae": [
     {
       "titulo": "Primera sesión - Sabado 1 de abril 2026",
@@ -136,17 +152,33 @@
       "reps": "1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ZbNrqfhmHSCEh1C0GXAWtYd9WA2qcOOb/view?usp=sharing"
+    },
+    {
+      "titulo": "Décima sesión - Glúteo, flex y técnico",
+      "enfoque": "Trabajo de glúteo, flexibilidad y técnica aplicada a diferentes pateos",
+      "reps": "1 clase completa",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1V0euQEZEl8cnfIbbUCGXUb_dzHgEQVqG&usp=drive_copy"
+    },
+    {
+      "titulo": "Onceava sesión - Trinidad pateo",
+      "enfoque": "Clase de pateo técnico, control y aplicación progresiva de los esfuerzos",
+      "reps": "1 clase completa",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1GSiQhqfXKssSHQx77dN9Svs7vFhTNroa&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "Van súper bien en sus entrenamientos. Buscamos en esta semana mantener el nivel técnico, postura y flexibilidad para nuestras patadas.",
-    "Debemos mantener nuestra alineación de espalda en todo momento mientras ejecutamos los ejercicios.",
-    "Empújense correctamente mientras sienten las sensaciones de estiramiento y de fuerza. La idea no es sufrir, sino trabajar con intención y control.",
-    "En Ap Chagui y Yop Chagui, mantengan la pierna de apoyo firme y el torso alineado para que cada repetición construya mejor técnica."
+    "Continuamos trabajando, pero en esta ocasión hicimos ejercicios diferentes que retaron nuestra parte física, siempre dentro de lo posible y positivo.",
+    "También pudimos ver nuestros esfuerzos aplicados a diferentes pateos. Esa es la parte importante de este proceso.",
+    "Recordatorio importante: siempre debemos ajustar tiempos y repeticiones si nuestro cuerpo no nos lo permite.",
+    "Es súper importante darle la respectiva importancia a lo que nuestro cuerpo nos está diciendo.",
+    "No se trata de forzar por forzar. Se trata de avanzar con técnica, control, flexibilidad y buena sensación corporal.",
+    "Si sienten molestia, dolor fuera de lo normal o cansancio excesivo, deben ajustar el trabajo y comentármelo."
   ],
   "notasFinales": [
-    "La novena clase está lista en el plan de entrenamiento.",
-    "Coméntenme cualquier duda que tengan, estaré atento y sobre todo pendiente de lo que sea que necesiten.",
-    "Un abrazo y a seguir trabajando con todo."
+    "Cualquier duda, por favor coméntenme. Estoy atento y les dejo los videos de las clases que hemos venido tomando.",
+    "Tuvimos un error de sistema que no estaba actualizando el plan de entrenamiento, pero ya debe estar resuelto con esto. Muchas gracias por su paciencia.",
+    "Disfruten su entrenamiento."
   ]
 }
