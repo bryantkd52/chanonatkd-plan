@@ -1,22 +1,17 @@
 {
-  "updated_at": "Actualizado lun 8 de junio de 2026",
+  "updated_at": "Actualizado jue 18 de junio de 2026",
   "nivel": "Nivel Dragones",
   "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
-  "enfoque_corto": "Flexibilidad principiante + Isométrico Yop Chagui nivel 1",
-  "enfoque": "En este ciclo comenzaremos trabajando flexibilidad nivel principiante y ejercicios isométricos activos de Yop Chagui nivel 1. El objetivo será avanzar poco a poco, sin sobre exigirse, respetando el punto donde el cuerpo permita trabajar y entendiendo correctamente cada movimiento antes de aumentar intensidad o tiempo.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
+  "enfoque_corto": "Flexibilidad adaptiva + Isométrico Yop Chagui nivel 1",
+  "enfoque": "En este ciclo continuaremos trabajando flexibilidad adaptiva y ejercicios isométricos activos de Yop Chagui nivel 1. El objetivo será avanzar poco a poco, sin sobre exigirse, respetando el punto donde el cuerpo permita trabajar y entendiendo correctamente cada movimiento antes de aumentar intensidad o tiempo.",
+  "chanonaflexDias": "FLEXIBILIDAD ADAPTIVA: LUNES A SÁBADO / 1 SERIE",
   "chanonaflex": [
     {
-      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "titulo": "Flexibilidad Adaptiva - Benyoced",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
-    },
-    {
-      "titulo": "Chanonaflex - intermedio",
-      "dia": "LUNES - MIÉRCOLES - VIERNES",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1OuVq4E61Dxm3kUVB-5JTHuzQSTJxKi4P/view?usp=sharing",
+      "nota": "Trabajar a su ritmo, sin sobre exigirse. El estímulo debe sentirse útil, positivo y controlado; no debe sentirse como dolor fuerte o lesión."
     }
   ],
   "isometricoDias": "MARTES - JUEVES - SÁBADO / YOP CHAGUI NIVEL 1",
@@ -40,7 +35,7 @@
     "El estímulo debe sentirse útil y retador, pero no debe sentirse como dolor fuerte o lesión."
   ],
   "notasFinales": [
-    "Excelente inicio de semana en nuestro entrenamiento de flexibilidad.",
+    "Excelente inicio de semana en nuestro entrenamiento de flexibilidad adaptiva.",
     "No te preocupes si sientes que tienes limitaciones. Poco a poco iremos trabajando de manera positiva hacia lo que queremos.",
     "Vamos a avanzar de manera progresiva y al ritmo que tu cuerpo nos permita.",
     "A darle con todo en nuestro entrenamiento. Cualquier duda, por favor coméntame.",
