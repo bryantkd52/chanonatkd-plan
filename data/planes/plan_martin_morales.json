@@ -1,22 +1,24 @@
 {
-  "updated_at": "Actualizado lun 8 de junio de 2026",
+  "updated_at": "Actualizado lun 22 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
-  "enfoque_corto": "Flexibilidad nivel 1 + isométrico activo",
-  "enfoque": "En este ciclo continuaremos trabajando flexibilidad y ejercicios de isométrico activo, todo en nivel 1. El objetivo será estimular el cuerpo de forma progresiva, mejorar control, respiración y resistencia básica sin sobrecargar. Buscaremos que el trabajo se sienta retador, pero seguro, manteniendo siempre el límite que permita el cuerpo sin exigir de más.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES",
+  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
+  "enfoque_corto": "Flexibilidad intermedia + isométrico activo nivel 1",
+  "enfoque": "En este ciclo continuaremos trabajando flexibilidad e isométrico activo nivel 1. El objetivo será mejorar la sensación del estiramiento, la postura, la respiración y el control corporal sin sobrecargar el cuerpo. La prioridad será sostener bien las posiciones, usar la mano detrás para apoyarse cuando sea necesario y sentir el estiramiento de forma positiva y segura.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
+      "nota": "Usar como preparación general antes de flexibilidad o isométricos. Mantener respiración y control."
     },
     {
-      "titulo": "ChanonaFlex • Nivel 1",
+      "titulo": "Chanonaflex - intermedio",
       "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link",
+      "nota": "Trabajar las posturas con control. En posiciones de flexibilidad, colocar la mano detrás para sostenerse, sentir el estiramiento y mantener la técnica correcta."
     }
   ],
   "isometricoDias": "MARTES - JUEVES - SÁBADO / NIVEL 1",
@@ -25,31 +27,38 @@
       "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["AP CHAGUI, FUERZA, FLEXIBILIDAD, CONTROL"]
+      "tags": ["AP CHAGUI, FUERZA, FLEXIBILIDAD, CONTROL"],
+      "nota": "Trabajar con postura y respiración. No buscar altura máxima; primero controlar el cuerpo."
     },
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, FLEXIBILIDAD, CONTROL"]
+      "tags": ["YOP CHAGUI, CADERA, FLEXIBILIDAD, CONTROL"],
+      "nota": "Mantener torso estable y cadera activa. Si se siente demasiado fuerte, bajar intensidad sin perder técnica."
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
+      "nota": "Trabajar con control. Si se siente muy fuerte, reducir intensidad o tiempo sin perder técnica."
     }
   ],
-  "pateoDias": "NO ASIGNADO EN ESTA SEMANA",
+  "pateoDias": "NO ASIGNADO A ESTE ALUMNO",
   "pateoTecnico": [],
   "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
   "poomsae": [],
   "apuntes": [
-    "Continuamos trabajando nuestra flexibilidad recordando poner la mano atrás para empujarnos en las posiciones de L y L torcida.",
-    "También debemos sostener el tiempo que nos permita el cuerpo y nuestra respiración, sin forzar de más.",
-    "No sobrecargues por querer extender más o por querer sostener más tiempo la pierna en los isométricos.",
-    "Este trabajo debe ser progresivo: debes sentir que estimula el cuerpo, pero que no lo sobre exige.",
-    "La respiración debe ayudarte a sostener mejor. Si dejas de respirar o empiezas a tensarte demasiado, baja un poco la intensidad y vuelve a controlar."
+    "Busca que tus posturas de flexibilidad siempre tengan la mano detrás para poder sostenerte.",
+    "La mano detrás te ayuda a sentir mejor el estiramiento y a mantener la técnica correcta.",
+    "Lo más importante es que sientas el estiramiento, no que fuerces el cuerpo más de lo que puede dar en ese momento.",
+    "Mantén la respiración tranquila. Si te tensas demasiado o dejas de respirar, baja un poco la intensidad.",
+    "Este trabajo debe sentirse útil, progresivo y seguro. No buscamos dolor fuerte ni sobrecarga."
   ],
   "notasFinales": [
-    "Excelente trabajo el que hemos estado haciendo.",
-    "A veces se puede sentir fuerte el progreso, pero el resultado es mucho mejor de lo que puedes llegar a pensar.",
-    "Además, esto te permitirá hacer muchas y mejores cosas a largo plazo. Esto es vida totalmente.",
-    "Mucho éxito en tu entrenamiento. Coménteme cualquier duda que tengas.",
-    "¡Feliz entrenamiento!"
+    "Excelente trabajo de esta semana.",
+    "Continuaremos enfocándonos en nuestra parte técnica y en un estiramiento adaptable a lo que nuestro cuerpo nos pide.",
+    "Ánimo y nos vemos en clase."
   ]
 }
