@@ -1,135 +1,186 @@
 {
-  "updated_at": "Actualizado lun 8 de junio de 2026",
+  "updated_at": "Actualizado lun 22 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
-  "enfoque_corto": "Yop Chagui + Keumgang líneas 1, 2 y 3",
-  "enfoque": "En estas próximas semanas trabajaremos con mucho enfoque en el fortalecimiento de las piernas, la técnica de Yop Chagui y la poomsae Keumgang. La prioridad será darle buenos hábitos al cuerpo, mejorar el equilibrio, la postura y la estabilidad en posiciones exigentes, especialmente pensando en el examen del siguiente grado.",
-  "chanonaflexDias": "LUNES A SÁBADO · 1 serie",
+  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
+  "enfoque_corto": "Keumgang específico + Ap/Yop Chagui con silla",
+  "enfoque": "En este ciclo trabajaremos de manera específica el nivel técnico de poomsae, especialmente Keumgang, mientras seguimos fortaleciendo Ap Chagui y Yop Chagui con silla. El objetivo será mejorar postura, equilibrio, alineación del torso, preparación de brazos, estabilidad de bases y ejecución clara de cada movimiento, evitando torcer el torso o hacer reverencia durante las Yop Chagui.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
+      "nota": "Usar como preparación general antes de flexibilidad, isométricos, pateo o poomsae. Mantener respiración y control."
     },
     {
-      "titulo": "ChanonaFlex • Nivel 1",
-      "dia": "LUNES A SÁBADO",
+      "titulo": "Chanonaflex - intermedio",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link",
+      "nota": "Trabajo intermedio para mejorar movilidad de cadera, flexibilidad y control corporal sin sobrecargarse."
     }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / YOP CHAGUI NIVEL 1",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1",
   "isometrico": [
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"],
+      "nota": "Mantener control del torso, abdomen activo y postura estable. No buscar altura antes de controlar la técnica."
+    },
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
+      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"],
+      "nota": "Evitar hacer reverencia. Mantener cadera activa, torso alineado y regreso limpio de la pierna."
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
+      "nota": "Trabajar con control. Si se siente muy fuerte, reducir intensidad o tiempo sin perder técnica."
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / YOP CHAGUI",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / HACER SOLO 2 EJERCICIOS POR DÍA",
   "pateoTecnico": [
     {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "grupo": "Ap Chagui con silla",
+      "enfoque": "Mantener torso alineado, puños al pecho, base estable y control de la pierna de apoyo.",
+      "reps": "12 a 15 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap Chagui contra pared",
+      "grupo": "Ap Chagui",
+      "enfoque": "Corregir cámara, extensión y regreso sin torcer el torso. Mantener puños al pecho y pierna de apoyo firme.",
+      "reps": "15 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+    },
+    {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Aprender cámara de rodilla al pecho y ubicar cadera antes de ejecutar Yop Chagui",
-      "reps": "10 reps por pierna / 2 series",
+      "grupo": "Yop Chagui con silla / base técnica",
+      "enfoque": "Cámara de rodilla al pecho, cadera alineada y torso sin reverencia. No inclinarse de más al ejecutar.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
-      "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Controlar extensión, regreso de pierna y alineación del cuerpo durante Yop Chagui",
-      "reps": "10 reps por pierna / 2 series",
+      "titulo": "Ap + Yop + Turn hips silla",
+      "grupo": "Yop Chagui con silla",
+      "enfoque": "Trabajar giro de cadera, eje corporal y alineación. Evitar reverencia y mantener puños al pecho o al costado según corresponda.",
+      "reps": "8 a 10 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
-    },
-    {
-      "titulo": "Koryo L1 hold yop + Pyonwong",
-      "enfoque": "Fortalecer control de Yop Chagui, estabilidad y postura con apoyo técnico progresivo",
-      "reps": "8 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1EvUXdSs21NOAQR8OkD5ip6MeEApvUDDy&usp=drive_copy"
-    },
-    {
-      "titulo": "Doble yop hold - landing L3 koryo",
-      "enfoque": "Trabajar control de cámara, extensión y aterrizaje estable en Yop Chagui",
-      "reps": "8 reps por lado / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO / KEUMGANG LÍNEAS 1, 2 Y 3",
+  "poomsaeDias": "LUNES A SÁBADO / KEUMGANG ESPECÍFICO / SOLO VIDEOS DEL BANCO",
   "poomsae": [
     {
-      "titulo": "Giro correcto keumgang - pies",
-      "enfoque": "Control de pies, giro y base para las transiciones de Keumgang",
-      "reps": "10 reps por lado / 1 serie",
+      "titulo": "Giro correcto Keumgang - pies",
+      "enfoque": "Controlar pies, base, dirección y estabilidad durante los giros de Keumgang.",
+      "reps": "10 a 15 reps por lado / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7&usp=drive_copy"
     },
     {
       "titulo": "Giro Keumgang - Brazos",
-      "enfoque": "Coordinación de brazos, dirección y postura durante los giros de Keumgang",
-      "reps": "10 reps por lado / 1 serie",
+      "enfoque": "Coordinar brazos durante el giro sin torcer el torso ni perder el eje corporal.",
+      "reps": "10 a 15 reps por lado / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-&usp=drive_copy"
     },
     {
+      "titulo": "Keumgang position + Yop Chagui - Pyonwong",
+      "enfoque": "Trabajar la postura tipo Keumgang, control de cadera y Yop Chagui sin reverencia.",
+      "reps": "8 a 10 reps por lado / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1ePjQf4z7o0MsxC0D3yYTRhBevbpwOtFe&usp=drive_copy"
+    },
+    {
+      "titulo": "Keumgang - Teisho Chigui - Mano derecha",
+      "enfoque": "Revisar dirección de mano, postura, preparación y golpe con presencia técnica.",
+      "reps": "15 a 20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=12u0zfSzDAV2-vJA6wFD0n9fP7HYCoLmn&usp=drive_copy"
+    },
+    {
       "titulo": "Keumgang - Teisho Chigi",
-      "enfoque": "Precisión de golpe, preparación clara y postura firme en Keumgang",
-      "reps": "20 reps / 1 serie",
+      "enfoque": "Trabajar precisión del golpe, preparación clara y postura firme en Keumgang.",
+      "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1bAA_R_Jmy-U_gzfgrSJxkUJ6A4sarNcu&usp=drive_copy"
     },
     {
+      "titulo": "Keumgang - Teisho Chigi (2)",
+      "enfoque": "Reforzar la misma mecánica desde otra referencia, cuidando eje, fuerza y cierre del movimiento.",
+      "reps": "15 a 20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Y5vmPqbjQGur1lcBwg_9bxI81Mr0QFXN&usp=drive_copy"
+    },
+    {
       "titulo": "Keumgang - An Palmok Momtong Hecho Makki",
-      "enfoque": "Defensa correcta, apertura, dirección y control de brazos en Keumgang",
-      "reps": "20 reps / 1 serie",
+      "enfoque": "Corregir apertura de brazos, dirección, postura y cierre del movimiento dentro de Keumgang.",
+      "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1qxsvhqlQDfLzTEeHxlbDHwAnijHjAWA1&usp=drive_copy"
     },
     {
-      "titulo": "Transicion Twit Kubi",
-      "enfoque": "Transición de postura, equilibrio y control de peso corporal",
+      "titulo": "Keumgang - An Palmok Momtong Hecho Makki (2)",
+      "enfoque": "Repetir el trabajo de apertura y cierre para mejorar seguridad, simetría y lectura visual.",
+      "reps": "15 a 20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1aO0v5BPyUYVrj7I3BkSqlHhDXj1Git46&usp=drive_copy"
+    },
+    {
+      "titulo": "Transición Twit Kubi",
+      "enfoque": "Mejorar el cambio de postura, equilibrio y control de peso corporal en Keumgang.",
       "reps": "15 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1txVlgMDOZNVvDeaetEvSO23_N7uRiH3m&usp=drive_copy"
     },
     {
-      "titulo": "Linea 1 Keumgang",
-      "enfoque": "Timing y comprensión técnica de la línea 1 de Keumgang",
-      "reps": "2 ejecuciones completas con audio",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1RHOB6jM1M67GgwQjoJErK0M58zg2XGnG&usp=drive_copy"
+      "titulo": "Transición Twit Kubi a Twit Kubi",
+      "enfoque": "Trabajar el cambio de una base a otra sin perder dirección, postura ni estabilidad.",
+      "reps": "15 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1TQjuHQflDQu65fh_zJE1QSTxD2qVaoEX&usp=drive_copy"
     },
     {
-      "titulo": "Linea 2 Keumgang",
-      "enfoque": "Timing y comprensión técnica de la línea 2 de Keumgang",
-      "reps": "2 ejecuciones completas con audio",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1Qt-8C_cETOEmWHpAs2RS0FXzf7B1gNpc&usp=drive_copy"
+      "titulo": "Transición Twit Kubi a Twit Kubi fluido",
+      "enfoque": "Buscar que la transición se vea más natural, firme y sin rigidez excesiva.",
+      "reps": "15 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=15RLcPyVzY69tJM9SIrfyUI_KPlxR3XGD&usp=drive_copy"
     },
     {
-      "titulo": "Linea 3 Keumgang",
-      "enfoque": "Timing y comprensión técnica de la línea 3 de Keumgang",
-      "reps": "2 ejecuciones completas con audio",
-      "tipo": "audio",
-      "url": "https://drive.google.com/open?id=1qIR-Y7aZQolSGThfIknVjy1WNYZy7JQq&usp=drive_copy"
+      "titulo": "Transición lateral a frontal Ap Kubi a Ap Kubi",
+      "enfoque": "Cuidar la transición entre bases, alineación de pies, dirección de cadera y postura vertical.",
+      "reps": "15 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Abda3tbJXb54BNLiJUEIGTipRlrV9u4L&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "Hemos tenido excelentes sesiones de entrenamiento en donde su garra y energía hacen que los entrenamientos sean únicos.",
-    "Ha generado mejoras importantes incluso en medio de ciertas adversidades. Usted es un gran ejemplo y es grandioso todo su esfuerzo.",
-    "En este ciclo vamos a seguir trabajando con todo el poder, pero cuidando mucho la técnica, la postura y el equilibrio.",
-    "En Keumgang, cada postura debe verse firme, fuerte y segura. No buscamos hacer movimientos rápidos sin control; buscamos movimientos limpios y con presencia.",
-    "En Yop Chagui, procure que la rodilla entre al pecho y que la cadera acompañe la patada sin perder la alineación de la espalda."
+    "Excelente trabajo el realizado esta semana. Hicimos algunos ejercicios que nos retaron a hacerlo mejor.",
+    "Esos retos los estaremos haciendo principalmente en clase, mientras nos mantenemos mejorando y practicando con base en el plan.",
+    "La idea es que en cada clase los retos nos exijan a un nivel mayor, pero siempre manteniendo técnica, control y seguridad.",
+    "Todos los días vamos a enfocarnos en Keumgang y también puede practicar sus demás poomsaes de manera general.",
+    "El enfoque puntual en Keumgang es para mejorar postura, transiciones, direcciones, brazos y estabilidad de bases.",
+    "No olvide llevar sus puños al pecho y al costado sin torcer el torso. Eso ayuda a mantener equilibrio, postura y lectura visual.",
+    "No haga reverencia al ejecutar Yop Chagui. Ese punto es tan vital como la fuerza o la flexibilidad.",
+    "En la sección de pateo, haga solamente dos ejercicios por día. No necesita hacerlos todos en una sola sesión."
   ],
   "notasFinales": [
-    "Estas próximas semanas estaremos trabajando con mucho enfoque en el fortalecimiento de las piernas y también en la poomsae Keumgang.",
-    "Keumgang nos ayudará a mejorar para el examen de nuestro siguiente grado. Es súper importante trabajarla para darle buenos hábitos al cuerpo sobre la buena técnica.",
-    "Usted es una excelente alumna, con mucha garra, energía y compromiso. A seguir trabajando con todo el poder.",
-    "Cualquier duda, por favor coménteme.",
-    "¡Feliz entrenamiento y a darle con todo!"
+    "Excelente trabajo el hecho en esta semana. Seguiremos trabajando con base en lo específico.",
+    "En estos días previos a nuestro evento, es importante mantener el enfoque en los apuntes de poomsae para saber el por qué y el para qué de cada movimiento.",
+    "Keumgang necesita presencia, postura y mucha claridad en cada transición. Vamos a trabajar esos detalles con calma y precisión.",
+    "Ánimo."
   ]
 }
