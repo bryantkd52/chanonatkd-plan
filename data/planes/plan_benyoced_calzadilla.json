@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado jue 18 de junio de 2026",
+  "updated_at": "Actualizado lun 22 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
-  "enfoque_corto": "Flexibilidad adaptiva + Isométrico Yop Chagui nivel 1",
-  "enfoque": "En este ciclo continuaremos trabajando flexibilidad adaptiva y ejercicios isométricos activos de Yop Chagui nivel 1. El objetivo será avanzar poco a poco, sin sobre exigirse, respetando el punto donde el cuerpo permita trabajar y entendiendo correctamente cada movimiento antes de aumentar intensidad o tiempo.",
+  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
+  "enfoque_corto": "Flexibilidad adaptiva + isométrico de glúteo",
+  "enfoque": "En este ciclo continuaremos trabajando con la clase grabada de flexibilidad adaptiva que ya está lista, sin quitar ni agregar videos en ChanonaFlex. Además, trabajaremos el isométrico de glúteo como complemento para fortalecer cadera, estabilidad y control corporal. La prioridad será avanzar con calma, respetando el cuerpo, sin sobre exigirse y usando este plan como guía para los ejercicios adicionales que debemos hacer aparte de la clase grabada.",
   "chanonaflexDias": "FLEXIBILIDAD ADAPTIVA: LUNES A SÁBADO / 1 SERIE",
   "chanonaflex": [
     {
@@ -14,13 +14,14 @@
       "nota": "Trabajar a su ritmo, sin sobre exigirse. El estímulo debe sentirse útil, positivo y controlado; no debe sentirse como dolor fuerte o lesión."
     }
   ],
-  "isometricoDias": "MARTES - JUEVES - SÁBADO / YOP CHAGUI NIVEL 1",
+  "isometricoDias": "MARTES - JUEVES - SÁBADO / GLÚTEO",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, FLEXIBILIDAD, CONTROL"]
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
+      "nota": "Trabajar con control y sin forzar. Este ejercicio es complemento de la clase grabada para fortalecer cadera y estabilidad."
     }
   ],
   "pateoDias": "NO ASIGNADO A ESTE ALUMNO",
@@ -28,17 +29,15 @@
   "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
   "poomsae": [],
   "apuntes": [
-    "Comenzamos esta semana con todo. Recuerda que vamos progresando poco a poco.",
-    "No te sobre exijas. Debemos ir trabajando de manera progresiva y al punto en donde el cuerpo permita y entienda correctamente los movimientos.",
-    "Si algún ejercicio no puedes hacerlo o sientes que te lastima, por favor coméntame. Lo podemos ajustar.",
-    "En los isométricos de Yop Chagui, no busques altura máxima al inicio. Primero busca control, respiración y postura.",
-    "El estímulo debe sentirse útil y retador, pero no debe sentirse como dolor fuerte o lesión."
+    "Estaremos trabajando en base a nuestra clase que ya está grabada.",
+    "La clase ya está lista para que la hagamos únicamente en base a ella, respetando el ritmo del cuerpo.",
+    "En este plan también encontrará los ejercicios que debemos hacer aparte de nuestra clase grabada.",
+    "No se sobre exija. El trabajo debe sentirse útil, positivo y controlado, no como dolor fuerte o lesión.",
+    "Si algún ejercicio no puede hacerlo o siente que lastima, por favor coménteme para ajustarlo."
   ],
   "notasFinales": [
-    "Excelente inicio de semana en nuestro entrenamiento de flexibilidad adaptiva.",
-    "No te preocupes si sientes que tienes limitaciones. Poco a poco iremos trabajando de manera positiva hacia lo que queremos.",
-    "Vamos a avanzar de manera progresiva y al ritmo que tu cuerpo nos permita.",
-    "A darle con todo en nuestro entrenamiento. Cualquier duda, por favor coméntame.",
-    "¡Feliz entrenamiento!"
+    "A seguirle dando con todo. Vamos avanzando como se debe.",
+    "Cualquier duda, por favor coméntame.",
+    "Nos vemos en clase."
   ]
 }
