@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado lun 15 de junio de 2026",
+  "updated_at": "Actualizado lun 22 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 15 al sábado 20 de junio de 2026",
-  "enfoque_corto": "Plan adaptado 45 min + Ap/Yop Chagui + Taeguk 4 L1",
-  "enfoque": "En este ciclo comenzaremos con un plan adaptado, seguro y progresivo de máximo 45 minutos por sesión. El objetivo será mejorar la técnica y trayectoria de Ap Chagui y Yop Chagui, además de trabajar Taeguk 4 línea 1 con énfasis en Sonnal Montong Bakkat Makki, Ap Kubi y Twit Kubi. Por su hipotonía muscular y falta de flexibilidad, trabajaremos con pocas repeticiones, descansos y sin sobreexigirse.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES / MÁXIMO 45 MIN TODA LA SESIÓN",
+  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
+  "enfoque_corto": "Flexibilidad intermedia + isométrico nivel 1 + Taeguk 4 lento",
+  "enfoque": "En este ciclo trabajaremos flexibilidad, isométrico activo nivel 1, pateo técnico de Ap Chagui y Yop Chagui con silla, y Taeguk 4 líneas 1 y 2 en análisis lento. La prioridad será avanzar poco a poco, sin hacer los movimientos rápido. Como cuando estamos aprendiendo a escribir, primero necesitamos hacerlo lento, claro y preciso. Mantendremos el enfoque adaptado y seguro: pocas repeticiones, descansos y máximo 45 minutos por sesión si el cuerpo lo permite.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES / MÁXIMO 45 MIN TODA LA SESIÓN",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
@@ -14,11 +14,11 @@
       "nota": "Hazlo a tu ritmo. No tienes que sostener todo el tiempo si tu cuerpo todavía no lo permite. Llega al punto donde sientas trabajo positivo, no dolor."
     },
     {
-      "titulo": "ChanonaFlex • Nivel 1",
+      "titulo": "Chanonaflex - intermedio",
       "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link",
-      "nota": "Este bloque es importante, pero no debes sobreexigirte. Si una posición dura demasiado, termina hasta donde sientas que es positivo para ti y descansa."
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link",
+      "nota": "Trabajar con calma y buena postura. Si una posición dura demasiado, termina hasta donde sientas que es positivo para ti y descansa."
     }
   ],
   "isometricoDias": "MARTES - JUEVES - SÁBADO / NIVEL 1 / 5 REPS MÁXIMO / 1 SERIE",
@@ -26,7 +26,7 @@
     {
       "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3kUVB-5JTHuzQSTJxKi4P/view?usp=drive_link",
       "tags": ["AP CHAGUI, FUERZA SUAVE, CONTROL, FLEXIBILIDAD"],
       "nota": "Haz máximo 5 repeticiones y solo 1 serie. No busques altura máxima. Busca control, respiración y postura sin dolor."
     },
@@ -36,35 +36,62 @@
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
       "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEXIBILIDAD"],
       "nota": "Haz máximo 5 repeticiones y solo 1 serie. Si sientes cansancio fuerte, baja la pierna, respira y continúa solo si te sientes bien."
-    }
-  ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / SOLO 1 EJERCICIO DE PATEO POR DÍA / 5 REPS MÁXIMO / 1 SERIE",
-  "pateoTecnico": [
-    {
-      "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Aprender la cámara de rodilla al pecho para que la Yop Chagui tenga trayectoria correcta y no se convierta en patada circular.",
-      "reps": "5 reps por pierna / 1 serie máximo",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy",
-      "nota": "Solo haz este ejercicio si toca Yop Chagui ese día. Ve lento, descansa y no busques altura."
     },
     {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
+      "nota": "Trabajar con mucho control. Si se siente muy fuerte, hacer menos tiempo o menos repeticiones."
+    }
+  ],
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI Y YOP CHAGUI CON SILLA / SOLO 1 O 2 EJERCICIOS DE PATEO POR DÍA",
+  "pateoTecnico": [
+    {
       "titulo": "Silla + Ap Chaguis 3 niveles",
+      "grupo": "Ap Chagui con silla",
       "enfoque": "Usar la silla para mejorar equilibrio, postura y control de Ap Chagui de manera segura.",
       "reps": "5 reps por pierna / 1 serie máximo",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy",
-      "nota": "Solo haz este ejercicio si toca Ap Chagui ese día. Usa la silla como apoyo real; no es trampa, es parte del aprendizaje."
+      "nota": "Ve lento. La silla es apoyo real; no es trampa, es parte del aprendizaje."
+    },
+    {
+      "titulo": "Ap Chagui 3 niveles",
+      "grupo": "Ap Chagui",
+      "enfoque": "Trabajar cámara, extensión y regreso de Ap Chagui con progresión lenta y segura.",
+      "reps": "5 reps por nivel / 1 serie máximo",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az&usp=drive_copy",
+      "nota": "No busques altura. Busca que el movimiento se entienda y salga limpio."
+    },
+    {
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "grupo": "Yop Chagui con silla / base técnica",
+      "enfoque": "Aprender la cámara de rodilla al pecho para que la Yop Chagui tenga trayectoria correcta y no se convierta en patada circular.",
+      "reps": "5 reps por pierna / 1 serie máximo",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy",
+      "nota": "Ve lento, descansa y no busques altura. Primero cámara, después dirección y al final extensión."
+    },
+    {
+      "titulo": "Ap + Yop + Turn hips silla",
+      "grupo": "Yop Chagui con silla / cadera",
+      "enfoque": "Trabajar Yop Chagui con silla, giro de cadera, eje corporal y transición desde Ap Chagui.",
+      "reps": "5 reps por lado / 1 serie máximo",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy",
+      "nota": "Hacerlo en lento. No importa hacerlo rápido; importa entender el camino del movimiento."
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO / TAEGUK 4 LÍNEA 1 / 5 REPS MÁXIMO",
+  "poomsaeDias": "LUNES A SÁBADO / TAEGUK 4 LÍNEAS 1 Y 2 / ANÁLISIS LENTO",
   "poomsae": [
     {
       "titulo": "Timing - Línea 1 de Taeguk 4",
       "enfoque": "Escuchar y seguir el ritmo de la línea 1 sin correr. Primero recordar la secuencia, después hacerla con más seguridad.",
       "reps": "2 ejecuciones suaves / 1 serie",
       "tipo": "audio",
-      "url": "https://drive.google.com/file/d/1bsYb3xTwREsd2YgQhfgNaKlBigu8eayr/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1bsYb3xTwREsd2YgqHfgNaKlBigu8eayr/view?usp=drive_link"
     },
     {
       "titulo": "Transicion manos y pies L1 T4",
@@ -75,38 +102,45 @@
     },
     {
       "titulo": "Sonnal Montong Bakkat Makki direccion",
-      "enfoque": "Trabajar dirección, preparación y limpieza de Sonnal Montong Bakkat Makki.",
+      "enfoque": "Trabajar dirección, preparación y limpieza de Sonnal Montong Bakkat Makki en lento.",
       "reps": "5 reps lentas / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1Tzv_rE4C3qdhgv76VPXDgONH8q5OXOfd&usp=drive_copy"
     },
     {
-      "titulo": "Inicio con twit kubi",
-      "enfoque": "Entender la base de Twit Kubi con postura firme, peso atrás y cuerpo estable.",
-      "reps": "5 reps lentas / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1A70nM_-pgKRvJenFyse3ZnpLPVlxNZEz&usp=drive_copy"
+      "titulo": "Linea 2 de Taeguk 4",
+      "enfoque": "Analizar línea 2 en lento. No correr. Primero entender la secuencia y el ritmo.",
+      "reps": "2 ejecuciones suaves / 1 serie",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1UCEynIyojh6rMVSsyJuIJmJft72g89WB&usp=drive_copy"
     },
     {
-      "titulo": "Transicion twit kubi a ap kubi",
-      "enfoque": "Practicar el cambio de Twit Kubi a Ap Kubi sin perder equilibrio y cuidando la alineación de pies.",
+      "titulo": "Aterrizaje Yop a Twit Kubi - L2 T4",
+      "enfoque": "Practicar aterrizaje de Yop Chagui a Twit Kubi con calma, equilibrio y postura correcta.",
       "reps": "5 reps lentas / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1xxdEMXYZWYiNLG15IzzqNNaYQR65YXsa&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1mAiAOeD6IW8-i2SvuMbncLdXdzmplpZM&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap + Regreso Twit Kubi T4",
+      "enfoque": "Trabajar Ap Chagui, regreso y colocación de Twit Kubi sin acelerar el movimiento.",
+      "reps": "5 reps lentas / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1et6KYqyWP6ZY-XMVXSqNIRGNh03gTEF2&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "Comenzamos de una manera importante y enfocada en Taeguk 4 y ejercicios específicos para mejorar con buena técnica y limpieza técnica.",
+    "Enfoque campeón: hacer los movimientos lentos, no rápidos.",
+    "Como queremos mejorar, tiene que ser lento, como cuando estamos aprendiendo a escribir.",
+    "Debe ser lento y preciso; lento y poco a poco. Así debemos volver a trabajar para que salga de la mejor forma posible.",
     "Este plan debe durar máximo 45 minutos por sesión. Si antes de llegar a 45 minutos ya hay cansancio fuerte, es mejor terminar con buena actitud y no forzar.",
-    "En la sección de pateo, toma solamente 1 ejercicio por día. No hagas todos en un solo día.",
+    "En la sección de pateo, toma solamente 1 o 2 ejercicios por día. No hagas todos en un solo día.",
     "Los ejercicios de isométricos y ChanonaFlex sí son importantes en los días marcados, pero no necesitas sostener todo exactamente si tu cuerpo aún no lo permite.",
-    "Debes ir a tu ritmo. Si un ejercicio o tiempo se siente más largo de lo que sueles soportar, termina hasta donde sientas que es positivo para ti, sin dejar de exigirte de manera adecuada.",
     "Si un ejercicio duele, molesta demasiado o te confunde, detente y coméntame para ajustarlo. Entrenar bien no significa sufrir; significa aprender con seguridad."
   ],
   "notasFinales": [
-    "Bienvenido a tu nuevo plan de entrenamiento. Aquí veremos la estructura técnica y profunda de los movimientos paso a paso.",
-    "Cualquier duda sobre los videos, o si algún ejercicio abre o no abre, por favor coméntame.",
-    "Recuerda: poco a poco, con calma, con orden y sin sobreexigirte. Lo importante es avanzar con seguridad.",
-    "Disfrute su entrenamiento."
+    "A seguirle dando con todo. Vamos avanzando poco a poco.",
+    "Cualquier duda, por favor coménteme.",
+    "Nos vemos en clase."
   ]
 }
