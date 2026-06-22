@@ -1,22 +1,24 @@
 {
-  "updated_at": "Updated Mon, June 15, 2026",
+  "updated_at": "Updated Mon, June 22, 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Monday, June 15 to Saturday, June 20, 2026",
-  "enfoque_corto": "Yop Chagui technique + Koryo line 3",
-  "enfoque": "This cycle is focused on improving the technical path, alignment, and strength of Yop Chagui, connecting it directly with Koryo line 3. The main goal is to build clean technique, better hip control, correct kicking trajectory, and a deeper understanding of the muscles, alignment, and body structure involved in the movement.",
-  "chanonaflexDias": "PRE: MONDAY TO SATURDAY / LEVEL 2: MONDAY - WEDNESDAY - FRIDAY",
+  "ciclo": "Monday, June 22 to Saturday, July 4, 2026",
+  "enfoque_corto": "Active isometrics level 1 + Ap/Yop Chagui + Koryo lines 1 and 3",
+  "enfoque": "This cycle is focused on active isometrics level 1, technical kicking with Ap Chagui and Yop Chagui using the chair, and Koryo lines 1 and 3. The main goal is to improve clean technique, body alignment, wrist alignment, hip control, correct Yop Chagui trajectory, and smoother transitions. We will keep working little by little, with correct technique and trust in the practice already built in class and in the training plan.",
+  "chanonaflexDias": "PRE: MONDAY TO SATURDAY / ADVANCED: MONDAY - WEDNESDAY - FRIDAY",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Initial Stretching",
       "dia": "MONDAY TO SATURDAY",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
+      "nota": "Use this as general preparation before flexibility, isometrics, kicking, or poomsae work."
     },
     {
-      "titulo": "ChanonaFlex - Intermediate / Level 2",
+      "titulo": "ChanonaFlex - Advanced",
       "dia": "MONDAY - WEDNESDAY - FRIDAY",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=sharing",
+      "nota": "Advanced flexibility work to improve opening, control, mobility, and body alignment without forcing pain."
     }
   ],
   "isometricoDias": "MONDAY - WEDNESDAY - FRIDAY / LEVEL 1",
@@ -25,62 +27,75 @@
       "titulo": "Active Isometric - Ap Chagui - Level 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["AP CHAGUI, STRENGTH, CONTROL, FLEXIBILITY"]
+      "tags": ["AP CHAGUI, LEVEL 1, STRENGTH, CONTROL"],
+      "nota": "Keep the support leg strong, the hip aligned, and the return chamber clear."
     },
     {
       "titulo": "Active Isometric - Yop Chagui - Level 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, HIP CONTROL, TRAJECTORY, FLEXIBILITY"]
+      "tags": ["YOP CHAGUI, LEVEL 1, HIP CONTROL, TRAJECTORY"],
+      "nota": "Keep the torso and waist aligned. Do not bow forward during the Yop Chagui."
+    },
+    {
+      "titulo": "Glute and Hook - Active Isometric - Intermediate",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLUTE, HOOK, STRENGTH, HIP"],
+      "nota": "Use this to strengthen the hip and glute for better stability in Yop Chagui and Koryo transitions."
     }
   ],
-  "pateoDias": "TUESDAY - THURSDAY - SATURDAY / CHOOSE ONLY 2 KICKING EXERCISES PER DAY",
+  "pateoDias": "TUESDAY - THURSDAY - SATURDAY / AP CHAGUI AND YOP CHAGUI WITH CHAIR",
   "pateoTecnico": [
     {
+      "titulo": "Chair + Ap Chagui 3 Levels",
+      "grupo": "Ap Chagui with chair",
+      "enfoque": "Improve Ap Chagui with chair support, focusing on support leg, hip alignment, knee chamber, and controlled return.",
+      "reps": "10 to 12 reps per leg / 2 sets",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
+    },
+    {
+      "titulo": "Ap Chagui 3 Levels",
+      "grupo": "Ap Chagui",
+      "enfoque": "Work on progressive height, knee chamber, extension, and return without losing body alignment.",
+      "reps": "8 to 10 reps per level / 1 to 2 sets",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az&usp=drive_copy"
+    },
+    {
       "titulo": "Yop Chagui Drill 1 - Knee Chamber",
-      "enfoque": "Bring the knee clearly toward the chest before extending the kick. This helps the Yop Chagui keep the correct side-kick path instead of turning into a round kick.",
-      "reps": "12 reps per leg / 2 sets",
+      "grupo": "Yop Chagui with chair / base technique",
+      "enfoque": "Bring the knee clearly toward the chest before extending the kick. Keep the torso and waist aligned without bowing forward.",
+      "reps": "10 to 12 reps per leg / 2 sets",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
-      "titulo": "Yop Chagui Drill 2 - Extension and Return",
-      "enfoque": "Control the extension, the return of the leg, and the body line without collapsing the torso forward.",
-      "reps": "12 reps per leg / 2 sets",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
-    },
-    {
       "titulo": "Ap + Yop + Hip Turn with Chair",
-      "enfoque": "Use the chair to work Yop Chagui, hip rotation, body axis control, and the transition from Ap Chagui to Yop Chagui.",
-      "reps": "8 reps per side / 2 sets",
+      "grupo": "Yop Chagui with chair",
+      "enfoque": "Use the chair to work hip rotation, body axis, and the transition from Ap Chagui to Yop Chagui without losing waist alignment.",
+      "reps": "8 to 10 reps per side / 2 sets",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
-    },
-    {
-      "titulo": "Yop Chagui Block Circuit",
-      "enfoque": "Improve the kicking path with a block, focusing on chamber, hip position, balance, and a clean side-kick line.",
-      "reps": "10 reps per side / 2 sets",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo"
-    },
-    {
-      "titulo": "Yop Chagui Split",
-      "enfoque": "Improve hip opening, side-kick line, and specific flexibility for Yop Chagui without forcing pain or losing control.",
-      "reps": "5 controlled holds per side / 1 set",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=drive_link"
-    },
-    {
-      "titulo": "Koryo L1 Hold Yop + Pyonwong",
-      "enfoque": "Strengthen Yop Chagui control, balance, and hip stability to transfer that quality into Koryo.",
-      "reps": "8 reps per side / 2 sets",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1EvUXdSs21NOAQR8OkD5ip6MeEApvUDDy&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "MONDAY TO SATURDAY / KORYO LINE 3",
+  "poomsaeDias": "MONDAY TO SATURDAY / KORYO LINES 1 AND 3",
   "poomsae": [
+    {
+      "titulo": "Koryo Line 1 - Precision + Timing",
+      "enfoque": "Work on Koryo line 1 with clear preparation, correct posture, direction, movement cut, and timing.",
+      "reps": "15 to 20 reps / 1 set",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK&usp=drive_copy"
+    },
+    {
+      "titulo": "Timing - Koryo Line 1",
+      "enfoque": "Work rhythm, confidence, continuity, and technical timing in Koryo line 1.",
+      "reps": "2 full executions with audio",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1_k4JjzJoUEm0al3K5H50CKPR92-qqi4I&usp=drive_copy"
+    },
     {
       "titulo": "Koryo Line 3 - Right Side",
       "enfoque": "Work on body alignment, head direction, hip control, and Yop Chagui execution on the right side.",
@@ -101,27 +116,25 @@
       "reps": "10 reps / 1 set",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=12W8m2JmF9ICQiA6T1q8DB2TNpoSa_wNJ&usp=drive_copy"
-    },
-    {
-      "titulo": "Chamber + Koryo Line 3 + Koryo Line 1 + Koryo Line 3",
-      "enfoque": "Integrate the chamber, Koryo line 3 structure, and clean return to the correct body axis.",
-      "reps": "10 reps per side / 1 set",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK&usp=drive_copy"
     }
   ],
   "apuntes": [
     "We are starting in a focused and important way with Yop Chagui and specific drills to improve technique, strength, and technical cleanliness.",
     "This is a strong starting point because it helps us understand the muscles, alignment, and correct movement path in depth.",
-    "In the kicking section, choose only two exercises per day. Do not do all kicking exercises in one day.",
+    "In the kicking section, work with control. Do not rush the kick or sacrifice technique for height.",
     "The isometric exercises and ChanonaFlex routines are important, so please do them on the exact days marked in the plan.",
     "For Yop Chagui, first build a clear knee chamber, then align the hip, and only after that extend the leg. Do not rush the kick.",
-    "If an exercise feels painful or something does not feel right, please tell me so we can adjust it safely."
+    "If an exercise feels painful or something does not feel right, please tell me so we can adjust it safely.",
+    "Do not flex the wrists in the defenses. Keep the wrists in line with the forearm.",
+    "In Yop Chagui, keep the torso and waist aligned. Do not bow forward; this has been happening often and we need to correct it.",
+    "In the transitions, work on the correct encapsulation by turning with the ball of the foot.",
+    "When encapsulating, keep the legs almost together so the transition looks clean, compact, and well directed.",
+    "We want the movements to be fluid, but also technically correct according to what we have worked on in class and in this training plan.",
+    "Very important: work based on the technical details already seen in class and in the plan, trusting the practice little by little."
   ],
   "notasFinales": [
-    "Welcome to your new training plan. In this plan, we will work on the technical structure and deeper understanding of the movements.",
-    "If you have any questions about the exercises, or if any video does not open, please let me know.",
-    "You can always ask me anything. I am here to support you through the process.",
-    "Enjoy your training!"
+    "Let's keep giving it our best. We are improving little by little.",
+    "If you have any questions, please let me know.",
+    "See you in class!"
   ]
 }
