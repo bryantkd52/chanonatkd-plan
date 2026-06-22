@@ -1,141 +1,130 @@
 {
-  "updated_at": "Actualizado lun 8 de junio de 2026",
+  "updated_at": "Actualizado lun 22 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
-  "enfoque_corto": "Ap Chagui + Yop Chagui + split + Koryo línea 3",
-  "enfoque": "En este ciclo trabajaremos salto, flexibilidad y pateo técnico de Ap Chagui y Yop Chagui, con énfasis en postura, alineación, control de equilibrio y combinación de flexibilidad con fuerza. También mantendremos el trabajo específico de línea 3 de Koryo, cuidando el dolor que aparece como amenaza para no sobrecargar y avanzar de forma inteligente.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES",
+  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
+  "enfoque_corto": "Flexibilidad avanzada + isométrico nivel 2 + pateo + Pyonwong",
+  "enfoque": "En este ciclo trabajaremos flexibilidad, isométrico activo nivel 2, pateo técnico de Ap Chagui y Yop Chagui con silla, y Pyonwong completo. Después del torneo del fin de semana, el objetivo será seguir fortaleciendo la técnica, la alineación, la potencia y la claridad en defensas con ambos brazos, Santul Makki, Sonnal, preparaciones y transiciones. La prioridad será mantener el cuerpo alineado, cuidar la cadera y evitar sobrecargas mientras seguimos avanzando con fuerza.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / AVANZADO: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing",
+      "nota": "Usar como preparación general antes de flexibilidad, isométricos, pateo o poomsae."
     },
     {
-      "titulo": "ChanonaFlex • Nivel 1",
+      "titulo": "Chanonaflex - Avanzado",
       "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link"
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=sharing",
+      "nota": "Trabajo avanzado para mejorar apertura, flexibilidad, control de cadera y línea corporal sin forzar dolor."
     }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 2",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=sharing",
+      "tags": ["AP CHAGUI, NIVEL 2, FUERZA, CONTROL"],
+      "nota": "Mantener torso estable, abdomen activo y pierna de apoyo firme. No sacrificar postura por altura."
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=sharing",
+      "tags": ["YOP CHAGUI, NIVEL 2, CADERA, CONTROL"],
+      "nota": "Trabajar cadera, glúteo y regreso de pierna. Evitar compensar con espalda o perder alineación."
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
+      "nota": "Fortalecer glúteo y cadera para mejorar estabilidad en Yop Chagui, Ap Chagui y Pyonwong."
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI, YOP CHAGUI, SILLA, BLOQUE Y SPLIT",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI Y YOP CHAGUI CON SILLA / 3 EJERCICIOS DE CADA UNO",
   "pateoTecnico": [
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando postura, equilibrio y pierna de apoyo",
-      "reps": "9 reps / 2 series por pierna",
+      "grupo": "Ap Chagui con silla",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando postura, equilibrio, cadera y pierna de apoyo.",
+      "reps": "9 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
-      "titulo": "Ap chaguis con bloques",
-      "enfoque": "Trabajar precisión, fuerza de apoyo y control de altura en Ap Chagui con bloque",
-      "reps": "10 reps por pierna / 2 series",
+      "titulo": "Ap Chagui 3 niveles",
+      "grupo": "Ap Chagui avanzado",
+      "enfoque": "Trabajar altura progresiva, cámara, extensión y regreso sin perder postura ni control de cadera.",
+      "reps": "8 a 10 reps por nivel / 1 a 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az&usp=drive_copy"
     },
     {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Controlar cámara, extensión y regreso de Ap Chagui sin perder alineación",
-      "reps": "12 reps por pierna / 2 series",
+      "titulo": "Ap chaguis dos bloques",
+      "grupo": "Ap Chagui avanzado",
+      "enfoque": "Desarrollar precisión, fuerza de apoyo, control de altura y regreso técnico con bloque.",
+      "reps": "8 a 10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ap Chagui Extension completa",
-      "enfoque": "Mantener espalda alineada, pierna de apoyo firme y extensión completa de Ap Chagui",
-      "reps": "12 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
+      "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Exagerar la cámara de rodilla al pecho antes de ejecutar Yop Chagui",
-      "reps": "12 reps por pierna / 2 series",
+      "grupo": "Yop Chagui con silla / base técnica",
+      "enfoque": "Marcar cámara de rodilla al pecho, ubicar cadera y mantener espalda alineada antes de extender.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Controlar cámara, extensión y regreso de pierna sin perder alineación de espalda",
-      "reps": "12 reps por pierna / 2 series",
+      "grupo": "Yop Chagui con silla / control técnico",
+      "enfoque": "Controlar cámara, extensión, regreso y postura del torso durante Yop Chagui.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
     },
     {
-      "titulo": "Split de Yop Chagui",
-      "enfoque": "Mejorar apertura, línea de cadera y flexibilidad específica para Yop Chagui sin forzar el dolor",
-      "reps": "5 sostenidos controlados por lado / 1 serie",
+      "titulo": "Ap + Yop + Turn hips silla",
+      "grupo": "Yop Chagui con silla / cadera",
+      "enfoque": "Trabajar giro de cadera, eje corporal, transición Ap/Yop y potencia sin perder alineación.",
+      "reps": "8 a 10 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=drive_link"
-    },
-    {
-      "titulo": "Camara L3 Koryo",
-      "enfoque": "Meter rodilla y cadera en la preparación para mejorar el hábito de flexión y cámara",
-      "reps": "20 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=10nz0e_wowhkr4rk7uUlobLrKCFpA6OXy&usp=drive_copy"
-    },
-    {
-      "titulo": "Linea 3 Koryo - Sentadilla y camara",
-      "enfoque": "Fuerza, cámara y postura para sostener la estructura de la línea 3 de Koryo",
-      "reps": "10 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn&usp=drive_copy"
-    },
-    {
-      "titulo": "Doble yop hold - landing L3 koryo",
-      "enfoque": "Control de Yop Chagui, glúteo de la pierna de apoyo y aterrizaje estable",
-      "reps": "10 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1t70roD4P_sHZHdkCqufINYq2RJ3lNTNZ&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "MARTES - JUEVES - SÁBADO / LÍNEA 3 DE KORYO",
+  "poomsaeDias": "LUNES A SÁBADO / PYONWONG COMPLETO",
   "poomsae": [
     {
-      "titulo": "Koryo L3 - Lado derecho",
-      "enfoque": "Alineación de espalda, dirección correcta de cabeza y control de Yop Chagui del lado derecho",
+      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
+      "enfoque": "Trabajar preparación de sonnal, defensa clara, brazo asistente y control de muñeca sin subir de más el brazo al abdomen.",
       "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=116eSAk3WUKVvXneFxAAyuyrG0mu7pwIi&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K&usp=drive_copy"
     },
     {
-      "titulo": "Koryo L3 - Lado izquierdo",
-      "enfoque": "Alineación de espalda, dirección correcta de cabeza y control de Yop Chagui del lado izquierdo",
+      "titulo": "Pyonwong - Codazo a Codazo - Derecha a izquierda",
+      "enfoque": "Corregir codazos, trayecto de brazos, preparación en el pecho y control del brazo que asiste.",
       "reps": "20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1d39Oz_ASS6Yb-BIUclGe9QrT-WP9BgwS&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1mYj95xtS6eb5yNzInIV_UyfseDhfygg7&usp=drive_copy"
     },
     {
-      "titulo": "Koryo L3 - Concentración 8 seg",
-      "enfoque": "Control de timing, pausa y marcación clara del movimiento de concentración",
+      "titulo": "Pyonwong - Santul hasta final",
+      "enfoque": "Cuidar Santul Makki lineal con la cabeza, brazo trasero sin caerse, cierre de Pyonwong y precisión final.",
       "reps": "10 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=12W8m2JmF9ICQiA6T1q8DB2TNpoSa_wNJ&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1DZ9aNf69oaoCha-hDp-SOSmCSepG7e_R&usp=drive_copy"
     },
     {
-      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
-      "enfoque": "Integración de cámara, línea 3 y regreso a estructura correcta sin perder eje",
-      "reps": "10 reps por lado / 1 serie",
+      "titulo": "Pyonwong completo - OMITIR MANOS ABIERTAS YA QUE HUBO ACTUALIZACIÓN",
+      "enfoque": "Integrar todo Pyonwong completo cuidando Santul Makki, sonnal, defensas con ambos brazos, preparación al pecho y explosividad.",
+      "reps": "2 ejecuciones completas / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK&usp=drive_copy"
+      "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link"
     }
   ],
   "apuntes": [
@@ -144,11 +133,16 @@
     "Trabaja cuidando el dolor que tenemos ahí amenazando cuidadosamente. Si el dolor aumenta, baja intensidad y avísame.",
     "En Yop Chagui, primero cámara clara, luego extensión, después regreso y aterrizaje limpio.",
     "En Ap Chagui, no sacrifiques postura por altura. La pierna de apoyo debe sostener todo el movimiento.",
-    "En la línea 3 de Koryo, la espalda, la cadera y la cabeza deben apuntar correctamente para que la patada se vea fuerte y limpia."
+    "Buscar que nuestro Santul Makki esté lineal con nuestra cabeza. El brazo trasero es el que está yéndose hacia abajo en ocasiones consecutivas, por lo que tenemos que mantenernos siempre atentos a ese brazo.",
+    "En defensas donde usamos los dos brazos, debemos estar pendientes de que el brazo asistente siempre se quede en nuestro abdomen y no más arriba.",
+    "En nuestras defensas bajas, sean de mano abierta o cerrada, debemos cuidar que la preparación no sea en el cuello, sino en el pecho.",
+    "Cuando la mano que hace sonnal está pasando con su respectiva transición, hay que cuidar que esta transición no se quede esperando en la cintura, sino que espere en el pecho para luego salir con explosividad.",
+    "En Pyonwong, cada defensa debe verse clara, fuerte y alineada; no basta con saber la secuencia, debe mostrarse con intención."
   ],
   "notasFinales": [
-    "Excelente trabajo esta semana. Seguimos construyendo una base más fuerte y más fina para nuestro pateo y Koryo línea 3.",
-    "Cualquier duda, por favor coméntame que estoy para apoyarte.",
-    "¡Feliz entrenamiento y a darle con todo!"
+    "Muchas felicitaciones por el torneo del fin de semana. Súper bien merecida esa medalla.",
+    "A seguirle dando con todo. Vamos avanzando como se debe.",
+    "Cualquier duda, por favor coméntame.",
+    "Nos vemos en clase."
   ]
 }
