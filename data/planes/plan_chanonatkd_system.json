@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado lun 15 de junio de 2026",
+  "updated_at": "Actualizado lun 22 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 15 al sábado 20 de junio de 2026",
-  "enfoque_corto": "Ap Chagui + circular + Yop Chagui + flexibilidad nivel 1",
-  "enfoque": "En este ciclo continuaremos trabajando la técnica y trayectoria de Ap Chagui, pateo circular y Yop Chagui, además de seguir fortaleciendo nuestro nivel técnico y flexibilidad. La prioridad será entender cómo aplicar nuestros esfuerzos a diferentes pateos, siempre ajustando tiempos y repeticiones según lo que el cuerpo permita de forma positiva y segura.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES",
+  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
+  "enfoque_corto": "Flexibilidad + isométrico nivel 1 + pateo + Koryo L3",
+  "enfoque": "En este ciclo continuaremos trabajando flexibilidad, isométrico activo nivel 1, pateo técnico de Ap Chagui y Yop Chagui con silla, y agregaremos línea 3 de Koryo como bloque superior por encima de las sesiones acumuladas. La intención es que quienes practican poomsae puedan aprovechar esta parte técnica compleja para mejorar a nivel competitivo o de examen, y quienes no practican poomsae le den prioridad a los movimientos de pies, postura, transiciones, control y dirección.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES / NIVEL 1: MARTES - JUEVES - SÁBADO",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
@@ -14,11 +14,18 @@
       "nota": "Trabajen con respiración y control. Si el cuerpo no permite sostener todo el tiempo, ajusten sin perder intención técnica."
     },
     {
-      "titulo": "ChanonaFlex • Nivel 1",
+      "titulo": "Chanonaflex - intermedio",
       "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link",
+      "nota": "Nivel intermedio para seguir desarrollando flexibilidad, movilidad y control sin sobrecargarse."
+    },
+    {
+      "titulo": "ChanonaFlex • Nivel 1",
+      "dia": "MARTES - JUEVES - SÁBADO",
+      "tipo": "video",
       "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link",
-      "nota": "Nivel 1 para seguir construyendo flexibilidad sin sobrecargarse. Lleguen hasta donde el cuerpo permita de manera positiva."
+      "nota": "Nivel 1 para reforzar bases, postura y control. Lleguen hasta donde el cuerpo permita de manera positiva."
     }
   ],
   "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1",
@@ -27,13 +34,15 @@
       "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
+      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"],
+      "nota": "Trabajar con postura, respiración y control. No buscar altura si se pierde técnica."
     },
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
+      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"],
+      "nota": "Cuidar cámara, cadera, torso y regreso de pierna sin perder alineación."
     },
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
@@ -43,53 +52,64 @@
       "nota": "Trabajar de forma controlada. Si el nivel se siente muy fuerte, bajar intensidad o reducir tiempo de trabajo."
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI, CIRCULAR Y YOP CHAGUI EN SILLA",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI Y YOP CHAGUI CON SILLA / 2 EJERCICIOS DE CADA UNO",
   "pateoTecnico": [
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
+      "grupo": "Ap Chagui con silla",
       "enfoque": "Mejorar Ap Chagui con apoyo de silla, equilibrio, postura y control de pierna de apoyo.",
       "reps": "10 reps por pierna / 2 series, ajustar si el cuerpo lo pide",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
-      "titulo": "Ap chaguis con bloques",
-      "enfoque": "Trabajar precisión, fuerza de apoyo y control de altura en Ap Chagui con bloque.",
-      "reps": "10 reps por pierna / 2 series, ajustar si el cuerpo lo pide",
+      "titulo": "Ap Chagui 3 niveles",
+      "grupo": "Ap Chagui",
+      "enfoque": "Trabajar cámara, extensión y regreso de Ap Chagui en niveles, sin perder postura ni control.",
+      "reps": "8 a 10 reps por nivel / 1 a 2 series, ajustar si el cuerpo lo pide",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Controlar cámara, extensión y regreso de Ap Chagui sin perder alineación.",
-      "reps": "10 reps por pierna / 2 series, ajustar si el cuerpo lo pide",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
+      "grupo": "Yop Chagui con silla / base técnica",
       "enfoque": "Marcar cámara de rodilla al pecho para que la Yop Chagui salga con trayectoria correcta.",
       "reps": "10 reps por pierna / 2 series, ajustar si el cuerpo lo pide",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
-      "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Controlar extensión, regreso de pierna, torso y cadera sin romper la línea del cuerpo.",
-      "reps": "10 reps por pierna / 2 series, ajustar si el cuerpo lo pide",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
-    },
-    {
       "titulo": "Ap + Yop + Turn hips silla",
+      "grupo": "Yop Chagui con silla",
       "enfoque": "Trabajar transición entre Ap Chagui y Yop Chagui, giro de cadera, eje corporal y control con silla.",
       "reps": "8 a 10 reps por lado / 2 series, ajustar si el cuerpo lo pide",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO / SE MANTIENEN LAS CLASES GRABADAS",
+  "poomsaeDias": "KORYO LÍNEA 3 ARRIBA / SE MANTIENEN LAS CLASES GRABADAS ACUMULADAS",
   "poomsae": [
+    {
+      "titulo": "Koryo L3 - Lado derecho",
+      "enfoque": "Bloque agregado arriba de las sesiones acumuladas. Trabajar línea 3 de Koryo con alineación de espalda, dirección de cabeza, cadera y control de Yop Chagui.",
+      "reps": "15 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=116eSAk3WUKVvXneFxAAyuyrG0mu7pwIi&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L3 - Lado izquierdo",
+      "enfoque": "Bloque agregado arriba de las sesiones acumuladas. Trabajar línea 3 de Koryo con control de eje, cadera, torso y dirección de la patada.",
+      "reps": "15 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1d39Oz_ASS6Yb-BIUclGe9QrT-WP9BgwS&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L3 - Concentración 8 seg",
+      "enfoque": "Bloque agregado arriba de las sesiones acumuladas. Controlar timing, respiración, postura y marcación clara del movimiento de concentración.",
+      "reps": "10 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=12W8m2JmF9ICQiA6T1q8DB2TNpoSa_wNJ&usp=drive_copy"
+    },
     {
       "titulo": "Primera sesión - Sabado 1 de abril 2026",
       "enfoque": "Flexibilidad + Isometrico activo",
@@ -166,19 +186,26 @@
       "reps": "1 clase completa",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1GSiQhqfXKssSHQx77dN9Svs7vFhTNroa&usp=drive_copy"
+    },
+    {
+      "titulo": "12va sesión - ChanonaTKD System",
+      "enfoque": "Clase acumulada del sistema. Continuar trabajando con base en la técnica vista durante la sesión.",
+      "reps": "1 clase completa",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Fv9nYS4_4ik-d5Q2Ze6AO8u1qKfST-OC/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Continuamos trabajando, pero en esta ocasión hicimos ejercicios diferentes que retaron nuestra parte física, siempre dentro de lo posible y positivo.",
-    "También pudimos ver nuestros esfuerzos aplicados a diferentes pateos. Esa es la parte importante de este proceso.",
-    "Recordatorio importante: siempre debemos ajustar tiempos y repeticiones si nuestro cuerpo no nos lo permite.",
-    "Es súper importante darle la respectiva importancia a lo que nuestro cuerpo nos está diciendo.",
-    "No se trata de forzar por forzar. Se trata de avanzar con técnica, control, flexibilidad y buena sensación corporal.",
-    "Si sienten molestia, dolor fuera de lo normal o cansancio excesivo, deben ajustar el trabajo y comentármelo."
+    "En esta semana vimos una parte de una poomsae muy compleja, lo que nos ayuda a mejorar a nivel técnico, competitivo o de examen.",
+    "Quienes no practican poomsae deben darle prioridad a los movimientos de pies, postura, transiciones, control y dirección.",
+    "Quienes sí practican poomsae pueden aprovechar este bloque porque es excelente para mejorar precisión, control y lectura técnica.",
+    "Seguimos dejando las clases acumuladas dentro del plan, y agregamos la clase número 12.",
+    "Recordatorio importante: siempre debemos ajustar tiempos y repeticiones si el cuerpo no lo permite.",
+    "No se trata de forzar por forzar. Se trata de avanzar con técnica, control, flexibilidad y buena sensación corporal."
   ],
   "notasFinales": [
-    "Cualquier duda, por favor coméntenme. Estoy atento y les dejo los videos de las clases que hemos venido tomando.",
-    "Tuvimos un error de sistema que no estaba actualizando el plan de entrenamiento, pero ya debe estar resuelto con esto. Muchas gracias por su paciencia.",
-    "Disfruten su entrenamiento."
+    "A seguirle dando con todo. Vamos avanzando poco a poco.",
+    "Cualquier duda, por favor coméntenme.",
+    "Nos vemos en clase."
   ]
 }
