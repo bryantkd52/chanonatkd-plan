@@ -1,22 +1,24 @@
 {
-  "updated_at": "Actualizado lun 8 de junio de 2026",
+  "updated_at": "Actualizado lun 22 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 8 al sábado 20 de junio de 2026",
-  "enfoque_corto": "Freestyle + salto + Yop Chagui + múltiples + 360 kick",
-  "enfoque": "En este ciclo trabajaremos salto, flexibilidad, pateo técnico de Yop Chagui, múltiples saltando y giro 360 kick. También mantendremos bases de postura como Bom Seogui, Chuchum Seogui y Jakdari Seogui para que la rutina de freestyle tenga una base técnica fina, potente y segura. La prioridad será aprovechar al máximo el tiempo, mantener continuidad con la rutina de competencia y fortalecer las habilidades que se usarán en clase.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 2: LUNES - MIÉRCOLES - VIERNES",
+  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
+  "enfoque_corto": "Isométrico activo nivel 2 + freestyle",
+  "enfoque": "En este ciclo continuaremos trabajando isométrico activo nivel 2 y freestyle. La prioridad será mejorar fuerza, control, flexibilidad, habilidades técnicas y sobre todo aprender de manera quirúrgica la rutina con base en lo que la música nos muestra. Mantendremos el contenido de pateo técnico que ya está actualmente en el plan, mientras seguimos creando y fortaleciendo la rutina de competencia.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / AVANZADO: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing",
+      "nota": "Usarlo como preparación general antes de flexibilidad, isométricos o pateo técnico."
     },
     {
-      "titulo": "Chanonaflex - intermedio",
+      "titulo": "Chanonaflex - Avanzado",
       "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=sharing"
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=sharing",
+      "nota": "Trabajo avanzado para mejorar flexibilidad, control corporal y apertura, sin perder técnica ni sobrecargar."
     }
   ],
   "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 2",
@@ -25,16 +27,25 @@
       "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=drive_link",
-      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
+      "tags": ["AP CHAGUI, NIVEL 2, FUERZA, CONTROL"],
+      "nota": "Mantener postura, abdomen activo y pierna de apoyo firme para transferirlo al freestyle."
     },
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
+      "tags": ["YOP CHAGUI, NIVEL 2, CADERA, CONTROL"],
+      "nota": "Mantener cadera activa, regreso limpio de pierna y control del torso para las habilidades de freestyle."
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
+      "nota": "Trabajar con control para fortalecer cadera, glúteo y estabilidad en saltos y transiciones."
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI, SILLA, BLOQUE, YOP CHAGUI, MÚLTIPLES Y 360 KICK",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / SE MANTIENE EL CONTENIDO ACTUAL",
   "pateoTecnico": [
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
@@ -121,43 +132,19 @@
       "url": "https://drive.google.com/file/d/1fo_p9ioEGNlPRY6ghrPzz5cXmZJnjZAu/view?usp=sharing"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO / BOM SEOGUI, CHUCHUM SEOGUI Y JAKDARI SEOGUI",
-  "poomsae": [
-    {
-      "titulo": "L3 Taebaek - Correcta ejecución por movimiento",
-      "enfoque": "Trabajar bases de postura, control de tronco y limpieza técnica para Bom Seogui y Chuchum Seogui dentro de la presentación",
-      "reps": "10 reps lentas por postura / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK&usp=drive_copy"
-    },
-    {
-      "titulo": "Hakdari Seogui equilibrio base - Keumgang",
-      "enfoque": "Mejorar equilibrio, estabilidad de rodilla, abdomen y postura en Jakdari Seogui",
-      "reps": "5 sostenidos de 15 segundos por lado",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1V6_zfIyng5pZ23wStNHzs1jJ_6O5Rg6Q/view?usp=drive_link"
-    },
-    {
-      "titulo": "Keumgang Hakdari Seogui transicion",
-      "enfoque": "Controlar transición, pie de apoyo y eje corporal para Jakdari Seogui con estabilidad",
-      "reps": "8 reps lentas conscientes",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kp6-1-ee1SwDf4_sbdfnz-E-PKETqiZ1/view?usp=drive_link"
-    }
-  ],
+  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
+  "poomsae": [],
   "apuntes": [
-    "Continuamos trabajando bases técnicas y de salto para mantener nuestro entrenamiento fino.",
-    "Deben continuar trabajando la rutina que comenzamos a crear para nuestra competencia. Esta rutina es la que estaremos haciendo y creando en cada clase.",
-    "Es importante que nuestras habilidades las estemos trabajando de manera continua. Debemos aprovechar al máximo el tiempo.",
-    "En freestyle, los puntos que parecen pequeños son los que hacen que la rutina se vea limpia: postura, aterrizaje, cámara, cadera, base y control.",
-    "En Yop Chagui saltando, múltiples y 360 kick, primero buscamos técnica limpia, después velocidad y finalmente explosividad.",
-    "En Bom Seogui, Chuchum Seogui y Jakdari Seogui, busquen que el cuerpo se vea estable, elegante y fuerte, como si cada postura fuera una foto de competencia."
+    "Continuaremos buscando mejorar a nivel técnico de habilidades y, sobre todo, aprender de manera quirúrgica nuestra rutina con base en lo que la música nos muestra.",
+    "La rutina debe trabajarse con precisión: no solo hacer movimientos, sino entender en qué momento de la música entra cada parte.",
+    "En base a la rutina que ya tenemos actualmente, vamos a meter 5 movimientos más.",
+    "Para la siguiente clase deben inventar esos 5 movimientos y mostrármelos.",
+    "No se trata de inventar por inventar: esos movimientos deben conectar con la música, con la energía y con lo que la rutina necesita.",
+    "Sigan trabajando sus habilidades de freestyle con atención en postura, aterrizaje, cámara, cadera, base y control."
   ],
   "notasFinales": [
-    "A seguirle dando a nuestro entrenamiento de freestyle y bases finas para la explosividad, la resistencia y la base técnica.",
-    "Debemos continuar enfocándonos en esos puntos que parecen ser innecesarios, pero que son muy importantes.",
-    "Cada salto, cada postura y cada aterrizaje deben ayudarnos a que la rutina se vea más fuerte, más limpia y más segura.",
-    "Cualquier duda, por favor coméntenme campeonas.",
-    "¡Feliz entrenamiento y a darle con todo!"
+    "No pudimos conectarnos la semana pasada, pero no pasa nada.",
+    "Debemos seguir enfocándonos en nuestras habilidades, como comentaba en los apuntes.",
+    "Continúen viendo los apuntes que les dejo en este plan y cualquier duda coméntenme, por favor."
   ]
 }
