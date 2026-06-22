@@ -1,152 +1,201 @@
 {
-  "updated_at": "Actualizado lun 15 de junio de 2026",
+  "updated_at": "Actualizado lun 22 de junio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 15 al sábado 20 de junio de 2026",
-  "enfoque_corto": "Movilidad de cadera + Ap/Yop Chagui + Koryo L3",
-  "enfoque": "En este ciclo comenzaremos un trabajo exigente pero progresivo para mejorar flexibilidad, movilidad de cadera, fuerza isométrica y trayectoria técnica de Ap Chagui y Yop Chagui. El objetivo principal será construir una base más fuerte y limpia para Koryo línea 3, cuidando alineaciones, control de postura, trayectoria correcta del pateo y profundidad técnica en cada movimiento.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: LUNES - MIÉRCOLES - VIERNES / RANA Y MEDIA RANA: 2 MINUTOS SI EL CUERPO LO PERMITE",
+  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
+  "enfoque_corto": "Precompetencia: flexibilidad nivel 2 + isométrico + Pyonwong",
+  "enfoque": "En este ciclo trabajaremos rumbo a competencia con flexibilidad, isométrico activo, pateo técnico y poomsae específico. El enfoque será corregir únicamente los puntos trabajados en clase: dirección correcta de patadas, Pyonwong completo, Koryo líneas 1 y 3, Taebaek línea 3, Santul Makki alineado, puños al costado sin torsión extra del torso y Twit Kubis sin llevarlos ligeramente al frente. Por ahora no buscamos pateo al cielo; buscamos dirección correcta a la altura que el cuerpo permita. Una semana antes del evento sí trabajaremos más potencia hacia arriba, pero manteniendo los puntos clave del pateo.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 2: LUNES - MIÉRCOLES - VIERNES / 3 DÍAS ANTES DEL EVENTO BAJAR UN NIVEL",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
-      "nota": "Hazlo con intención, pero sin sobrecargarte. En split de rana y media rana trabaja hasta 2 minutos si el cuerpo lo permite. Si aparece dolor que no se siente positivo de estiramiento, detente y coméntame."
+      "nota": "Usarlo como preparación general antes de flexibilidad, isométricos, pateo o poomsae. Mantener control y respiración."
     },
     {
-      "titulo": "ChanonaFlex • Nivel 1",
+      "titulo": "Chanonaflex - Intermedio / Nivel 2",
       "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=drive_link",
-      "nota": "Este bloque es importante para abrir la cadera. Mantén control, respiración y buena postura. No se trata de sufrir, se trata de avanzar con firmeza."
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link",
+      "nota": "Seguir trabajando con los movimientos que agregamos en clase. Tres días antes de la competencia no trabajar este nivel de estiramiento; bajar un nivel y usar un estímulo más suave."
     }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1 / TRABAJO FIRME PERO CONTROLADO",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NO HACER 3 DÍAS ANTES DEL EVENTO",
   "isometrico": [
     {
       "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
       "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEXIBILIDAD"],
-      "nota": "Trabaja firme, pero sin perder técnica. Busca que la pierna de apoyo sostenga el cuerpo y que la cadera no se desordene."
+      "nota": "Trabajar firme, pero sin perder técnica. No hacerlo 3 días antes del evento."
     },
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
       "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEXIBILIDAD"],
-      "nota": "Este ejercicio será clave para la movilidad de cadera. Primero cámara clara, después cadera alineada y finalmente extensión."
+      "nota": "Controlar cámara, cadera y dirección correcta. No hacerlo 3 días antes del evento."
+    },
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
+      "nota": "Fortalecer glúteo y cadera para mejorar estabilidad del pateo. No hacerlo 3 días antes del evento."
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / TOMA 1 EJERCICIO DE AP Y 1 DE YOP POR DÍA / 1ª SERIE 20 REPS, 2ª SERIE 12 REPS",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI Y YOP CHAGUI / NO HACER 2 DÍAS ANTES DEL EVENTO",
   "pateoTecnico": [
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
+      "grupo": "Ap Chagui con silla",
       "enfoque": "Mejorar Ap Chagui con apoyo de silla, equilibrio, postura y control de pierna de apoyo.",
-      "reps": "1ª serie: 20 reps por pierna / 2ª serie: 12 reps por pierna",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy",
+      "nota": "No hacerlo 2 días antes del evento."
     },
     {
-      "titulo": "Ap chaguis con bloques",
-      "enfoque": "Mejorar precisión, fuerza de apoyo, control de altura y línea de Ap Chagui con bloque.",
-      "reps": "1ª serie: 20 reps por pierna / 2ª serie: 12 reps por pierna",
+      "titulo": "Ap Chagui 3 niveles",
+      "grupo": "Ap Chagui",
+      "enfoque": "Trabajar dirección correcta, cámara, extensión y regreso sin buscar pateo al cielo por ahora.",
+      "reps": "8 a 10 reps por nivel / 1 a 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1UYGsvi1stRbf91vpCyFMb4nMdMctJsn3/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az&usp=drive_copy",
+      "nota": "No hacerlo 2 días antes del evento."
     },
     {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Trabajar cámara, extensión, regreso y control de postura sin perder alineación.",
-      "reps": "1ª serie: 20 reps por pierna / 2ª serie: 12 reps por pierna",
+      "titulo": "Ap chaguis dos bloques",
+      "grupo": "Ap Chagui",
+      "enfoque": "Mejorar precisión, fuerza de apoyo, control de altura y dirección correcta con bloque.",
+      "reps": "8 a 10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy",
+      "nota": "No hacerlo 2 días antes del evento."
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Marcar cámara de rodilla al pecho para que la Yop Chagui tenga trayectoria correcta y no se convierta en patada circular.",
-      "reps": "1ª serie: 20 reps por pierna / 2ª serie: 12 reps por pierna",
+      "grupo": "Yop Chagui",
+      "enfoque": "Marcar cámara de rodilla al pecho para que la Yop Chagui tenga trayectoria correcta y no se convierta en circular.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy",
+      "nota": "No hacerlo 2 días antes del evento."
     },
     {
       "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Controlar extensión, regreso de pierna, torso y cadera sin romper la línea del cuerpo.",
-      "reps": "1ª serie: 20 reps por pierna / 2ª serie: 12 reps por pierna",
+      "grupo": "Yop Chagui",
+      "enfoque": "Controlar extensión, regreso, torso y cadera sin romper la línea del cuerpo.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy",
+      "nota": "No hacerlo 2 días antes del evento."
     },
     {
       "titulo": "Ap + Yop + Turn hips silla",
+      "grupo": "Yop Chagui con silla",
       "enfoque": "Trabajar Yop Chagui con silla, giro de cadera, control del eje corporal y transición desde Ap Chagui.",
-      "reps": "1ª serie: 20 reps por lado / 2ª serie: 12 reps por lado",
+      "reps": "8 a 10 reps por lado / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy",
+      "nota": "No hacerlo 2 días antes del evento."
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO / KORYO LÍNEA 3 + BASES DE SONNAL, AP KUBI Y TWIT KUBI",
+  "poomsaeDias": "LUNES A SÁBADO / CÁMARA LENTA / PYONWONG, KORYO L1-L3 Y TAEBAEK L3",
   "poomsae": [
     {
+      "titulo": "Pyonwong + Sonnal Montong Bakkat Makki",
+      "enfoque": "Poner en cámara lenta y simular exactamente la poomsae. Cuidar sonnal, preparación, brazo asistente y dirección correcta.",
+      "reps": "15 a 20 reps / 1 serie lenta",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=164BkY5_QP6CC7z0MVa1eejIT0BbkAX4K&usp=drive_copy"
+    },
+    {
+      "titulo": "Pyonwong - Codazo a Codazo - Derecha a izquierda",
+      "enfoque": "Cámara lenta. Simular exactamente la poomsae, cuidando codazos, torso lineal y puños al costado sin torsión extra.",
+      "reps": "15 a 20 reps / 1 serie lenta",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1mYj95xtS6eb5yNzInIV_UyfseDhfygg7&usp=drive_copy"
+    },
+    {
+      "titulo": "Pyonwong - Santul hasta final",
+      "enfoque": "Cámara lenta. Cuidar que Santul Makki no baje más de la cabeza y se mantenga en línea todo el tiempo.",
+      "reps": "10 reps / 1 serie lenta",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1DZ9aNf69oaoCha-hDp-SOSmCSepG7e_R&usp=drive_copy"
+    },
+    {
+      "titulo": "Pyonwong completo - OMITIR MANOS ABIERTAS YA QUE HUBO ACTUALIZACIÓN",
+      "enfoque": "Ponerlo en cámara lenta y procurar simular exactamente la poomsae completa. No buscar pateo al cielo por ahora; buscar dirección correcta a la altura que el cuerpo permita.",
+      "reps": "2 ejecuciones completas lentas / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link"
+    },
+    {
+      "titulo": "Koryo - Línea 1 - Precisión + Timing",
+      "enfoque": "Cámara lenta. Trabajar línea 1 con preparación clara, postura, dirección y timing correcto.",
+      "reps": "15 a 20 reps / 1 serie lenta",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK&usp=drive_copy"
+    },
+    {
+      "titulo": "Timing - Línea 1 Koryo",
+      "enfoque": "Referencia de timing para línea 1 de Koryo. No correr; simular con precisión.",
+      "reps": "2 ejecuciones con audio / 1 serie lenta",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1_k4JjzJoUEm0al3K5H50CKPR92-qqi4I&usp=drive_copy"
+    },
+    {
       "titulo": "Koryo L3 - Lado derecho",
-      "enfoque": "Alineación de espalda, dirección correcta de cabeza, cadera y control de Yop Chagui del lado derecho.",
-      "reps": "15 reps / 1 serie",
+      "enfoque": "Cámara lenta. No buscar pateo al cielo por ahora; buscar dirección correcta de Yop Chagui a la altura que el cuerpo permita.",
+      "reps": "15 reps / 1 serie lenta",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=116eSAk3WUKVvXneFxAAyuyrG0mu7pwIi&usp=drive_copy"
     },
     {
       "titulo": "Koryo L3 - Lado izquierdo",
-      "enfoque": "Alineación de espalda, dirección correcta de cabeza, cadera y control de Yop Chagui del lado izquierdo.",
-      "reps": "15 reps / 1 serie",
+      "enfoque": "Cámara lenta. Cuidar dirección correcta de cabeza, cadera, espalda y Yop Chagui sin forzar altura.",
+      "reps": "15 reps / 1 serie lenta",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1d39Oz_ASS6Yb-BIUclGe9QrT-WP9BgwS&usp=drive_copy"
     },
     {
       "titulo": "Koryo L3 - Concentración 8 seg",
       "enfoque": "Control de timing, respiración, postura y marcación clara del movimiento de concentración.",
-      "reps": "10 reps / 1 serie",
+      "reps": "10 reps / 1 serie lenta",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=12W8m2JmF9ICQiA6T1q8DB2TNpoSa_wNJ&usp=drive_copy"
     },
     {
-      "titulo": "Camara + L3 Koryo + L1 Koryo + L3 koryo",
-      "enfoque": "Integrar cámara, estructura de línea 3, regreso al eje y control corporal sin perder postura.",
-      "reps": "10 reps por lado / 1 serie",
+      "titulo": "Taebaek - Línea 3 - ejecución por movimiento",
+      "enfoque": "Cámara lenta. Trabajar línea 3 de Taebaek movimiento por movimiento, sin salirse de los puntos corregidos en clase.",
+      "reps": "15 a 20 reps / 1 serie lenta",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=19Bnqxd9uX73eYMDzKuaTW7U4o725JVXK&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK&usp=drive_copy"
     },
     {
-      "titulo": "Sonnal Montong Bakkat Makki direccion",
-      "enfoque": "Trabajar dirección, preparación y limpieza de Sonnal Montong Bakkat Makki como base técnica de brazos.",
-      "reps": "10 reps lentas / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Tzv_rE4C3qdhgv76VPXDgONH8q5OXOfd&usp=drive_copy"
-    },
-    {
-      "titulo": "Inicio con twit kubi",
-      "enfoque": "Entender la base de Twit Kubi con peso correcto, postura firme y estabilidad.",
-      "reps": "10 reps lentas / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1A70nM_-pgKRvJenFyse3ZnpLPVlxNZEz&usp=drive_copy"
-    },
-    {
-      "titulo": "Transicion twit kubi a ap kubi",
-      "enfoque": "Practicar el cambio de Twit Kubi a Ap Kubi sin perder equilibrio y cuidando la alineación de pies.",
-      "reps": "10 reps lentas / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1xxdEMXYZWYiNLG15IzzqNNaYQR65YXsa&usp=drive_copy"
+      "titulo": "Taebaek - Línea 3",
+      "enfoque": "Referencia de timing de línea 3. Hacerla en lento, con dirección, preparación y simulación exacta de la poomsae.",
+      "reps": "2 ejecuciones con audio / 1 serie lenta",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=12_cJJxiyocWcsDvaBqYgdiIJsTIXdfmD&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "Comenzamos de una manera importante y enfocada en ejercicios específicos para mejorar flexibilidad, fuerza y limpieza de nuestra movilidad de cadera.",
-    "Este es un buen inicio para trabajar zonas importantes y entender desde la profundidad los músculos, alineaciones y trayectoria correcta de los movimientos.",
-    "En la sección de pateo, toma solamente 1 ejercicio de Ap Chagui y 1 ejercicio de Yop Chagui por día. No hagas todos en un solo día.",
-    "Los ejercicios de isométricos y ChanonaFlex sí son importantes en los días marcados, pero no debes sobrecargarte. Ve a tu ritmo y mantén buena técnica.",
-    "En split de rana y media rana trabajaremos con 2 minutos, pero si aparece malestar evidente que no se siente como estiramiento positivo, detente en ese momento y coméntame de inmediato.",
-    "Tienes una gran actitud y eso nos va a ayudar mucho. La movilidad de cadera será un reto, pero con constancia y paciencia se puede mejorar bastante."
+    "Estaremos trabajando en base a lo que vi en clase y los puntos específicos que trabajamos y corregimos en clase.",
+    "La intención es mejorar únicamente los puntos que necesitamos corregir antes de nuestra competencia. No debemos trabajar fuera de ello; solamente debemos enfocarnos en esos puntos.",
+    "Recuerde su Santul Makki: que no se baje más de donde está la cabeza. Debe estar en todo momento en línea.",
+    "Lleve sus puños al costado, pero sin hacer torsión extra del torso. Mantenga el torso lineal en todo momento.",
+    "Cuide sus Twit Kubis: los está llevando ligeramente hacia el frente.",
+    "En Pyonwong, Koryo y Taebaek, poner los videos en cámara lenta y simular exactamente como está la poomsae.",
+    "Por ahora no busque pateo al cielo. Busque dirección correcta de las patadas a la altura que el cuerpo permita.",
+    "Una semana antes del evento trabajaremos con toda la potencia hacia arriba, pero solo si los puntos clave del pateo ya están mejorando.",
+    "Tres días antes del evento bajamos intensidad en flexibilidad e isométricos. Dos días antes del evento no hacemos pateo técnico fuerte."
   ],
   "notasFinales": [
-    "Bienvenido a su nuevo plan de entrenamiento. Aquí veremos la estructura técnica y profunda de los movimientos paso a paso.",
-    "Cualquier duda sobre los videos, o si algún ejercicio abre o no abre, por favor coméntame.",
-    "Trabajaremos con exigencia inteligente: fuerte, pero con control; retador, pero sin lastimarnos.",
-    "Disfrute su entrenamiento."
+    "A seguirle dando con todo. Vamos avanzando poco a poco.",
+    "Cualquier duda, por favor coménteme.",
+    "Nos vemos en clase."
   ]
 }
