@@ -6,7 +6,6 @@
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Eventos proximos"
   },
-  
   "mtro_edison_guallichico": {
     "nombre": "Mtro Edison Guallichico",
     "plan": "plan_mtro_edison_guallichico.json",
@@ -14,7 +13,6 @@
     "suscripcion_activa": "Proxima renovación 21 de abril",
     "objetivo_proximo": "Aprender bases de poomsae y pateo"
   },
-
   "helena": {
     "nombre": "Helena",
     "plan": "plan_helena.json",
@@ -22,15 +20,13 @@
     "suscripcion_activa": "Proxima renovación 1 de abril",
     "objetivo_proximo": "Aprender bases de poomsae"
   },
-  
-    "mesias_rojas": {
+  "mesias_rojas": {
     "nombre": "Mesias Rojas",
     "plan": "plan_mesias_rojas.json",
     "plan_activo": "Forjando Bases 1",
     "suscripcion_activa": "Renovar membresía",
     "objetivo_proximo": "Desarrollo de fuerza y volver al taekwondo"
   },
-
   "mtra_nadia_uxmal": {
     "nombre": "Mtra Nadia Uxmal",
     "plan": "plan_mtra_nadia_uxmal.json",
@@ -38,7 +34,6 @@
     "suscripcion_activa": "Proxima renovación 1 de abril",
     "objetivo_proximo": "Aprender bases de poomsae y pateo"
   },
-
   "sr_jeremias": {
     "nombre": "Sr. Jeremías",
     "plan": "plan_sr_jeremias.json",
@@ -46,7 +41,6 @@
     "suscripcion_activa": "Proxima renovación 30 de abril",
     "objetivo_proximo": "Aprender bases de pateo y mejorar flexibilidad"
   },
-
   "evan_mael": {
     "nombre": "Evan Mael",
     "plan": "plan_evan_mael.json",
@@ -54,7 +48,6 @@
     "suscripcion_activa": "Proxima renovación 7 de abril",
     "objetivo_proximo": "Forjar bases en flexibilidad, pateo y fuerza para lograr la cinta negra"
   },
-
   "alma_patricia": {
     "nombre": "Alma Patricia",
     "plan": "plan_alma_patricia.json",
@@ -62,7 +55,6 @@
     "suscripcion_activa": "Proxima renovación 13 de abril",
     "objetivo_proximo": "Forjar las bases de la flexibilidad y el pateo"
   },
-
   "grupo_miguel_teresa": {
     "nombre": "Mtro Miguel y Mtra Teresa",
     "plan": "plan_grupo_miguel_teresa.json",
@@ -70,7 +62,6 @@
     "suscripcion_activa": "Renovar suscripción",
     "objetivo_proximo": "Aprender bases de poomsae y pateo"
   },
-
   "patricio_leigh": {
     "nombre": "Patricio Leigh",
     "plan": "plan_patricio_leigh.json",
@@ -78,7 +69,6 @@
     "suscripcion_activa": "Proxima renovación 21 de abril",
     "objetivo_proximo": "Aprender bases de poomsae, flexibilidad y pateo"
   },
-
   "yaini_orozco": {
     "nombre": "Yaini Orozco",
     "plan": "plan_yaini_orozco.json",
@@ -86,7 +76,6 @@
     "suscripcion_activa": "Renovar suscripción",
     "objetivo_proximo": "Desarrollar bases de poomsae, flexibilidad y pateo"
   },
-
   "ruben_guerrero": {
     "nombre": "Ruben Guerrero",
     "plan": "plan_ruben_guerrero.json",
@@ -94,7 +83,6 @@
     "suscripcion_activa": "Proxima renovación 6 de marzo",
     "objetivo_proximo": "Desarrollar bases de poomsae, flexibilidad y pateo"
   },
-
   "fabian_burgoa": {
     "nombre": "Fabián Burgoa",
     "plan": "plan_fabian_burgoa.json",
@@ -102,7 +90,6 @@
     "suscripcion_activa": "Proxima renovación 10 de mayo",
     "objetivo_proximo": "Desarrollar bases de poomsae y pateo"
   },
-
   "daniele_biasetti": {
     "nombre": "Daniele Biasetti",
     "plan": "plan_daniele_biasetti.json",
@@ -110,7 +97,6 @@
     "suscripcion_activa": "Proxima renovación 31 de marzo",
     "objetivo_proximo": "Desarrollar bases de flexibilidad y pateo"
   },
-
   "diana_rodriguez": {
     "nombre": "Diana Rodriguez",
     "plan": "plan_diana_rodriguez.json",
@@ -118,7 +104,6 @@
     "suscripcion_activa": "Proxima renovación 6 de abril",
     "objetivo_proximo": "Forjar bases de poomsae para el examen de cinta negra 2026"
   },
-
   "david_miranda": {
     "nombre": "David Miranda",
     "plan": "plan_david_miranda.json",
@@ -126,7 +111,6 @@
     "suscripcion_activa": "Renovar suscripcion",
     "objetivo_proximo": "Desarrollar bases de flexibilidad y pateo"
   },
-
   "lia_mia": {
     "nombre": "Lía y Mía",
     "plan": "plan_lia_mia.json",
@@ -134,7 +118,6 @@
     "suscripcion_activa": "Proxima renovación...",
     "objetivo_proximo": "Desarrollar bases elite de poomsae de competencia"
   },
-
   "rodrigo_gonzalez": {
     "nombre": "Rodrigo Gonzalez",
     "plan": "plan_rodrigo_gonzalez.json",
@@ -142,7 +125,6 @@
     "suscripcion_activa": "Proxima renovación 11 de abril",
     "objetivo_proximo": "Desarrollar bases de poomsae y pateo para el poomsae de élite"
   },
-
   "emma_natalia": {
     "nombre": "Emma Natalia",
     "plan": "plan_emma_natalia.json",
@@ -150,7 +132,6 @@
     "suscripcion_activa": "Proxima renovación 9 de abril",
     "objetivo_proximo": "Desarrollo y preparación para competencias de élite"
   },
-
   "mtro_mariano_agustina": {
     "nombre": "Mtro Mariano y Agustina",
     "plan": "plan_mtro_mariano_agustina.json",
@@ -158,7 +139,6 @@
     "suscripcion_activa": "Marzo",
     "objetivo_proximo": "Desarrollo de la flexibilidad, fuerza isométrica en pateo y técnica"
   },
-
   "karen_sanchez": {
     "nombre": "Karen Sanchez",
     "plan": "plan_karen_sanchez.json",
@@ -166,7 +146,6 @@
     "suscripcion_activa": "Abril",
     "objetivo_proximo": "Desarrollar bases de poomsae de élite"
   },
-
   "victor_salmeron": {
     "nombre": "Victor Salmerón",
     "plan": "plan_victor_salmeron.json",
@@ -174,7 +153,6 @@
     "suscripcion_activa": "Marzo",
     "objetivo_proximo": "Desarrollar bases de flexibilidad, poomsae y pateo"
   },
-
   "sydney_patricia": {
     "nombre": "Sydney Patricia",
     "plan": "plan_sydney_patricia.json",
@@ -189,7 +167,6 @@
     "suscripcion_activa": "Renovar suscripción",
     "objetivo_proximo": "Desarrollar bases de flexibilidad y fuerza isométrica"
   },
-  
   "ximena_palacios": {
     "nombre": "Ximena Palacios",
     "plan": "plan_ximena_palacios.json",
@@ -197,7 +174,6 @@
     "suscripcion_activa": "Febrero",
     "objetivo_proximo": "Campeonato y campamento La Loma"
   },
-
   "hever_guzman": {
     "nombre": "Hever Guzman",
     "plan": "plan_hever_guzman.json",
@@ -205,7 +181,6 @@
     "suscripcion_activa": "Marzo",
     "objetivo_proximo": "Regional Olimpiada Nacional"
   },
-
   "camila_berolatti": {
     "nombre": "Camila Berolatti",
     "plan": "plan_camila_berolatti.json",
@@ -213,7 +188,6 @@
     "suscripcion_activa": "Marzo",
     "objetivo_proximo": "Campeonato de ranking nacional"
   },
-
   "omar_azi": {
     "nombre": "Omar Azi",
     "plan": "plan_omar_azi.json",
@@ -221,7 +195,6 @@
     "suscripcion_activa": "Marzo",
     "objetivo_proximo": "Gimnasiada nacional"
   },
-
   "scarlet_arianna": {
     "nombre": "Scarlet Arianna",
     "plan": "plan_scarlet_arianna.json",
@@ -229,7 +202,6 @@
     "suscripcion_activa": "Marzo",
     "objetivo_proximo": "Mejorar poomsae a nivel competitivo"
   },
-
   "chanonatkd_system": {
     "nombre": "ChanonaTKD System",
     "plan": "plan_chanonatkd_system.json",
@@ -237,7 +209,6 @@
     "suscripcion_activa": "Abril",
     "objetivo_proximo": "Mejorar pateo y flexibilidad desde 0"
   },
-
   "karen_rodriguez": {
     "nombre": "Karen Rodriguez",
     "plan": "plan_karen_rodriguez.json",
@@ -245,7 +216,6 @@
     "suscripcion_activa": "Abril",
     "objetivo_proximo": "Mejorar poomsae a nivel competitivo taeguk 8"
   },
-
   "carlos_cobo": {
     "nombre": "Carlos Cobo",
     "plan": "plan_carlos_cobo.json",
@@ -253,7 +223,6 @@
     "suscripcion_activa": "Abril",
     "objetivo_proximo": "Mejorar poomsae a nivel competitivo"
   },
-
   "maria_ponce": {
     "nombre": "Maria Ponce",
     "plan": "plan_maria_ponce.json",
@@ -261,7 +230,6 @@
     "suscripcion_activa": "Abril",
     "objetivo_proximo": "Mejorar poomsae a nivel competitivo"
   },
-
   "luis_holanda": {
     "nombre": "Luis Holanda",
     "plan": "plan_luis_holanda.json",
@@ -269,7 +237,6 @@
     "suscripcion_activa": "Mayo",
     "objetivo_proximo": "Forjar bases rumbo a poomsae de excelencia"
   },
-
   "zayre_zuleyka": {
     "nombre": "Zayre y Zuleyka",
     "plan": "plan_zayre_zuleyka.json",
@@ -277,7 +244,6 @@
     "suscripcion_activa": "Mayo",
     "objetivo_proximo": "Inicialización Freestyle"
   },
-
   "martin_morales": {
     "nombre": "Martin Morales",
     "plan": "plan_martin_morales.json",
@@ -285,7 +251,6 @@
     "suscripcion_activa": "Mayo",
     "objetivo_proximo": "Flexibilidad + movilidad activa + fuerza de cadera"
   },
-
   "johncell_genesis": {
     "nombre": "Johncell Genesis",
     "plan": "plan_johncell_genesis.json",
@@ -293,7 +258,6 @@
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Mejorar técnicamente Koryo línea 1"
   },
-
   "mario_lopez": {
     "nombre": "Mario Lopez",
     "plan": "plan_mario_lopez.json",
@@ -301,7 +265,6 @@
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Flexibilidad nivel 1 e isométricos de Ap Chagui y Yop Chagui"
   },
-
   "rodrigo_jalisco": {
     "nombre": "Rodrigo Jalisco",
     "plan": "plan_rodrigo_jalisco.json",
@@ -309,7 +272,6 @@
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Flexibilidad nivel 1 e isométricos de Ap Chagui y Yop Chagui"
   },
-
   "benyoced_calzadilla": {
     "nombre": "Benyoced Calzadilla",
     "plan": "plan_benyoced_calzadilla.json",
@@ -317,7 +279,6 @@
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Flexibilidad principiante e isométrico activo de Yop Chagui nivel 1"
   },
-
   "anna_georgia": {
     "nombre": "Anna - Georgia",
     "plan": "plan_anna_georgia.json",
@@ -325,7 +286,6 @@
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Yop Chagui technical path and Koryo line 3"
   },
-
   "emilio_cdmx": {
     "nombre": "Emilio - CDMX",
     "plan": "plan_emilio_cdmx.json",
@@ -333,7 +293,6 @@
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Plan adaptado de Ap/Yop Chagui y Taeguk 4 línea 1"
   },
-
   "leonardo_gonzalez": {
     "nombre": "Leonardo Gonzalez",
     "plan": "plan_leonardo_gonzalez.json",
@@ -341,13 +300,18 @@
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Movilidad de cadera, Ap/Yop Chagui y Koryo línea 3"
   },
-
   "leticia_erguera": {
     "nombre": "Leticia Erguera",
     "plan": "plan_leticia_erguera.json",
     "plan_activo": "Dragones",
     "suscripcion_activa": "Junio",
     "objetivo_proximo": "Análisis técnico profesional de Ap/Yop Chagui y Taeguk 4 línea 1"
+  },
+  "evan_palomino": {
+    "nombre": "Evan Palomino",
+    "plan": "plan_evan_palomino.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Renovar suscripción",
+    "objetivo_proximo": "Mejorar a nivel poomsae"
   }
-
 }
