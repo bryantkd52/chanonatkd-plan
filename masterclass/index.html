@@ -3,393 +3,366 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1, viewport-fit=cover" />
-  <title>ChanonaTKD • Elite Poomsae System</title>
+  <meta name="description" content="ChanonaTKD System y Super Curso Ilimitado: entrenamiento de poomsae, flexibilidad, pateo alto y método técnico de Bryan Herrera." />
+  <title>ChanonaTKD • System y Super Curso Ilimitado</title>
+  <script>
+    (function () {
+      const savedTheme = localStorage.getItem('chanonatkd_theme');
+      const systemTheme = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      document.documentElement.dataset.theme = savedTheme || systemTheme;
+    })();
+  </script>
   <link rel="stylesheet" href="./styles.css">
 </head>
 
 <body>
-  <div class="appShell">
-    
-    <aside class="sidebar" id="sidebar">
-      <div class="brand">
+  <div class="siteShell">
+    <header class="siteHeader" id="inicio">
+      <a class="brand" href="#inicio" aria-label="Inicio ChanonaTKD">
         <img class="logoImg" src="../assets/logo-chanonatkd.png" alt="ChanonaTKD Logo" />
-        <div class="brandText">
-          <h1>ChanonaTKD</h1>
-          <p id="brandSub">Estrategia y Técnica Elite</p>
+        <div>
+          <strong>ChanonaTKD</strong>
+          <span>Método · System · Poomsae</span>
         </div>
-      </div>
+      </a>
 
-      <nav class="menu" id="menu">
-        <a class="btn active" href="#video"><span class="dot"></span> 1. Masterclass Gratis</a>
-        <a class="btn" href="#curso"><span class="dot"></span> 2. Super Curso Ilimitado</a>
-        <a class="btn" href="#catalogo"><span class="dot"></span> 3. Sistemas de Entrenamiento</a>
-        <a class="btn" href="#personalizado"><span class="dot"></span> 4. Coaching Personalizado</a>
+      <nav class="topNav" aria-label="Navegación principal">
+        <a href="#catalogo">System</a>
+        <a href="#curso">Super Curso</a>
+        <a href="#video">Masterclass</a>
+        <a href="#personalizado">Opciones</a>
       </nav>
 
-      <div class="mini">
-        <p><strong>Coach:</strong> Bryan Herrera</p>
-        <p>Entrenador profesional de poomsae y pateo al cielo.</p>
-      </div>
-    </aside>
+      <button class="themeToggle" id="themeToggle" type="button" aria-label="Cambiar modo claro u oscuro">
+        <span class="themeIcon">🌙</span>
+        <span class="themeText">Oscuro</span>
+      </button>
+    </header>
 
-    <main class="main">
-      
-      <header class="topbar">
-        <div class="titleBlock">
-          <span class="kicker">ENTRENAMIENTO TÉCNICO AVANZADO</span>
-          <h2>Dominio del Poomsae y Control del Eje</h2>
+    <main>
+      <section class="hero sectionGlow">
+        <div class="heroCopy">
+          <span class="eyebrow">ENTRENAMIENTO ONLINE DE TAEKWONDO DE ALTO NIVEL</span>
+          <h1>Elige cómo entrar al Método ChanonaTKD</h1>
+          <p class="heroLead">
+            Mejora tu flexibilidad, pateo alto, control corporal y poomsae con una estructura clara. Puedes entrenar conmigo mes a mes dentro del <strong>ChanonaTKD System</strong> o estudiar mi método completo con el <strong>Super Curso Ilimitado</strong>.
+          </p>
+
+          <div class="heroActions">
+            <a class="action primary big" href="#catalogo">🚀 Quiero entrar al System</a>
+            <a class="action secondary big" href="#curso">📚 Quiero el Super Curso</a>
+          </div>
+
+          <div class="proofGrid" aria-label="Puntos principales del método">
+            <div><strong>Flexibilidad real</strong><span>para patear más alto sin entrenar a ciegas.</span></div>
+            <div><strong>Poomsae técnico</strong><span>para mejorar líneas, fuerza, eje y presencia.</span></div>
+            <div><strong>Método claro</strong><span>sin repetición vacía, con intención y estructura.</span></div>
+          </div>
         </div>
-        <div class="chipRow">
-          <div class="chip red">🎯 Alto Rendimiento</div>
-          <div class="chip">🔥 Sin Repetición Vacía</div>
+
+        <div class="heroVisual" aria-label="Productos principales ChanonaTKD">
+          <article class="heroProduct mainProduct">
+            <span class="badge red">PRODUCTO PRINCIPAL</span>
+            <img src="./imagenes/chanonatkdSystem.jpg" alt="ChanonaTKD System">
+            <h2>ChanonaTKD System</h2>
+            <p>El sistema mensual para entrenar flexibilidad, pateo alto y poomsae con dirección.</p>
+            <strong>$750 MXN / $65 USD / €57 EUR al mes</strong>
+          </article>
+
+          <article class="heroProduct smallProduct">
+            <span class="badge">MÉTODO COMPLETO</span>
+            <img src="./imagenes/superCurso.jpg" alt="Super Curso Ilimitado ChanonaTKD">
+            <h2>Super Curso Ilimitado</h2>
+            <p>Una sola inversión para aprender mi método completo a tu ritmo.</p>
+            <strong>$2,800 MXN / $195 USD / €175 EUR</strong>
+          </article>
         </div>
-      </header>
+      </section>
 
-      <div class="content">
+      <section class="section decisionSection" aria-labelledby="decision-title">
+        <div class="sectionHead clean">
+          <span class="eyebrow">DECISIÓN RÁPIDA</span>
+          <h2 id="decision-title">¿Cuál es para ti?</h2>
+          <p>Piensa en esto como dos puertas. Una es para entrenar conmigo cada mes. La otra es para aprender mi método completo y tenerlo para siempre.</p>
+        </div>
 
-        <section class="section" id="video">
-          <div class="sectionHead">
-            <h3>🎬 CLASE MAESTRA: EL SISTEMA DE CONTROL</h3>
-            <div class="badge ok">ACCESO GRATUITO</div>
+        <div class="decisionGrid">
+          <article class="decisionCard featuredDecision">
+            <span class="badge red">RECOMENDADO PARA CRECER</span>
+            <h3>Quiero entrenar y avanzar con estructura</h3>
+            <p>Elige <strong>ChanonaTKD System</strong>. Es ideal si quieres clases, tareas, grabaciones, plan semanal y una ruta de entrenamiento constante.</p>
+            <a class="action primary" href="#catalogo">Ver ChanonaTKD System</a>
+          </article>
+
+          <article class="decisionCard">
+            <span class="badge">ACCESO DE POR VIDA</span>
+            <h3>Quiero estudiar el método completo</h3>
+            <p>Elige <strong>Super Curso Ilimitado</strong>. Es ideal si quieres aprender detalles técnicos, repetir lecciones y profundizar en mi forma de entrenar.</p>
+            <a class="action secondary" href="#curso">Ver Super Curso</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="section productSection systemSection" id="catalogo">
+        <div class="productLayout">
+          <div class="productMedia">
+            <span class="floatingBadge">🔥 ENTRADA PRINCIPAL</span>
+            <img src="./imagenes/chanonatkdSystem.jpg" alt="ChanonaTKD System">
           </div>
-          <div class="sectionBody">
-            <div class="videoWrap">
-              <div class="videoFrame">
-                <iframe
-                  src="https://www.youtube.com/embed/2jg7b-W2QRU?rel=0&modestbranding=1&playsinline=1"
-                  title="Master Class ChanonaTKD"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowfullscreen>
-                </iframe>
-              </div>
+
+          <div class="productInfo">
+            <span class="eyebrow">PRODUCTO PRINCIPAL #1</span>
+            <h2>ChanonaTKD System</h2>
+            <p class="productLead">
+              El sistema mensual para entrenar de forma ordenada, clara y progresiva. Aquí no solo ves ejercicios: sigues una estructura para construir flexibilidad, pateo alto, control del eje y poomsae con intención.
+            </p>
+
+            <div class="benefitGrid">
+              <div>✅ Clase semanal en vivo de 60 minutos</div>
+              <div>✅ Acceso a la plataforma ChanonaTKD</div>
+              <div>✅ Plan de entrenamiento semanal</div>
+              <div>✅ Tareas estructuradas para avanzar</div>
+              <div>✅ Grabaciones de las clases</div>
+              <div>✅ Sistema enfocado en flexibilidad, pateo alto y poomsae</div>
             </div>
-            <div class="ctaBlock main-cta">
-                <p class="highlight-text">¿Listo para dejar de repetir y empezar a corregir?</p>
-                <a class="action primary big pulse" href="#curso">
-                  🚀 VER LA OFERTA DEL SUPER CURSO ILIMITADO
-                </a>
+
+            <div class="priceBox">
+              <span>Inversión mensual</span>
+              <strong>$750 MXN</strong>
+              <small>$65 USD · €57 EUR al mes</small>
             </div>
-          </div>
-        </section>
 
-        <section class="section highlight-section" id="curso">
-          <div class="sectionHead">
-            <h3>🏆 SUPER CURSO ILIMITADO</h3>
-            <span class="badge red">OFERTA POR TIEMPO LIMITADO</span>
-          </div>
-          <div class="sectionBody">
-            <div class="courseContainer">
-              
-              <div class="imgFrameFull">
-                <img src="./imagenes/superCurso.jpg" alt="Super Curso Ilimitado">
-                <div class="imgOverlay">Actualizaciones Gratis para siempre</div>
-              </div>
-              
-              <div class="courseInfoFull">
-                <h4>El Sistema Definitivo de Poomsae</h4>
-                <p>No es un tutorial. Es la estructura técnica que usan los campeones para dominar el eje, el timing y la potencia real. Diseñado paso a paso para resultados absolutos.</p>
-                
-                <div class="benefit-list">
-                    <div class="benefit"><span>✅</span> <strong>Cero Mensualidades:</strong> Un solo pago para toda la vida.</div>
-                    <div class="benefit"><span>✅</span> <strong>Evolución Constante:</strong> Acceso a nuevos módulos sin costo adicional.</div>
-                    <div class="benefit"><span>✅</span> <strong>Metodología Chanona:</strong> Técnica progresiva desde la base hasta nivel élite.</div>
-                </div>
-
-                <div class="offerBlock">
-                  <div class="timer-wrapper">
-                    <span class="timer-label">⏳ ESTA PROMOCIÓN TERMINA EN:</span>
-                    <div id="countdown-timer" class="timer-display">07:00:00</div>
-                  </div>
-                  
-                  <div class="priceContainerStacked">
-                    <div class="priceCard">
-                      <div class="strikePrice">Costo regular: $2,800 MXN / $185 USD / €165 EUR</div>
-                      <div class="mainPrice">Promoción: $2,100 <small>MXN</small></div>
-                      <div class="altPrices">$145 USD • €135 EUR</div>
-                    </div>
-                  </div>
-                  
-                  <div class="screenshot-cta">
-                    <p>📸 <strong>¡Toma una captura de pantalla!</strong><br>
-                    Para aplicar el descuento especial, envíame la captura a WhatsApp antes de que el contador llegue a cero.</p>
-                  </div>
-
-                  <a class="action primary big pulse" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20aquí%20tienes%20mi%20captura%20de%20pantalla%20del%20temporizador.%20Quiero%20aprovechar%20el%20descuento%20del%20Super%20Curso%20Ilimitado" target="_blank">
-                    APLICAR MI DESCUENTO POR WHATSAPP
-                  </a>
-                </div>
-
-              </div>
+            <div class="ctaRow">
+              <a class="action primary big" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20entrar%20al%20ChanonaTKD%20System%20y%20comenzar%20mi%20entrenamiento" target="_blank" rel="noopener">QUIERO ENTRAR AL SYSTEM</a>
+              <a class="action ghost big" href="#video">Ver masterclass primero</a>
             </div>
           </div>
-        </section>
+        </div>
+      </section>
 
-        <section class="section" id="catalogo">
-          <div class="sectionHead">
-            <h3>📊 SISTEMAS DE ENTRENAMIENTO</h3>
+      <section class="section productSection courseSection" id="curso">
+        <div class="productLayout reverse">
+          <div class="productMedia">
+            <span class="floatingBadge">♾️ ACCESO ILIMITADO</span>
+            <img src="./imagenes/superCurso.jpg" alt="Super Curso Ilimitado ChanonaTKD">
           </div>
-          <div class="sectionBody">
-            <div class="gridCards">
-              
-              <article class="card featured-card expandable-card">
-                <div class="cardImg">
-                  <img src="./imagenes/chanonatkdSystem.jpg" alt="ChanonaTKD System">
-                </div>
-                <div class="cardBody">
-                  <span class="tag tag-red">MÁS POPULAR EN PRINCIPIANTES</span>
-                  <h5>ChanonaTKD System</h5>
-                  <p>La estructura </b>mensual</b> definitiva para el dominio técnico.</p>
-                  <div class="card-details" id="system-details">
-                    <ul class="benefit-list-mini">
-                      <li><span>✅</span> Clase semanal en vivo (60 min)</li>
-                      <li><span>✅</span> Acceso a la plataforma ChanonaTKD</li>
-                      <li><span>✅</span> Plan de entrenamiento semanal</li>
-                      <li><span>✅</span> Tareas estructuradas</li>
-                      <li><span>✅</span> Acceso a grabaciones de las clases</li>
-                    </ul>
-                  </div>
-                  <div class="cardPrice">$750 MXN - $55 USD - €47 EUR / mes</div>
-                  <div class="card-ctas">
-                    <a class="action toggle-details" onclick="toggleDetails('system-details', this)">Ver detalles técnicos</a>
-                    <a class="action primary cta-final" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20estoy%20listo%20para%20comenzar%20en%20el%20ChanonaTKD%20System" target="_blank">COMENZAR AHORA</a>
-                  </div>
-                </div>
-              </article>
 
-              <article class="card expandable-card">
-                <div class="cardImg">
-                  <img src="./imagenes/forjandoDos.jpg" alt="Forjando Bases 2">
-                </div>
-                <div class="cardBody">
-                  <h5>Forjando Bases 2</h5>
-                  <p>Acelera tu progreso con frecuencia técnica doble.</p>
-                  <div class="card-details" id="bases2-details">
-                    <ul class="benefit-list-mini">
-                        <li><span>✅</span> 2 sesiones por semana (ciclos de 4 semanas)</li>
-                        <li><span>✅</span> Seguimiento personalizado PROFUNDO</li>
-                        <li><span>✅</span> Entrenamiento especializado en bases</li>
-                        <li><span>✅</span> Flexibilidad y fuerza para pateo al cielo</li>
-                        <li><span>✅</span> Potencia y fuerza técnica de poomsae</li>
-                    </ul>
-                  </div>
-                  <div class="cardPrice">$2,400 MXN <br> <small>$145 USD • €125 EUR</small>/ mes</div>
-                  <div class="card-ctas">
-                    <a class="action toggle-details" onclick="toggleDetails('bases2-details', this)">Ver detalles</a>
-                    <a class="action primary cta-final" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20saber%20más%20sobre%20el%20plan%20Forjando%20Bases%202" target="_blank">COMENZAR AHORA</a>
-                  </div>
-                </div>
-              </article>
+          <div class="productInfo">
+            <span class="eyebrow">PRODUCTO PRINCIPAL #2</span>
+            <h2>Super Curso Ilimitado ChanonaTKD</h2>
+            <p class="productLead">
+              Aprende mi método completo. Este curso es para quien quiere conocer, estudiar y profundizar en los detalles técnicos que uso para desarrollar control, altura, fuerza, eje corporal y poomsae de alto nivel.
+            </p>
 
+            <div class="benefitGrid">
+              <div>✅ Una sola inversión</div>
+              <div>✅ Acceso de por vida</div>
+              <div>✅ Cursos y actualizaciones futuras incluidas</div>
+              <div>✅ Método paso a paso explicado por mí</div>
+              <div>✅ Entrenamiento real, no teoría vacía</div>
+              <div>✅ Ideal para atletas, profesores y practicantes comprometidos</div>
+            </div>
+
+            <div class="priceBox premium">
+              <span>Acceso ilimitado</span>
+              <strong>$2,800 MXN</strong>
+              <small>$195 USD · €175 EUR</small>
+            </div>
+
+            <div class="ctaRow">
+              <a class="action primary big" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20adquirir%20el%20Super%20Curso%20Ilimitado%20ChanonaTKD" target="_blank" rel="noopener">QUIERO EL SUPER CURSO</a>
+              <a class="action ghost big" href="#comparacion">Comparar opciones</a>
             </div>
           </div>
-        </section>
+        </div>
+      </section>
 
-        <section class="section" id="personalizado">
-          <div class="sectionHead">
-            <h3>👤 COACHING DE ÉLITE Y PERSONALIZADO</h3>
+      <section class="section comparisonSection" id="comparacion" aria-labelledby="comparacion-title">
+        <div class="sectionHead clean center">
+          <span class="eyebrow">COMPARACIÓN SIMPLE</span>
+          <h2 id="comparacion-title">En pocas palabras</h2>
+        </div>
+
+        <div class="compareGrid">
+          <div class="compareItem"><span>Si quieres entrenar mes a mes</span><strong>ChanonaTKD System</strong></div>
+          <div class="compareItem"><span>Si quieres aprender mi método completo</span><strong>Super Curso Ilimitado</strong></div>
+          <div class="compareItem"><span>Si quieres seguimiento y estructura semanal</span><strong>ChanonaTKD System</strong></div>
+          <div class="compareItem"><span>Si quieres acceso de por vida</span><strong>Super Curso Ilimitado</strong></div>
+        </div>
+      </section>
+
+      <section class="section videoSection" id="video">
+        <div class="sectionHead clean center">
+          <span class="eyebrow">CLASE GRATUITA</span>
+          <h2>Antes de decidir, mira esta masterclass</h2>
+          <p>Esta clase te deja probar mi forma de explicar. Si te gusta cómo enseño, el System o el Super Curso serán el siguiente paso natural.</p>
+        </div>
+
+        <div class="videoWrap">
+          <div class="videoFrame">
+            <iframe
+              src="https://www.youtube.com/embed/2jg7b-W2QRU?rel=0&modestbranding=1&playsinline=1"
+              title="Masterclass ChanonaTKD"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
           </div>
-          <div class="sectionBody">
-            <div class="gridCards">
+        </div>
 
-              <article class="card expandable-card">
-                <div class="cardImg">
-                  <img src="./imagenes/forjandoUno.jpg" alt="Forjando Bases 1">
-                </div>
-                <div class="cardBody">
-                  <h5>Forjando Bases 1</h5>
-                  <p>Tu primer paso hacia la estructura técnica sólida.</p>
-                  <div class="card-details" id="bases1-personal-details">
-                    <ul class="benefit-list-mini">
-                        <li><span>✅</span> 1 sesión por semana (ciclos de 4 semanas)</li>
-                        <li><span>✅</span> Seguimiento personalizado</li>
-                        <li><span>✅</span> Entrenamiento especializado en bases</li>
-                        <li><span>✅</span> Flexibilidad y fuerza para pateo al cielo</li>
-                        <li><span>✅</span> Ideal si tienes poco tiempo</li>
-                    </ul>
-                  </div>
-                  <div class="cardPrice">$1,800 MXN <br> <small>$120 USD • €115 EUR</small></div>
-                  <div class="card-ctas">
-                    <a class="action toggle-details" onclick="toggleDetails('bases1-personal-details', this)">Ver detalles</a>
-                    <a class="action primary cta-final" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20más%20información%20sobre%20el%20plan%20Forjando%20Bases%201" target="_blank">SABER MÁS</a>
-                  </div>
-                </div>
-              </article>
+        <div class="dualCta">
+          <a class="action primary big" href="#catalogo">Me interesa entrenar en el System</a>
+          <a class="action secondary big" href="#curso">Me interesa aprender el método</a>
+        </div>
+      </section>
 
-              <article class="card expandable-card">
-                <div class="cardImg">
-                  <img src="./imagenes/aceleradorTecnico.jpg" alt="Acelerador Técnico">
-                </div>
-                <div class="cardBody">
-                  <span class="tag">CORRECCIÓN EXPRESS</span>
-                  <h5>Acelerador Técnico</h5>
-                  <p>Pulido de detalles clave para competir sin estancamiento.</p>
-                  <div class="card-details" id="acelerador-details">
-                    <ul class="benefit-list-mini">
-                      <li><span>✅</span> 2 sesiones de Mejora técnica INMEDIATA</li>
-                      <li><span>✅</span> Correcciones específicas y quirúrgicas</li>
-                      <li><span>✅</span> Método personalizado</li>
-                      <li><span>✅</span> Ideal antes de competencia</li>
-                    </ul>
-                  </div>
-                  <div class="cardPrice">$1,400 MXN</div>
-                  <div class="card-ctas">
-                    <a class="action toggle-details" onclick="toggleDetails('acelerador-details', this)">Ver detalles</a>
-                    <a class="action primary cta-final" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20info%20sobre%20el%20Acelerador%20Técnico" target="_blank">SOLICITAR INFORMACIÓN</a>
-                  </div>
-                </div>
-              </article>
+      <section class="section secondaryServices" id="personalizado">
+        <div class="sectionHead clean center">
+          <span class="eyebrow">OPCIONES PERSONALIZADAS</span>
+          <h2>¿Necesitas algo más específico?</h2>
+          <p>Estas opciones quedan para alumnos que buscan atención más personalizada, refuerzo técnico o preparación especial.</p>
+        </div>
 
-              <article class="card expandable-card">
-                <div class="cardImg"><img src="./imagenes/individual.jpg" alt="Individual"></div>
-                <div class="cardBody">
-                  <h5>Sesión Éxtra o Única</h5>
-                  <p>Agrega un entrenamiento extra a su paquete o inicia con este plan</p>
-                  <div class="card-details" id="individual-details">
-                    <ul class="benefit-list-mini">
-                      <li><span>✅</span> Entrenamiento único para ver el sistema</li>
-                      <li><span>✅</span> Correcciones y aprendizaje de lo que desees</li>
-                      <li><span>✅</span> Entrenamiento adaptado a tu nivel o intensivo</li>
-                      <li><span>✅</span> Ideal si quieres vivir el primer entrenamiento ChanonaTKD</li>
-                    </ul>
-                  </div>
-                  <div class="cardPrice">$800 MXN <br> <small>$50 USD • €45 EUR</small></div>
-                  <div class="card-ctas">
-                    <a class="action toggle-details" onclick="toggleDetails('individual-details', this)">Ver detalles</a>
-                    <a class="action primary cta-final" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20agendar%20una%20Sesión%20Individual%201-a-1" target="_blank">MÁS INFO</a>
-                  </div>
-                </div>
-              </article>
-
-              <article class="card expandable-card">
-                <div class="cardImg">
-                  <img src="./imagenes/avanzado.jpg" alt="Avanzado">
-                </div>
-                <div class="cardBody">
-                   <span class="tag tag-red">MÁXIMA EXIGENCIA</span>
-                  <h5>Avanzado de Campeones</h5>
-                  <p>Preparación profesional para competencia elite.</p>
-                  <div class="card-details" id="campeones-details">
-                    <ul class="benefit-list-mini">
-                      <li><span>✅</span> Técnica de competencia ACTUALIZADA</li>
-                      <li><span>✅</span> Trabajo específico: Muscular, articular y técnico/poomsae</li>
-                      <li><span>✅</span> Preparación profesional incluso novatos</li>
-                      <li><span>✅</span> Plan semanal PERSONALIZADO</li>
-                      <li><span>✅</span> Seguimiento profundo y constante</li>
-                    </ul>
-                  </div>
-                  <div class="cardPrice">$2,800 MXN <br> <small>$170 USD • €165 EUR</small>/ mes</div>
-                  <div class="card-ctas">
-                    <a class="action toggle-details" onclick="toggleDetails('campeones-details', this)">Ver detalles</a>
-                    <a class="action primary cta-final" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20inscripción%20al%20plan%20Avanzado%20de%20Campeones" target="_blank">SOLICITAR INFO</a>
-                  </div>
-                </div>
-              </article>
-              
-              <article class="card expandable-card">
-                <div class="cardImg">
-                  <img src="./imagenes/avanzadoFlex.jpg" alt="Avanzado Flex">
-                </div>
-                <div class="cardBody">
-                  <h5>Avanzado Flex Pro</h5>
-                  <p>Entrenamiento premium elite adaptado a tu tiempo.</p>
-                  <div class="card-details" id="flexpro-details">
-                    <ul class="benefit-list-mini">
-                      <li><span>✅</span> Seguimiento personalizado PROFUNDO</li>
-                      <li><span>✅</span> Entrenamiento especializado: Elite o adaptado</li>
-                      <li><span>✅</span> Flexibilidad y fuerza para pateo al cielo/poomsae</li>
-                      <li><span>✅</span> Ideal si no tienes horarios de conexión fijos</li>
-                    </ul>
-                  </div>
-                  <div class="cardPrice">$2,800 MXN <br> <small>$170 USD • €165 EUR</small>/ mes</div>
-                  <div class="card-ctas">
-                    <a class="action toggle-details" onclick="toggleDetails('flexpro-details', this)">Ver detalles</a>
-                    <a class="action primary cta-final" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20info%20sobre%20Avanzado%20Flex%20Pro" target="_blank">SOLICITAR INFO</a>
-                  </div>
-                </div>
-              </article>
-
+        <div class="cardsGrid">
+          <article class="serviceCard">
+            <img src="./imagenes/forjandoDos.jpg" alt="Forjando Bases 2">
+            <div class="cardBody">
+              <span class="tag">FRECUENCIA DOBLE</span>
+              <h3>Forjando Bases 2</h3>
+              <p>Acelera tu progreso con dos sesiones por semana y seguimiento técnico profundo.</p>
+              <ul>
+                <li>2 sesiones por semana</li>
+                <li>Entrenamiento especializado en bases</li>
+                <li>Flexibilidad, fuerza y poomsae</li>
+              </ul>
+              <strong class="servicePrice">$2,800 MXN / $195 USD / €175 EUR al mes</strong>
+              <a class="action primary" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20saber%20más%20sobre%20Forjando%20Bases%202" target="_blank" rel="noopener">Solicitar información</a>
             </div>
+          </article>
+
+          <article class="serviceCard">
+            <img src="./imagenes/forjandoUno.jpg" alt="Forjando Bases 1">
+            <div class="cardBody">
+              <span class="tag">BASE TÉCNICA</span>
+              <h3>Forjando Bases 1</h3>
+              <p>Un plan claro para construir una técnica más sólida con una sesión semanal.</p>
+              <ul>
+                <li>1 sesión por semana</li>
+                <li>Seguimiento personalizado</li>
+                <li>Ideal si tienes poco tiempo</li>
+              </ul>
+              <strong class="servicePrice">$2,600 MXN / $185 USD / €165 EUR al mes</strong>
+              <a class="action primary" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20información%20sobre%20Forjando%20Bases%201" target="_blank" rel="noopener">Solicitar información</a>
+            </div>
+          </article>
+
+          <article class="serviceCard">
+            <img src="./imagenes/aceleradorTecnico.jpg" alt="Acelerador Técnico">
+            <div class="cardBody">
+              <span class="tag redTag">CORRECCIÓN EXPRESS</span>
+              <h3>Acelerador Técnico</h3>
+              <p>Corrección rápida y precisa para pulir detalles clave antes de competir o destrabar errores.</p>
+              <ul>
+                <li>2 sesiones de mejora técnica</li>
+                <li>Correcciones específicas</li>
+                <li>Ideal antes de competencia</li>
+              </ul>
+              <strong class="servicePrice">$1,400 MXN / $108 USD / €96 EUR</strong>
+              <a class="action primary" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20información%20sobre%20el%20Acelerador%20Técnico" target="_blank" rel="noopener">Solicitar información</a>
+            </div>
+          </article>
+
+          <article class="serviceCard">
+            <img src="./imagenes/individual.jpg" alt="Sesión Extra o Única">
+            <div class="cardBody">
+              <span class="tag">ENTRENAMIENTO ÚNICO</span>
+              <h3>Sesión Extra o Única</h3>
+              <p>Agenda una sesión individual para probar el sistema, corregir detalles o reforzar un punto concreto.</p>
+              <ul>
+                <li>Entrenamiento adaptado a tu nivel</li>
+                <li>Correcciones y aprendizaje específico</li>
+                <li>Ideal para iniciar</li>
+              </ul>
+              <strong class="servicePrice">$800 MXN / $60 USD / €55 EUR</strong>
+              <a class="action primary" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20agendar%20una%20Sesión%20Individual" target="_blank" rel="noopener">Agendar sesión</a>
+            </div>
+          </article>
+
+          <article class="serviceCard">
+            <img src="./imagenes/avanzado.jpg" alt="Avanzado de Campeones">
+            <div class="cardBody">
+              <span class="tag redTag">MÁXIMA EXIGENCIA</span>
+              <h3>Avanzado de Campeones</h3>
+              <p>Preparación profesional para atletas que buscan competir con mayor fuerza, seguridad y presencia.</p>
+              <ul>
+                <li>Técnica de competencia actualizada</li>
+                <li>Plan semanal personalizado</li>
+                <li>Seguimiento profundo</li>
+              </ul>
+              <strong class="servicePrice">$3,500 MXN / $225 USD / €210 EUR al mes</strong>
+              <a class="action primary" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20información%20sobre%20Avanzado%20de%20Campeones" target="_blank" rel="noopener">Solicitar información</a>
+            </div>
+          </article>
+
+          <article class="serviceCard">
+            <img src="./imagenes/avanzadoFlex.jpg" alt="Avanzado Flex Pro">
+            <div class="cardBody">
+              <span class="tag">PREMIUM FLEXIBLE</span>
+              <h3>Avanzado Flex Pro</h3>
+              <p>Entrenamiento avanzado adaptado a tu tiempo, con seguimiento y estructura técnica profunda.</p>
+              <ul>
+                <li>Seguimiento personalizado profundo</li>
+                <li>Trabajo elite o adaptado</li>
+                <li>Ideal si no tienes horario fijo</li>
+              </ul>
+              <strong class="servicePrice">$3,500 MXN / $225 USD / €210 EUR al mes</strong>
+              <a class="action primary" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20información%20sobre%20Avanzado%20Flex%20Pro" target="_blank" rel="noopener">Solicitar información</a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section coachSection">
+        <div class="coachCard">
+          <div>
+            <span class="eyebrow">TU ENTRENADOR</span>
+            <h2>Soy Bryan Herrera</h2>
+            <p>Entrenador profesional de poomsae, especialista en técnica, flexibilidad aplicada, pateo alto y desarrollo de atletas. Mi objetivo es que entrenes con claridad, no con ejercicios al azar.</p>
           </div>
-        </section>
-
-        <footer class="bottomNote" style="text-align: center; padding: 40px 20px; color: var(--muted); border-top: 1px solid var(--line);">
-          <p>Soy <strong>Bryan Herrera</strong>, entrenador profesional de poomsae y selecciones.</p>
-        </footer>
-
-      </div>
+          <a class="action primary big" href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20saber%20cuál%20opción%20de%20ChanonaTKD%20es%20mejor%20para%20mí" target="_blank" rel="noopener">QUIERO QUE ME ORIENTES</a>
+        </div>
+      </section>
     </main>
   </div>
 
+  <div class="mobileSticky" aria-label="Accesos rápidos de compra">
+    <a href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20entrar%20al%20ChanonaTKD%20System" target="_blank" rel="noopener">System</a>
+    <a href="https://wa.me/529987406579?text=Hola%20Bryan%2C%20quiero%20adquirir%20el%20Super%20Curso%20Ilimitado%20ChanonaTKD" target="_blank" rel="noopener">Super Curso</a>
+  </div>
+
   <script>
-    // Script para botones desplegables
-    function toggleDetails(id, btn) {
-      const details = document.getElementById(id);
-      const ctaFinal = btn.nextElementSibling;
+    const themeToggle = document.getElementById('themeToggle');
+    const themeIcon = themeToggle.querySelector('.themeIcon');
+    const themeText = themeToggle.querySelector('.themeText');
 
-      if (details.classList.contains('active')) {
-        details.classList.remove('active');
-        btn.innerText = (id === 'system-details') ? 'Ver detalles técnicos' : 'Ver detalles';
-        ctaFinal.classList.remove('show');
-      } else {
-        details.classList.add('active');
-        btn.innerText = 'Ocultar detalles';
-        ctaFinal.classList.add('show');
-      }
+    function updateThemeButton(theme) {
+      const isLight = theme === 'light';
+      themeIcon.textContent = isLight ? '☀️' : '🌙';
+      themeText.textContent = isLight ? 'Claro' : 'Oscuro';
+      themeToggle.setAttribute('aria-label', isLight ? 'Cambiar a modo oscuro' : 'Cambiar a modo claro');
     }
 
-    // Lógica del Temporizador Persistente (7 horas)
-    function initTimer() {
-      const duration = 7 * 60 * 60 * 1000; // 7 horas en milisegundos
-      let endTime = localStorage.getItem('chanonatkd_timer_oferta');
-
-      // Si no hay tiempo guardado, establecer uno nuevo
-      if (!endTime) {
-        endTime = Date.now() + duration;
-        localStorage.setItem('chanonatkd_timer_oferta', endTime);
-      } else {
-        endTime = parseInt(endTime, 10);
-      }
-
-      const timerDisplay = document.getElementById('countdown-timer');
-
-      function updateTimer() {
-        const now = Date.now();
-        const timeLeft = endTime - now;
-
-        if (timeLeft <= 0) {
-          timerDisplay.innerText = "00:00:00";
-          return; // El contador se detiene en 0
-        }
-
-        const h = Math.floor((timeLeft / (1000 * 60 * 60)) % 24);
-        const m = Math.floor((timeLeft / 1000 / 60) % 60);
-        const s = Math.floor((timeLeft / 1000) % 60);
-
-        timerDisplay.innerText = 
-          String(h).padStart(2, '0') + ':' + 
-          String(m).padStart(2, '0') + ':' + 
-          String(s).padStart(2, '0');
-      }
-
-      updateTimer();
-      setInterval(updateTimer, 1000);
+    function setTheme(theme) {
+      document.documentElement.dataset.theme = theme;
+      localStorage.setItem('chanonatkd_theme', theme);
+      updateThemeButton(theme);
     }
-    
-    // Iniciar temporizador
-    initTimer();
 
-    // Scroll Spy para el menú lateral
-    const links = Array.from(document.querySelectorAll('.menu .btn'));
-    const sections = links.map(a => document.querySelector(a.getAttribute('href'))).filter(Boolean);
-    const setActive = (id) => {
-      links.forEach(a => a.classList.toggle('active', a.getAttribute('href') === '#' + id));
-    };
-    const obs = new IntersectionObserver((entries) => {
-      entries.forEach(e => {
-        if (e.isIntersecting) setActive(e.target.id);
-      });
-    }, { rootMargin: "-30% 0px -30% 0px", threshold: 0.1 });
-    sections.forEach(s => obs.observe(s));
+    updateThemeButton(document.documentElement.dataset.theme || 'dark');
+
+    themeToggle.addEventListener('click', () => {
+      const current = document.documentElement.dataset.theme || 'dark';
+      setTheme(current === 'light' ? 'dark' : 'light');
+    });
   </script>
 </body>
 </html>
