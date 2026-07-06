@@ -1,86 +1,84 @@
 {
-  "updated_at": "Actualizado lun 22 de junio de 2026",
+  "updated_at": "Actualizado lun 6 de julio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
-  "enfoque_corto": "Taeguk 5 líneas 1 a 5 + Ap/Yop Chagui con silla",
-  "enfoque": "En este ciclo trabajaremos el nivel técnico de pateo y poomsae, específicamente Taeguk 5 líneas 1, 2, 3, 4 y 5, con enfoque principal en las líneas 4 y 5. Buscaremos mejorar muñecas alineadas con antebrazo, preparación correcta, postura estable, Ap Chagui y Yop Chagui con silla, cuidando que el torso se mantenga alineado y que no exista reverencia al ejecutar Yop Chagui.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / AVANZADO: LUNES - MIÉRCOLES - VIERNES",
+  "ciclo": "Lunes 6 al sábado 18 de julio de 2026",
+  "enfoque_corto": "Taeguk 5 líneas 1 a 6 + Chanonaflex nivel 1",
+  "enfoque": "En este ciclo trabajaremos Taeguk 5 líneas 1, 2, 3, 4, 5 y 6, además de Chanonaflex nivel 1, isométricos de glúteo, Yop Chagui y Ap Chagui nivel 1, y pateo técnico con dos ejercicios de Ap Chagui, dos ejercicios de Yop Chagui y un trabajo con banda elástica. La prioridad será precisión técnica, postura, control, preparación correcta y ejecución limpia antes que altura máxima.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: MARTES - JUEVES - SÁBADO",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
-      "nota": "Usar como preparación general antes de flexibilidad, isométricos, pateo o poomsae. Mantener respiración y control."
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
     },
     {
-      "titulo": "Chanonaflex - Avanzado",
-      "dia": "LUNES - MIÉRCOLES - VIERNES",
+      "titulo": "Circuito Chanonaflex - Básico",
+      "dia": "MARTES - JUEVES - SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=sharing",
-      "nota": "Trabajo avanzado para mejorar movilidad, apertura, flexibilidad y control corporal sin forzar de más."
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=sharing"
     }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP CHAGUI NIVEL 1 + AP CHAGUI NIVEL 1",
   "isometrico": [
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"],
-      "nota": "Mantener control del torso y abdomen activo. No buscar altura antes de controlar postura."
-    },
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"],
-      "nota": "Evitar reverencia. Meter rodilla antes y después de la patada, manteniendo torso alineado."
-    },
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
-      "nota": "Trabajar con control. Si se siente muy fuerte, reducir intensidad sin perder técnica."
+      "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
+      "tags": ["YOP CHAGUI", "NIVEL 1", "CADERA", "CONTROL"]
+    },
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
+      "tags": ["AP CHAGUI", "NIVEL 1", "FUERZA", "CONTROL"]
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / HACER SOLO 2 EJERCICIOS POR DÍA",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP CHAGUI + 2 YOP CHAGUI + 1 CON BANDA ELÁSTICA",
   "pateoTecnico": [
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
-      "grupo": "Ap Chagui con silla",
-      "enfoque": "Mantener torso alineado, brazos cerca del cuerpo, puños al pecho y control de pierna de apoyo.",
-      "reps": "12 a 15 reps por pierna / 2 series",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando cámara, pierna de apoyo, postura y regreso técnico.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
       "titulo": "Ap Chagui contra pared",
-      "grupo": "Ap Chagui",
-      "enfoque": "Corregir cámara, extensión y regreso sin lanzar el torso hacia adelante ni soltar los brazos.",
-      "reps": "12 a 15 reps por pierna / 2 series",
+      "enfoque": "Corregir cámara, extensión y regreso de Ap Chagui sin lanzar el torso hacia adelante.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "grupo": "Yop Chagui con silla / base técnica",
-      "enfoque": "Meter rodilla antes y después de la patada. Mantener torso alineado y no hacer reverencia.",
+      "enfoque": "Preparar cámara, ubicar cadera y mantener alineación antes de extender la patada.",
       "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
-      "titulo": "Ap + Yop + Turn hips silla",
-      "grupo": "Yop Chagui con silla",
-      "enfoque": "Mantener brazo extendido alineado de forma paralela con la pierna, sin torcer el torso ni sacar los brazos del cuerpo.",
-      "reps": "8 a 10 reps por lado / 2 series",
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Controlar extensión, regreso y postura del torso en Yop Chagui sin sacrificar técnica por altura.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    },
+    {
+      "titulo": "Torcion cadera con banda",
+      "enfoque": "Trabajar movilidad y control de cadera con banda elástica para mejorar dirección y estabilidad en pateo.",
+      "reps": "10 a 12 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO / TAEGUK 5 LÍNEAS 1, 2, 3, 4 Y 5",
+  "poomsaeDias": "LUNES A SÁBADO / TAEGUK 5 LÍNEAS 1, 2, 3, 4, 5 Y 6",
   "poomsae": [
     {
       "titulo": "Taeguk 5 - Línea 1 hacia línea 2",
@@ -97,13 +95,6 @@
       "url": "https://drive.google.com/open?id=1sYO2lMMZOuZF7-doTLcXFO7itTmlKVe1&usp=drive_copy"
     },
     {
-      "titulo": "Taeguk 5 - Línea 2 - talones y transición",
-      "enfoque": "Controlar pies, talones y dirección para evitar perder alineación durante la transición.",
-      "reps": "15 a 20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Tg7zQiS4SxKsOMdAdaY17vNdnegdc1WA&usp=drive_copy"
-    },
-    {
       "titulo": "Taeguk 5 - Línea 3 - Sonnal y codazo + timing",
       "enfoque": "Trabajar sonnal, codazo, timing y cierre técnico sin flexionar muñecas hacia los lados.",
       "reps": "15 a 20 reps / 1 serie",
@@ -112,44 +103,38 @@
     },
     {
       "titulo": "Taeguk 5 - Línea 4 - Are + Montong + Ap",
-      "enfoque": "Trabajar línea 4 con defensa baja, defensa media, Ap Chagui y postura limpia, cuidando muñecas alineadas con antebrazo.",
+      "enfoque": "Trabajar defensa baja, defensa media, Ap Chagui y postura limpia, cuidando muñecas alineadas con antebrazo.",
       "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1FwqSElEVd8CZ6QQNKTFSjow2yYjUgwxG&usp=drive_copy"
     },
     {
       "titulo": "Taeguk 5 - Línea 5 - Olgul + Yop + Codazo",
-      "enfoque": "Trabajar línea 5 cuidando rodilla antes/después en Yop Chagui, brazos cerca del cuerpo, puños al pecho y codazo firme.",
+      "enfoque": "Trabajar línea 5 cuidando rodilla antes y después en Yop Chagui, brazos cerca del cuerpo, puños al pecho y codazo firme.",
       "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf&usp=drive_copy"
     },
     {
-      "titulo": "Taeguk 5 - Ajuste rápido cámara y puño costado",
-      "enfoque": "Reforzar cámara, puño al costado, muñeca alineada y preparación de brazos para líneas 4 y 5.",
-      "reps": "15 reps / 1 serie",
+      "titulo": "Taeguk 5 - Línea 6 - Are + Ap + Golpe",
+      "enfoque": "Trabajar línea 6 con defensa baja, Ap Chagui, golpe y cierre técnico con postura estable.",
+      "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1nfTLw36IyVCyjyWJPwSy9tXpW1UkDSUZ&usp=drive_copy"
-    },
-    {
-      "titulo": "Puños al pecho Ap Chagui",
-      "enfoque": "Mantener brazos con el cuerpo, sin sacarlos, especialmente al conectar Ap Chagui y preparación de Taeguk 5.",
-      "reps": "15 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1rWWin6hmMrzLvvlhQGDFmU6_dWHfoKKk&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1838t3kpNzYH2Bxq39v_3WWh03o5tepR2&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "Procuramos enfocarnos en nuestras muñecas: que no se flexionen hacia ningún lado. La muñeca debe seguir la alineación del antebrazo.",
-    "Cuando ejecutamos Yop Chagui, debemos meter la rodilla antes y después de la ejecución de la patada.",
-    "Algo importante en nuestro pateo es mantener nuestros brazos con nosotros. No sacarlos; mantenerlos cerca del cuerpo.",
-    "Cuando estamos en Yop Chagui, el brazo que extendemos debe estar alineado de forma paralela entre el brazo y la pierna.",
-    "En Taeguk 5 vamos avanzando hacia la línea 5. Las líneas anteriores quedan como apoyo para entender mejor la poomsae y también para sus alumnos.",
-    "No busque hacer todo rápido. Busque preparación clara, muñeca firme, postura estable y ejecución final bien marcada."
+    "Trabaja con precisión técnica, dándole prioridad a la correcta ejecución antes que a una patada alta.",
+    "Para poder patear alto, primero necesitamos tener buena técnica.",
+    "Cuando sientas cansancio, no temas descansar. Escucha tu cuerpo y reconoce cuándo necesita un pequeño reposo.",
+    "Si algún ejercicio sientes que no lo soportas, toma un pequeño espacio de recuperación y después continúa con mejor calidad técnica.",
+    "En Taeguk 5 cuida muñecas alineadas con antebrazo, preparación correcta, postura estable y final claro de cada movimiento."
   ],
   "notasFinales": [
-    "Vamos avanzando en nuestro trabajo técnico y de entendimiento en Taeguk 5.",
-    "Por ahora ya vamos con la línea 5, mientras dejamos las demás líneas para seguir viéndolas y apoyándonos si lo necesitamos para nuestros alumnos.",
-    "Mucho ánimo, profe. Cualquier duda, por favor coménteme."
+    "Excelente trabajo y a seguirle dando en estas próximas dos semanas de ciclo.",
+    "Continuamos entrenando con mucha garra y enfoque.",
+    "No nos rendimos y nos mantenemos firmes con los ejercicios que debemos hacer.",
+    "Cualquier duda, por favor coméntame y con gusto lo resolvemos, profe.",
+    "¡Excelente entrenamiento!"
   ]
 }
