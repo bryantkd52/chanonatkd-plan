@@ -1,130 +1,96 @@
 {
-  "updated_at": "Actualizado lun 22 de junio de 2026",
+  "updated_at": "Actualizado lun 6 de julio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
-  "enfoque_corto": "Flexibilidad + isométrico + pateo de combate avanzado",
-  "enfoque": "En este ciclo trabajaremos flexibilidad, isométrico activo nivel 1 y pateo de combate con enfoque avanzado. La prioridad será mejorar combos de combate, 360 kick, Ap Chagui y Yop Chagui, cuidando que el torso se mantenga alineado y que la espalda no se vaya hacia adelante. Buscaremos que la espalda esté más hacia atrás para asegurar potencia, proteger el cuerpo y no regalar el torso al frente.",
+  "ciclo": "Lunes 6 al sábado 18 de julio de 2026",
+  "enfoque_corto": "Flexibilidad intermedia + isométricos + Ap/Yop Chagui + 360 técnico",
+  "enfoque": "En este ciclo trabajaremos flexibilidad con Pre-ChanonaFlex e intermedio, fuerza isométrica específica de glúteo, Yop Chagui y Ap Chagui, además de técnica de pateo con dos ejercicios de Ap Chagui, dos ejercicios de Yop Chagui y un trabajo específico de giro 360. La prioridad será mejorar a nivel técnico, buscando ejecución correcta antes que altura máxima. Poomsae no estará asignado en este ciclo.",
   "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
-      "nota": "Usar como preparación general antes de flexibilidad, isométricos o pateo. Mantener respiración y control."
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
     },
     {
       "titulo": "Chanonaflex - intermedio",
       "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link",
-      "nota": "Dar progresión a la flexibilidad cuidando la cadera. No forzar rangos máximos si se pierde técnica o alineación."
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=sharing"
     }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO, YOP CHAGUI Y AP CHAGUI",
   "isometrico": [
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"],
-      "nota": "Mantener torso estable y pierna de apoyo firme. No buscar altura si el cuerpo se va hacia adelante."
-    },
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"],
-      "nota": "Evitar reverencia. Mantener cadera activa, torso alineado y espalda sin irse al frente."
-    },
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
-      "nota": "Fortalecer glúteo y cadera para que los pateos de combate salgan con potencia sin regalar el cuerpo al frente."
+      "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
+      "tags": ["YOP CHAGUI", "CADERA", "CONTROL", "FUERZA"]
+    },
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
+      "tags": ["AP CHAGUI", "FUERZA", "CONTROL", "TÉCNICA"]
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / COMBATE, 360 KICK, AP CHAGUI Y YOP CHAGUI",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP CHAGUI + 2 YOP CHAGUI + GIRO 360",
   "pateoTecnico": [
     {
-      "titulo": "Pucho + Ap + Circular + Giro gancho - Paso a paso",
-      "grupo": "Combo de combate",
-      "enfoque": "Coordinar pucho, Ap Chagui, circular y giro gancho con técnica progresiva, cuidando que la espalda no se vaya al frente.",
-      "reps": "6 a 8 reps por lado / 1 a 2 series",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando equilibrio, postura, cámara y control de pierna de apoyo.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1UnpTtOU7sQeG2KJSrIixpO3P2O8xXqPK&usp=drive_copy"
-    },
-    {
-      "titulo": "Combinacion pucho + desliz + giro gancho",
-      "grupo": "Combo de combate",
-      "enfoque": "Trabajar entrada, desplazamiento, desliz y giro gancho con potencia, manteniendo torso alineado y cadera activa.",
-      "reps": "6 a 8 reps por lado / 1 a 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Li6ozOE3E22xeZ7DKrtyT-IWt40flQmg/view?usp=drive_link"
-    },
-    {
-      "titulo": "360 kick - paso a paso progresivo 0 a 100",
-      "grupo": "360 Kick",
-      "enfoque": "Construir el 360 kick desde base progresiva, cuidando giro, despegue, ubicación en el aire y aterrizaje seguro.",
-      "reps": "8 reps / 2 series del lado que salga mejor",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1fo_p9ioEGNlPRY6ghrPzz5cXmZJnjZAu/view?usp=sharing"
-    },
-    {
-      "titulo": "360 kick - transicion correcta del giro",
-      "grupo": "360 Kick",
-      "enfoque": "Corregir la transición del giro para que el cuerpo no se adelante y la espalda se mantenga protegida.",
-      "reps": "8 a 10 reps / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1li8_ZtU3__tD3jSev8nYIwGl6qoXHuBA&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
       "titulo": "Ap Chagui 3 niveles",
-      "grupo": "Ap Chagui avanzado",
-      "enfoque": "Trabajar Ap Chagui en niveles, cuidando cámara, regreso y potencia sin lanzar el torso hacia adelante.",
+      "enfoque": "Trabajar cámara, extensión y regreso de Ap Chagui en niveles, priorizando técnica antes que altura.",
       "reps": "8 a 10 reps por nivel / 1 a 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az&usp=drive_copy"
     },
     {
-      "titulo": "Ap chaguis dos bloques",
-      "grupo": "Ap Chagui avanzado",
-      "enfoque": "Desarrollar precisión, fuerza de apoyo y control de cámara con bloques, cuidando que el cuerpo no se regale al frente.",
-      "reps": "8 a 10 reps por pierna / 2 series",
+      "titulo": "Ejercicio 1 - Yop Chagui",
+      "enfoque": "Preparar la cámara de rodilla al pecho y ubicar la cadera antes de ejecutar la patada de lado.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
-      "titulo": "Circuito Yop chagui con Bloque",
-      "grupo": "Yop Chagui avanzado",
-      "enfoque": "Desarrollar altura, precisión, fuerza de apoyo y control de glúteo en Yop Chagui sin hacer reverencia.",
-      "reps": "8 a 10 reps por lado / 2 series",
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Controlar extensión, regreso de pierna y postura del torso en Yop Chagui sin sacrificar técnica por altura.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
     },
     {
-      "titulo": "Split de Yop Chagui",
-      "grupo": "Yop Chagui avanzado",
-      "enfoque": "Mejorar apertura, control de cadera y línea de Yop Chagui, cuidando no llevar el torso en reverencia.",
-      "reps": "2 veces por semana máximo / sostener con técnica",
+      "titulo": "Giro 360 - transición correcta",
+      "enfoque": "Trabajar la transición correcta del giro para mejorar control, eje corporal y técnica progresiva.",
+      "reps": "8 a 10 reps / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1li8_ZtU3__tD3jSev8nYIwGl6qoXHuBA&usp=drive_copy"
     }
   ],
   "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
   "poomsae": [],
   "apuntes": [
-    "El enfoque debe ser que en cada pateo busquemos mantener el torso en alineación.",
-    "No debemos sacar el torso hacia afuera ni hacer una especie de reverencia al ejecutar Yop Chagui.",
-    "También debemos darle a nuestra flexibilidad la progresión necesaria, cuidando siempre la cadera.",
-    "La espalda debe buscar estar más hacia atrás en vez de llevarse al frente, para asegurar que el pateo tenga potencia y no regalemos el cuerpo al frente.",
-    "En combate, cada patada debe salir con intención, pero sin perder postura. Primero técnica limpia, después velocidad y finalmente potencia.",
-    "Si alguno siente molestia de rodilla o cadera, bajar intensidad de inmediato y mantener el trabajo en rango seguro."
+    "Trabaja con precisión técnica, dándole prioridad a la correcta ejecución antes que a una patada alta. Para poder patear alto, primero necesitamos tener buena técnica.",
+    "Mantén pausas breves cuando sea necesario para conservar buena postura y mejor calidad técnica.",
+    "La prioridad será entrenar con inteligencia, orden y control en cada repetición.",
+    "La altura llegará mejor cuando la técnica, la fuerza y la flexibilidad estén trabajando juntas. Primero calidad, después altura.",
+    "En el giro 360, primero controla el giro y el eje corporal. Después se busca más velocidad."
   ],
   "notasFinales": [
-    "A seguirle dando con todo. Vamos avanzando como se debe.",
-    "Cualquier duda, por favor coméntenme.",
-    "Nos vemos en clase."
+    "Excelente trabajo de estas dos semanas de ciclo. Continuamos entrenando con mucha garra y enfoque.",
+    "Nos mantendremos firmes con los ejercicios que debemos hacer.",
+    "Cualquier duda, por favor coméntenme y con gusto lo resolvemos.",
+    "¡Excelente entrenamiento!"
   ]
 }
