@@ -1,213 +1,182 @@
 {
-  "updated_at": "Actualizado lun 22 de junio de 2026",
+  "updated_at": "Actualizado lun 6 de julio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
-  "enfoque_corto": "Poomsae específico + Ap/Yop Chagui rumbo a torneo",
-  "enfoque": "En este ciclo trabajaremos de manera específica el nivel técnico de poomsae rumbo al evento, manteniendo también el desarrollo de Ap Chagui y Yop Chagui con silla. El enfoque principal será corregir líneas puntuales de Taeguk 4, Taeguk 5, Taeguk 6, Taeguk 7, Taeguk 8, Koryo y Keumgang, cuidando que el torso no se tuerza, que los puños vayan al pecho o al costado correctamente y que no exista reverencia al ejecutar Yop Chagui.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / AVANZADO: LUNES - MIÉRCOLES - SÁBADO",
+  "ciclo": "Lunes 6 al sábado 18 de julio de 2026",
+  "enfoque_corto": "Koryo, Taebaek y Pyonwong + Chanonaflex avanzado",
+  "enfoque": "En este ciclo trabajaremos líneas específicas de Koryo, Taebaek y Pyonwong. También se mantendrá Chanonaflex avanzado, trabajo isométrico de glúteo, Yop Chagui y Ap Chagui nivel 2, además de pateo técnico con Ap Chagui, Yop Chagui y trabajo con liga. La prioridad será precisión técnica, postura, control, timing y ejecución limpia.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / AVANZADO: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
-      "nota": "Usarlo como preparación general. En los últimos 4 días previos al torneo hacerlo suave y sin buscar fatiga."
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
     },
     {
       "titulo": "Chanonaflex - Avanzado",
-      "dia": "LUNES - MIÉRCOLES - SÁBADO",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=sharing",
-      "nota": "Trabajo de flexibilidad avanzado. No hacerlo pesado si ya están dentro de los últimos 4 días antes del torneo."
+      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=sharing"
     }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1 / NO HACER 4 DÍAS ANTES DEL TORNEO",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP CHAGUI NIVEL 2 + AP CHAGUI NIVEL 2",
   "isometrico": [
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"],
-      "nota": "No realizar este bloque en los últimos 4 días antes del torneo. Mantener control y no buscar fatiga excesiva."
-    },
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"],
-      "nota": "No realizar este bloque en los últimos 4 días antes del torneo. Evitar reverencia y cuidar torso alineado."
-    },
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
-      "nota": "No hacer 4 días antes del torneo. Si se siente muy pesado, reducir intensidad o dejarlo solo para clase."
+      "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=sharing",
+      "tags": ["YOP CHAGUI", "NIVEL 2", "CADERA", "CONTROL"]
+    },
+    {
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=sharing",
+      "tags": ["AP CHAGUI", "NIVEL 2", "FUERZA", "CONTROL"]
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / HACER SOLO 2 EJERCICIOS POR DÍA / NO HACER 4 DÍAS ANTES DEL TORNEO",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP CHAGUI + 2 YOP CHAGUI + 1 CON LIGA",
   "pateoTecnico": [
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
-      "grupo": "Ap Chagui con silla",
-      "enfoque": "Mantener torso alineado, puños al pecho y control de base. No hacer reverencia ni compensar con la espalda.",
-      "reps": "12 a 15 reps por pierna / 2 series",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando cámara, control de apoyo y postura estable.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
-      "titulo": "Ap Chagui contra pared",
-      "grupo": "Ap Chagui",
-      "enfoque": "Corregir cámara, extensión y regreso sin torcer el torso. Mantener puños al pecho y pierna de apoyo firme.",
-      "reps": "15 reps por pierna / 2 series",
+      "titulo": "Ap chaguis dos bloques",
+      "enfoque": "Desarrollar precisión y control de cámara en Ap Chagui con bloques.",
+      "reps": "8 a 10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "grupo": "Yop Chagui con silla / base técnica",
-      "enfoque": "Cámara de rodilla al pecho, cadera alineada y torso sin reverencia. No inclinarse de más al ejecutar.",
+      "enfoque": "Preparar cámara, ubicar cadera y mantener alineación.",
       "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
-      "titulo": "Ap + Yop + Turn hips silla",
-      "grupo": "Yop Chagui con silla",
-      "enfoque": "Trabajar giro de cadera, eje corporal y alineación. Evitar reverencia y mantener puños al pecho o al costado según corresponda.",
-      "reps": "8 a 10 reps por lado / 2 series",
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Controlar extensión, regreso y postura en Yop Chagui.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    },
+    {
+      "titulo": "Circuito Hold con banda L2 Koryo",
+      "enfoque": "Trabajar control con liga para mejorar cámara, sostén y regreso aplicado a Koryo.",
+      "reps": "8 a 10 reps por pierna / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1YiNFRyFkZFZH4Pk3eHe8cOZZorTd6rzK&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO / ENFOQUE ESPECÍFICO RUMBO AL TORNEO",
+  "poomsaeDias": "LUNES A SÁBADO / KORYO + TAEBAEK + PYONWONG",
   "poomsae": [
     {
-      "titulo": "Taeguk 4 - Línea 2 - aterrizaje Yop a Twit Kubi",
-      "enfoque": "Mejorar aterrizaje después de Yop Chagui, postura de Twit Kubi, cadera estable y preparación del siguiente movimiento.",
-      "reps": "15 a 20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1mAiAOeD6IW8-i2SvuMbncLdXdzmplpZM&usp=drive_copy"
+      "titulo": "Linea 1 Koryo",
+      "enfoque": "Referencia de timing para línea 1 de Koryo.",
+      "reps": "2 ejecuciones completas / 1 serie",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1_k4JjzJoUEm0al3K5H50CKPR92-qqi4I&usp=drive_copy"
     },
     {
-      "titulo": "Taeguk 4 - Línea 2 - Ap + regreso Twit Kubi",
-      "enfoque": "Cuidar que la patada no rompa la postura, regresando a Twit Kubi con equilibrio y sin tirar el torso.",
-      "reps": "15 a 20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1et6KYqyWP6ZY-XMVXSqNIRGNh03gTEF2&usp=drive_copy"
+      "titulo": "Linea 2 Koryo",
+      "enfoque": "Referencia de timing para línea 2 de Koryo.",
+      "reps": "2 ejecuciones completas / 1 serie",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1bHFcpMm4BQcRHyNp80cE_XjZunvQVtJ_&usp=drive_copy"
     },
     {
-      "titulo": "Taeguk 5 - Línea 5 - Olgul + Yop + Codazo",
-      "enfoque": "Trabajar la secuencia de línea 5 cuidando que los puños lleguen al pecho, el torso no se tuerza y el codazo cierre firme.",
-      "reps": "15 a 20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1k8rtRGCKO6yzMMRfFNw1709X3XHHmPHf&usp=drive_copy"
+      "titulo": "Linea 3 Koryo",
+      "enfoque": "Referencia de timing para línea 3 de Koryo.",
+      "reps": "2 ejecuciones completas / 1 serie",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=10o0AJ_apfYR0Ea07gG8vb1jnpRoC2Mtb&usp=drive_copy"
     },
     {
-      "titulo": "Taeguk 5 - Ajuste rápido cámara y puño costado",
-      "enfoque": "Corregir cámara, puños al pecho/costado y postura para que la línea 5 se vea más limpia.",
-      "reps": "15 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1nfTLw36IyVCyjyWJPwSy9tXpW1UkDSUZ&usp=drive_copy"
-    },
-    {
-      "titulo": "Taeguk 6 - Línea 3 - defensa a la cara",
-      "enfoque": "Revisar preparación, dirección y ejecución de defensa a la cara, evitando que el torso se tuerza o se adelante.",
-      "reps": "15 a 20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1t7jfM7QOba7tFmJ6kfcXNYonl-pyJJrv&usp=drive_copy"
-    },
-    {
-      "titulo": "Taeguk 7 - Línea 5 - rodilla, inclinación y aterrizaje",
-      "enfoque": "Cuidar rodilla, inclinación controlada, caída estable y lectura visual de la línea 5.",
-      "reps": "15 a 20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=13T-QruLrWivCxecAgtFUgCdjlVbhhOyb&usp=drive_copy"
-    },
-    {
-      "titulo": "Taeguk 7 - Línea 5",
-      "enfoque": "Repasar línea 5 completa con puños, codazo, Ap Chagui y postura sin torcer el torso.",
-      "reps": "10 a 15 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=13WNzHHj7NHueKdgebU79zpNh8rNS56DA&usp=drive_copy"
-    },
-    {
-      "titulo": "Taeguk 8 - Línea 1 - primer movimiento",
-      "enfoque": "Marcar el primer movimiento de Taeguk 8 con postura firme, intención y preparación clara.",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1DWX9g7vzlLsRQGNNi4RxxlA4Cz3_pHiJ&usp=drive_copy"
-    },
-    {
-      "titulo": "Taeguk 8 - Línea 4 - lento",
-      "enfoque": "Trabajar la línea 4 de Taeguk 8 lento, con transición, Ap Chagui, Ap Kubi y control de preparación.",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1tzS67xEzs3v28T1-kYC1ImguBsXvlsuE/view?usp=sharing"
-    },
-    {
-      "titulo": "Koryo - Línea 1 - Precisión + Timing",
-      "enfoque": "Cuidar cortes, precisión, dirección y preparación clara de línea 1 de Koryo.",
+      "titulo": "Linea 1 Koryo - Precisión + Timing",
+      "enfoque": "Cuidar cortes, precisión, dirección y preparación de línea 1 de Koryo.",
       "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK&usp=drive_copy"
     },
     {
-      "titulo": "Koryo - Línea 3 - lado derecho",
-      "enfoque": "Mejorar Yop Chagui, aterrizaje, torso alineado y control del eje en línea 3 de Koryo lado derecho.",
+      "titulo": "Linea 2 Koryo - 2.1 ap chagui + secuencia",
+      "enfoque": "Corregir Ap Chagui, postura y transición de línea 2 de Koryo.",
+      "reps": "15 a 20 reps / 1 serie",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1D2ScTJYlw1cCZw5SfoXn5QlF0LiSjOpv&usp=drive_copy"
+    },
+    {
+      "titulo": "Koryo L3 - Lado derecho",
+      "enfoque": "Trabajar línea 3 de Koryo del lado derecho con control de eje y aterrizaje.",
       "reps": "15 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=116eSAk3WUKVvXneFxAAyuyrG0mu7pwIi&usp=drive_copy"
     },
     {
-      "titulo": "Koryo - Línea 3 - lado izquierdo",
-      "enfoque": "Mejorar Yop Chagui, aterrizaje, torso alineado y control del eje en línea 3 de Koryo lado izquierdo.",
+      "titulo": "Koryo L3 - Lado izquierdo",
+      "enfoque": "Trabajar línea 3 de Koryo del lado izquierdo con control de eje y aterrizaje.",
       "reps": "15 reps / 1 serie",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1d39Oz_ASS6Yb-BIUclGe9QrT-WP9BgwS&usp=drive_copy"
     },
     {
-      "titulo": "Keumgang - Teisho Chigi",
-      "enfoque": "Trabajar parte de Keumgang con dirección de mano, postura y preparación técnica clara.",
+      "titulo": "Linea 1 Taebaek",
+      "enfoque": "Referencia de timing para línea 1 de Taebaek.",
+      "reps": "2 ejecuciones completas / 1 serie",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=1J10_BXr-hjrCAFVKD6rYjgY2-x4J4nLA&usp=drive_copy"
+    },
+    {
+      "titulo": "Linea 3 Taebaek",
+      "enfoque": "Referencia de timing para línea 3 de Taebaek.",
+      "reps": "2 ejecuciones completas / 1 serie",
+      "tipo": "audio",
+      "url": "https://drive.google.com/open?id=12_cJJxiyocWcsDvaBqYgdiIJsTIXdfmD&usp=drive_copy"
+    },
+    {
+      "titulo": "L3 Taebaek - Correcta ejecución por movimiento",
+      "enfoque": "Corregir línea 3 de Taebaek movimiento por movimiento.",
       "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1bAA_R_Jmy-U_gzfgrSJxkUJ6A4sarNcu&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1ZO57uNvwp0oYS6BpWSIonc54PDorpFiK&usp=drive_copy"
     },
     {
-      "titulo": "Keumgang - An Palmok Momtong Hecho Makki",
-      "enfoque": "Corregir apertura de brazos, dirección, postura y cierre del movimiento dentro de Keumgang.",
-      "reps": "15 a 20 reps / 1 serie",
+      "titulo": "Pyonwong completo - enfoque lado izquierdo",
+      "enfoque": "Trabajar Pyonwong con enfoque en lado izquierdo, cuidando postura, dirección y timing.",
+      "reps": "2 ejecuciones completas / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1qxsvhqlQDfLzTEeHxlbDHwAnijHjAWA1&usp=drive_copy"
+      "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link"
     },
     {
-      "titulo": "Keumgang - giro correcto pies",
-      "enfoque": "Trabajar el giro de pies en Keumgang para que la transición no rompa la postura ni la dirección del cuerpo.",
-      "reps": "15 reps / 1 serie",
+      "titulo": "Pyonwong completo - enfoque lado derecho",
+      "enfoque": "Trabajar Pyonwong con enfoque en lado derecho, cuidando postura, dirección y timing.",
+      "reps": "2 ejecuciones completas / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1PDZu3MA51xQAzl-fSd4A9zXxIn7mxtH7&usp=drive_copy"
-    },
-    {
-      "titulo": "Keumgang - giro brazos",
-      "enfoque": "Corregir la conexión de brazos durante el giro, sin torcer el torso ni perder el eje.",
-      "reps": "15 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1iWCms4SdYP5mseBqXgkdyZp_kD5dSar-&usp=drive_copy"
+      "url": "https://drive.google.com/file/d/11yG6jV6089txqoVUlNdAvo3xjQ-L5xvG/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Excelente trabajo el realizado esta semana. Hicimos algunos ejercicios que nos retaron a hacerlo mejor.",
-    "Esos retos los estaremos haciendo principalmente en clase, mientras nos mantenemos mejorando y practicando con base en el plan.",
-    "En los últimos 4 días antes del torneo, favor de NO hacer ejercicios isométricos ni ejercicios de pateo. En esos días nos enfocamos en poomsae, lectura, postura y limpieza técnica.",
-    "Todos los días vamos a enfocarnos en las poomsaes indicadas. También practique todas de manera general, pero estas líneas son las zonas donde debemos mejorar de manera más puntual.",
-    "No olvide llevar sus puños al pecho y al costado sin torcer el torso. Eso ayuda a mantener equilibrio, postura y lectura visual.",
-    "No haga reverencia al ejecutar Yop Chagui. Ese punto es tan vital como la fuerza o la flexibilidad.",
-    "En la sección de pateo, haga solamente dos ejercicios por día. No necesita hacerlos todos en una sola sesión."
+    "Trabaja con precisión técnica, dándole prioridad a la correcta ejecución antes que a una patada alta.",
+    "Mantén pausas breves cuando sea necesario para conservar buena postura y mejor calidad técnica.",
+    "La prioridad será entrenar con inteligencia, orden y control en cada repetición.",
+    "En Koryo, Taebaek y Pyonwong, cuida cortes, preparación, dirección, postura y timing antes de buscar velocidad.",
+    "Primero calidad, después altura."
   ],
   "notasFinales": [
-    "Excelente trabajo el hecho en esta semana. Seguiremos trabajando con base en lo específico.",
-    "En estos días previos a nuestro evento, es importante mantener el enfoque en los apuntes de poomsae para saber el por qué y el para qué de cada movimiento.",
-    "La prioridad antes del nacional en Irapuato será que cada línea tenga intención, postura, dirección y técnica limpia.",
-    "Ánimo y mucho éxito, campeona."
+    "Excelente trabajo y a seguirle dando en estas próximas dos semanas de ciclo.",
+    "Continuamos entrenando con mucha garra y enfoque.",
+    "Nos mantendremos firmes con los ejercicios que debemos hacer.",
+    "Cualquier duda, por favor coméntame y con gusto lo resolvemos.",
+    "¡Excelente entrenamiento!"
   ]
 }
