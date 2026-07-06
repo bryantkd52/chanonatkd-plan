@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado lun 22 de junio de 2026",
+  "updated_at": "Actualizado lun 6 de julio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
-  "enfoque_corto": "Taeguk 5 desde cero + líneas 1 a 6 + Ap/Yop Chagui",
-  "enfoque": "En este ciclo comenzaremos a trabajar Taeguk 5 desde cero, incluyendo líneas 1, 2, 3, 4, 5 y 6 sin audios. La prioridad será marcar cada preparación, alineación y postura, buscando movimientos correctos, seguros, bien ejecutados y con intención. No queremos hacerlo rápido ni lento; queremos hacerlo marcado, claro y técnicamente fino.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / AVANZADO: LUNES - MIÉRCOLES - VIERNES",
+  "ciclo": "Lunes 6 al sábado 18 de julio de 2026",
+  "enfoque_corto": "Taeguk 8 líneas 1 a 3 + Chanonaflex intermedio",
+  "enfoque": "En este ciclo trabajaremos Taeguk 8 líneas 1, 2 y 3, además de Pre-Chanonaflex, Chanonaflex intermedio, isométricos de glúteo, Yop Chagui y Ap Chagui nivel 2, y pateo técnico con dos ejercicios de Ap Chagui, dos ejercicios de Yop Chagui y un trabajo con banda elástica. La prioridad será precisión técnica, postura, control, preparación correcta y ejecución limpia antes que altura máxima.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
@@ -13,152 +13,128 @@
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
     },
     {
-      "titulo": "Chanonaflex - Avanzado",
+      "titulo": "Chanonaflex - intermedio",
       "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=sharing"
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=sharing"
     }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP CHAGUI NIVEL 2 + AP CHAGUI NIVEL 2",
   "isometrico": [
     {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEX"]
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEX"]
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=sharing",
+      "tags": ["YOP CHAGUI", "NIVEL 2", "CADERA", "CONTROL"]
+    },
+    {
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=sharing",
+      "tags": ["AP CHAGUI", "NIVEL 2", "FUERZA", "CONTROL"]
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / BASE DE AP CHAGUI Y YOP CHAGUI",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP CHAGUI + 2 YOP CHAGUI + 1 CON BANDA ELÁSTICA",
   "pateoTecnico": [
     {
-      "titulo": "Ap Chagui contra pared",
-      "enfoque": "Entender la cámara, extensión y postura correcta de Ap Chagui antes de integrarla a Taeguk 5.",
-      "reps": "15 reps por pierna / 2 series",
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando cámara, pierna de apoyo, postura y regreso técnico.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
+      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
-      "titulo": "Ap Chagui Extension completa",
-      "enfoque": "Mejorar la alineación de espalda, pierna de apoyo y extensión completa de la patada frontal.",
-      "reps": "15 repeticiones por pierna / 2 series",
+      "titulo": "Ap chaguis dos bloques",
+      "enfoque": "Trabajar precisión y control de cámara en Ap Chagui con bloques.",
+      "reps": "8 a 10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing"
-    },
-    {
-      "titulo": "Sentadilla Ap Chagui",
-      "enfoque": "Fortalecer cuádriceps y control de apoyo para que la Ap Chagui tenga estabilidad.",
-      "reps": "10 repeticiones / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing"
+      "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Trabajar cámara de rodilla al pecho y control básico de Yop Chagui.",
-      "reps": "10 reps por pierna / 2 series",
+      "enfoque": "Preparar cámara, ubicar cadera y mantener alineación antes de extender la patada.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Mejorar extensión, regreso y alineación del cuerpo durante Yop Chagui.",
-      "reps": "10 reps por pierna / 2 series",
+      "enfoque": "Controlar extensión, regreso y postura del torso en Yop Chagui sin sacrificar técnica por altura.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    },
+    {
+      "titulo": "Torcion cadera con banda",
+      "enfoque": "Trabajar movilidad y control de cadera con banda elástica para mejorar dirección y estabilidad en pateo.",
+      "reps": "10 a 12 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "LUNES A SÁBADO / TAEGUK 5 LÍNEAS 1, 2, 3, 4, 5 Y 6 / SIN AUDIOS",
+  "poomsaeDias": "LUNES A SÁBADO / TAEGUK 8 LÍNEAS 1, 2 Y 3",
   "poomsae": [
     {
-      "titulo": "Línea 1 Taeguk 5 - transición hacia línea 2",
-      "enfoque": "Agregar y trabajar línea 1 de Taeguk 5, marcando preparación, dirección, postura y entrada correcta hacia la línea 2.",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Taeguk 8 - Línea 1 - Primer movimiento",
+      "enfoque": "Trabajar el primer movimiento de Taeguk 8 con preparación clara, postura firme y dirección correcta.",
+      "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1nS4odRmRR7Da-q3oGTI1UOYhuqKpzCah&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1DWX9g7vzlLsRQGNNi4RxxlA4Cz3_pHiJ&usp=drive_copy"
     },
     {
-      "titulo": "Línea 2 Taeguk 5 - correcto aterrizaje y preparación de golpe revés",
-      "enfoque": "Trabajar aterrizaje, preparación clara y golpe de revés en línea 2, sin perder postura ni intención.",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Taeguk 8 - Línea 1 y 2 - transición a Ap Kubi + golpe medio",
+      "enfoque": "Corregir transición, dirección de pies, postura Ap Kubi y golpe medio con cierre técnico limpio.",
+      "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1sYO2lMMZOuZF7-doTLcXFO7itTmlKVe1&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1eu5s_UIeGcIiWOGUHjUsm7q-dfxMbcwN&usp=drive_copy"
     },
     {
-      "titulo": "Línea 2 Taeguk 5 - talones y transición",
-      "enfoque": "Corregir el uso de los talones, la dirección y la estabilidad en las transiciones de línea 2.",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Taeguk 8 - Línea 2 - golpe lento",
+      "enfoque": "Trabajar golpe de línea 2 con calma, precisión, preparación correcta y final claro.",
+      "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Tg7zQiS4SxKsOMdAdaY17vNdnegdc1WA&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1C2DhJwh3G6jOEITK4_chQV5J4rdYxtde&usp=drive_copy"
     },
     {
-      "titulo": "Línea 2 Taeguk 5 - circuito de aterrizaje y preparación",
-      "enfoque": "Reforzar aterrizaje, preparación de brazos y lectura visual del movimiento en línea 2.",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Taeguk 8 - Línea 2 - Doble Ap Chagui + aterrizaje",
+      "enfoque": "Trabajar doble Ap Chagui, regreso de pierna y aterrizaje con control, equilibrio y postura estable.",
+      "reps": "12 a 15 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1aXojkxi9SDk10XS_OUDvYgIIkAvd5Thk&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1mAlHFT6A4qise0_70UKO8UNcf_oJhjge&usp=drive_copy"
     },
     {
-      "titulo": "Línea 3 Taeguk 5 - Sonnal y codazo + timing",
-      "enfoque": "Aprender línea 3 con sonnal, codazo, corte de movimiento y ejecución marcada.",
-      "reps": "20 reps / 1 serie",
+      "titulo": "Taeguk 8 - Línea 3 - inicio con Twit Kubi",
+      "enfoque": "Trabajar el inicio de la línea 3 con Twit Kubi, cuidando base, peso, dirección y postura.",
+      "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1yFJM2dRU3-OJCETZq5i9iYkz72W2aOnT&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1A70nM_-pgKRvJenFyse3ZnpLPVlxNZEz&usp=drive_copy"
     },
     {
-      "titulo": "Línea 4 Taeguk 5 - Kawi Makki",
-      "enfoque": "Trabajar preparación, trayectoria y ejecución final de Kawi Makki para que la línea 4 se vea clara y marcada.",
-      "reps": "20 reps con enfoque por lado / 1 serie",
+      "titulo": "Taeguk 8 - Línea 3 - transición Twit Kubi a Ap Kubi",
+      "enfoque": "Mejorar transición de Twit Kubi a Ap Kubi, cuidando eje corporal, pies firmes y cambio de peso.",
+      "reps": "15 a 20 reps / 1 serie",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1I4Re5fJg2XESqdKWWlZnHZSiwUc11AcE&usp=drive_copy"
-    },
-    {
-      "titulo": "Línea 4 y 5 Taeguk 5 - transición Ap Kubi a Ap Kubi",
-      "enfoque": "Corregir transición, dirección de pies, transferencia de peso y postura para avanzar con limpieza hacia líneas 4 y 5.",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1GFswX5pFCIA84NIvmi0t1ZfZcEiAc1yv&usp=drive_copy"
-    },
-    {
-      "titulo": "Línea 5 Taeguk 5 - puños al pecho en Ap Chagui",
-      "enfoque": "Mejorar la preparación de brazos al pecho durante Ap Chagui para que el pateo y la parte superior conecten correctamente.",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1rWWin6hmMrzLvvlhQGDFmU6_dWHfoKKk&usp=drive_copy"
-    },
-    {
-      "titulo": "Línea 6 Taeguk 5 - preparación correcta del golpe",
-      "enfoque": "Trabajar la preparación correcta del golpe, evitando adivinar el movimiento y cuidando la ejecución final.",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1YqTL-tIYcgR5kYa2ShQInBnmbeQAU1Jy&usp=drive_copy"
-    },
-    {
-      "titulo": "Línea 6 Taeguk 5 - transición Ap Kubi a Ap Kubi",
-      "enfoque": "Reforzar el cierre de la línea 6 con bases firmes, dirección clara y postura estable.",
-      "reps": "20 reps / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1aXojkxi9SDk10XS_OUDvYgIIkAvd5Thk&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1xxdEMXYZWYiNLG15IzzqNNaYQR65YXsa&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "Comenzaremos a trabajar nuestro Taeguk 5 marcando cada preparación, alineación y postura desde cero.",
-    "Buscaremos con seguridad que los movimientos sean correctos, pero sobre todo que no sean rápidos ni lentos, sino marcados y bien ejecutados.",
-    "Pon mucha atención a cada movimiento, cada preparación y cada ejecución final. La preparación es la que hace que el juez entienda que sabes hacia dónde va la técnica.",
-    "En Taeguk 5, no intentes memorizar todo de golpe. Primero entiende la línea 1, luego la línea 2, después línea 3 y así avanzamos hasta la línea 6.",
-    "Cuida que tus posturas se vean firmes. No queremos movimientos bonitos pero flojos; queremos movimientos limpios, marcados y con intención real.",
-    "La línea número 1 sí queda agregada en este ciclo. Trabájala con calma, porque será la base de toda la poomsae."
+    "Trabaja con precisión técnica, dándole prioridad a la correcta ejecución antes que a una patada alta.",
+    "Para poder patear alto, primero necesitamos tener buena técnica.",
+    "Cuando sientas cansancio, no temas descansar. Escucha tu cuerpo y reconoce cuándo necesita un pequeño reposo.",
+    "Si algún ejercicio sientes que no lo soportas, toma un pequeño espacio de recuperación y después continúa con mejor calidad técnica.",
+    "En Taeguk 8 cuida preparación clara, dirección de pies, postura, timing y final limpio de cada movimiento."
   ],
   "notasFinales": [
-    "Hay que darle con todo. Esta poomsae es una de las exigentes a nivel Taeguk, pero no es imposible.",
-    "Tenemos una buena base con Taeguk 8, así que ahora vamos a darle ese toque fino a nuestros movimientos en Taeguk 5.",
-    "La línea número 1 debe estar agregada a este ciclo y ya queda incluida dentro del bloque de poomsae.",
-    "No te preocupes si al inicio se siente rara o complicada. Eso es normal cuando estamos aprendiendo una poomsae nueva desde cero. Lo importante es avanzar con calma, precisión y mucha intención.",
-    "Vamos a lograrlo, campeona. Cualquier duda, por favor coméntame.",
-    "¡Feliz entrenamiento y a darle con todo!"
+    "Excelente trabajo y a seguirle dando en estas próximas dos semanas de ciclo.",
+    "Continuamos entrenando con mucha garra y enfoque.",
+    "No nos rendimos y nos mantenemos firmes con los ejercicios que debemos hacer.",
+    "Cualquier duda, por favor coméntame y con gusto lo resolvemos.",
+    "¡Excelente entrenamiento!"
   ]
 }
