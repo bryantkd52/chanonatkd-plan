@@ -1,17 +1,16 @@
 {
-  "updated_at": "Actualizado lun 22 de junio de 2026",
+  "updated_at": "Actualizado lun 6 de julio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
+  "ciclo": "Lunes 6 al sábado 18 de julio de 2026",
   "enfoque_corto": "Flexibilidad adaptiva + isométrico de glúteo",
-  "enfoque": "En este ciclo continuaremos trabajando con la clase grabada de flexibilidad adaptiva que ya está lista, sin quitar ni agregar videos en ChanonaFlex. Además, trabajaremos el isométrico de glúteo como complemento para fortalecer cadera, estabilidad y control corporal. La prioridad será avanzar con calma, respetando el cuerpo, sin sobre exigirse y usando este plan como guía para los ejercicios adicionales que debemos hacer aparte de la clase grabada.",
+  "enfoque": "En este ciclo continuaremos trabajando con la clase grabada de flexibilidad adaptiva que ya está lista, dejando ChanonaFlex como está actualmente. Además, se mantiene solamente el isométrico de glúteo como complemento para fortalecer cadera, estabilidad y control corporal. El trabajo principal será avanzar suavemente, respetando el cuerpo y permitiendo una adaptación progresiva.",
   "chanonaflexDias": "FLEXIBILIDAD ADAPTIVA: LUNES A SÁBADO / 1 SERIE",
   "chanonaflex": [
     {
       "titulo": "Flexibilidad Adaptiva - Benyoced",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1OuVq4E61Dxm3kUVB-5JTHuzQSTJxKi4P/view?usp=sharing",
-      "nota": "Trabajar a su ritmo, sin sobre exigirse. El estímulo debe sentirse útil, positivo y controlado; no debe sentirse como dolor fuerte o lesión."
+      "url": "https://drive.google.com/file/d/1OuVq4E61Dxm3kUVB-5JTHuzQSTJxKi4P/view?usp=sharing"
     }
   ],
   "isometricoDias": "MARTES - JUEVES - SÁBADO / GLÚTEO",
@@ -20,24 +19,25 @@
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
-      "nota": "Trabajar con control y sin forzar. Este ejercicio es complemento de la clase grabada para fortalecer cadera y estabilidad."
+      "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
     }
   ],
-  "pateoDias": "NO ASIGNADO A ESTE ALUMNO",
+  "pateoDias": "SIN BLOQUE EN ESTE CICLO",
   "pateoTecnico": [],
-  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
+  "poomsaeDias": "SIN BLOQUE EN ESTE CICLO",
   "poomsae": [],
   "apuntes": [
-    "Estaremos trabajando en base a nuestra clase que ya está grabada.",
-    "La clase ya está lista para que la hagamos únicamente en base a ella, respetando el ritmo del cuerpo.",
-    "En este plan también encontrará los ejercicios que debemos hacer aparte de nuestra clase grabada.",
-    "No se sobre exija. El trabajo debe sentirse útil, positivo y controlado, no como dolor fuerte o lesión.",
-    "Si algún ejercicio no puede hacerlo o siente que lastima, por favor coménteme para ajustarlo."
+    "Trabaja suavemente. Continuaremos con los ejercicios que hemos venido trabajando para que el cuerpo se adapte poco a poco.",
+    "En las clases iremos aumentando el trabajo de forma progresiva, siempre cuidando que el estímulo sea positivo y controlado.",
+    "Cuando sientas cansancio, descansa. Escucha tu cuerpo y reconoce cuándo necesita un pequeño reposo.",
+    "Si algún ejercicio se siente demasiado fuerte, toma un pequeño espacio de recuperación y después continúa con mejor calidad.",
+    "En este ciclo la prioridad será flexibilidad, adaptación corporal y trabajo de glúteo."
   ],
   "notasFinales": [
-    "A seguirle dando con todo. Vamos avanzando como se debe.",
-    "Cualquier duda, por favor coméntame.",
-    "Nos vemos en clase."
+    "Excelente trabajo y a seguirle dando en estas próximas dos semanas de ciclo.",
+    "Continuamos entrenando con mucha garra y enfoque.",
+    "Nos mantenemos firmes con los ejercicios que debemos hacer.",
+    "Cualquier duda, por favor coméntame y con gusto lo resolvemos.",
+    "¡Excelente entrenamiento!"
   ]
 }
