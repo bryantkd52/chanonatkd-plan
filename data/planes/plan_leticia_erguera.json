@@ -1,161 +1,140 @@
 {
-  "updated_at": "Actualizado lun 22 de junio de 2026",
+  "updated_at": "Actualizado lun 6 de julio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
-  "enfoque_corto": "Flexibilidad intermedia + isométrico nivel 1 + Taeguk 4 líneas 1 a 3",
-  "enfoque": "En este ciclo trabajaremos flexibilidad, isométrico activo nivel 1, pateo técnico de Ap Chagui y Yop Chagui con silla, y Taeguk 4 líneas 1, 2 y 3. La prioridad será tomar los puntos vistos en clase como base principal: muñecas alineadas con el antebrazo, Yop Chagui sin reverencia, transiciones con encapsulación usando la bola del pie y movimientos fluidos con técnica correcta. Este plan es un resumen rápido de lo trabajado en clase para seguir puliendo lo más importante.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
+  "ciclo": "Lunes 6 al sábado 18 de julio de 2026",
+  "enfoque_corto": "Taeguk 4 líneas 1 a 3 + Chanonaflex nivel 1",
+  "enfoque": "En este ciclo trabajaremos Taeguk 4 líneas 1, 2 y 3, además de Pre-Chanonaflex, Chanonaflex nivel 1, isométricos de glúteo, Yop Chagui y Ap Chagui nivel 2, y pateo técnico con dos ejercicios de Ap Chagui, dos ejercicios de Yop Chagui y un trabajo con banda elástica. La prioridad será precisión técnica, postura, control, preparación correcta y ejecución limpia antes que altura máxima.",
+  "chanonaflexDias": "PRE: LUNES A SÁBADO / NIVEL 1: MARTES - JUEVES - SÁBADO",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
-      "nota": "Realícelo con respiración, control y observación técnica. No busque solo abrir más, busque entender qué músculo limita y cómo responde su cadera."
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
     },
     {
-      "titulo": "Chanonaflex - intermedio",
-      "dia": "LUNES - MIÉRCOLES - VIERNES",
+      "titulo": "Circuito Chanonaflex - Básico",
+      "dia": "MARTES - JUEVES - SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link",
-      "nota": "Use este bloque como laboratorio técnico de flexibilidad. Trabaje a su ritmo, sin sobrecargar, y observe cómo cada posición puede transferirse al pateo y al poomsae."
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=sharing"
     }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1 / CONTROL, CADERA Y ALINEACIÓN",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP CHAGUI NIVEL 2 + AP CHAGUI NIVEL 2",
   "isometrico": [
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["AP CHAGUI, FUERZA, CONTROL, FLEXIBILIDAD"],
-      "nota": "Observe la pierna de apoyo, la alineación del torso y el control del abdomen. Este ejercicio ayuda a entender cómo sostener técnica sin depender solo de impulso."
-    },
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, CONTROL, FLEXIBILIDAD"],
-      "nota": "Priorice cámara, cadera alineada y trayectoria. No hacer reverencia; mantener torso y cintura alineados."
-    },
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
-      "nota": "Fortalecer glúteo y cadera para mejorar estabilidad en Yop Chagui, transiciones y posiciones de Taeguk 4."
+      "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=sharing",
+      "tags": ["YOP CHAGUI", "NIVEL 2", "CADERA", "CONTROL"]
+    },
+    {
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=sharing",
+      "tags": ["AP CHAGUI", "NIVEL 2", "FUERZA", "CONTROL"]
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI Y YOP CHAGUI CON SILLA / 2 EJERCICIOS DE CADA UNO",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP CHAGUI + 2 YOP CHAGUI + 1 CON BANDA ELÁSTICA",
   "pateoTecnico": [
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
-      "grupo": "Ap Chagui con silla",
-      "enfoque": "Analizar Ap Chagui con apoyo de silla, cuidando equilibrio, línea de rodilla, cadera y regreso de la pierna.",
-      "reps": "10 reps por pierna / 2 series",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando cámara, pierna de apoyo, postura y regreso técnico.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
-      "titulo": "Ap Chagui 3 niveles",
-      "grupo": "Ap Chagui",
-      "enfoque": "Trabajar cámara, extensión y regreso de Ap Chagui, cuidando que el movimiento salga limpio y progresivo.",
-      "reps": "8 a 10 reps por nivel / 1 a 2 series",
+      "titulo": "Ap chaguis dos bloques",
+      "enfoque": "Trabajar precisión y control de cámara en Ap Chagui con bloques.",
+      "reps": "8 a 10 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "grupo": "Yop Chagui con silla / base técnica",
-      "enfoque": "Marcar cámara de rodilla al pecho para que la Yop Chagui tenga trayectoria correcta y no se convierta en patada circular.",
-      "reps": "10 reps por pierna / 2 series",
+      "enfoque": "Preparar cámara, ubicar cadera y mantener alineación antes de extender la patada.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
-      "titulo": "Ap + Yop + Turn hips silla",
-      "grupo": "Yop Chagui con silla",
-      "enfoque": "Usar la silla para analizar transición de Ap Chagui a Yop Chagui, giro de cadera, eje corporal y equilibrio sin hacer reverencia.",
-      "reps": "8 reps por lado / 2 series",
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Controlar extensión, regreso y postura del torso en Yop Chagui sin sacrificar técnica por altura.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    },
+    {
+      "titulo": "Torcion cadera con banda",
+      "enfoque": "Trabajar movilidad y control de cadera con banda elástica para mejorar dirección y estabilidad en pateo.",
+      "reps": "10 a 12 reps por lado / 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy"
     }
   ],
   "poomsaeDias": "LUNES A SÁBADO / TAEGUK 4 LÍNEAS 1, 2 Y 3",
   "poomsae": [
     {
-      "titulo": "Timing - Línea 1 de Taeguk 4",
-      "enfoque": "Usar el audio para comprender ritmo, pausa, lectura visual y seguridad de la línea 1.",
-      "reps": "2 ejecuciones completas con audio",
+      "titulo": "Linea 1 de Taeguk 4",
+      "enfoque": "Trabajar timing de línea 1 cuidando preparación, postura, dirección y final claro de cada movimiento.",
+      "reps": "2 ejecuciones con audio / 1 ejecución lenta sin audio",
       "tipo": "audio",
       "url": "https://drive.google.com/file/d/1bsYb3xTwREsd2YgQhfgNaKlBigu8eayr/view?usp=drive_link"
     },
     {
       "titulo": "Transicion manos y pies L1 T4",
-      "enfoque": "Coordinar manos y pies en la línea 1 de Taeguk 4, observando dirección, eje y control de postura.",
-      "reps": "10 reps lentas / 1 serie",
+      "enfoque": "Coordinar manos y pies en línea 1, evitando movimientos sueltos o preparación incompleta.",
+      "reps": "10 reps conscientes / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1NglZlc_b57Vsi9geRsDXEeSg97bJGQJB&usp=drive_copy"
     },
     {
-      "titulo": "Sonnal Montong Bakkat Makki direccion",
-      "enfoque": "Estudiar preparación, dirección, trayectoria y punto final de Sonnal Montong Bakkat Makki, cuidando muñecas alineadas.",
-      "reps": "10 reps lentas / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Tzv_rE4C3qdhgv76VPXDgONH8q5OXOfd&usp=drive_copy"
-    },
-    {
       "titulo": "Linea 2 de Taeguk 4",
-      "enfoque": "Analizar línea 2 con calma, entendiendo ritmo, dirección y transición. No correr.",
-      "reps": "2 ejecuciones completas / 1 serie lenta",
+      "enfoque": "Trabajar timing de línea 2 cuidando Yop Chagui, aterrizaje y Twit Kubi.",
+      "reps": "2 ejecuciones con audio / 1 ejecución lenta sin audio",
       "tipo": "audio",
       "url": "https://drive.google.com/open?id=1UCEynIyojh6rMVSsyJuIJmJft72g89WB&usp=drive_copy"
     },
     {
       "titulo": "Aterrizaje Yop a Twit Kubi - L2 T4",
-      "enfoque": "Practicar aterrizaje de Yop Chagui a Twit Kubi, cuidando torso, cintura y transición sin reverencia.",
-      "reps": "10 reps lentas / 1 serie",
+      "enfoque": "Practicar aterrizaje de Yop Chagui a Twit Kubi con equilibrio, control y postura correcta.",
+      "reps": "8 a 10 reps lentas / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1mAiAOeD6IW8-i2SvuMbncLdXdzmplpZM&usp=drive_copy"
     },
     {
-      "titulo": "Ap + Regreso Twit Kubi T4",
-      "enfoque": "Trabajar Ap Chagui, regreso y colocación de Twit Kubi, manteniendo movimiento lento y técnica correcta.",
-      "reps": "10 reps lentas / 1 serie",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1et6KYqyWP6ZY-XMVXSqNIRGNh03gTEF2&usp=drive_copy"
-    },
-    {
       "titulo": "Linea 3 de Taeguk 4",
-      "enfoque": "Usar el timing de la línea 3 para comprender ritmo, pausa, dirección y continuidad técnica dentro de Taeguk 4.",
-      "reps": "2 ejecuciones completas con audio / 1 serie lenta",
+      "enfoque": "Trabajar timing de línea 3 con transiciones claras, postura estable y respiración controlada.",
+      "reps": "2 ejecuciones con audio / 1 ejecución lenta sin audio",
       "tipo": "audio",
       "url": "https://drive.google.com/open?id=1wj_ri9Jloap-xOSWoxi7k-mxSa3X5RqH&usp=drive_copy"
     },
     {
       "titulo": "Transicion L2 a 3 T4 - pies",
-      "enfoque": "Analizar la transición de línea 2 a línea 3 de Taeguk 4, girando con la bola del pie y encapsulando con piernas casi juntas.",
-      "reps": "10 reps lentas / 1 serie",
+      "enfoque": "Mejorar el cambio de dirección con pies firmes, talón controlado y eje corporal estable.",
+      "reps": "8 a 10 reps lentas / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1-Jlts5WH0nNHnSfaUom-9EOsJltoVjD2&usp=drive_copy"
     }
   ],
   "apuntes": [
-    "Comenzamos de una manera importante y enfocada en ejercicios específicos para mejorar flexibilidad, fuerza y limpieza de la movilidad de cadera.",
-    "Este es un buen inicio para trabajar zonas que nos importan y entender desde profundidad los músculos, alineaciones y trayectoria correcta de los movimientos.",
-    "En la sección de pateo, tome solamente 1 ejercicio de Ap Chagui y 1 ejercicio de Yop Chagui por día si siente que el volumen es alto. La calidad técnica es prioridad.",
-    "Los ejercicios de isométricos y Chanonaflex sí son importantes en los días marcados, pero no necesariamente debe sobrecargarse. Vaya a su ritmo y mantenga calidad técnica.",
-    "Si siente que algún ejercicio o tiempo está más prolongado de lo que suele soportar, termine hasta donde sienta que es positivo para usted, sin dejar de exigirse de manera adecuada.",
-    "Como profesora, observe cada ejercicio también con ojos de enseñanza: qué se corrige, qué error aparece, cómo explicarlo y cómo adaptarlo a sus alumnos.",
-    "No flexionar las muñecas en las defensas. Deben mantenerse en línea con el antebrazo.",
-    "En Yop Chagui, el torso y la cintura deben mantenerse en alineación. No hacer reverencia, porque esto nos está pasando seguido.",
-    "En las transiciones, busque hacer la encapsulación girando con la bola del pie.",
-    "Al encapsular, las piernas deben ir casi juntas para que la transición se vea limpia, compacta y con mejor dirección.",
-    "Buscamos que nuestros movimientos sean fluidos, pero también con la técnica correcta que hemos visto en clase y en el plan de entrenamiento.",
-    "Muy importante: trabajar en base a los puntos vistos en clase. Esto es solamente un resumen rápido de los puntos más importantes."
+    "Trabaja con precisión técnica, dándole prioridad a la correcta ejecución antes que a una patada alta.",
+    "Para poder patear alto, primero necesitamos tener buena técnica.",
+    "Cuando sientas cansancio, no temas descansar. Escucha tu cuerpo y reconoce cuándo necesita un pequeño reposo.",
+    "Si algún ejercicio sientes que no lo soportas, toma un pequeño espacio de recuperación y después continúa con mejor calidad técnica.",
+    "En Taeguk 4 cuida preparación clara, dirección, postura, timing y final limpio de cada movimiento."
   ],
   "notasFinales": [
-    "A seguirle dando con todo. Vamos avanzando poco a poco.",
-    "Cualquier duda, por favor coménteme.",
-    "Nos vemos en clase."
+    "Excelente trabajo y a seguirle dando en estas próximas dos semanas de ciclo.",
+    "Continuamos entrenando con mucha garra y enfoque.",
+    "No nos rendimos y nos mantenemos firmes con los ejercicios que debemos hacer.",
+    "Cualquier duda, por favor coméntame y con gusto lo resolvemos.",
+    "¡Excelente entrenamiento!"
   ]
 }
