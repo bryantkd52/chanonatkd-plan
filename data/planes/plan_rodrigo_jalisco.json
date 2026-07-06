@@ -1,98 +1,96 @@
 {
-  "updated_at": "Actualizado lun 22 de junio de 2026",
+  "updated_at": "Actualizado lun 6 de julio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 22 de junio al sábado 4 de julio de 2026",
-  "enfoque_corto": "Flexibilidad intermedia + isométrico nivel 1 + Ap/Yop Chagui",
-  "enfoque": "En este ciclo trabajaremos flexibilidad, isométrico activo nivel 1 y pateo técnico de Ap Chagui y Yop Chagui con silla. La prioridad será mejorar control, postura, respiración, cadera y fuerza sin sobrecargar rodillas. Debemos estar muy atentos a que en torsiones, extensiones o trabajos más avanzados las rodillas no se sientan con dolor. Primero técnica segura, después rango y al final intensidad.",
+  "ciclo": "Lunes 6 al sábado 18 de julio de 2026",
+  "enfoque_corto": "Flexibilidad intermedia + isométricos + técnica de Ap/Yop Chagui",
+  "enfoque": "En este ciclo trabajaremos flexibilidad con Pre-ChanonaFlex e intermedio, fuerza isométrica específica de glúteo, Yop Chagui y Ap Chagui, además de técnica de pateo con dos ejercicios de Ap Chagui, dos ejercicios de Yop Chagui y un combo de pateo. La prioridad será mejorar a nivel técnico, buscando ejecución correcta antes que altura máxima. Poomsae no estará asignado en este ciclo.",
   "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=drive_link",
-      "nota": "Usar como preparación general antes de flexibilidad, isométricos o pateo. Mantener respiración y control."
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
     },
     {
       "titulo": "Chanonaflex - intermedio",
       "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=drive_link",
-      "nota": "Mantener postura correcta en flexibilidad. No forzar torsiones o extensiones si aparece dolor en rodillas."
+      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=sharing"
     }
   ],
-  "isometricoDias": "MARTES - JUEVES - SÁBADO / NIVEL 1",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO, YOP CHAGUI Y AP CHAGUI",
   "isometrico": [
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=drive_link",
-      "tags": ["AP CHAGUI, FUERZA, FLEXIBILIDAD, CONTROL"],
-      "nota": "Mantener postura correcta. Si la rodilla se siente cargada o con dolor, bajar intensidad de inmediato."
-    },
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=drive_link",
-      "tags": ["YOP CHAGUI, CADERA, FLEXIBILIDAD, CONTROL"],
-      "nota": "Cuidar cadera, postura y rodillas. Trabajar con control, no con fuerza bruta."
-    },
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "tags": ["GLÚTEO, GANCHO, FUERZA, CADERA"],
-      "nota": "Fortalecer glúteo y cadera para proteger mejor rodillas y mejorar estabilidad en los pateos."
+      "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
+      "tags": ["YOP CHAGUI", "CADERA", "CONTROL", "FUERZA"]
+    },
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
+      "tags": ["AP CHAGUI", "FUERZA", "CONTROL", "TÉCNICA"]
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI Y YOP CHAGUI CON SILLA",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP CHAGUI + 2 YOP CHAGUI + 1 COMBO DE PATEO",
   "pateoTecnico": [
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
-      "grupo": "Ap Chagui con silla",
-      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando postura, cadera, pierna de apoyo y rodillas sin sobrecarga.",
-      "reps": "8 a 10 reps por pierna / 2 series",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando equilibrio, postura, cámara y control de pierna de apoyo.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
       "titulo": "Ap Chagui 3 niveles",
-      "grupo": "Ap Chagui",
-      "enfoque": "Trabajar cámara, extensión y regreso de Ap Chagui con progresión, sin forzar rodillas ni cadera.",
-      "reps": "6 a 8 reps por nivel / 1 a 2 series",
+      "enfoque": "Trabajar cámara, extensión y regreso de Ap Chagui en niveles, priorizando técnica antes que altura.",
+      "reps": "8 a 10 reps por nivel / 1 a 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "grupo": "Yop Chagui con silla / base técnica",
-      "enfoque": "Preparar cámara de rodilla al pecho, mantener cadera alineada y cuidar que la rodilla no se cargue.",
-      "reps": "8 a 10 reps por pierna / 2 series",
+      "enfoque": "Preparar la cámara de rodilla al pecho y ubicar la cadera antes de ejecutar la patada de lado.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
-      "titulo": "Ap + Yop + Turn hips silla",
-      "grupo": "Yop Chagui con silla / cadera",
-      "enfoque": "Trabajar giro de cadera, eje corporal y transición Ap/Yop con control, sin forzar torsiones de rodilla.",
-      "reps": "6 a 8 reps por lado / 2 series",
+      "titulo": "Ejercicio 2 - Yop Chagui",
+      "enfoque": "Controlar extensión, regreso de pierna y postura del torso en Yop Chagui sin sacrificar técnica por altura.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy"
+      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
+    },
+    {
+      "titulo": "Pucho + Ap +Circular + Giro con gancho - Combo",
+      "enfoque": "Trabajar coordinación de pucho, Ap Chagui, circular y giro con gancho, manteniendo control, postura y recuperación entre esfuerzos.",
+      "reps": "8 a 10 reps por lado / 1 a 2 series",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1AdruJLFqskoAMnqwdtMCx7FTmzS9AtEL&usp=drive_copy"
     }
   ],
   "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
   "poomsae": [],
   "apuntes": [
-    "Cuide sus rodillas. No sobrecargue con los ejercicios.",
-    "Debemos estar atentos a que en las torsiones y extensiones más avanzadas nuestras rodillas no se sientan con dolor.",
-    "Busque mantener la postura correcta en nuestra flexibilidad y también en nuestros isométricos.",
-    "No sobrecargue por querer extender más o por querer sostener más tiempo la pierna en los isométricos.",
-    "Este trabajo debe ser progresivo: debe sentir que estimula el cuerpo, pero que no lo sobre exige.",
-    "La respiración debe ayudarle a sostener mejor. Si deja de respirar o empieza a tensarse demasiado, baje un poco la intensidad y vuelva a controlar."
+    "Trabaja con precisión técnica, dándole prioridad a la correcta ejecución antes que a una patada alta. Para poder patear alto, primero necesitamos tener buena técnica.",
+    "Cuando sientas cansancio, toma un descanso breve. Escucha tu cuerpo y reconoce cuándo es buen momento para recuperar aire y continuar.",
+    "Si algún ejercicio se siente demasiado exigente, haz una pausa corta, recupera postura y después continúa con mejor calidad técnica.",
+    "Buscamos entrenar con inteligencia, buena postura y control en cada repetición.",
+    "La altura llegará mejor cuando la técnica, la fuerza y la flexibilidad estén trabajando juntas. Primero calidad, después altura."
   ],
   "notasFinales": [
-    "A seguirle dando con todo. Vamos avanzando como se debe.",
-    "Cualquier duda, por favor coménteme.",
-    "Nos vemos en clase."
+    "Excelente trabajo de estas dos semanas de ciclo. Continuamos entrenando con mucha garra y enfoque.",
+    "Nos mantendremos firmes con los ejercicios que debemos hacer.",
+    "Cualquier duda, por favor coméntame y con gusto lo resolvemos.",
+    "¡Excelente entrenamiento!"
   ]
 }
