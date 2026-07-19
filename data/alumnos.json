@@ -3,7 +3,8 @@
     "nombre": "Rafa Hernandez",
     "plan": "plan_rafa.json",
     "plan_activo": "Avanzado de campeones",
-    "suscripcion_activa": "Junio",
+    "suscripcion_activa": "Próxima renovación día 1 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/fsg-gfog-rsx",
     "objetivo_proximo": "Eventos proximos"
   },
   "mtro_edison_guallichico": {
@@ -38,21 +39,24 @@
     "nombre": "Sr. Jeremías",
     "plan": "plan_sr_jeremias.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Proxima renovación 30 de abril",
+    "suscripcion_activa": "Próxima renovación día 1 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/eno-psqx-roq",
     "objetivo_proximo": "Aprender bases de pateo y mejorar flexibilidad"
   },
   "evan_mael": {
     "nombre": "Evan Mael",
     "plan": "plan_evan_mael.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Proxima renovación 7 de abril",
+    "suscripcion_activa": "Próxima renovación día 23 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/guu-ajhz-frr",
     "objetivo_proximo": "Forjar bases en flexibilidad, pateo y fuerza para lograr la cinta negra"
   },
   "alma_patricia": {
     "nombre": "Alma Patricia",
     "plan": "plan_alma_patricia.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Proxima renovación 13 de abril",
+    "suscripcion_activa": "Próxima renovación día 13 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/zqc-bbfj-qna",
     "objetivo_proximo": "Forjar las bases de la flexibilidad y el pateo"
   },
   "grupo_miguel_teresa": {
@@ -66,7 +70,8 @@
     "nombre": "Patricio Leigh",
     "plan": "plan_patricio_leigh.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Proxima renovación 21 de abril",
+    "suscripcion_activa": "Próxima renovación día 13 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/urr-joom-mdp",
     "objetivo_proximo": "Aprender bases de poomsae, flexibilidad y pateo"
   },
   "yaini_orozco": {
@@ -80,7 +85,8 @@
     "nombre": "Ruben Guerrero",
     "plan": "plan_ruben_guerrero.json",
     "plan_activo": "Forjando bases 2",
-    "suscripcion_activa": "Proxima renovación 6 de marzo",
+    "suscripcion_activa": "Próxima renovación día 1 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/rot-cwrg-tdu",
     "objetivo_proximo": "Desarrollar bases de poomsae, flexibilidad y pateo"
   },
   "fabian_burgoa": {
@@ -94,14 +100,16 @@
     "nombre": "Daniele Biasetti",
     "plan": "plan_daniele_biasetti.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Proxima renovación 31 de marzo",
+    "suscripcion_activa": "Próxima renovación día 12 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/vci-beot-uyd",
     "objetivo_proximo": "Desarrollar bases de flexibilidad y pateo"
   },
   "diana_rodriguez": {
     "nombre": "Diana Rodriguez",
     "plan": "plan_diana_rodriguez.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Proxima renovación 6 de abril",
+    "suscripcion_activa": "Próxima renovación día 6 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/hpt-mpck-qxd",
     "objetivo_proximo": "Forjar bases de poomsae para el examen de cinta negra 2026"
   },
   "david_miranda": {
@@ -122,7 +130,8 @@
     "nombre": "Rodrigo Gonzalez",
     "plan": "plan_rodrigo_gonzalez.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Proxima renovación 11 de abril",
+    "suscripcion_activa": "Próxima renovación día 11 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/rbb-nqqn-awp",
     "objetivo_proximo": "Desarrollar bases de poomsae y pateo para el poomsae de élite"
   },
   "emma_natalia": {
@@ -136,21 +145,24 @@
     "nombre": "Mtro Mariano y Agustina",
     "plan": "plan_mtro_mariano_agustina.json",
     "plan_activo": "Forjando Bases 1",
-    "suscripcion_activa": "Marzo",
+    "suscripcion_activa": "Próxima renovación día 1 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/spb-kkxv-wce",
     "objetivo_proximo": "Desarrollo de la flexibilidad, fuerza isométrica en pateo y técnica"
   },
   "karen_sanchez": {
     "nombre": "Karen Sanchez",
     "plan": "plan_karen_sanchez.json",
     "plan_activo": "Forjando bases 2",
-    "suscripcion_activa": "Abril",
+    "suscripcion_activa": "Próxima renovación día 15 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/ftv-zfnr-cnn",
     "objetivo_proximo": "Desarrollar bases de poomsae de élite"
   },
   "victor_salmeron": {
     "nombre": "Victor Salmerón",
     "plan": "plan_victor_salmeron.json",
     "plan_activo": "Avanzado de campeones",
-    "suscripcion_activa": "Marzo",
+    "suscripcion_activa": "Próxima renovación día 1 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/ths-hdrw-tem",
     "objetivo_proximo": "Desarrollar bases de flexibilidad, poomsae y pateo"
   },
   "sydney_patricia": {
@@ -192,7 +204,8 @@
     "nombre": "Omar Azi",
     "plan": "plan_omar_azi.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Marzo",
+    "suscripcion_activa": "Próxima renovación día 14 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/dvz-vthe-wmo",
     "objetivo_proximo": "Gimnasiada nacional"
   },
   "scarlet_arianna": {
@@ -206,7 +219,8 @@
     "nombre": "ChanonaTKD System",
     "plan": "plan_chanonatkd_system.json",
     "plan_activo": "ChanonaTKD - Dragones",
-    "suscripcion_activa": "Julio",
+    "suscripcion_activa": "Próxima renovación día 1 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/hpt-mpck-qxd",
     "objetivo_proximo": "Mejorar pateo y flexibilidad desde 0"
   },
   "karen_rodriguez": {
@@ -227,91 +241,104 @@
     "nombre": "Maria Ponce",
     "plan": "plan_maria_ponce.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Abril",
+    "suscripcion_activa": "Próxima renovación día 7 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/yby-fcpd-vsa",
     "objetivo_proximo": "Mejorar poomsae a nivel competitivo"
   },
   "luis_holanda": {
     "nombre": "Luis Holanda",
     "plan": "plan_luis_holanda.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Mayo",
+    "suscripcion_activa": "Próxima renovación día 4 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/zmd-gqrb-vwn",
     "objetivo_proximo": "Forjar bases rumbo a poomsae de excelencia"
   },
   "zayre_zuleyka": {
     "nombre": "Zayre y Zuleyka",
     "plan": "plan_zayre_zuleyka.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Mayo",
+    "suscripcion_activa": "Próxima renovación día 9 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/bbe-vqjf-mfo",
     "objetivo_proximo": "Inicialización Freestyle"
   },
   "martin_morales": {
     "nombre": "Martin Morales",
     "plan": "plan_martin_morales.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Mayo",
+    "suscripcion_activa": "Próxima renovación día 26 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/vyk-ncyf-qqx",
     "objetivo_proximo": "Flexibilidad + movilidad activa + fuerza de cadera"
   },
   "johncell_genesis": {
     "nombre": "Johncell Genesis",
     "plan": "plan_johncell_genesis.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Junio",
+    "suscripcion_activa": "Próxima renovación día 1 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/yij-xivh-fkw",
     "objetivo_proximo": "Mejorar técnicamente Koryo línea 1"
   },
   "mario_lopez": {
     "nombre": "Mario Lopez",
     "plan": "plan_mario_lopez.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Junio",
+    "suscripcion_activa": "Próxima renovación día 2 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/cvv-nmsu-ont",
     "objetivo_proximo": "Flexibilidad nivel 1 e isométricos de Ap Chagui y Yop Chagui"
   },
   "rodrigo_jalisco": {
     "nombre": "Rodrigo Jalisco",
     "plan": "plan_rodrigo_jalisco.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Junio",
+    "suscripcion_activa": "Próxima renovación día 5 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/txw-umxj-yim",
     "objetivo_proximo": "Flexibilidad nivel 1 e isométricos de Ap Chagui y Yop Chagui"
   },
   "benyoced_calzadilla": {
     "nombre": "Benyoced Calzadilla",
     "plan": "plan_benyoced_calzadilla.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Junio",
+    "suscripcion_activa": "Próxima renovación día 8 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/qte-crmh-pzg",
     "objetivo_proximo": "Flexibilidad principiante e isométrico activo de Yop Chagui nivel 1"
   },
   "anna_georgia": {
     "nombre": "Anna - Georgia",
     "plan": "plan_anna_georgia.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Junio",
+    "suscripcion_activa": "Próxima renovación día 12 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/qyz-pcbo-och",
     "objetivo_proximo": "Yop Chagui technical path and Koryo line 3"
   },
   "emilio_cdmx": {
     "nombre": "Emilio - CDMX",
     "plan": "plan_emilio_cdmx.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Junio",
+    "suscripcion_activa": "Próxima renovación día 13 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/evp-gnqt-ram",
     "objetivo_proximo": "Plan adaptado de Ap/Yop Chagui y Taeguk 4 línea 1"
   },
   "leonardo_gonzalez": {
     "nombre": "Leonardo Gonzalez",
     "plan": "plan_leonardo_gonzalez.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Junio",
+    "suscripcion_activa": "Próxima renovación día 11 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/rbb-nqqn-awp",
     "objetivo_proximo": "Movilidad de cadera, Ap/Yop Chagui y Koryo línea 3"
   },
   "leticia_erguera": {
     "nombre": "Leticia Erguera",
     "plan": "plan_leticia_erguera.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Junio",
+    "suscripcion_activa": "Próxima renovación día 10 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/gkn-whck-hhc",
     "objetivo_proximo": "Análisis técnico profesional de Ap/Yop Chagui y Taeguk 4 línea 1"
   },
   "evan_palomino": {
     "nombre": "Evan Palomino",
     "plan": "plan_evan_palomino.json",
     "plan_activo": "Dragones",
-    "suscripcion_activa": "Julio",
+    "suscripcion_activa": "Próxima renovación día 29 de cada mes",
+    "link_entrenamiento": "https://meet.google.com/hkr-jjth-gmr",
     "objetivo_proximo": "Mejorar a nivel poomsae"
   }
 }
