@@ -3,104 +3,32 @@
   "nivel": "Nivel Dragones",
   "ciclo": "Lunes 20 de julio al sábado 1 de agosto de 2026",
   "enfoque_corto": "Chanonaflex nivel 1 + isométricos nivel 1 + Ap/Yop Chagui con banda",
-  "enfoque": "En este ciclo trabajaremos Chanonaflex nivel 1, isométricos de glúteo, Yop Chagui y Ap Chagui nivel 1, además de pateo técnico con dos ejercicios de Ap Chagui, dos ejercicios de Yop Chagui y dos trabajos con banda elástica. Se respeta el objetivo individual del alumno: aprender bases de pateo y mejorar flexibilidad. Poomsae no estará asignado en este ciclo. La prioridad será avanzar paso a paso con técnica limpia, continuidad, control corporal y buena adaptación al entrenamiento.",
+  "enfoque": "En este ciclo trabajaremos Chanonaflex nivel 1, isométricos de glúteo, Yop Chagui y Ap Chagui nivel 1, además de pateo técnico con dos ejercicios de Ap Chagui, dos ejercicios de Yop Chagui y dos trabajos con banda elástica. Poomsae no estará asignado en este ciclo. Se conserva el objetivo individual registrado para cada alumno y la prioridad será avanzar paso a paso con técnica limpia, continuidad, control corporal y buena adaptación al entrenamiento.",
   "chanonaflexDias": "LUNES A SÁBADO / CHANONAFLEX NIVEL 1",
   "chanonaflex": [
-    {
-      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
-    },
-    {
-      "titulo": "Circuito Chanonaflex - Básico",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=sharing"
-    }
+    {"titulo": "Pre-Chanonaflex - Estiramiento inicial", "dia": "LUNES A SÁBADO", "tipo": "video", "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"},
+    {"titulo": "Circuito Chanonaflex - Básico", "dia": "LUNES A SÁBADO", "tipo": "video", "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=sharing"}
   ],
   "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP CHAGUI NIVEL 1 + AP CHAGUI NIVEL 1",
   "isometrico": [
-    {
-      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
-      "dia": "LUNES - MIÉRCOLES - VIERNES",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
-    },
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "dia": "LUNES - MIÉRCOLES - VIERNES",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
-      "tags": ["YOP CHAGUI", "NIVEL 1", "CADERA", "CONTROL"]
-    },
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
-      "dia": "LUNES - MIÉRCOLES - VIERNES",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
-      "tags": ["AP CHAGUI", "NIVEL 1", "FUERZA", "CONTROL"]
-    }
+    {"titulo": "Glúteo y gancho - Isométrico activo - Intermedio", "dia": "LUNES - MIÉRCOLES - VIERNES", "tipo": "video", "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing", "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]},
+    {"titulo": "Isométrico Activo - Yop Chagui - Nivel 1", "dia": "LUNES - MIÉRCOLES - VIERNES", "tipo": "video", "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing", "tags": ["YOP CHAGUI", "NIVEL 1", "CADERA", "CONTROL"]},
+    {"titulo": "Isométrico Activo - Ap Chagui - Nivel 1", "dia": "LUNES - MIÉRCOLES - VIERNES", "tipo": "video", "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing", "tags": ["AP CHAGUI", "NIVEL 1", "FUERZA", "CONTROL"]}
   ],
   "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP CHAGUI + 2 YOP CHAGUI + 2 CON BANDA ELÁSTICA",
   "pateoTecnico": [
-    {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando cámara, pierna de apoyo, postura y regreso técnico.",
-      "reps": "10 a 12 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
-    },
-    {
-      "titulo": "Ap Chagui contra pared",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "enfoque": "Corregir cámara, extensión y regreso de Ap Chagui sin lanzar el torso hacia adelante.",
-      "reps": "10 a 12 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"
-    },
-    {
-      "titulo": "Ejercicio 1 - Yop Chagui",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "enfoque": "Preparar cámara, ubicar cadera y mantener alineación antes de extender la patada.",
-      "reps": "10 a 12 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
-    },
-    {
-      "titulo": "Ejercicio 2 - Yop Chagui",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "enfoque": "Controlar extensión, regreso y postura del torso en Yop Chagui sin sacrificar técnica por altura.",
-      "reps": "10 a 12 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
-    },
-    {
-      "titulo": "Torcion cadera con banda",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "enfoque": "Trabajar movilidad y control de cadera con banda elástica para mejorar dirección y estabilidad en pateo.",
-      "reps": "10 a 12 reps por lado / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy"
-    },
-    {
-      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "enfoque": "Fortalecer tobillo y pierna de apoyo con banda elástica para mejorar estabilidad y control durante el pateo.",
-      "reps": "10 a 12 reps por pierna / 2 series",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
-    }
+    {"titulo": "Silla + Ap Chaguis 3 niveles", "dia": "MARTES - JUEVES - SÁBADO", "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando cámara, pierna de apoyo, postura y regreso técnico.", "reps": "10 a 12 reps por pierna / 2 series", "tipo": "video", "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"},
+    {"titulo": "Ap Chagui contra pared", "dia": "MARTES - JUEVES - SÁBADO", "enfoque": "Corregir cámara, extensión y regreso de Ap Chagui sin lanzar el torso hacia adelante.", "reps": "10 a 12 reps por pierna / 2 series", "tipo": "video", "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link"},
+    {"titulo": "Ejercicio 1 - Yop Chagui", "dia": "MARTES - JUEVES - SÁBADO", "enfoque": "Preparar cámara, ubicar cadera y mantener alineación antes de extender la patada.", "reps": "10 a 12 reps por pierna / 2 series", "tipo": "video", "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"},
+    {"titulo": "Ejercicio 2 - Yop Chagui", "dia": "MARTES - JUEVES - SÁBADO", "enfoque": "Controlar extensión, regreso y postura del torso en Yop Chagui sin sacrificar técnica por altura.", "reps": "10 a 12 reps por pierna / 2 series", "tipo": "video", "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"},
+    {"titulo": "Torcion cadera con banda", "dia": "MARTES - JUEVES - SÁBADO", "enfoque": "Trabajar movilidad y control de cadera con banda elástica para mejorar dirección y estabilidad en pateo.", "reps": "10 a 12 reps por lado / 2 series", "tipo": "video", "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy"},
+    {"titulo": "Ejercicio de fortalecimiento de tobillo con banda", "dia": "MARTES - JUEVES - SÁBADO", "enfoque": "Fortalecer tobillo y pierna de apoyo con banda elástica para mejorar estabilidad y control durante el pateo.", "reps": "10 a 12 reps por pierna / 2 series", "tipo": "video", "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"}
   ],
   "poomsaeDias": "NO ASIGNADO EN ESTE CICLO",
   "poomsae": [],
-  "indicacionesExtras": [
-    "Toma en cuenta que si algún ejercicio sientes que no aguantas, escucha a tu cuerpo y solo haz lo que puedas soportar, pero siempre dándole prioridad a exigirnos sin perder la técnica o la continuidad. Algunos dolores son parte del proceso, pero jamás debe arder cuando estiramos ni sentirse como desgarre; el trabajo debe sentirse cómodo, pero a su vez exigente."
-  ],
+  "indicacionesExtras": ["Toma en cuenta que si algún ejercicio sientes que no aguantas, escucha a tu cuerpo y solo haz lo que puedas soportar, pero siempre dándole prioridad a exigirnos sin perder la técnica o la continuidad. Algunos dolores son parte del proceso, pero jamás debe arder cuando estiramos ni sentirse como desgarre; el trabajo debe sentirse cómodo, pero a su vez exigente."],
   "apuntes": [
-    "Objetivo individual: aprender bases de pateo y mejorar flexibilidad.",
+    "El objetivo individual se conserva desde el perfil del alumno.",
     "Poomsae no asignado para este ciclo.",
     "Prioridad técnica: trabajar con control, buena postura y continuidad antes que buscar altura máxima.",
     "Si un ejercicio se siente demasiado pesado, ajustar la intensidad sin perder la técnica."
