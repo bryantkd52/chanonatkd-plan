@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado lun 6 de julio de 2026",
+  "updated_at": "Actualizado lun 20 de julio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 6 al sábado 18 de julio de 2026",
+  "ciclo": "Lunes 20 de julio al sábado 1 de agosto de 2026",
   "enfoque_corto": "Flexibilidad y pateo + Chanonaflex intermedio + sesiones acumuladas",
-  "enfoque": "En este ciclo trabajaremos flexibilidad y pateo con Pre-Chanonaflex, Chanonaflex intermedio, isométricos de glúteo, Yop Chagui y Ap Chagui nivel 2, además de pateo técnico con dos ejercicios de Ap Chagui, dos ejercicios de Yop Chagui y un trabajo con banda elástica. En el bloque de poomsae se mantienen las clases grabadas acumuladas y se agrega la 14va sesión de ChanonaTKD System. La prioridad será precisión técnica, postura, control, preparación correcta y ejecución limpia antes que altura máxima.",
+  "enfoque": "En este ciclo trabajaremos flexibilidad y pateo con Pre-Chanonaflex, Chanonaflex intermedio, isométricos de glúteo, Yop Chagui y Ap Chagui nivel 1, además de pateo técnico con dos ejercicios de Ap Chagui, dos ejercicios de Yop Chagui y un trabajo con banda elástica. En el bloque de poomsae se mantienen las clases grabadas acumuladas y se agregan la 15va y 16va sesión de ChanonaTKD System. La prioridad será avanzar de manera progresiva, con técnica limpia, control corporal y buena adaptación al entrenamiento.",
   "chanonaflexDias": "PRE: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
   "chanonaflex": [
     {
@@ -19,7 +19,7 @@
       "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=sharing"
     }
   ],
-  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP CHAGUI NIVEL 2 + AP CHAGUI NIVEL 2",
+  "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP CHAGUI NIVEL 1 + AP CHAGUI NIVEL 1",
   "isometrico": [
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
@@ -28,16 +28,16 @@
       "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=sharing",
-      "tags": ["YOP CHAGUI", "NIVEL 2", "CADERA", "CONTROL"]
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
+      "tags": ["YOP CHAGUI", "NIVEL 1", "CADERA", "CONTROL"]
     },
     {
-      "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=sharing",
-      "tags": ["AP CHAGUI", "NIVEL 2", "FUERZA", "CONTROL"]
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
+      "tags": ["AP CHAGUI", "NIVEL 1", "FUERZA", "CONTROL"]
     }
   ],
   "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP CHAGUI + 2 YOP CHAGUI + 1 CON BANDA ELÁSTICA",
@@ -78,7 +78,7 @@
       "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy"
     }
   ],
-  "poomsaeDias": "SE MANTIENEN LAS CLASES GRABADAS ACUMULADAS + 14VA SESIÓN",
+  "poomsaeDias": "SE MANTIENEN LAS CLASES GRABADAS ACUMULADAS + 15VA Y 16VA SESIÓN",
   "poomsae": [
     {
       "titulo": "Koryo L3 - Lado derecho",
@@ -198,20 +198,34 @@
       "reps": "1 clase completa",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1uLUeC9BU7gtkL2WC8fnSSVh2Ihb5HB8f/view?usp=drive_link"
+    },
+    {
+      "titulo": "15va sesión - ChanonaTKD System",
+      "enfoque": "Clase acumulada del sistema. Continuar trabajando con base en la técnica vista durante la sesión.",
+      "reps": "1 clase completa",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kK8Fh9K0S-0AWCC-SK5nFuBrcRuVIfP6/view?usp=drive_link"
+    },
+    {
+      "titulo": "16va sesión - ChanonaTKD System",
+      "enfoque": "Clase acumulada del sistema. Continuar trabajando con base en la técnica vista durante la sesión.",
+      "reps": "1 clase completa",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1LauZUh_s79qjoMzFxfJQczSpPArrwD9Q/view?usp=drive_link"
     }
   ],
   "apuntes": [
-    "Trabaja con precisión técnica, dándole prioridad a la correcta ejecución antes que a una patada alta.",
-    "Para poder patear alto, primero necesitamos tener buena técnica.",
-    "Cuando sientas cansancio, no temas descansar. Escucha tu cuerpo y reconoce cuándo necesita un pequeño reposo.",
-    "Si algún ejercicio sientes que no lo soportas, toma un pequeño espacio de recuperación y después continúa con mejor calidad técnica.",
-    "Se mantienen las clases grabadas acumuladas y se agrega la 14va sesión de ChanonaTKD System para continuar el avance del grupo."
+    "Continuamos trabajando de manera progresiva con algunos ejercicios específicos.",
+    "Las clases ya están listas en la sección de poomsae para que puedan seguir el trabajo acumulado del sistema.",
+    "Cuando sientas cansancio, puedes tomarte un tiempo para reposar y retomar el entrenamiento.",
+    "Siempre escucha tu cuerpo y reconoce cuándo necesita un pequeño reposo para después continuar con mejor calidad.",
+    "La prioridad será mantener constancia, técnica limpia y progreso sin sobrecargar el cuerpo."
   ],
   "notasFinales": [
-    "Excelente trabajo y a seguirle dando en estas próximas dos semanas de ciclo.",
-    "Continuamos entrenando con mucha garra y enfoque.",
-    "No nos rendimos y nos mantenemos firmes con los ejercicios que debemos hacer.",
-    "Cualquier duda, por favor coméntame y con gusto lo resolvemos.",
+    "Seguimos dándole con todo. Mantente firme, con la moral y la motivación alta.",
+    "No te rindas cuando las cosas se sientan complejas o con dificultad.",
+    "Es en esos momentos donde recordamos que podemos sobrepasar adversidades y superarnos como personas.",
+    "Sigue trabajando con disciplina para ser inspiración para los demás.",
     "¡Excelente entrenamiento!"
   ]
 }
