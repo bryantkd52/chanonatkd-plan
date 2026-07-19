@@ -21,9 +21,9 @@ const REQUIRED_PLAN_KEYS = [
   'pateoDias', 'pateoTecnico', 'poomsaeDias', 'poomsae',
   'apuntes', 'notasFinales'
 ];
-const OPTIONAL_PLAN_KEYS = ['extras'];
+const OPTIONAL_PLAN_KEYS = ['extras', 'indicacionesExtras'];
 const RESOURCE_SECTIONS = ['chanonaflex', 'isometrico', 'pateoTecnico', 'poomsae', 'extras'];
-const TEXT_ARRAY_KEYS = ['apuntes', 'notasFinales'];
+const TEXT_ARRAY_KEYS = ['apuntes', 'notasFinales', 'indicacionesExtras'];
 const RESOURCE_REQUIRED_KEYS = ['titulo', 'tipo', 'url'];
 const RESOURCE_OPTIONAL_KEYS = ['dia', 'enfoque', 'reps', 'tags'];
 const ALLOWED_TYPES = new Set(['video', 'audio', 'folder']);
@@ -125,7 +125,7 @@ function validateResource(resource, section, index, mediaPolicy, errors) {
     if (!Array.isArray(resource.tags)) pushError(errors, `${location}.tags`, 'debe ser un array.');
     else resource.tags.forEach((tag, tagIndex) => { if (!isNonEmptyString(tag)) pushError(errors, `${location}.tags[${tagIndex}]`, 'debe ser texto no vacío.'); });
   }
-  if (isNonEmptyString(resource.tipo) && !ALLOWED_TYPES.has(resource.tipo)) pushError(errors, `${location}.tipo`, `tipo "${resource.tipo}" no permitido. Usar video, audio o folder.`);
+  if (isNonEmptyString(resource.tipo) && !ALLOWED_TYPES.has(resource.tipo)) pushError(errors, `${location}.tipo`, `tipo "${resource.tipo}" no permitido. Usar video, audio, folder.`);
   if (!isNonEmptyString(resource.url) || !isNonEmptyString(resource.titulo) || !isNonEmptyString(resource.tipo)) return;
   if (mediaPolicy.blockedUrls.has(resource.url)) { pushError(errors, `${location}.url`, 'URL histórica bloqueada; existe una versión canónica aprobada por Bryan.'); return; }
   const registeredForUrl = mediaPolicy.resourcesByUrl.get(resource.url);
