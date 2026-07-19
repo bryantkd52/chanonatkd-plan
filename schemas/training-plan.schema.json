@@ -48,6 +48,10 @@
       "type": "array",
       "items": { "$ref": "#/$defs/resource" }
     },
+    "indicacionesExtras": {
+      "description": "Sección opcional de indicaciones textuales sin video, visible como Indicaciones extras en la plataforma.",
+      "$ref": "#/$defs/textList"
+    },
     "extras": {
       "description": "Sección opcional; usar únicamente cuando Bryan la solicite o ya exista en el plan actualizado.",
       "type": "array",
