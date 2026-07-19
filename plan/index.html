@@ -4,14 +4,13 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1, viewport-fit=cover" />
   <title>ChanonaTKD • Plan</title>
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css?v=redesign-20260719-1">
 </head>
 
-<body>
+<body id="inicio">
   <div class="appShell">
-    <!-- SIDEBAR -->
     <aside class="sidebar" id="sidebar">
-      <div class="brand">
+      <a class="brand" href="#inicio" aria-label="Ir al inicio del plan">
         <img class="logoImg" id="logoImg" alt="ChanonaTKD Logo" />
         <div class="brandText">
           <h1>ChanonaTKD • Plan</h1>
@@ -20,26 +19,28 @@
             <div class="brandMeta" id="brandMeta"></div>
           </div>
         </div>
-      </div>
+      </a>
 
       <div class="menu" id="menu">
-        <button class="btn active" data-tab="resumen"><span class="dot"></span> Resumen</button>
-        <button class="btn" data-tab="chanonaflex"><span class="dot"></span> ChanonaFlex</button>
-        <button class="btn" data-tab="isometrico"><span class="dot"></span> Isométrico Activo</button>
-        <button class="btn" data-tab="pateo"><span class="dot"></span> Trabajo Técnico Pateo</button>
-        <button class="btn" data-tab="poomsae"><span class="dot"></span> Trabajo Técnico Poomsae</button>
-
-               
-
-        <button class="btn" data-tab="notas"><span class="dot"></span> Notas Finales</button>
+        <button class="btn active" data-target="resumen"><span class="dot"></span> Resumen</button>
+        <button class="btn" data-target="racha"><span class="dot"></span> Racha semanal</button>
+        <button class="btn" data-target="temporizador"><span class="dot"></span> Temporizador</button>
+        <button class="btn" data-target="bot-tkd"><span class="dot"></span> ChanonaTKD BOT</button>
+        <button class="btn" data-target="chanonaflex"><span class="dot"></span> ChanonaFlex</button>
+        <button class="btn" data-target="isometrico"><span class="dot"></span> Isométricos</button>
+        <button class="btn" data-target="pateo"><span class="dot"></span> Pateo técnico</button>
+        <button class="btn" data-target="poomsae"><span class="dot"></span> Poomsae</button>
+        <button class="btn" data-target="clases"><span class="dot"></span> Clases grabadas</button>
+        <button class="btn" data-target="indicaciones"><span class="dot"></span> Indicaciones extras</button>
+        <button class="btn" data-target="notas"><span class="dot"></span> Notas finales</button>
+        <button class="btn" data-target="check-dia"><span class="dot"></span> Check del día</button>
       </div>
 
       <div class="mini">
-        Tip: toca un ejercicio y usa <b>“Reproducir”</b>. Se abrirá en Drive en otra pestaña.
+        Tip: toca <b>“Abrir en Drive”</b>. Los videos se abren en otra pestaña.
       </div>
     </aside>
 
-    <!-- MAIN -->
     <main class="main">
       <div class="topbar">
         <div class="titleBlock">
@@ -49,7 +50,7 @@
 
         <div class="chipRow">
           <div class="chip red" id="chipFocus">🎯 Enfoque: —</div>
-          <div class="chip">🔥 ChanonaTKD</div>
+          <button class="chip action themeAction" id="themeToggle" type="button">☀️ Claro</button>
           <div class="chip" id="chipUpdated">🕒 —</div>
         </div>
       </div>
@@ -63,6 +64,6 @@
     </main>
   </div>
 
-  <script src="./app.js?v=team-poomsae-20260615-2"></script>
+  <script src="./app.js?v=redesign-20260719-1"></script>
 </body>
 </html>
