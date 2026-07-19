@@ -212,12 +212,31 @@ body.light .action.primary,body.light .bigCheckBtn{background:linear-gradient(18
 @media(max-width:680px){
   body{font-size:15px}
   .appShell{padding:10px;max-width:100%}
-  .topbar{display:grid;grid-template-columns:1fr auto;align-items:center;padding:12px;border-radius:16px}
-  .brand{max-width:100%}
-  .logoImg{width:42px;height:42px;flex-basis:42px;border-radius:12px}
-  .brandText h1{font-size:14px;white-space:normal;line-height:1.15}
+  .topbar{
+    display:flex;
+    flex-direction:column;
+    align-items:stretch;
+    gap:10px;
+    padding:12px;
+    border-radius:16px;
+  }
+  .brand{
+    width:100%;
+    max-width:100%;
+    justify-content:flex-start;
+    align-items:center;
+  }
+  .logoImg{width:42px;height:42px;flex:0 0 42px;border-radius:12px}
+  .brandText{flex:1 1 auto;min-width:0}
+  .brandText h1{font-size:14px;white-space:normal;line-height:1.15;overflow-wrap:anywhere}
   .brandText p{display:none}
-  .themeBtn{min-height:42px;padding:10px 11px;font-size:13px;width:auto}
+  .themeBtn{
+    width:100% !important;
+    min-height:42px;
+    padding:10px 11px;
+    font-size:13px;
+    justify-self:stretch;
+  }
   .studentCard{padding:18px;border-radius:16px}
   h2{font-size:clamp(28px,9vw,38px);letter-spacing:-.04em;line-height:1.05}
   h3{font-size:16px}
