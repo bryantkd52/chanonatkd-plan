@@ -4,56 +4,51 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1, viewport-fit=cover" />
   <title>ChanonaTKD • Plan</title>
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css?v=ui-redesign-20260719">
 </head>
-
-<body>
+<body id="inicio">
   <div class="appShell">
-    <!-- SIDEBAR -->
-    <aside class="sidebar" id="sidebar">
-      <div class="brand">
-        <img class="logoImg" id="logoImg" alt="ChanonaTKD Logo" />
-        <div class="brandText">
-          <h1>ChanonaTKD • Plan</h1>
-          <div class="brandRow">
+    <header class="hero">
+      <nav class="topbar">
+        <a class="brand" href="#inicio" aria-label="Ir al inicio del plan">
+          <img class="logoImg" id="logoImg" alt="ChanonaTKD Logo" />
+          <div class="brandText">
+            <h1>ChanonaTKD • Plan</h1>
             <p id="brandSub">Cargando alumno…</p>
-            <div class="brandMeta" id="brandMeta"></div>
           </div>
-        </div>
-      </div>
+        </a>
+        <button class="btn themeBtn" id="themeToggle" type="button">☀️ Claro</button>
+      </nav>
 
-      <div class="menu" id="menu">
-        <button class="btn active" data-tab="resumen"><span class="dot"></span> Resumen</button>
-        <button class="btn" data-tab="chanonaflex"><span class="dot"></span> ChanonaFlex</button>
-        <button class="btn" data-tab="isometrico"><span class="dot"></span> Isométrico Activo</button>
-        <button class="btn" data-tab="pateo"><span class="dot"></span> Trabajo Técnico Pateo</button>
-        <button class="btn" data-tab="poomsae"><span class="dot"></span> Trabajo Técnico Poomsae</button>
-
-               
-
-        <button class="btn" data-tab="notas"><span class="dot"></span> Notas Finales</button>
-      </div>
-
-      <div class="mini">
-        Tip: toca un ejercicio y usa <b>“Reproducir”</b>. Se abrirá en Drive en otra pestaña.
-      </div>
-    </aside>
-
-    <!-- MAIN -->
-    <main class="main">
-      <div class="topbar">
-        <div class="titleBlock">
+      <section class="heroGrid">
+        <div class="studentCard">
+          <p class="eyebrow">Alumno / Grupo</p>
           <h2 id="planTitle">Plan • Cargando…</h2>
           <div class="sub" id="planSub">Cargando ciclo y alumno…</div>
+          <div class="chipRow">
+            <span class="chip red" id="chipFocus">🎯 Enfoque: —</span>
+            <span class="chip" id="chipUpdated">🕒 —</span>
+            <span class="chip" id="chipSubscription">💳 —</span>
+          </div>
+          <p class="goal" id="goalText"></p>
+          <div class="heroActions">
+            <a class="action primary" id="trainingLink" href="#" target="_blank" rel="noreferrer">🎥 Entrar a mi entrenamiento</a>
+            <button class="action" id="scrollTodayBtn" type="button">✅ Marcar entrenamiento</button>
+          </div>
         </div>
 
-        <div class="chipRow">
-          <div class="chip red" id="chipFocus">🎯 Enfoque: —</div>
-          <div class="chip">🔥 ChanonaTKD</div>
-          <div class="chip" id="chipUpdated">🕒 —</div>
-        </div>
-      </div>
+        <aside class="renewalCard" id="renewalCard" hidden>
+          <div class="cardIcon">🔔</div>
+          <div>
+            <strong id="renewalTitle">Recordatorio de renovación</strong>
+            <p id="renewalText">Tu acceso se renueva pronto.</p>
+          </div>
+          <button id="closeRenewal" class="action smallAction" type="button">Cerrar</button>
+        </aside>
+      </section>
+    </header>
 
+    <main class="main">
       <div class="content" id="content">
         <div class="loaderCard">
           <div class="loaderTitle">Cargando tu plan…</div>
@@ -63,6 +58,6 @@
     </main>
   </div>
 
-  <script src="./app.js?v=team-poomsae-20260615-2"></script>
+  <script src="./app.js?v=ui-redesign-20260719"></script>
 </body>
 </html>
