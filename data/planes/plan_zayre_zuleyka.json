@@ -1,10 +1,10 @@
 {
-  "updated_at": "Actualizado lun 6 de julio de 2026",
+  "updated_at": "Actualizado lun 20 de julio de 2026",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 6 al sábado 18 de julio de 2026",
-  "enfoque_corto": "Freestyle + Chanonaflex avanzado + isométrico nivel 2",
-  "enfoque": "En este ciclo trabajaremos mejora técnica para poomsae y freestyle, con Pre-Chanonaflex, Chanonaflex avanzado, isométricos de glúteo, Yop Chagui y Ap Chagui nivel 2, además de pateo técnico con Ap Chagui, Yop Chagui, banda elástica, Twio Yop Chagui, múltiples con salto y giro 360 kick. No se asigna bloque de poomsae en este ciclo. La prioridad será precisión técnica, control corporal, aterrizajes seguros, limpieza de ejecución y trabajo constante de la rutina.",
-  "chanonaflexDias": "PRE: LUNES A SÁBADO / AVANZADO: LUNES - MIÉRCOLES - VIERNES",
+  "ciclo": "Lunes 20 de julio al sábado 1 de agosto de 2026",
+  "enfoque_corto": "Chanonaflex avanzado + isométricos nivel 2 + pateo técnico",
+  "enfoque": "En este ciclo trabajaremos Pre-Chanonaflex, Chanonaflex básico y Chanonaflex Desde Propuesta - Nivel 3, isométricos de glúteo, Yop Chagui y Ap Chagui nivel 2, además de pateo técnico con dos ejercicios de Ap Chagui, dos ejercicios de Yop Chagui y dos trabajos con banda elástica. Poomsae no estará asignado en este ciclo. Se respeta el objetivo individual registrado para este alumno: Inicialización Freestyle. La prioridad será mejorar detalles finos de preparación, postura, timing, fuerza de base y ejecución consciente.",
+  "chanonaflexDias": "PRE-CHANONAFLEX: LUNES A SÁBADO / BÁSICO: LUNES - MIÉRCOLES - VIERNES / DESDE PROPUESTA NIVEL 3: MARTES - JUEVES",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
@@ -13,136 +13,142 @@
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
     },
     {
-      "titulo": "Chanonaflex - Avanzado",
+      "titulo": "Circuito Chanonaflex - Básico",
       "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1bvgIvuAgE0kiFASyBQaVQyRRIFFGfnhc/view?usp=sharing"
+      "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=sharing"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "dia": "MARTES - JUEVES",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=sharing"
     }
   ],
   "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP CHAGUI NIVEL 2 + AP CHAGUI NIVEL 2",
   "isometrico": [
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
+      "tags": [
+        "GLÚTEO",
+        "GANCHO",
+        "FUERZA",
+        "CADERA"
+      ]
     },
     {
       "titulo": "Isométrico Activo - Yop Chagui - Nivel 2",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=sharing",
-      "tags": ["YOP CHAGUI", "NIVEL 2", "CADERA", "CONTROL"]
+      "tags": [
+        "YOP CHAGUI",
+        "NIVEL 2",
+        "CADERA",
+        "CONTROL"
+      ]
     },
     {
       "titulo": "Isométrico activo - Ap Chagui - Nivel 2",
+      "dia": "LUNES - MIÉRCOLES - VIERNES",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1SWtdQOVyBEX7GTYPjPSqKz-kUiruQv6w/view?usp=sharing",
-      "tags": ["AP CHAGUI", "NIVEL 2", "FUERZA", "CONTROL"]
+      "tags": [
+        "AP CHAGUI",
+        "NIVEL 2",
+        "FUERZA",
+        "CONTROL"
+      ]
     }
   ],
-  "pateoDias": "MARTES - JUEVES - SÁBADO / AP CHAGUI + YOP CHAGUI + BANDA + FREESTYLE",
+  "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP CHAGUI + 2 YOP CHAGUI + 2 CON BANDA ELÁSTICA",
   "pateoTecnico": [
     {
       "titulo": "Silla + Ap Chaguis 3 niveles",
-      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando cámara, postura, pierna de apoyo y regreso técnico.",
+      "dia": "MARTES - JUEVES - SÁBADO",
+      "enfoque": "Mejorar Ap Chagui con apoyo de silla, cuidando cámara, pierna de apoyo, postura y regreso técnico.",
       "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy"
     },
     {
       "titulo": "Ap chaguis dos bloques",
-      "enfoque": "Trabajar precisión, control de cámara y fuerza de apoyo en Ap Chagui.",
+      "dia": "MARTES - JUEVES - SÁBADO",
+      "enfoque": "Trabajar precisión y control de cámara en Ap Chagui con bloques.",
       "reps": "8 a 10 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 1 - Yop Chagui",
-      "enfoque": "Preparar cámara de rodilla al pecho, ubicar cadera y mantener alineación antes de extender la patada.",
+      "dia": "MARTES - JUEVES - SÁBADO",
+      "enfoque": "Preparar cámara, ubicar cadera y mantener alineación antes de extender la patada.",
       "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy"
     },
     {
       "titulo": "Ejercicio 2 - Yop Chagui",
-      "enfoque": "Controlar extensión, regreso de pierna y postura del torso en Yop Chagui.",
+      "dia": "MARTES - JUEVES - SÁBADO",
+      "enfoque": "Controlar extensión, regreso y postura del torso en Yop Chagui sin sacrificar técnica por altura.",
       "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy"
     },
     {
       "titulo": "Torcion cadera con banda",
-      "enfoque": "Trabajar movilidad, fuerza y control de cadera con banda elástica para mejorar dirección y estabilidad en pateo.",
+      "dia": "MARTES - JUEVES - SÁBADO",
+      "enfoque": "Trabajar movilidad y control de cadera con banda elástica para mejorar dirección y estabilidad en pateo.",
       "reps": "10 a 12 reps por lado / 2 series",
       "tipo": "video",
       "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy"
     },
     {
-      "titulo": "Twio Yop Chagui en piso - Paso 1 - Mecanización",
-      "enfoque": "Mecanizar cámara, cadera y eje corporal antes de llevar la Yop Chagui al salto.",
-      "reps": "20 reps / 2 series del lado que salga mejor",
+      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
+      "dia": "MARTES - JUEVES - SÁBADO",
+      "enfoque": "Fortalecer tobillo y pierna de apoyo con banda elástica para mejorar estabilidad y control durante el pateo.",
+      "reps": "10 a 12 reps por pierna / 2 series",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1QAGt9CLUUrfMq_lsEROh_K5Kt6FMpfNy/view?usp=sharing"
-    },
-    {
-      "titulo": "Twio Yop Chagui piso - Coordinación piernas - Paso 2",
-      "enfoque": "Coordinar piernas y preparar el pateo aéreo cuidando cadera, espalda y aterrizaje.",
-      "reps": "20 reps / 1 serie del lado que salga mejor",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1EIebP9oP7hqsh4iz7mcraIdVTG9IZjmF/view?usp=sharing"
-    },
-    {
-      "titulo": "Twio Yop Chagui - Paso 3 - Pasos y ejecución",
-      "enfoque": "Unir transición, despegue y ejecución de Yop Chagui saltando con cadera colocada.",
-      "reps": "20 reps / 2 series del lado que salga mejor",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1nTAm1mTFythQBkGavBRGIan3a6XWeIDT/view?usp=sharing"
-    },
-    {
-      "titulo": "Múltiples saltando - Paso 1",
-      "enfoque": "Aprender coordinación aérea con rodillas, postura, eje y aterrizaje seguro.",
-      "reps": "20 reps / 2 series del lado que salga mejor",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ylQufnwuIOF8A_BrU-ALfPk_FVR0e8P4/view?usp=sharing"
-    },
-    {
-      "titulo": "Múltiples saltando - Paso 2",
-      "enfoque": "Iniciar patada en el aire y coordinar ambas piernas sin perder alineación.",
-      "reps": "10 reps / 2 series del lado que salga mejor",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1qpUoR6jXxm9S0sPQ8MKtn63wtHw5H3eM/view?usp=sharing"
-    },
-    {
-      "titulo": "Múltiples saltando - Paso 3 pateo progresivo",
-      "enfoque": "Aumentar pateo aéreo progresivamente manteniendo estructura, limpieza técnica y amortiguación.",
-      "reps": "10 reps / 2 series del lado que salga mejor",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1vd7nF5b-YMANRhfHujzQ0vJNdIqz0eqv/view?usp=sharing"
-    },
-    {
-      "titulo": "360 kick - paso a paso progresivo 0 a 100",
-      "enfoque": "Construir 360 kick desde una altura baja, cuidando giro, despegue, ubicación en el aire y aterrizaje.",
-      "reps": "10 reps / 2 series del lado que salga mejor",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1fo_p9ioEGNlPRY6ghrPzz5cXmZJnjZAu/view?usp=sharing"
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link"
     }
   ],
-  "poomsaeDias": "NO ASIGNADO A ESTE ALUMNO",
+  "poomsaeDias": "NO ASIGNADO EN ESTE CICLO",
   "poomsae": [],
+  "indicacionesExtras": [
+    "Postura general y torso: evitar llevar el torso hacia el frente en general, y hacia atrás al ejecutar Yop Chagui.",
+    "Estabilidad en el apoyo: al sostener una postura, evitar recargarse; la fuerza debe concentrarse en el glúteo, abdomen y el isquiotibial de la pierna de apoyo.",
+    "Control de hombros: no llevar los hombros hacia el frente al recoger las patadas de Yop Chagui; mantener el torso en alineación.",
+    "Cabeza y cuello: mantener la cabeza y el cuello firmes al ejecutar Ap Chagui, evitando que se vayan hacia el frente.",
+    "Estabilización desde la base: mantener la fuerza y el equilibrio en la parte inferior del cuerpo para evitar que el cuello compense moviéndose.",
+    "Cadera y glúteos: evitar sacar los glúteos durante la ejecución de Yop Chagui; mantener la cadera inmóvil y lineal, sin irse hacia el frente o hacia atrás.",
+    "Proyección en transiciones: en ejercicios de encapsulación, proyectar la cadera hacia el frente en lugar de llevar el torso hacia atrás para centrar la fuerza.",
+    "Extensión de apoyo: mantener la pierna de apoyo completamente estirada al momento de patear.",
+    "Transición en Yop Chagui: mantener buena postura en la preparación y aplicar fuerza explosiva desde el abdomen y la pierna de apoyo inmediatamente después.",
+    "Recobro de patada: marcar correctamente la flexión de la rodilla, o cámara, al regresar del Ap Chagui.",
+    "Transición en Dwit Kubi: al avanzar a la línea 2, evitar que las rodillas se junten; la transición debe ser jalando el pie y encapsulando sin pegar las piernas, solamente pasando.",
+    "Longitud en Ap Seogui: corregir los pasos que se hacen muy grandes y usar posiciones más cortas bajo dimensiones reglamentarias.",
+    "Aterrizajes en Ap Kubi: corregir la distancia posterior a Yop Chagui, ya que el Ap Kubi está quedando muy corto.",
+    "Preparación y ejecución de codazos: evitar suavidad excesiva; preparación y ejecución firmes, con puños pegados al cuerpo.",
+    "Defensa An Makki: ejecutarla con mayor potencia activando la base o el torso.",
+    "Preparación de Keumgang: cerrar más la preparación de Santul Makki, evitando que quede muy abierta.",
+    "Preparación de Pyongwon: evitar abrir demasiado la trayectoria hacia afuera.",
+    "Golpes al cuello: buscar máxima explosividad; en la preparación no abrir la mano desde la cintura, sino mantener el trayecto cerrado hasta el impacto.",
+    "Acción de brazos en Ap Chagui: llevar los brazos al pecho durante la patada, sincronizando el tiempo exacto con la rodilla que se eleva.",
+    "Ritmo: sostener firmemente las posiciones durante los segundos reglamentarios."
+  ],
   "apuntes": [
-    "Trabajen con precisión técnica, dándole prioridad a la correcta ejecución antes que a una patada alta.",
-    "Para poder patear alto, primero necesitamos tener buena técnica.",
-    "Cuando sientan cansancio, no teman descansar. Siempre deben escuchar su cuerpo y reconocer cuándo necesita un pequeño reposo.",
-    "Si algún ejercicio sienten que no lo soportan, tomen un pequeño espacio de recuperación y después continúen con mejor calidad técnica.",
-    "No dejen de trabajar la rutina. Expónganse a trabajar muchísimo, porque dentro del escenario todo se siente muy diferente.",
-    "Es importante continuar trabajando incluso cuando aparezca miedo, duda o inseguridad. La seguridad nace de repetir, corregir y volverlo a intentar."
+    "Trabaja con precisión técnica, dándole prioridad a la correcta ejecución antes que a la altura máxima.",
+    "Mantén pausas breves cuando sea necesario para conservar buena postura y mejor calidad técnica.",
+    "La prioridad será entrenar con inteligencia, orden y control en cada repetición.",
+    "Primero calidad, después altura."
   ],
   "notasFinales": [
-    "Excelente trabajo y a seguirle dando en estas próximas dos semanas de ciclo.",
-    "Continuamos entrenando con mucha garra y enfoque.",
-    "No nos rendimos y nos mantenemos firmes con los ejercicios que debemos hacer.",
-    "Cualquier duda, por favor coméntenme y con gusto lo resolvemos.",
-    "No olviden seguir trabajando la rutina; en el escenario todo cambia, por eso debemos llegar con más seguridad y más repeticiones.",
-    "¡Excelente entrenamiento!"
+    "Toma en cuenta que si algún ejercicio sientes que no aguantas, escucha a tu cuerpo y solo haz lo que puedas soportar, pero siempre dándole prioridad a exigirnos sin perder la técnica o la continuidad. Algunos dolores son necesarios, pero jamás debe arder cuando estiramos ni sentirse como desgarre; esto siempre debe ser cómodo, pero a su vez exigente.",
+    "Enfócate en los detalles finos de preparación y ejecución. No olvides que debes estar consciente de los movimientos y no hacerlos de forma automática en este momento, ya que estamos en etapa de desarrollo de nuevos hábitos para que después se conviertan en movimientos automáticos, pero de forma correcta.",
+    "Usa las herramientas que te dejo en este plan, te ayudarán mucho.",
+    "¡Feliz entrenamiento y espero te guste la actualización de la plataforma!"
   ]
 }
