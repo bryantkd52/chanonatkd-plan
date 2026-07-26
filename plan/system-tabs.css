@@ -3,7 +3,7 @@
   top: 10px;
   z-index: 8;
   display: grid;
-  grid-template-columns: repeat(5, minmax(0,1fr));
+  grid-template-columns: repeat(6, minmax(0,1fr));
   gap: 10px;
   margin: 18px 0 22px;
   padding: 10px;
@@ -40,13 +40,13 @@ body.light .systemTabsShell{
   display:block;
   font-weight: 900;
   letter-spacing: -.02em;
-  font-size: clamp(.9rem, 1.2vw, 1.05rem);
+  font-size: clamp(.86rem, 1.05vw, 1.02rem);
 }
 .systemTabButton small{
   display:block;
   margin-top:4px;
   color: var(--muted);
-  font-size: .72rem;
+  font-size: .7rem;
   line-height: 1.15;
 }
 .systemNotice{
@@ -60,11 +60,69 @@ body.light .systemTabsShell{
 .systemTabPanel{
   animation: systemTabFade .2s ease;
 }
+.textInstructions{
+  padding: 16px 18px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: rgba(255,255,255,.04);
+}
+body.light .textInstructions{
+  background: rgba(0,0,0,.03);
+}
+.textInstructions ol{
+  margin: 0;
+  padding-left: 22px;
+}
+.textInstructions li{
+  margin: 0 0 10px;
+  line-height: 1.55;
+  color: var(--text);
+}
+.textInstructions li:last-child{
+  margin-bottom: 0;
+}
+.systemBackTop{
+  position: fixed;
+  right: max(18px, env(safe-area-inset-right));
+  bottom: max(18px, env(safe-area-inset-bottom));
+  width: 46px;
+  height: 46px;
+  border: 1px solid rgba(255,59,59,.72);
+  border-radius: 50%;
+  background: #08080a;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 1;
+  cursor: pointer;
+  z-index: 20;
+  box-shadow: 0 18px 40px rgba(0,0,0,.42);
+  transition: transform .18s ease, background .18s ease, border-color .18s ease;
+}
+.systemBackTop:hover{
+  transform: translateY(-2px);
+  border-color: rgba(255,59,59,1);
+  background: #111;
+}
+.systemBackTop:focus-visible{
+  outline: 2px solid rgba(255,59,59,.85);
+  outline-offset: 3px;
+}
+body.light .systemBackTop{
+  background: #fff;
+  color: #111;
+  box-shadow: 0 18px 35px rgba(0,0,0,.18);
+}
 @keyframes systemTabFade{
   from{opacity:0; transform:translateY(6px)}
   to{opacity:1; transform:none}
 }
-@media (max-width: 900px){
+@media (max-width: 1100px){
+  .systemTabsShell{
+    grid-template-columns: repeat(3, minmax(0,1fr));
+  }
+}
+@media (max-width: 700px){
   .systemTabsShell{
     grid-template-columns: repeat(2, minmax(0,1fr));
     position: static;
@@ -79,5 +137,12 @@ body.light .systemTabsShell{
   }
   .systemTabButton{
     padding: 10px 12px;
+  }
+  .systemBackTop{
+    width: 42px;
+    height: 42px;
+    font-size: 22px;
+    right: 14px;
+    bottom: 14px;
   }
 }
