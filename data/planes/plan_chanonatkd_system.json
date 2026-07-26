@@ -1,101 +1,16 @@
 {
-  "updated_at": "Vista previa tabs - lun 20 de julio de 2026",
+  "updated_at": "Vista previa tabs ajustada - lun 20 de julio de 2026",
   "nivel": "ChanonaTKD System",
   "ciclo": "Lunes 20 de julio al sábado 1 de agosto de 2026",
-  "enfoque_corto": "Sistema por niveles: principiantes, intermedios, avanzados, poomsae y herramientas",
+  "enfoque_corto": "Sistema por pestañas: niveles, pateo, poomsae y herramientas",
   "enfoque": "Vista de prueba para convertir ChanonaTKD System en una plataforma por pestañas dentro del mismo link. El alumno solo debe trabajar la pestaña que Bryan le indique.",
   "chanonaflexDias": "Depende del nivel indicado por Bryan",
   "isometricoDias": "Depende del nivel indicado por Bryan",
-  "pateoDias": "Depende del nivel indicado por Bryan",
+  "pateoDias": "Pateo principiante dentro de Principiantes / pateo común en pestaña Pateo",
   "poomsaeDias": "Solo para alumnos con indicación de Poomsae",
-  "chanonaflex": [
-    {
-      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-      "dia": "LUNES A SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
-    },
-    {
-      "titulo": "Chanonaflex - intermedio",
-      "dia": "LUNES - MIÉRCOLES - VIERNES",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=sharing"
-    }
-  ],
-  "isometrico": [
-    {
-      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
-      "dia": "LUNES - MIÉRCOLES - VIERNES",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "tags": [
-        "GLÚTEO",
-        "FUERZA"
-      ]
-    },
-    {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "dia": "LUNES - MIÉRCOLES - VIERNES",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
-      "tags": [
-        "YOP CHAGUI",
-        "NIVEL 1"
-      ]
-    },
-    {
-      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
-      "dia": "LUNES - MIÉRCOLES - VIERNES",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
-      "tags": [
-        "AP CHAGUI",
-        "NIVEL 1"
-      ]
-    }
-  ],
-  "pateoTecnico": [
-    {
-      "titulo": "Silla + Ap Chaguis 3 niveles",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy",
-      "enfoque": "Cámara y extensión con apoyo de silla.",
-      "reps": "10 a 12 reps por pierna / 2 series"
-    },
-    {
-      "titulo": "Ap chaguis dos bloques",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy",
-      "enfoque": "Precisión y control de cámara.",
-      "reps": "8 a 10 reps por pierna / 2 series"
-    },
-    {
-      "titulo": "Ejercicio 1 - Yop Chagui",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy",
-      "enfoque": "Cámara, cadera y alineación.",
-      "reps": "10 a 12 reps por pierna / 2 series"
-    },
-    {
-      "titulo": "Ejercicio 2 - Yop Chagui",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy",
-      "enfoque": "Extensión, regreso y postura.",
-      "reps": "10 a 12 reps por pierna / 2 series"
-    },
-    {
-      "titulo": "Torcion cadera con banda",
-      "dia": "MARTES - JUEVES - SÁBADO",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy",
-      "enfoque": "Control de cadera y dirección.",
-      "reps": "10 a 12 reps por lado / 2 series"
-    }
-  ],
+  "chanonaflex": [],
+  "isometrico": [],
+  "pateoTecnico": [],
   "poomsae": [],
   "indicacionesExtras": [
     "Usa solamente la pestaña que Bryan te indique."
@@ -116,9 +31,32 @@
       "subtitulo": "Base suave / adaptación",
       "descripcion": "Para alumnos nuevos o que necesitan una entrada suave, casi rehabilitadora. La prioridad es moverse bien antes de exigir altura.",
       "recomendacion": "Usa esta pestaña cuando Bryan te indique nivel principiante o adaptación.",
+      "frecuencias": [
+        "Calentamiento: antes de cada sesión.",
+        "ChanonaFlex: Pre-Chanonaflex lunes a sábado; básico lunes, miércoles y viernes.",
+        "Isométrico activo: lunes, miércoles y viernes.",
+        "Pateo técnico principiante: martes, jueves y sábado."
+      ],
+      "calentamientoTitulo": "Calentamiento",
+      "calentamiento": [
+        {
+          "titulo": "Calentamiento articular general",
+          "dia": "Antes de entrenar",
+          "tipo": "info",
+          "enfoque": "Mover cuello, hombros, cadera, rodillas y tobillos sin prisa.",
+          "reps": "5 a 8 minutos"
+        },
+        {
+          "titulo": "Activación suave de piernas",
+          "dia": "Antes de ChanonaFlex",
+          "tipo": "info",
+          "enfoque": "Sentadillas suaves, balanceos controlados y respiración.",
+          "reps": "2 vueltas tranquilas"
+        }
+      ],
       "chanonaflexDias": "PRE-CHANONAFLEX: LUNES A SÁBADO / BÁSICO: LUNES - MIÉRCOLES - VIERNES",
       "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1 SUAVE",
-      "pateoDias": "MARTES - JUEVES - SÁBADO / TÉCNICA CONTROLADA",
+      "pateoDias": "MARTES - JUEVES - SÁBADO / PATEO PRINCIPIANTE",
       "poomsaeDias": "NO ASIGNADO EN ESTE NIVEL",
       "chanonaflex": [
         {
@@ -142,8 +80,8 @@
           "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
           "tags": [
             "GLÚTEO",
-            "BASE",
-            "CONTROL"
+            "FUERZA",
+            "CADERA"
           ]
         },
         {
@@ -188,8 +126,10 @@
       "poomsae": [],
       "clasesGrabadas": [],
       "indicacionesExtras": [
-        "Prioridad: técnica correcta antes que altura.",
-        "No cambies de nivel por tu cuenta."
+        "Trabaja suave, pero con atención.",
+        "La técnica correcta es más importante que la altura.",
+        "No cambies de nivel por tu cuenta.",
+        "Si te cansas, descansa poco y continúa con mejor calidad."
       ],
       "notasFinales": [
         "Trabaja paso a paso. La base bien hecha vale más que avanzar rápido."
@@ -198,12 +138,35 @@
     {
       "id": "intermedios",
       "titulo": "Intermedios",
-      "subtitulo": "Flexibilidad + pateo técnico",
-      "descripcion": "Para alumnos que ya tienen base y pueden sostener más trabajo sin perder técnica.",
-      "recomendacion": "Usa esta pestaña si Bryan te indicó nivel intermedio.",
+      "subtitulo": "Flexibilidad + fuerza de base",
+      "descripcion": "Para alumnos que ya tienen base y pueden sostener más trabajo sin perder técnica. El pateo común está en la pestaña Pateo.",
+      "recomendacion": "Usa esta pestaña si Bryan te indicó nivel intermedio. Para pateo, usa también la pestaña Pateo si Bryan te lo indicó.",
+      "frecuencias": [
+        "Calentamiento y activación: antes de cada sesión.",
+        "ChanonaFlex: Pre-Chanonaflex lunes a sábado; intermedio lunes, miércoles y viernes.",
+        "Isométrico activo: lunes, miércoles y viernes.",
+        "Pateo: está separado en la pestaña Pateo."
+      ],
+      "calentamientoTitulo": "Calentamiento y activación",
+      "calentamiento": [
+        {
+          "titulo": "Calentamiento y activación general",
+          "dia": "Antes de entrenar",
+          "tipo": "info",
+          "enfoque": "Preparar articulaciones, abdomen, glúteo y piernas antes de exigir flexibilidad.",
+          "reps": "8 a 10 minutos"
+        },
+        {
+          "titulo": "Activación de cadera y base",
+          "dia": "Antes de ChanonaFlex",
+          "tipo": "info",
+          "enfoque": "Trabajar movilidad de cadera, control de apoyo y respiración activa.",
+          "reps": "2 series controladas"
+        }
+      ],
       "chanonaflexDias": "PRE-CHANONAFLEX: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
       "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP NIVEL 1 + AP NIVEL 1",
-      "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP CHAGUI + 2 YOP CHAGUI + BANDA",
+      "pateoDias": "VER PESTAÑA PATEO SI BRYAN LA ASIGNÓ",
       "poomsaeDias": "NO ASIGNADO EN ESTE NIVEL",
       "chanonaflex": [
         {
@@ -227,7 +190,8 @@
           "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
           "tags": [
             "GLÚTEO",
-            "FUERZA"
+            "FUERZA",
+            "CADERA"
           ]
         },
         {
@@ -251,52 +215,15 @@
           ]
         }
       ],
-      "pateoTecnico": [
-        {
-          "titulo": "Silla + Ap Chaguis 3 niveles",
-          "dia": "MARTES - JUEVES - SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy",
-          "enfoque": "Cámara y extensión con apoyo de silla.",
-          "reps": "10 a 12 reps por pierna / 2 series"
-        },
-        {
-          "titulo": "Ap chaguis dos bloques",
-          "dia": "MARTES - JUEVES - SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy",
-          "enfoque": "Precisión y control de cámara.",
-          "reps": "8 a 10 reps por pierna / 2 series"
-        },
-        {
-          "titulo": "Ejercicio 1 - Yop Chagui",
-          "dia": "MARTES - JUEVES - SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy",
-          "enfoque": "Cámara, cadera y alineación.",
-          "reps": "10 a 12 reps por pierna / 2 series"
-        },
-        {
-          "titulo": "Ejercicio 2 - Yop Chagui",
-          "dia": "MARTES - JUEVES - SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy",
-          "enfoque": "Extensión, regreso y postura.",
-          "reps": "10 a 12 reps por pierna / 2 series"
-        },
-        {
-          "titulo": "Torcion cadera con banda",
-          "dia": "MARTES - JUEVES - SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy",
-          "enfoque": "Control de cadera y dirección.",
-          "reps": "10 a 12 reps por lado / 2 series"
-        }
-      ],
+      "pateoTecnico": [],
       "poomsae": [],
       "clasesGrabadas": [],
       "indicacionesExtras": [
-        "Busca continuidad, pero con postura limpia."
+        "Trata de relajar cuando bajes.",
+        "Procura mantener la técnica antes de buscar más altura.",
+        "Si sientes dolor de desgarre o ardor fuerte, baja la intensidad.",
+        "Escucha tu cuerpo, pero no confundas cansancio con rendirte.",
+        "Mantén continuidad y calidad en cada repetición."
       ],
       "notasFinales": [
         "Aquí ya debes sentir más trabajo, pero sin perder control."
@@ -306,11 +233,34 @@
       "id": "avanzados",
       "titulo": "Avanzados",
       "subtitulo": "Mayor exigencia / control fuerte",
-      "descripcion": "Para alumnos que ya toleran volumen, fuerza y control. Aquí se trabaja con más exigencia técnica.",
-      "recomendacion": "Usa esta pestaña solo si Bryan te indicó nivel avanzado.",
+      "descripcion": "Para alumnos que ya toleran volumen, fuerza y control. El pateo avanzado común está separado en la pestaña Pateo.",
+      "recomendacion": "Usa esta pestaña solo si Bryan te indicó nivel avanzado. Para pateo, usa también la pestaña Pateo si Bryan te lo indicó.",
+      "frecuencias": [
+        "Calentamiento y activación: antes de cada sesión.",
+        "ChanonaFlex: Pre-Chanonaflex lunes a sábado; básico lunes, miércoles y viernes; desde propuesta nivel 3 martes y jueves.",
+        "Isométrico activo: lunes, miércoles y viernes.",
+        "Pateo: está separado en la pestaña Pateo."
+      ],
+      "calentamientoTitulo": "Calentamiento y activación",
+      "calentamiento": [
+        {
+          "titulo": "Calentamiento y activación general",
+          "dia": "Antes de entrenar",
+          "tipo": "info",
+          "enfoque": "Preparar articulaciones, abdomen, glúteo y piernas antes de exigir flexibilidad.",
+          "reps": "8 a 10 minutos"
+        },
+        {
+          "titulo": "Activación de cadera y base",
+          "dia": "Antes de ChanonaFlex",
+          "tipo": "info",
+          "enfoque": "Trabajar movilidad de cadera, control de apoyo y respiración activa.",
+          "reps": "2 series controladas"
+        }
+      ],
       "chanonaflexDias": "PRE-CHANONAFLEX: LUNES A SÁBADO / BÁSICO: LUNES - MIÉRCOLES - VIERNES / DESDE PROPUESTA NIVEL 3: MARTES - JUEVES",
       "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP NIVEL 2 + AP NIVEL 2",
-      "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP + 2 YOP + 2 BANDA",
+      "pateoDias": "VER PESTAÑA PATEO SI BRYAN LA ASIGNÓ",
       "poomsaeDias": "NO ASIGNADO EN ESTE NIVEL",
       "chanonaflex": [
         {
@@ -340,7 +290,8 @@
           "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
           "tags": [
             "GLÚTEO",
-            "CONTROL"
+            "FUERZA",
+            "CADERA"
           ]
         },
         {
@@ -364,37 +315,66 @@
           ]
         }
       ],
+      "pateoTecnico": [],
+      "poomsae": [],
+      "clasesGrabadas": [],
+      "indicacionesExtras": [
+        "Entrena fuerte, pero sin sacrificar técnica por intensidad.",
+        "Sostén la postura con abdomen, glúteo y pierna de apoyo.",
+        "No busques velocidad si todavía pierdes control.",
+        "Exígete, pero mantén continuidad y limpieza."
+      ],
+      "notasFinales": [
+        "Este nivel es exigente: calidad primero, fuerza después."
+      ]
+    },
+    {
+      "id": "pateo",
+      "titulo": "Pateo",
+      "subtitulo": "Común para intermedios y avanzados",
+      "descripcion": "Pestaña independiente para el pateo técnico que pueden usar alumnos intermedios o avanzados cuando Bryan lo indique.",
+      "recomendacion": "Usa esta pestaña solo si Bryan te indicó agregar pateo técnico a tu nivel.",
+      "frecuencias": [
+        "Pateo técnico: martes, jueves y sábado."
+      ],
+      "chanonaflexDias": "NO APLICA EN ESTA PESTAÑA",
+      "isometricoDias": "NO APLICA EN ESTA PESTAÑA",
+      "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP + 2 YOP + 2 BANDA",
+      "poomsaeDias": "NO APLICA EN ESTA PESTAÑA",
+      "calentamiento": [],
+      "chanonaflex": [],
+      "isometrico": [],
       "pateoTecnico": [
         {
           "titulo": "Silla + Ap Chaguis 3 niveles",
           "dia": "MARTES - JUEVES - SÁBADO",
           "tipo": "video",
           "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy",
-          "enfoque": "Control alto de cámara, apoyo y regreso.",
-          "reps": "10 a 12 reps por pierna / 2 series"
+          "enfoque": "Ap Chagui con apoyo, cámara y regreso controlado.",
+          "reps": "8 a 10 reps por pierna / 2 series"
         },
         {
           "titulo": "Ap chaguis dos bloques",
           "dia": "MARTES - JUEVES - SÁBADO",
           "tipo": "video",
           "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy",
-          "enfoque": "Precisión y control fuerte de cámara.",
-          "reps": "10 reps por pierna / 2 series"
+          "enfoque": "Precisión y control de cámara.",
+          "reps": "8 a 10 reps por pierna / 2 series"
         },
         {
           "titulo": "Ejercicio 1 - Yop Chagui",
           "dia": "MARTES - JUEVES - SÁBADO",
           "tipo": "video",
           "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy",
-          "enfoque": "Cámara, cadera y alineación avanzada.",
-          "reps": "10 a 12 reps por pierna / 2 series"
+          "enfoque": "Cámara, cadera y alineación.",
+          "reps": "8 a 10 reps por pierna / 2 series"
         },
         {
           "titulo": "Ejercicio 2 - Yop Chagui",
           "dia": "MARTES - JUEVES - SÁBADO",
           "tipo": "video",
           "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy",
-          "enfoque": "Extensión, regreso y postura sin romper eje.",
+          "enfoque": "Extensión, regreso y postura.",
           "reps": "10 a 12 reps por pierna / 2 series"
         },
         {
@@ -402,7 +382,7 @@
           "dia": "MARTES - JUEVES - SÁBADO",
           "tipo": "video",
           "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy",
-          "enfoque": "Control de cadera y resistencia de dirección.",
+          "enfoque": "Control de cadera y dirección.",
           "reps": "10 a 12 reps por lado / 2 series"
         },
         {
@@ -417,10 +397,13 @@
       "poomsae": [],
       "clasesGrabadas": [],
       "indicacionesExtras": [
-        "Entrena fuerte, pero no sacrifiques técnica por intensidad."
+        "Mantén la cámara limpia al subir y al regresar.",
+        "No dejes que el torso se vaya hacia adelante o hacia atrás.",
+        "Usa abdomen, glúteo y pierna de apoyo para sostener la patada.",
+        "Primero control, después altura y velocidad."
       ],
       "notasFinales": [
-        "Este nivel es exigente: calidad primero, fuerza después."
+        "El pateo debe sentirse exigente, pero siempre técnico."
       ]
     },
     {
@@ -429,10 +412,15 @@
       "subtitulo": "Líneas técnicas / clases grabadas",
       "descripcion": "Para alumnos que Bryan indique con trabajo de poomsae. Puede usarse solo o combinado con otro nivel.",
       "recomendacion": "Usa esta pestaña solo si Bryan te indicó trabajar Poomsae.",
+      "frecuencias": [
+        "Poomsae: según indicación de Bryan.",
+        "Clases grabadas: cuando Bryan lo indique."
+      ],
       "chanonaflexDias": "NO APLICA EN ESTA PESTAÑA",
       "isometricoDias": "NO APLICA EN ESTA PESTAÑA",
       "pateoDias": "NO APLICA EN ESTA PESTAÑA",
       "poomsaeDias": "SEGÚN INDICACIÓN DE BRYAN / LÍNEAS Y CLASES ACUMULADAS",
+      "calentamiento": [],
       "chanonaflex": [],
       "isometrico": [],
       "pateoTecnico": [],
@@ -506,7 +494,9 @@
       ],
       "indicacionesExtras": [
         "No hagas poomsae si Bryan no te la asignó.",
-        "Poomsae puede combinarse con Principiantes, Intermedios o Avanzados."
+        "Poomsae puede combinarse con Principiantes, Intermedios o Avanzados.",
+        "Cuida preparación, dirección, mirada, timing y postura.",
+        "No hagas los movimientos en automático; piensa cada detalle."
       ],
       "notasFinales": [
         "Poomsae se entrena con atención: preparación, dirección, timing y postura."
