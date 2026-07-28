@@ -1,0 +1,223 @@
+.systemTabsShell{
+  position: sticky;
+  top: 10px;
+  z-index: 8;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0,1fr));
+  gap: 10px;
+  margin: 18px 0 22px;
+  padding: 10px;
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  background: rgba(10,10,14,.82);
+  backdrop-filter: blur(14px);
+  box-shadow: var(--shadow);
+}
+body.light .systemTabsShell{
+  background: rgba(255,255,255,.86);
+}
+.systemTabButton{
+  min-width: 0;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 12px 10px;
+  background: rgba(255,255,255,.04);
+  color: var(--text);
+  cursor: pointer;
+  text-align: left;
+  transition: transform .18s ease, border-color .18s ease, background .18s ease;
+}
+.systemTabButton:hover{
+  transform: translateY(-1px);
+  border-color: rgba(255,59,59,.65);
+}
+.systemTabButton.active{
+  background: linear-gradient(135deg, rgba(255,59,59,.24), rgba(255,255,255,.06));
+  border-color: rgba(255,59,59,.9);
+  box-shadow: inset 0 -2px 0 rgba(255,59,59,.8);
+}
+.systemTabButton span{
+  display:block;
+  font-weight: 900;
+  letter-spacing: -.02em;
+  font-size: clamp(.86rem, 1.05vw, 1.02rem);
+}
+.systemTabButton small{
+  display:block;
+  margin-top:4px;
+  color: var(--muted);
+  font-size: .7rem;
+  line-height: 1.15;
+}
+.systemNotice{
+  margin: 14px 0;
+  padding: 13px 14px;
+  border-radius: 16px;
+  border: 1px solid rgba(255,59,59,.32);
+  background: rgba(255,59,59,.08);
+  color: var(--text);
+}
+.systemTabPanel{
+  animation: systemTabFade .2s ease;
+}
+.textInstructions{
+  padding: 16px 18px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: rgba(255,255,255,.04);
+}
+body.light .textInstructions{
+  background: rgba(0,0,0,.03);
+}
+.textInstructions ol{
+  margin: 0;
+  padding-left: 22px;
+}
+.textInstructions li{
+  margin: 0 0 10px;
+  line-height: 1.55;
+  color: var(--text);
+}
+.textInstructions li:last-child{
+  margin-bottom: 0;
+}
+.poomsaeFinder{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+}
+.poomsaeFinderGrid{
+  display:grid;
+  grid-template-columns: minmax(0,1fr) minmax(0,.7fr) auto;
+  gap:12px;
+  align-items:end;
+}
+.poomsaeFinder label{
+  display:flex;
+  flex-direction:column;
+  gap:7px;
+  font-weight:800;
+  color:var(--text);
+}
+.poomsaeFinder label span{
+  font-size:.82rem;
+  color:var(--muted);
+  text-transform:uppercase;
+  letter-spacing:.08em;
+}
+.poomsaeFinder select{
+  width:100%;
+  min-height:44px;
+  border:1px solid var(--border);
+  border-radius:14px;
+  background:rgba(0,0,0,.35);
+  color:var(--text);
+  padding:10px 12px;
+  font-weight:800;
+  outline:none;
+}
+.poomsaeFinder select:focus{
+  border-color:rgba(255,59,59,.78);
+  box-shadow:0 0 0 3px rgba(255,59,59,.14);
+}
+body.light .poomsaeFinder select{
+  background:#fff;
+  color:#111;
+}
+.poomsaeSearchResults{
+  margin-top:14px;
+}
+.poomsaeEmptyState{
+  border:1px dashed rgba(255,255,255,.22);
+  border-radius:18px;
+  padding:16px;
+  color:var(--text);
+  background:rgba(255,255,255,.035);
+}
+body.light .poomsaeEmptyState{
+  border-color:rgba(0,0,0,.16);
+  background:rgba(0,0,0,.03);
+}
+.poomsaeEmptyState p{
+  margin:8px 0 0;
+  line-height:1.55;
+  color:var(--muted);
+}
+.poomsaeResultTitle{
+  margin:0 0 14px;
+  padding:13px 14px;
+  border-radius:16px;
+  border:1px solid rgba(255,59,59,.3);
+  background:rgba(255,59,59,.08);
+  color:var(--text);
+}
+.systemBackTop{
+  position: fixed;
+  right: max(18px, env(safe-area-inset-right));
+  bottom: max(18px, env(safe-area-inset-bottom));
+  width: 46px;
+  height: 46px;
+  border: 1px solid rgba(255,59,59,.72);
+  border-radius: 50%;
+  background: #08080a;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 1;
+  cursor: pointer;
+  z-index: 20;
+  box-shadow: 0 18px 40px rgba(0,0,0,.42);
+  transition: transform .18s ease, background .18s ease, border-color .18s ease;
+}
+.systemBackTop:hover{
+  transform: translateY(-2px);
+  border-color: rgba(255,59,59,1);
+  background: #111;
+}
+.systemBackTop:focus-visible{
+  outline: 2px solid rgba(255,59,59,.85);
+  outline-offset: 3px;
+}
+body.light .systemBackTop{
+  background: #fff;
+  color: #111;
+  box-shadow: 0 18px 35px rgba(0,0,0,.18);
+}
+@keyframes systemTabFade{
+  from{opacity:0; transform:translateY(6px)}
+  to{opacity:1; transform:none}
+}
+@media (max-width: 1100px){
+  .systemTabsShell{
+    grid-template-columns: repeat(3, minmax(0,1fr));
+  }
+}
+@media (max-width: 760px){
+  .poomsaeFinderGrid{
+    grid-template-columns:1fr;
+  }
+}
+@media (max-width: 700px){
+  .systemTabsShell{
+    grid-template-columns: repeat(2, minmax(0,1fr));
+    position: static;
+  }
+}
+@media (max-width: 520px){
+  .systemTabsShell{
+    grid-template-columns: 1fr;
+    gap: 8px;
+    padding: 8px;
+    border-radius: 18px;
+  }
+  .systemTabButton{
+    padding: 10px 12px;
+  }
+  .systemBackTop{
+    width: 42px;
+    height: 42px;
+    font-size: 22px;
+    right: 14px;
+    bottom: 14px;
+  }
+}
