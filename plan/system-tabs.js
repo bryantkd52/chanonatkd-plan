@@ -1,5 +1,26 @@
 (function(){
   let activeTabKey = "principiantes";
+  let poomsaeLibraryState = {
+    poomsae: "Taeguk 1",
+    linea: "1",
+    searched: false
+  };
+
+  const POOMSAE_LINE_COUNTS = [
+    { nombre:"Taeguk 1", lineas:6 },
+    { nombre:"Taeguk 2", lineas:6 },
+    { nombre:"Taeguk 3", lineas:6 },
+    { nombre:"Taeguk 4", lineas:6 },
+    { nombre:"Taeguk 5", lineas:6 },
+    { nombre:"Taeguk 6", lineas:6 },
+    { nombre:"Taeguk 7", lineas:6 },
+    { nombre:"Taeguk 8", lineas:6 },
+    { nombre:"Koryo", lineas:4 },
+    { nombre:"Keumgang", lineas:9 },
+    { nombre:"Taebaek", lineas:5 },
+    { nombre:"Pyonwong", lineas:4 },
+    { nombre:"Sipjin", lineas:4 }
+  ];
 
   function isSystemPlan(plan){
     return Array.isArray(plan?.sistemaTabs) && plan.sistemaTabs.length > 0;
@@ -76,6 +97,131 @@
       </div>`;
   }
 
+  function getLineCount(poomsaeName){
+    return (POOMSAE_LINE_COUNTS.find(x => x.nombre === poomsaeName) || POOMSAE_LINE_COUNTS[0]).lineas;
+  }
+
+  function renderLineOptions(poomsaeName){
+    const count = getLineCount(poomsaeName);
+    return Array.from({length:count}, (_,i)=>String(i+1))
+      .map(n=>`<option value="${n}" ${n === String(poomsaeLibraryState.linea) ? "selected" : ""}>Línea ${n}</option>`)
+      .join("");
+  }
+
+  function poomsaeOptions(){
+    return POOMSAE_LINE_COUNTS.map(x=>`<option value="${safeHtml(x.nombre)}" ${x.nombre === poomsaeLibraryState.poomsae ? "selected" : ""}>${safeHtml(x.nombre)}</option>`).join("");
+  }
+
+  function buildPoomsaeLineItems(poomsaeName, lineNumber){
+    return [
+      {
+        titulo: `${poomsaeName} - Línea ${lineNumber}: ejecución completa`,
+        dia: "Según indicación de Bryan",
+        tipo: "info",
+        enfoque: `Objetivo: ejecutar la línea ${lineNumber} completa cuidando dirección, postura, mirada, ritmo y final claro de cada movimiento.`,
+        reps: "10 reps / 2 series"
+      },
+      {
+        titulo: `${poomsaeName} - Línea ${lineNumber}: preparación y transiciones`,
+        dia: "Antes de hacer velocidad",
+        tipo: "info",
+        enfoque: "Objetivo: trabajar lento las preparaciones de brazos, cambios de posición y conexión entre movimiento y movimiento.",
+        reps: "8 a 10 reps lentas / 2 series"
+      },
+      {
+        titulo: `${poomsaeName} - Línea ${lineNumber}: movimiento clave`,
+        dia: "Después de la línea completa",
+        tipo: "info",
+        enfoque: "Objetivo: elegir el movimiento que Bryan indicó esta semana y repetirlo con atención, sin hacerlo automático todavía.",
+        reps: "10 a 15 reps conscientes / 2 series"
+      },
+      {
+        titulo: `${poomsaeName} - Línea ${lineNumber}: ritmo y retención`,
+        dia: "Al final del bloque",
+        tipo: "info",
+        enfoque: "Objetivo: sostener posiciones con fuerza de base, controlar respiración y marcar los segundos reglamentarios cuando aplique.",
+        reps: "3 ejecuciones completas con pausa técnica"
+      }
+    ];
+  }
+
+  function renderPoomsaeSearchResults(){
+    if(!poomsaeLibraryState.searched){
+      return `
+        <div class="poomsaeEmptyState">
+          <strong>Cómo usarlo:</strong>
+          <p>Elige una poomsae, elige una línea y presiona <b>Buscar</b>. Ahí aparecerán las tarjetas de trabajo para esa línea.</p>
+          <p>Ejemplo: Bryan puede decirte “esta semana trabaja Taeguk 4 línea 1 y enfócate en el movimiento que vimos”.</p>
+        </div>`;
+    }
+    const p = poomsaeLibraryState.poomsae;
+    const line = poomsaeLibraryState.linea;
+    return `
+      <div class="poomsaeResultTitle">
+        <strong>Resultado:</strong> ${safeHtml(p)} • Línea ${safeHtml(line)}
+      </div>
+      ${renderList(buildPoomsaeLineItems(p, line), "Poomsae", "Según indicación de Bryan")}`;
+  }
+
+  function renderPoomsaeLibrary(tab){
+    return section(`tab-${tab.id}-buscador`, "Buscador de Poomsae", "Selecciona poomsae y línea", `
+      <div class="poomsaeFinder">
+        <div class="poomsaeFinderGrid">
+          <label>
+            <span>Poomsae</span>
+            <select id="poomsaeNameSelect">${poomsaeOptions()}</select>
+          </label>
+          <label>
+            <span>Línea</span>
+            <select id="poomsaeLineSelect">${renderLineOptions(poomsaeLibraryState.poomsae)}</select>
+          </label>
+          <button id="poomsaeSearchBtn" class="action primary" type="button">🔎 Buscar</button>
+        </div>
+        <div class="systemNotice">
+          <strong>Uso:</strong> Busca exactamente la poomsae y línea que Bryan te indique. También puedes explorar otras líneas para repasar.
+        </div>
+      </div>
+      <div id="poomsaeSearchResults" class="poomsaeSearchResults">${renderPoomsaeSearchResults()}</div>`);
+  }
+
+  function setupPoomsaeLibrary(){
+    const poomsaeSelect = document.getElementById("poomsaeNameSelect");
+    const lineSelect = document.getElementById("poomsaeLineSelect");
+    const searchBtn = document.getElementById("poomsaeSearchBtn");
+    const results = document.getElementById("poomsaeSearchResults");
+    if(!poomsaeSelect || !lineSelect || !searchBtn || !results) return;
+
+    function syncLineOptions(){
+      const count = getLineCount(poomsaeSelect.value);
+      const current = Math.min(Number(poomsaeLibraryState.linea || 1), count);
+      poomsaeLibraryState.linea = String(current || 1);
+      lineSelect.innerHTML = Array.from({length:count}, (_,i)=>String(i+1))
+        .map(n=>`<option value="${n}" ${n === poomsaeLibraryState.linea ? "selected" : ""}>Línea ${n}</option>`)
+        .join("");
+    }
+
+    poomsaeSelect.addEventListener("change", ()=>{
+      poomsaeLibraryState.poomsae = poomsaeSelect.value;
+      poomsaeLibraryState.linea = "1";
+      poomsaeLibraryState.searched = false;
+      syncLineOptions();
+      results.innerHTML = renderPoomsaeSearchResults();
+    });
+
+    lineSelect.addEventListener("change", ()=>{
+      poomsaeLibraryState.linea = lineSelect.value;
+      poomsaeLibraryState.searched = false;
+      results.innerHTML = renderPoomsaeSearchResults();
+    });
+
+    searchBtn.addEventListener("click", ()=>{
+      poomsaeLibraryState.poomsae = poomsaeSelect.value;
+      poomsaeLibraryState.linea = lineSelect.value;
+      poomsaeLibraryState.searched = true;
+      results.innerHTML = renderPoomsaeSearchResults();
+    });
+  }
+
   function renderTrainingTab(tab){
     const split = splitPoomsae(tab);
     const notas = Array.isArray(tab.notasFinales) ? tab.notasFinales : [];
@@ -94,8 +240,9 @@
     }else if(tab.id === "pateo"){
       parts.push(section(`tab-${tab.id}-pateo`, "Pateo técnico", "Común para intermedios y avanzados", renderList(tab.pateoTecnico, "Pateo", tab.pateoDias)));
     }else if(tab.id === "poomsae"){
-      parts.push(section(`tab-${tab.id}-poomsae`, "Poomsae", "Técnica específica", renderList(split.poomsae, "Poomsae", tab.poomsaeDias)));
-      parts.push(section(`tab-${tab.id}-clases`, "Clases grabadas", "Sesiones completas", renderList(split.clasesGrabadas, "Clase", "Cuando corresponda")));
+      parts.push(renderPoomsaeLibrary(tab));
+      if(split.poomsae.length) parts.push(section(`tab-${tab.id}-poomsae-destacado`, "Poomsae destacado", "Recursos seleccionados", renderList(split.poomsae, "Poomsae", tab.poomsaeDias)));
+      if(split.clasesGrabadas.length) parts.push(section(`tab-${tab.id}-clases`, "Clases grabadas", "Sesiones completas", renderList(split.clasesGrabadas, "Clase", "Cuando corresponda")));
     }else{
       if(Array.isArray(tab.calentamiento) && tab.calentamiento.length) parts.push(section(`tab-${tab.id}-calentamiento`, calentamientoTitulo, "Preparación inicial", renderList(tab.calentamiento, "Calentamiento", "Antes de entrenar")));
       if(Array.isArray(tab.chanonaflex) && tab.chanonaflex.length) parts.push(section(`tab-${tab.id}-chanonaflex`, "ChanonaFlex", "Flexibilidad", renderList(tab.chanonaflex, "ChanonaFlex", tab.chanonaflexDias)));
@@ -162,6 +309,10 @@
       setupTimer();
       setupBot();
       setupTodayCheck();
+    }
+
+    if(active.id === "poomsae"){
+      setupPoomsaeLibrary();
     }
 
     const scrollBtn = document.getElementById("scrollTodayBtn");
