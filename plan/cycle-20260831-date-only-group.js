@@ -7,7 +7,6 @@
     "evan_mael",
     "mtro_mariano_agustina",
     "mariano_agustina",
-    "rodrigo_barba",
     "rodrigo_jalisco"
   ]);
 
