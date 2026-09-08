@@ -1,0 +1,122 @@
+{
+  "updated_at": "Actualizado martes 8 de septiembre de 2026",
+  "nivel": "Dragones",
+  "ciclo": "Lunes 7 al sábado 12 de septiembre de 2026",
+  "enfoque_corto": "Technique de Koryo en profondeur",
+  "enfoque": "Bienvenue dans le programme ChanonaTKD. Cette première semaine va nous aider à entrer dans le travail technique de Koryo avec plus de profondeur, plus de contrôle et plus de détails fins.",
+  "chanonaflexDias": "Avant l'entraînement",
+  "isometricoDias": "Lundi et vendredi / mardi et jeudi / mercredi et samedi",
+  "pateoDias": "Lundi, mercredi et vendredi / mardi à jeudi selon l'exercice",
+  "poomsaeDias": "Travail technique orienté vers Koryo",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "dia": "AVANT L'ENTRAÎNEMENT",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing",
+      "enfoque": "Préparer le corps avec calme avant le travail principal.",
+      "reps": "Suivre la vidéo"
+    },
+    {
+      "titulo": "Estiramiento inicial con bloque",
+      "dia": "AVANT L'ENTRAÎNEMENT",
+      "tipo": "info",
+      "enfoque": "Utiliser le bloc pour trouver une meilleure ouverture, sans forcer la hanche ni perdre l'alignement.",
+      "reps": "Travail contrôlé"
+    }
+  ],
+  "isometrico": [
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "dia": "LUNDI - VENDREDI",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "enfoque": "Renforcer le fessier, la hanche et la base pour mieux soutenir la jambe.",
+      "reps": "Suivre la vidéo"
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "dia": "MARDI - JEUDI",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
+      "enfoque": "Travailler la chambre, l'appui, la hanche et l'alignement du Yop Chagui.",
+      "reps": "Suivre la vidéo"
+    },
+    {
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 1",
+      "dia": "MERCREDI - SAMEDI",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
+      "enfoque": "Travailler la montée du genou, la ligne du corps et le retour propre de la jambe.",
+      "reps": "Suivre la vidéo"
+    }
+  ],
+  "pateoTecnico": [
+    {
+      "titulo": "Torción de cadera con banda elástica",
+      "dia": "LUNDI - MERCREDI - VENDREDI",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy",
+      "enfoque": "Travailler la direction de la hanche avec résistance et contrôle.",
+      "reps": "10 reps / 2 séries"
+    },
+    {
+      "titulo": "Circuito elevacion + sostener + circular",
+      "dia": "LUNDI - MERCREDI - VENDREDI",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP",
+      "enfoque": "Travailler l'élévation du genou, le maintien et le contrôle circulaire.",
+      "reps": "10 reps / 3 séries"
+    },
+    {
+      "titulo": "Ap Chagui contra pared",
+      "dia": "LUNDI - VENDREDI",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link",
+      "enfoque": "Travailler l'alignement de l'Ap Chagui, l'appui et la posture.",
+      "reps": "10 reps / 2 séries"
+    },
+    {
+      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
+      "dia": "LUNDI À VENDREDI",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link",
+      "enfoque": "Renforcer la cheville et la base d'appui pour un meilleur contrôle.",
+      "reps": "10 reps par côté / 1 série"
+    },
+    {
+      "titulo": "Sentadilla Ap Chagui",
+      "dia": "LUNDI - VENDREDI",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing",
+      "enfoque": "Travailler la force des jambes et le contrôle technique de l'Ap Chagui.",
+      "reps": "10 reps / 2 séries"
+    },
+    {
+      "titulo": "Yop Chagui + toque piso + equilibrio",
+      "dia": "LUNDI - MERCREDI",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1ZQ3ud3bkEQJcvSnUelWDVR4ECdwv1_Vn&usp=drive_copy",
+      "enfoque": "Travailler la chambre, le toucher au sol, l'équilibre et le retour contrôlé.",
+      "reps": "5 reps / 2 séries"
+    }
+  ],
+  "poomsae": [],
+  "clasesGrabadas": [],
+  "indicacionesExtras": [
+    "Bienvenue Nancy. Pour cette première semaine, utilise ce plan comme une carte simple: regarde les jours, ouvre la vidéo et travaille sans te presser.",
+    "Ne cherche pas seulement la hauteur. Cherche d'abord une hanche stable, une jambe de soutien forte et un retour propre de chaque coup de pied.",
+    "Comme tu commences avec le programme, prends ton temps pour comprendre la logique: préparation du corps, force isométrique, puis technique.",
+    "Si quelque chose n'est pas clair, demande-moi. Le but est de corriger les détails tôt pour construire Koryo avec plus de profondeur."
+  ],
+  "apuntes": [
+    "Bienvenue au programme ChanonaTKD.",
+    "Cette semaine, avance avec calme et qualité.",
+    "Le plus important est de protéger la technique dès le début."
+  ],
+  "notasFinales": [
+    "Bienvenue dans le programme ChanonaTKD. Ici, nous allons travailler ton Poomsae avec plus de profondeur, plus de détails fins et une meilleure lecture technique.",
+    "Ce cycle va t'aider à construire une base plus claire pour potentialiser Koryo: hanche, appui, équilibre, contrôle et finalisation de chaque mouvement.",
+    "Travaille avec calme, mais avec intention. Chaque répétition doit t'aider à comprendre un peu plus ton corps et ta technique."
+  ]
+}
