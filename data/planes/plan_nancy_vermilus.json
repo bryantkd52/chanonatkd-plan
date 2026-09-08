@@ -7,7 +7,7 @@
   "chanonaflexDias": "Avant l'entraînement",
   "isometricoDias": "Lundi et vendredi / mardi et jeudi / mercredi et samedi",
   "pateoDias": "Lundi, mercredi et vendredi / mardi à jeudi selon l'exercice",
-  "poomsaeDias": "Travail technique orienté vers Koryo",
+  "poomsaeDias": "Koryo ligne 1: lundi à vendredi",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
@@ -43,7 +43,7 @@
       "reps": "Suivre la vidéo"
     },
     {
-      "titulo": "Isométrico activo - Ap Chagui - Nivel 1",
+      "titulo": "Isométrico actif - Ap Chagui - Niveau 1",
       "dia": "MERCREDI - SAMEDI",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
@@ -101,7 +101,16 @@
       "reps": "5 reps / 2 séries"
     }
   ],
-  "poomsae": [],
+  "poomsae": [
+    {
+      "titulo": "Koryo - Ligne 1",
+      "dia": "LUNDI À VENDREDI",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK&usp=drive_copy",
+      "enfoque": "Se concentrer sur les mouvements lents. Utilise les outils de Google Drive pour ralentir la vidéo et analyser chaque mouvement avec calme.",
+      "reps": "20 minutes"
+    }
+  ],
   "clasesGrabadas": [],
   "indicacionesExtras": [
     "Bienvenue Nancy. Pour cette première semaine, utilise ce plan comme une carte simple: regarde les jours, ouvre la vidéo et travaille sans te presser.",
