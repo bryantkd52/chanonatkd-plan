@@ -9,9 +9,11 @@
     "rodrigo_jalisco"
   ]);
 
-  const VERSION = "cycle-20260907-g1-common-2";
+  const VERSION = "cycle-20260907-g1-common-3";
   const CYCLE = "Lunes 7 al sábado 12 de septiembre de 2026";
   const UPDATED = "Actualizado viernes 11 de septiembre de 2026";
+  const FOCUS_SHORT = "Ciclo 7 al 12 de septiembre: flexibilidad inicial, fuerza isométrica y pateo técnico";
+  const FOCUS = "Continuamos trabajando este ciclo del lunes 7 al sábado 12 de septiembre de 2026 con una estructura clara: Chanonaflex antes de entrenar, fuerza isométrica por días y pateo técnico para cuidar base, control, cadera y equilibrio.";
 
   const LINKS = {
     pre: "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing",
@@ -26,6 +28,20 @@
     sentadillaAp: "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing",
     yopToquePiso: "https://drive.google.com/open?id=1ZQ3ud3bkEQJcvSnUelWDVR4ECdwv1_Vn&usp=drive_copy"
   };
+
+  function current(){
+    return new URL(location.href).searchParams.get("alumno") || "";
+  }
+
+  function isTarget(){
+    return TARGETS.has(current());
+  }
+
+  function item(titulo, dia, enfoque, reps, tipo, url){
+    const data = { titulo, dia, enfoque, reps, tipo: tipo || (url ? "video" : "info") };
+    if(url) data.url = url;
+    return data;
+  }
 
   const CHANONAFLEX = [
     item("Pre-Chanonaflex - Estiramiento inicial", "ANTES DE ENTRENAR", "Preparar el cuerpo antes del trabajo principal.", "Según indicación del video", "video", LINKS.pre),
@@ -47,26 +63,6 @@
     item("Yop Chagui + toque piso + equilibrio", "LUNES - MIÉRCOLES", "Trabajar cámara de Yop Chagui, toque controlado al piso y equilibrio sin prisa.", "5 reps / 2 series", "video", LINKS.yopToquePiso)
   ];
 
-  function current(){
-    return new URL(location.href).searchParams.get("alumno") || "";
-  }
-
-  function isTarget(){
-    return TARGETS.has(current());
-  }
-
-  function h(value){
-    const div = document.createElement("div");
-    div.textContent = String(value ?? "");
-    return div.innerHTML;
-  }
-
-  function item(titulo, dia, enfoque, reps, tipo, url){
-    const data = { titulo, dia, enfoque, reps, tipo: tipo || (url ? "video" : "info") };
-    if(url) data.url = url;
-    return data;
-  }
-
   function cloneItems(items){
     return items.map(entry => ({ ...entry }));
   }
@@ -75,6 +71,8 @@
     if(!plan || !isTarget()) return plan;
     plan.ciclo = CYCLE;
     plan.updated_at = UPDATED;
+    plan.enfoque_corto = FOCUS_SHORT;
+    plan.enfoque = FOCUS;
     plan.chanonaflexDias = "Antes de entrenar";
     plan.isometricoDias = "lunes y viernes / martes y jueves / miércoles y sábado";
     plan.pateoDias = "lunes, miércoles y viernes / martes, jueves y sábado según ejercicio";
@@ -84,100 +82,29 @@
     return plan;
   }
 
-  function renderItem(entry, index, badge){
-    const label = entry.tipo === "video" ? "VIDEO" : "INFO";
-    const button = entry.url ? `<div class="actions"><a class="action primary" href="${h(entry.url)}" target="_blank" rel="noreferrer">▶ Reproducir</a></div>` : "";
-    return `
-      <article class="itemRow">
-        <div class="itemTop">
-          <div>
-            <p class="itemTitle">${h(entry.titulo)}</p>
-            <div class="meta daysMeta"><b>Días:</b> ${h(entry.dia)}</div>
-            <div class="meta"><b>Enfoque:</b> ${h(entry.enfoque)}</div>
-            <div class="meta"><b>Reps:</b> ${h(entry.reps)}</div>
-          </div>
-          <div class="badgeRow"><span class="badge">${index}</span><span class="badge ${entry.tipo === "video" ? "ok" : ""}">${label}</span><span class="badge red">${h(badge)}</span></div>
-        </div>
-        ${button}
-      </article>`;
-  }
-
-  function renderList(items, badge){
-    return `<div class="cardsGrid">${items.map((entry, index) => renderItem(entry, index + 1, badge)).join("")}</div>`;
-  }
-
-  function patchSection(id, title, subtitle, items, badge){
-    const section = document.getElementById(id);
-    const body = section?.querySelector(".sectionBody");
-    if(!body) return;
-
-    const heading = section.querySelector("h3");
-    const eyebrow = section.querySelector(".eyebrow");
-    if(heading && title) heading.textContent = title;
-    if(eyebrow && subtitle) eyebrow.textContent = subtitle;
-    body.dataset.cycle20260907Version = VERSION;
-    body.innerHTML = renderList(items, badge);
-  }
-
-  function patchHero(){
+  function verifyHeroOnce(){
+    if(!isTarget()) return;
     const sub = document.getElementById("planSub");
-    if(sub){
-      const text = sub.textContent || "";
-      sub.textContent = text.includes("• Para:")
-        ? text.replace(/Ciclo:\s*.*?\s*•\s*Para:/, `Ciclo: ${CYCLE} • Para:`)
-        : `Ciclo: ${CYCLE}`;
+    if(sub && !sub.textContent.includes(CYCLE)){
+      const para = sub.textContent.includes("• Para:") ? sub.textContent.split("• Para:").pop().trim() : "";
+      sub.textContent = para ? `Ciclo: ${CYCLE} • Para: ${para}` : `Ciclo: ${CYCLE}`;
+    }
+    const focus = document.getElementById("chipFocus");
+    if(focus && !focus.textContent.includes("7 al 12 de septiembre")){
+      focus.textContent = `🎯 Enfoque: ${FOCUS_SHORT}`;
     }
     const updated = document.getElementById("chipUpdated");
-    if(updated) updated.textContent = `🕒 ${UPDATED}`;
-  }
-
-  function patchResumen(){
-    const section = document.getElementById("resumen");
-    if(!section) return;
-    const lis = [...section.querySelectorAll("li")];
-    lis.forEach(li => {
-      const text = li.textContent || "";
-      if(text.includes("ChanonaFlex:")) li.innerHTML = `<b>ChanonaFlex:</b> Antes de entrenar`;
-      if(text.includes("Isométricos:")) li.innerHTML = `<b>Isométricos:</b> lunes y viernes / martes y jueves / miércoles y sábado`;
-      if(text.includes("Pateo técnico:")) li.innerHTML = `<b>Pateo técnico:</b> lunes, miércoles y viernes / martes, jueves y sábado según ejercicio`;
-    });
-  }
-
-  function patchDom(){
-    if(!isTarget()) return;
-    patchHero();
-    patchResumen();
-    patchSection("chanonaflex", "ChanonaFlex", "Flexibilidad", CHANONAFLEX, "ChanonaFlex");
-    patchSection("isometricos", "Isométricos", "Fuerza y control", ISOMETRICOS, "Isométrico");
-    patchSection("pateo", "Pateo técnico", "Ap Chagui / Yop Chagui", PATEO, "Pateo");
-  }
-
-  function schedulePatch(){
-    setTimeout(patchDom, 0);
-    setTimeout(patchDom, 250);
-    setTimeout(patchDom, 700);
-    setTimeout(patchDom, 1200);
-    setTimeout(patchDom, 2000);
+    if(updated && !updated.textContent.includes(UPDATED)){
+      updated.textContent = `🕒 ${UPDATED}`;
+    }
   }
 
   const previousRenderPage = typeof renderPage === "function" ? renderPage : null;
   if(previousRenderPage){
     renderPage = function(plan, alumno){
-      previousRenderPage(patchPlan(plan), alumno);
-      patchPlan(plan);
-      schedulePatch();
+      const result = previousRenderPage(patchPlan(plan), alumno);
+      requestAnimationFrame(verifyHeroOnce);
+      return result;
     };
   }
-
-  document.addEventListener("click", () => {
-    setTimeout(patchDom, 120);
-    setTimeout(patchDom, 450);
-  }, true);
-
-  document.addEventListener("change", () => {
-    setTimeout(patchDom, 120);
-    setTimeout(patchDom, 450);
-  }, true);
-
-  schedulePatch();
 })();
