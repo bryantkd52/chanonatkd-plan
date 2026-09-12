@@ -1,13 +1,7 @@
 (function(){
   const TARGETS = new Set([
-    "sr_jeremias",
     "luis_holanda",
-    "mario_lopez",
-    "evan_mael",
-    "martin_morales",
-    "daniele_biasetti",
-    "mtro_mariano_agustina",
-    "rodrigo_jalisco"
+    "martin_morales"
   ]);
 
   const CYCLE = "Lunes 17 al sábado 29 de agosto de 2026";
@@ -90,7 +84,9 @@
       </article>`;
   }
 
-  function updateHero(){
+  function apply(){
+    if(!isTarget()) return;
+
     const sub = document.getElementById("planSub");
     if(sub){
       const text = sub.textContent || "";
@@ -98,41 +94,27 @@
         ? text.replace(/Ciclo:\s*.*?\s*•\s*Para:/, `Ciclo: ${CYCLE} • Para:`)
         : `Ciclo: ${CYCLE}`;
     }
+
     const updated = document.getElementById("chipUpdated");
     if(updated) updated.textContent = `🕒 ${UPDATED}`;
-  }
 
-  function updateResumen(){
-    const section = document.getElementById("resumen");
-    if(!section) return;
-    const body = section.querySelector(".sectionBody");
-    if(!body) return;
-    const p = body.querySelector("p");
-    if(p) p.textContent = SUMMARY;
-    [...body.querySelectorAll("li")].forEach(li => {
+    const resumen = document.getElementById("resumen");
+    const resumenBody = resumen?.querySelector(".sectionBody");
+    const resumenText = resumenBody?.querySelector("p");
+    if(resumenText) resumenText.textContent = SUMMARY;
+    resumenBody?.querySelectorAll("li").forEach(li => {
       const text = (li.textContent || "").toLowerCase();
-      if(text.includes("pateo técnico")){
-        li.innerHTML = `<b>Pateo técnico:</b> ${h(PATEO_DAYS)}`;
-      }
+      if(text.includes("pateo técnico")) li.innerHTML = `<b>Pateo técnico:</b> ${h(PATEO_DAYS)}`;
     });
-  }
 
-  function updatePateo(){
-    const section = document.getElementById("pateo");
-    if(!section) return;
-    const eyebrow = section.querySelector(".eyebrow");
-    const body = section.querySelector(".sectionBody");
+    const pateo = document.getElementById("pateo");
+    const eyebrow = pateo?.querySelector(".eyebrow");
+    const body = pateo?.querySelector(".sectionBody");
     if(eyebrow) eyebrow.textContent = "Yop Chagui / Ap Chagui / Banda elástica";
-    if(!body || body.dataset.cycle20260817G1 === "1") return;
-    body.dataset.cycle20260817G1 = "1";
-    body.innerHTML = `<div class="cardsGrid">${PATEO.map((item, i) => card(item, i + 1)).join("")}</div>`;
-  }
-
-  function apply(){
-    if(!isTarget()) return;
-    updateHero();
-    updateResumen();
-    updatePateo();
+    if(body && body.dataset.cycle20260817G1 !== "1"){
+      body.dataset.cycle20260817G1 = "1";
+      body.innerHTML = `<div class="cardsGrid">${PATEO.map((item, i) => card(item, i + 1)).join("")}</div>`;
+    }
   }
 
   const previousRenderPage = typeof renderPage === "function" ? renderPage : null;
@@ -143,8 +125,4 @@
       return result;
     };
   }
-
-  setTimeout(apply, 300);
-  setTimeout(apply, 900);
-  setTimeout(apply, 1800);
 })();
