@@ -9,17 +9,18 @@
     "rodrigo_jalisco"
   ]);
 
-  const VERSION = "cycle-20260907-g1-common-1";
+  const VERSION = "cycle-20260907-g1-common-2";
   const CYCLE = "Lunes 7 al sábado 12 de septiembre de 2026";
-  const UPDATED = "Actualizado martes 8 de septiembre de 2026";
+  const UPDATED = "Actualizado viernes 11 de septiembre de 2026";
 
   const LINKS = {
     pre: "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing",
+    bloque: "https://drive.google.com/file/d/13FYNM5nMd65YYPXZC9iuQTQ_dJUvnH1m/view?usp=sharing",
     gluteo: "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
     yopIso1: "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
     apIso1: "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
     caderaBanda: "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy",
-    circuitoElevacion: "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP",
+    circuitoElevacion: "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP&usp=drive_copy",
     apPared: "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link",
     tobilloBanda: "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link",
     sentadillaAp: "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing",
@@ -28,7 +29,7 @@
 
   const CHANONAFLEX = [
     item("Pre-Chanonaflex - Estiramiento inicial", "ANTES DE ENTRENAR", "Preparar el cuerpo antes del trabajo principal.", "Según indicación del video", "video", LINKS.pre),
-    item("Estiramiento inicial con bloque", "ANTES DE ENTRENAR", "Usar el bloque para mejorar apertura, alineación y control sin forzar el movimiento.", "Trabajo controlado", "info", "")
+    item("Estiramiento inicial con bloque", "ANTES DE ENTRENAR", "Usar el bloque para mejorar apertura, alineación y control sin forzar el movimiento.", "Según indicación del video", "video", LINKS.bloque)
   ];
 
   const ISOMETRICOS = [
@@ -66,6 +67,23 @@
     return data;
   }
 
+  function cloneItems(items){
+    return items.map(entry => ({ ...entry }));
+  }
+
+  function patchPlan(plan){
+    if(!plan || !isTarget()) return plan;
+    plan.ciclo = CYCLE;
+    plan.updated_at = UPDATED;
+    plan.chanonaflexDias = "Antes de entrenar";
+    plan.isometricoDias = "lunes y viernes / martes y jueves / miércoles y sábado";
+    plan.pateoDias = "lunes, miércoles y viernes / martes, jueves y sábado según ejercicio";
+    plan.chanonaflex = cloneItems(CHANONAFLEX);
+    plan.isometrico = cloneItems(ISOMETRICOS);
+    plan.pateoTecnico = cloneItems(PATEO);
+    return plan;
+  }
+
   function renderItem(entry, index, badge){
     const label = entry.tipo === "video" ? "VIDEO" : "INFO";
     const button = entry.url ? `<div class="actions"><a class="action primary" href="${h(entry.url)}" target="_blank" rel="noreferrer">▶ Reproducir</a></div>` : "";
@@ -91,7 +109,7 @@
   function patchSection(id, title, subtitle, items, badge){
     const section = document.getElementById(id);
     const body = section?.querySelector(".sectionBody");
-    if(!body || body.dataset.cycle20260907Version === VERSION) return;
+    if(!body) return;
 
     const heading = section.querySelector("h3");
     const eyebrow = section.querySelector(".eyebrow");
@@ -138,12 +156,15 @@
     setTimeout(patchDom, 0);
     setTimeout(patchDom, 250);
     setTimeout(patchDom, 700);
+    setTimeout(patchDom, 1200);
+    setTimeout(patchDom, 2000);
   }
 
   const previousRenderPage = typeof renderPage === "function" ? renderPage : null;
   if(previousRenderPage){
     renderPage = function(plan, alumno){
-      previousRenderPage(plan, alumno);
+      previousRenderPage(patchPlan(plan), alumno);
+      patchPlan(plan);
       schedulePatch();
     };
   }
