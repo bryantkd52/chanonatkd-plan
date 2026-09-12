@@ -1,13 +1,13 @@
 {
-  "updated_at": "Actualizado martes 8 de septiembre de 2026",
+  "updated_at": "Actualizado viernes 11 de septiembre de 2026",
   "nivel": "Dragones",
   "ciclo": "Lunes 7 al sábado 12 de septiembre de 2026",
   "enfoque_corto": "Technique de Koryo en profondeur",
   "enfoque": "Bienvenue dans le programme ChanonaTKD. Cette première semaine va nous aider à entrer dans le travail technique de Koryo avec plus de profondeur, plus de contrôle et plus de détails fins.",
   "chanonaflexDias": "Avant l'entraînement",
   "isometricoDias": "Lundi et vendredi / mardi et jeudi / mercredi et samedi",
-  "pateoDias": "Lundi, mercredi et vendredi / mardi à jeudi selon l'exercice",
-  "poomsaeDias": "Koryo ligne 1: lundi à vendredi",
+  "pateoDias": "Lundi, mercredi et vendredi / mardi, jeudi et samedi selon l'exercice",
+  "poomsaeDias": "Lundi à vendredi",
   "chanonaflex": [
     {
       "titulo": "Pre-Chanonaflex - Estiramiento inicial",
@@ -20,9 +20,10 @@
     {
       "titulo": "Estiramiento inicial con bloque",
       "dia": "AVANT L'ENTRAÎNEMENT",
-      "tipo": "info",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/13FYNM5nMd65YYPXZC9iuQTQ_dJUvnH1m/view?usp=sharing",
       "enfoque": "Utiliser le bloc pour trouver une meilleure ouverture, sans forcer la hanche ni perdre l'alignement.",
-      "reps": "Travail contrôlé"
+      "reps": "Suivre la vidéo"
     }
   ],
   "isometrico": [
@@ -43,7 +44,7 @@
       "reps": "Suivre la vidéo"
     },
     {
-      "titulo": "Isométrico actif - Ap Chagui - Niveau 1",
+      "titulo": "Isométrico activo - Ap Chagui - Nivel 1",
       "dia": "MERCREDI - SAMEDI",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
@@ -64,7 +65,7 @@
       "titulo": "Circuito elevacion + sostener + circular",
       "dia": "LUNDI - MERCREDI - VENDREDI",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP",
+      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP&usp=drive_copy",
       "enfoque": "Travailler l'élévation du genou, le maintien et le contrôle circulaire.",
       "reps": "10 reps / 3 séries"
     },
