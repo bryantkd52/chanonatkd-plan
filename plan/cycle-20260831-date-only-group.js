@@ -2,12 +2,7 @@
   const TARGETS = new Set([
     "benyoced_calzadilla",
     "emilio_cdmx",
-    "sr_jeremias",
-    "alma_patricia",
-    "evan_mael",
-    "mtro_mariano_agustina",
-    "mariano_agustina",
-    "rodrigo_jalisco"
+    "alma_patricia"
   ]);
 
   const CYCLE = "Lunes 31 de agosto al sábado 12 de septiembre del 2026";
