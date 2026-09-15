@@ -63,27 +63,45 @@
   <script src="./august-plan-preload.js?v=august-plan-preload-20260803-1"></script>
   <script src="./nancy-vermilus-preload.js?v=nancy-vermilus-preload-20260908-1"></script>
   <script src="./cycle-20260907-g1-preload.js?v=cycle-20260907-g1-preload-1"></script>
+  <script src="./cycle-20260915-elite-preload.js?v=cycle-20260915-elite-preload-1"></script>
   <script src="./app.js?v=ui-redesign-20260719"></script>
+
+  <script>
+    window.__loadLegacyCycleScript = function(src){
+      const currentCycle = typeof window.__isCycle20260915Target === "function" && window.__isCycle20260915Target();
+      if(!currentCycle){
+        document.write('<script src="' + src + '"><\\/script>');
+      }
+    };
+  </script>
+
   <script src="./system-tabs.js?v=system-tabs-20260727-poomsae-3"></script>
   <script src="./system-finalizer.js?v=system-finalizer-20260728-2"></script>
   <script src="./system-finalizer-classes.js?v=system-finalizer-classes-20260901-v20-nolag-1"></script>
   <script src="./teacher-notes.js?v=teacher-notes-20260728-1"></script>
-  <script src="./august-plan-updates.js?v=august-plan-updates-20260802-1"></script>
-  <script src="./august-summary-fix.js?v=august-summary-fix-20260802-1"></script>
+
+  <script>window.__loadLegacyCycleScript("./august-plan-updates.js?v=august-plan-updates-20260802-1");</script>
+  <script>window.__loadLegacyCycleScript("./august-summary-fix.js?v=august-summary-fix-20260802-1");</script>
+
   <script src="./cycle-20260817-g1.js?v=cycle-20260817-g1-2"></script>
   <script src="./section-toggles.js?v=ui-redesign-20260719-1"></script>
-  <script src="./rafa-august-final.js?v=rafa-august-final-20260808-1"></script>
-  <script src="./rafa-title-cleanup.js?v=rafa-title-cleanup-20260808-1"></script>
-  <script src="./cycle-20260817-g2.js?v=cycle-20260817-g2-1"></script>
-  <script src="./cycle-20260817-g3.js?v=cycle-20260817-g3-1"></script>
-  <script src="./cycle-20260817-g3-leticia-fix.js?v=cycle-20260817-g3-leticia-fix-1"></script>
-  <script src="./cycle-20260831-elite-group.js?v=cycle-20260831-elite-group-1"></script>
-  <script src="./cycle-20260831-yop-video-fix.js?v=cycle-20260831-yop-video-fix-1"></script>
+
+  <script>window.__loadLegacyCycleScript("./rafa-august-final.js?v=rafa-august-final-20260808-1");</script>
+  <script>window.__loadLegacyCycleScript("./rafa-title-cleanup.js?v=rafa-title-cleanup-20260808-1");</script>
+  <script>window.__loadLegacyCycleScript("./cycle-20260817-g2.js?v=cycle-20260817-g2-1");</script>
+  <script>window.__loadLegacyCycleScript("./cycle-20260817-g3.js?v=cycle-20260817-g3-1");</script>
+  <script>window.__loadLegacyCycleScript("./cycle-20260817-g3-leticia-fix.js?v=cycle-20260817-g3-leticia-fix-1");</script>
+  <script>window.__loadLegacyCycleScript("./cycle-20260831-elite-group.js?v=cycle-20260831-elite-group-1");</script>
+  <script>window.__loadLegacyCycleScript("./cycle-20260831-yop-video-fix.js?v=cycle-20260831-yop-video-fix-1");</script>
+
   <script src="./system-session20-koryo.js?v=system-20260901-noclasses-2"></script>
   <script src="./cycle-20260831-date-only-group.js?v=cycle-20260831-date-only-group-2"></script>
   <script src="./system-beginner-chair-chanonaflex-fix.js?v=system-beginner-chair-chanonaflex-fix-1"></script>
-  <script src="./leticia-poomsae-20260908-fix.js?v=leticia-poomsae-20260908-fix-1"></script>
+
+  <script>window.__loadLegacyCycleScript("./leticia-poomsae-20260908-fix.js?v=leticia-poomsae-20260908-fix-1");</script>
+
   <script src="./cycle-20260907-g1-common.js?v=cycle-20260907-g1-common-3"></script>
-  <script src="./rafa-indicaciones-20260910.js?v=rafa-indicaciones-20260910-1"></script>
+
+  <script>window.__loadLegacyCycleScript("./rafa-indicaciones-20260910.js?v=rafa-indicaciones-20260910-1");</script>
 </body>
 </html>
