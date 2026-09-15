@@ -1,0 +1,139 @@
+/* ChanonaTKD • Poomsae readable layout • Cycle Sep 15–29, 2026 */
+#poomsae .poomsaeSchedule{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:14px;
+}
+
+#poomsae .poomsaeDayCard{
+  border:1px solid var(--line);
+  background:linear-gradient(180deg,rgba(255,31,31,.07),rgba(0,0,0,.20));
+  border-radius:18px;
+  overflow:hidden;
+}
+
+#poomsae .poomsaeDayHead{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  padding:14px 16px;
+  border-bottom:1px solid var(--line);
+  background:rgba(255,31,31,.045);
+}
+
+#poomsae .poomsaeDayDate{
+  margin:0;
+  color:var(--text);
+  font-size:17px;
+  line-height:1.2;
+  font-weight:950;
+}
+
+#poomsae .poomsaeDayCount{
+  flex:0 0 auto;
+  padding:6px 9px;
+  border:1px solid rgba(255,31,31,.38);
+  border-radius:999px;
+  color:var(--muted);
+  background:rgba(255,31,31,.07);
+  font-size:11px;
+  font-weight:800;
+  white-space:nowrap;
+}
+
+#poomsae .poomsaeTaskGrid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:10px;
+  padding:12px;
+}
+
+#poomsae .poomsaeTask{
+  position:relative;
+  min-height:92px;
+  padding:12px 13px 12px 15px;
+  border:1px solid var(--line);
+  border-radius:14px;
+  background:rgba(255,255,255,.035);
+  overflow:hidden;
+}
+
+#poomsae .poomsaeTask::before{
+  content:"";
+  position:absolute;
+  left:0;
+  top:10px;
+  bottom:10px;
+  width:3px;
+  border-radius:999px;
+  background:var(--red);
+  opacity:.82;
+}
+
+#poomsae .poomsaeTaskTitle{
+  margin:0;
+  color:var(--text);
+  font-size:14px;
+  line-height:1.25;
+  font-weight:900;
+  overflow-wrap:anywhere;
+}
+
+#poomsae .poomsaeTaskSub{
+  margin:6px 0 0;
+  color:var(--muted);
+  font-size:12px;
+  line-height:1.35;
+  font-weight:750;
+}
+
+#poomsae .poomsaeTaskDetail{
+  margin:7px 0 0;
+  color:var(--muted2);
+  font-size:12.5px;
+  line-height:1.4;
+  font-weight:550;
+  overflow-wrap:anywhere;
+}
+
+#poomsae .poomsaeDayNote{
+  margin:0 12px 12px;
+  padding:9px 11px;
+  border-radius:12px;
+  border:1px dashed var(--line);
+  color:var(--muted);
+  background:rgba(0,0,0,.14);
+  font-size:11.5px;
+  line-height:1.4;
+}
+
+#poomsae .poomsaeEmpty{
+  padding:15px;
+  border:1px dashed var(--line);
+  border-radius:14px;
+  color:var(--muted);
+  font-size:13px;
+}
+
+body.light #poomsae .poomsaeDayCard{
+  background:linear-gradient(180deg,rgba(255,31,31,.045),rgba(255,255,255,.72));
+}
+body.light #poomsae .poomsaeTask{
+  background:rgba(0,0,0,.025);
+}
+body.light #poomsae .poomsaeDayNote{
+  background:rgba(0,0,0,.02);
+}
+
+@media(max-width:720px){
+  #poomsae .sectionBody{padding:10px;}
+  #poomsae .poomsaeSchedule{gap:11px;}
+  #poomsae .poomsaeDayHead{padding:13px 14px;align-items:flex-start;}
+  #poomsae .poomsaeDayDate{font-size:16px;}
+  #poomsae .poomsaeTaskGrid{grid-template-columns:1fr;padding:10px;gap:8px;}
+  #poomsae .poomsaeTask{min-height:0;padding:11px 12px 11px 14px;}
+  #poomsae .poomsaeTaskTitle{font-size:14px;}
+  #poomsae .poomsaeTaskDetail{font-size:12.5px;}
+  #poomsae .poomsaeDayNote{margin:0 10px 10px;}
+}
