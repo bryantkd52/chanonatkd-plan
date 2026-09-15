@@ -70,7 +70,7 @@
     window.__loadLegacyCycleScript = function(src){
       const currentCycle = typeof window.__isCycle20260915Target === "function" && window.__isCycle20260915Target();
       if(!currentCycle){
-        document.write('<script src="' + src + '"><\\/script>');
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
       }
     };
   </script>
@@ -78,8 +78,8 @@
   <script src="./system-tabs.js?v=system-tabs-20260727-poomsae-3"></script>
   <script src="./system-finalizer.js?v=system-finalizer-20260728-2"></script>
   <script src="./system-finalizer-classes.js?v=system-finalizer-classes-20260901-v20-nolag-1"></script>
-  <script src="./teacher-notes.js?v=teacher-notes-20260728-1"></script>
 
+  <script>window.__loadLegacyCycleScript("./teacher-notes.js?v=teacher-notes-20260728-1");</script>
   <script>window.__loadLegacyCycleScript("./august-plan-updates.js?v=august-plan-updates-20260802-1");</script>
   <script>window.__loadLegacyCycleScript("./august-summary-fix.js?v=august-summary-fix-20260802-1");</script>
 
