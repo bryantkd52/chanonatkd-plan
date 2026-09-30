@@ -1,7 +1,7 @@
 (function(){
   const SYSTEM_ID = "chanonatkd_system";
-  const VERSION = "system-classes-v20-nolag-20260901";
-  const LATEST_SESSION = 20;
+  const VERSION = "system-classes-v26-nolag-20260930";
+  const LATEST_SESSION = 26;
 
   const SESSIONS = [
     { numero:1, titulo:"Primera sesión - Sábado 1 de abril 2026", enfoque:"Flexibilidad + Isométrico activo", reps:"1 serie", tipo:"video", url:"https://drive.google.com/open?id=1vOfIaIZoli63oh8HoVaKsqYjBVy0449A&usp=drive_copy" },
@@ -23,7 +23,13 @@
     { numero:17, titulo:"Sesión 17 - Koryo transición - ChanonaTKD System", enfoque:"Koryo transición.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/file/d/1inUGzsmycAMX7hcoszw3sOWJ0ZatLWq9/view?usp=drive_link" },
     { numero:18, titulo:"Sesión 18 - Sonnal de Koryo y su trayectoria", enfoque:"Sonnal de Koryo y su trayectoria.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/file/d/1IMVKsqFdebdkJnAOh71Ht5MAUcW_5KkQ/view?usp=drive_link" },
     { numero:19, titulo:"Sesión 19 - Fuerza y movilidad isométrica", enfoque:"Fuerza y movilidad isométrica.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/open?id=1NSCuFYlIfeF170u_DYJutjSsb4S7J14_&usp=drive_copy" },
-    { numero:20, titulo:"Sesión 20 - L2 Koryo Piernas", enfoque:"Trabajo técnico de piernas en Koryo línea 2.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/open?id=16Og476GDRlL64r1z7phbCT7WOq6SEcup&usp=drive_copy" }
+    { numero:20, titulo:"Sesión 20 - L2 Koryo Piernas", enfoque:"Trabajo técnico de piernas en Koryo línea 2.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/open?id=16Og476GDRlL64r1z7phbCT7WOq6SEcup&usp=drive_copy" },
+    { numero:21, titulo:"Sesión 21 - pateo alto, técnica y flexibilidad", enfoque:"Pateo alto, técnica y flexibilidad.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/open?id=1MJkUItAAQWQ1W9lrZWEVxSz1MPOIE69Z&usp=drive_copy" },
+    { numero:22, titulo:"Sesión 22 - Preguntas clave y pateo alto de Ap Chagui", enfoque:"Preguntas clave y trabajo de pateo alto de Ap Chagui.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/open?id=1N_Vq03hQhRTPHfZeAwcUPrEfvhMrpZ4f&usp=drive_copy" },
+    { numero:23, titulo:"Sesión 23 - Secuencia de pateo intermedio", enfoque:"Secuencia de pateo intermedio.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/file/d/1HuqIaEQm1UHAyINRUOkE3R82S8EFOD2Z/view?usp=drive_link" },
+    { numero:24, titulo:"Sesión 24 - Combinación flex y pateo técnico", enfoque:"Combinación de flexibilidad y pateo técnico.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/file/d/1ud1D30OWGg9TQjohoq_3oc4zmdjimg3z/view?usp=drive_link" },
+    { numero:25, titulo:"Sesión 25 - Flex activa exigente y Koryo L2", enfoque:"Flexibilidad activa exigente y trabajo de Koryo línea 2.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/open?id=1o4RWXmwEbVX9Fy9jAerZyS5b9x6iN4g8&usp=drive_copy" },
+    { numero:26, titulo:"Sesión 26 - Fuerza, golpes y defensas", enfoque:"Fuerza, golpes y defensas.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/open?id=1iCeSlnW2BYzTMPNMjC5b9EtPk4OD4CUK&usp=drive_copy" }
   ].map(session => ({ ...session, dia:"Clase grabada" }));
 
   function isSystem(){
@@ -69,7 +75,7 @@
           <label><span>Clase grabada</span><select id="sessionSelect">${options}</select></label>
           <button id="sessionSearch" class="action primary" type="button">🔎 Ver sesión</button>
         </div>
-        <div class="systemNotice"><strong>Uso:</strong> Selecciona cualquier sesión y presiona <b>Ver sesión</b>. Las clases 1 a 20 se mantienen guardadas con sus links.</div>
+        <div class="systemNotice"><strong>Uso:</strong> Selecciona cualquier sesión y presiona <b>Ver sesión</b>. Las clases 1 a 26 se mantienen guardadas con sus links.</div>
       </div>
       <div id="sessionResults" class="poomsaeSearchResults"></div>`;
   }
@@ -113,15 +119,17 @@
     setupSessionFinder();
   }
 
-  function scheduleInstall(){
+  function installOnPoomsaeOpen(event){
+    const button = event.target && event.target.closest ? event.target.closest("[data-system-tab]") : null;
+    if(!button || button.dataset.systemTab !== "poomsae") return;
     setTimeout(installClasses, 0);
-    setTimeout(installClasses, 150);
-    setTimeout(installClasses, 450);
   }
 
-  document.addEventListener("click", scheduleInstall, true);
-  document.addEventListener("change", scheduleInstall, true);
+  document.addEventListener("click", installOnPoomsaeOpen, true);
 
-  scheduleInstall();
-  setTimeout(scheduleInstall, 900);
+  if(document.readyState === "loading"){
+    document.addEventListener("DOMContentLoaded", () => setTimeout(installClasses, 0), { once:true });
+  }else{
+    setTimeout(installClasses, 0);
+  }
 })();
