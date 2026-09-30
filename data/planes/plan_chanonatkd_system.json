@@ -155,10 +155,8 @@
       "descripcion": "Para alumnos que ya tienen base y pueden sostener más trabajo sin perder técnica. El pateo común está en la pestaña Pateo.",
       "recomendacion": "Usa esta pestaña si Bryan te indicó nivel intermedio. Para pateo, usa también la pestaña Pateo si Bryan te lo indicó.",
       "frecuencias": [
-        "Calentamiento y activación: antes de cada sesión.",
-        "ChanonaFlex: Pre-Chanonaflex lunes a sábado; intermedio lunes, miércoles y viernes.",
-        "Isométrico activo: lunes, miércoles y viernes.",
-        "Pateo: está separado en la pestaña Pateo."
+        "ChanonaFlex: lunes a sábado / lunes, miércoles y viernes.",
+        "Isométrico activo: lunes, miércoles y viernes."
       ],
       "calentamientoTitulo": "Calentamiento y activación",
       "calentamiento": [
@@ -246,10 +244,8 @@
       "descripcion": "Para alumnos que ya toleran volumen, fuerza y control. El pateo avanzado común está separado en la pestaña Pateo.",
       "recomendacion": "Usa esta pestaña solo si Bryan te indicó nivel avanzado. Para pateo, usa también la pestaña Pateo si Bryan te lo indicó.",
       "frecuencias": [
-        "Calentamiento y activación: antes de cada sesión.",
-        "ChanonaFlex: Pre-Chanonaflex lunes a sábado; básico lunes, miércoles y viernes; desde propuesta nivel 3 martes y jueves.",
-        "Isométrico activo: lunes, miércoles y viernes.",
-        "Pateo: está separado en la pestaña Pateo."
+        "ChanonaFlex: lunes a sábado / lunes, miércoles y viernes / martes y jueves.",
+        "Isométrico activo: lunes, miércoles y viernes."
       ],
       "calentamientoTitulo": "Calentamiento y activación",
       "calentamiento": [
