@@ -442,7 +442,7 @@
       if(split.clasesGrabadas.length) parts.push(section(`tab-${tab.id}-clases`, "Clases grabadas", "Sesiones completas", renderList(split.clasesGrabadas, "Clase", "Cuando corresponda")));
     }
 
-    parts.push(section(`tab-${tab.id}-extras`, "Indicaciones extras", "Lectura importante", renderTextInstructions(tab.indicacionesExtras)));
+    parts.push(section(`tab-${tab.id}-extras`, "Indicaciones del profesor", "Lectura importante", renderTextInstructions(tab.indicacionesExtras)));
     parts.push(section(`tab-${tab.id}-notas`, "Notas finales", "Mensaje del profesor", notas.length ? `<ul>${notas.map(x=>`<li>${safeHtml(x)}</li>`).join("")}</ul>` : `<div class="empty">Sin notas finales.</div>`));
     return parts.join("");
   }
