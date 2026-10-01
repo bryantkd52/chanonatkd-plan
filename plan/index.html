@@ -71,12 +71,13 @@
   <script src="./cycle-20260930-g4-data.js?v=cycle-20260930-g4-1"></script>
   <script src="./cycle-20260930-g5-data.js?v=cycle-20260930-g5-1"></script>
   <script src="./cycle-20260930-elite-preload.js?v=cycle-20260930-elite-1"></script>
-  <script src="./app.js?v=ui-redesign-20260719"></script>
+  <script src="./cycle-20260930-foundations-preload.js?v=cycle-20260930-foundations-1"></script>
+  <script src="./app.js?v=ui-redesign-20260930-class-button-1"></script>
   <script src="./poomsae-readable-cycle-20260930.js?v=poomsae-readable-20260930-1"></script>
 
   <script>
     window.__loadLegacyCycleScript = function(src){
-      const currentCycle = typeof window.__isCycle20260930Target === "function" && window.__isCycle20260930Target();
+      const currentCycle = (typeof window.__isCycle20260930Target === "function" && window.__isCycle20260930Target()) || (typeof window.__isFoundations20260930Target === "function" && window.__isFoundations20260930Target());
       if(!currentCycle){
         document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
       }
