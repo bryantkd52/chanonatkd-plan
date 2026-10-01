@@ -302,6 +302,78 @@
       </div>`;
   }
 
+  function groupPoomsaeInstructions(items){
+    const arr = Array.isArray(items) ? items.filter(Boolean).map(x=>String(typeof x === "string" ? x : (x.texto || x.text || x.titulo || ""))) : [];
+    const groups = { "Taeguk 5":[], "Taeguk 6":[], "Taeguk 7":[] };
+    let intro = "";
+    arr.forEach(text=>{
+      const match = text.match(/^(Taeguk [567])\s*[—-]\s*(.+)$/);
+      if(match && groups[match[1]]){
+        groups[match[1]].push(match[2]);
+      }else if(!intro){
+        intro = text;
+      }
+    });
+    return { intro, groups };
+  }
+
+  function renderPoomsaeInstructions(tab){
+    const grouped = groupPoomsaeInstructions(tab.indicacionesExtras);
+    const hasItems = Object.values(grouped.groups).some(items=>items.length);
+    if(!hasItems) return "";
+
+    const groupsHtml = Object.entries(grouped.groups).map(([name, items])=>{
+      if(!items.length) return "";
+      return `
+        <section class="poomsaeInstructionGroup">
+          <h5>${safeHtml(name)}</h5>
+          <ol>
+            ${items.map(text=>`<li>${safeHtml(text)}</li>`).join("")}
+          </ol>
+        </section>`;
+    }).join("");
+
+    return section(`tab-${tab.id}-indicaciones-boton`, "Indicaciones del profesor", "Taeguk 5, 6 y 7", `
+      <div class="poomsaeInstructionsLauncher">
+        <button id="openPoomsaeInstructions" class="action primary poomsaeInstructionsOpen" type="button">Abrir indicaciones</button>
+      </div>
+      <dialog id="poomsaeInstructionsDialog" class="poomsaeInstructionsDialog" aria-labelledby="poomsaeInstructionsTitle">
+        <div class="poomsaeInstructionsSheet">
+          <header class="poomsaeInstructionsHeader">
+            <div>
+              <p class="eyebrow">Correcciones técnicas</p>
+              <h4 id="poomsaeInstructionsTitle">Indicaciones del profesor</h4>
+            </div>
+            <button id="closePoomsaeInstructions" class="poomsaeInstructionsClose" type="button" aria-label="Cerrar indicaciones">×</button>
+          </header>
+          ${grouped.intro ? `<p class="poomsaeInstructionsIntro">${safeHtml(grouped.intro)}</p>` : ""}
+          <div class="poomsaeInstructionGroups">${groupsHtml}</div>
+        </div>
+      </dialog>`);
+  }
+
+  function setupPoomsaeInstructions(){
+    const openBtn = document.getElementById("openPoomsaeInstructions");
+    const closeBtn = document.getElementById("closePoomsaeInstructions");
+    const dialog = document.getElementById("poomsaeInstructionsDialog");
+    if(!openBtn || !closeBtn || !dialog) return;
+
+    const close = ()=>{
+      if(typeof dialog.close === "function" && dialog.open) dialog.close();
+      else dialog.removeAttribute("open");
+    };
+
+    openBtn.addEventListener("click", ()=>{
+      if(typeof dialog.showModal === "function") dialog.showModal();
+      else dialog.setAttribute("open", "");
+    });
+
+    closeBtn.addEventListener("click", close);
+    dialog.addEventListener("click", event=>{
+      if(event.target === dialog) close();
+    });
+  }
+
   function getLineCount(poomsaeName){
     return (POOMSAE_LINE_COUNTS.find(x => x.nombre === poomsaeName) || POOMSAE_LINE_COUNTS[0]).lineas;
   }
@@ -431,6 +503,7 @@
       parts.push(section(`tab-${tab.id}-pateo`, "Pateo técnico", "Común para intermedios y avanzados", renderList(tab.pateoTecnico, "Pateo", tab.pateoDias)));
     }else if(tab.id === "poomsae"){
       parts.push(renderPoomsaeLibrary(tab));
+      parts.push(renderPoomsaeInstructions(tab));
       if(split.poomsae.length) parts.push(section(`tab-${tab.id}-poomsae-destacado`, "Poomsae destacado", "Recursos seleccionados", renderList(split.poomsae, "Poomsae", tab.poomsaeDias)));
       if(split.clasesGrabadas.length) parts.push(section(`tab-${tab.id}-clases`, "Clases grabadas", "Sesiones completas", renderList(split.clasesGrabadas, "Clase", "Cuando corresponda")));
     }else{
@@ -442,7 +515,9 @@
       if(split.clasesGrabadas.length) parts.push(section(`tab-${tab.id}-clases`, "Clases grabadas", "Sesiones completas", renderList(split.clasesGrabadas, "Clase", "Cuando corresponda")));
     }
 
-    parts.push(section(`tab-${tab.id}-extras`, "Indicaciones del profesor", "Lectura importante", renderTextInstructions(tab.indicacionesExtras)));
+    if(tab.id !== "poomsae"){
+      parts.push(section(`tab-${tab.id}-extras`, "Indicaciones del profesor", "Lectura importante", renderTextInstructions(tab.indicacionesExtras)));
+    }
     parts.push(section(`tab-${tab.id}-notas`, "Notas finales", "Mensaje del profesor", notas.length ? `<ul>${notas.map(x=>`<li>${safeHtml(x)}</li>`).join("")}</ul>` : `<div class="empty">Sin notas finales.</div>`));
     return parts.join("");
   }
@@ -503,6 +578,7 @@
 
     if(active.id === "poomsae"){
       setupPoomsaeLibrary();
+      setupPoomsaeInstructions();
     }
 
     const scrollBtn = document.getElementById("scrollTodayBtn");
