@@ -90,7 +90,7 @@ function itemRow(item, badgeText, index, fallbackDays){
   const tipoBadge = getTipoBadge(item);
   const groupBadge = badgeText ? `<span class="badge red">${safeHtml(badgeText)}</span>` : "";
   const idxBadge = `<span class="badge">${index}</span>`;
-  const labelBtn = item.tipo === "folder" ? "📁 Abrir carpeta" : item.tipo === "audio" ? "🎧 Abrir audio" : "▶ Reproducir";
+  const labelBtn = item.boton || item.buttonLabel || (item.tipo === "folder" ? "📁 Abrir carpeta" : item.tipo === "audio" ? "🎧 Abrir audio" : "▶ Reproducir");
   const playBtn = item.url ? `<a class="action primary" href="${safeHtml(item.url)}" target="_blank" rel="noreferrer">${labelBtn}</a>` : "";
   return `
     <article class="itemRow">
