@@ -339,63 +339,72 @@
       "descripcion": "Pestaña independiente para el pateo técnico que pueden usar alumnos intermedios o avanzados cuando Bryan lo indique.",
       "recomendacion": "Usa esta pestaña solo si Bryan te indicó agregar pateo técnico a tu nivel.",
       "frecuencias": [
-        "Pateo técnico: martes, jueves y sábado."
+        "Pateo técnico: lunes y miércoles.",
+        "Pateo técnico: martes y jueves."
       ],
       "chanonaflexDias": "NO APLICA EN ESTA PESTAÑA",
       "isometricoDias": "NO APLICA EN ESTA PESTAÑA",
-      "pateoDias": "MARTES - JUEVES - SÁBADO / 2 AP + 2 YOP + 2 BANDA",
+      "pateoDias": "LUNES - MIÉRCOLES / MARTES - JUEVES",
       "poomsaeDias": "NO APLICA EN ESTA PESTAÑA",
       "calentamiento": [],
       "chanonaflex": [],
       "isometrico": [],
       "pateoTecnico": [
         {
-          "titulo": "Silla + Ap Chaguis 3 niveles",
-          "dia": "MARTES - JUEVES - SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy",
-          "enfoque": "Ap Chagui con apoyo, cámara y regreso controlado.",
-          "reps": "8 a 10 reps por pierna / 2 series"
-        },
-        {
-          "titulo": "Ap chaguis dos bloques",
-          "dia": "MARTES - JUEVES - SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy",
-          "enfoque": "Precisión y control de cámara.",
-          "reps": "8 a 10 reps por pierna / 2 series"
-        },
-        {
-          "titulo": "Ejercicio 1 - Yop Chagui",
-          "dia": "MARTES - JUEVES - SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy",
-          "enfoque": "Cámara, cadera y alineación.",
-          "reps": "8 a 10 reps por pierna / 2 series"
-        },
-        {
-          "titulo": "Ejercicio 2 - Yop Chagui",
-          "dia": "MARTES - JUEVES - SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy",
-          "enfoque": "Extensión, regreso y postura.",
-          "reps": "10 a 12 reps por pierna / 2 series"
-        },
-        {
-          "titulo": "Torcion cadera con banda",
-          "dia": "MARTES - JUEVES - SÁBADO",
+          "titulo": "Torción de cadera con banda elástica",
+          "dia": "LUNES - MIÉRCOLES",
           "tipo": "video",
           "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy",
-          "enfoque": "Control de cadera y dirección.",
-          "reps": "10 a 12 reps por lado / 2 series"
+          "enfoque": "Trabajar a máxima velocidad sin perder control técnico.",
+          "reps": "20 reps a máxima velocidad / 4 series / 15 seg descanso entre series"
         },
         {
           "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
-          "dia": "MARTES - JUEVES - SÁBADO",
+          "dia": "LUNES - MIÉRCOLES",
           "tipo": "video",
           "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link",
-          "enfoque": "Fortalecer tobillo y base.",
-          "reps": "10 a 12 reps por pierna / 2 series"
+          "enfoque": "Realizar cada repetición extremadamente lento.",
+          "reps": "5 reps por lado extremadamente lento / 1 serie"
+        },
+        {
+          "titulo": "Propuesta + ap chagui reps",
+          "dia": "LUNES - MIÉRCOLES",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=sharing",
+          "enfoque": "Una serie rápida y una serie normal.",
+          "reps": "10 reps x pierna / 2 series (1 rápida y 1 normal)"
+        },
+        {
+          "titulo": "Silla + Ap Chaguis 3 niveles",
+          "dia": "LUNES - MIÉRCOLES",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=sharing",
+          "enfoque": "Una serie ultra rápida y una serie normal.",
+          "reps": "10 reps x pierna / 2 series (1 ultra rápida y 1 normal)"
+        },
+        {
+          "titulo": "Split de Yop Chagui",
+          "dia": "MARTES - JUEVES",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=sharing",
+          "enfoque": "No debe doler la rodilla.",
+          "reps": "10 reps / 2 series / no debe doler rodilla"
+        },
+        {
+          "titulo": "Yop Chagui + toque piso + equilibrio",
+          "dia": "MARTES - JUEVES",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/1ZQ3ud3bkEQJcvSnUelWDVR4ECdwv1_Vn/view?usp=sharing",
+          "enfoque": "Importante no mover el pie de apoyo aunque caiga la pierna que patea.",
+          "reps": "5 reps x lado / 2 series"
+        },
+        {
+          "titulo": "Linea 3 Koryo - Sentadilla y camara",
+          "dia": "MARTES - JUEVES",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=sharing",
+          "enfoque": "Importante no mover el pie de apoyo aunque caiga la pierna que patea.",
+          "reps": "5 reps x lado / 2 series"
         }
       ],
       "poomsae": [],
