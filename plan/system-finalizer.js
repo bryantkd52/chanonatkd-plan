@@ -119,45 +119,7 @@
       });
     }
 
-    if(tabs.pateo){
-      Object.assign(tabs.pateo, {
-        descripcion: "Esta pestaña concentra el pateo técnico común para intermedios y avanzados. Hazla solo si el Profesor Chanona te la asignó.",
-        recomendacion: "Trabaja estos ejercicios en los días indicados. No hagas los seis ejercicios el mismo día.",
-        frecuencias: ["Ejercicios 1 y 2: lunes y viernes.", "Ejercicios 3 y 4: martes y jueves.", "Ejercicios 5 y 6: miércoles y sábado."],
-        pateoDias: "1-2 LUNES Y VIERNES / 3-4 MARTES Y JUEVES / 5-6 MIÉRCOLES Y SÁBADO",
-        pateoTecnico: [
-          item("Silla + Ap Chaguis 3 niveles", "LUNES - VIERNES", "https://drive.google.com/open?id=1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS&usp=drive_copy", "Cámara, extensión y regreso de Ap Chagui con apoyo.", "8 a 10 reps por pierna / 2 series"),
-          item("Ap chaguis dos bloques", "LUNES - VIERNES", "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy", "Precisión de cámara y control de pierna frontal.", "8 a 10 reps por pierna / 2 series"),
-          item("Ejercicio 1 - Yop Chagui", "MARTES - JUEVES", "https://drive.google.com/open?id=1IEhzAjlydHdjRSleXxWLABQfMTMsOMG1&usp=drive_copy", "Cámara, cadera, torso y alineación de Yop Chagui.", "8 a 10 reps por pierna / 2 series"),
-          item("Ejercicio 2 - Yop Chagui", "MARTES - JUEVES", "https://drive.google.com/open?id=1QQtR5ObV1iiSqYx-GxFfOM1Lr1jnln70&usp=drive_copy", "Extensión, regreso y postura sin romper eje.", "8 a 10 reps por pierna / 2 series"),
-          item("Torcion cadera con banda", "MIÉRCOLES - SÁBADO", "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy", "Control de cadera y resistencia para dirección de pateo.", "8 a 10 reps por pierna / 2 series"),
-          item("Ejercicio de fortalecimiento de tobillo con banda", "MIÉRCOLES - SÁBADO", "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link", "Fortalecer tobillo, base y estabilidad.", "8 a 10 reps por pierna / 2 series")
-        ]
-      });
-    }
 
-    if(tabs.poomsae){
-      Object.assign(tabs.poomsae, {
-        descripcion: "Busca la poomsae y la línea que el Profesor Chanona te haya asignado. También puedes explorar otras líneas para repasar.",
-        recomendacion: "Usa esta pestaña cuando el Profesor Chanona te indique trabajo de poomsae.",
-        frecuencias: ["Trabajo asignado esta semana: Koryo - Línea 3.", "Busca la poomsae y la línea en el buscador de esta misma pestaña.", "Repite con atención los videos y tarjetas que aparezcan."],
-        poomsaeDias: "SEGÚN INDICACIÓN DEL PROFESOR CHANONA / BUSCADOR POR LÍNEA",
-        indicacionesExtras: [
-          "Nuestro entrenamiento de esta semana será Koryo - Línea 3.",
-          "Cuida que el torso no se vaya hacia el frente al ejecutar Yop Chagui; busca alineación y control.",
-          "Marca el recobro de la Yop Chagui con rodilla al pecho y aterrizaje controlado, sin caer.",
-          "En codazos y golpes, trabaja trayectoria clara de pectoral a pectoral con mayor explosividad."
-        ],
-        notasFinales: [
-          "Para encontrar el trabajo de esta semana, entra a la pestaña Poomsae.",
-          "En el primer botón selecciona Koryo.",
-          "En el segundo botón selecciona Línea 3.",
-          "Presiona Buscar y realiza las tarjetas que aparezcan.",
-          "Lee primero las Indicaciones del profesor para saber en qué detalles debes concentrarte.",
-          "Excelente semana de entrenamiento."
-        ]
-      });
-    }
   }
 
   const POOMSAES = [
@@ -315,11 +277,6 @@
       const next = current.replaceAll("Bryan", "Profesor Chanona").replaceAll("alumno debe trabajar", "debes trabajar");
       if(next !== current) notice.innerHTML = next;
     });
-    const body = document.querySelector("#tab-poomsae-buscador .sectionBody");
-    if(body && !document.getElementById("poomsaeFinalFinder")){
-      body.innerHTML = finalFinder();
-      setupFinder();
-    }
   }
 
   const oldRenderPage = typeof renderPage === "function" ? renderPage : null;
@@ -327,10 +284,14 @@
     renderPage = function(plan, alumno){
       if(isSystem()) applySystemAdjustments(plan);
       oldRenderPage(plan, alumno);
-      setTimeout(postprocess, 40);
-      setTimeout(postprocess, 160);
+      postprocess();
     };
   }
+
+  document.addEventListener("click", event => {
+    const tabButton = event.target && event.target.closest ? event.target.closest("[data-system-tab]") : null;
+    if(tabButton && isSystem()) postprocess();
+  });
 
   const oldBot = typeof getBotAnswer === "function" ? getBotAnswer : null;
   const tips = {
@@ -359,16 +320,5 @@
     return `Revisa la pestaña que el Profesor Chanona te asignó. Trabaja con técnica limpia, base fuerte, preparación completa y ritmo constante.${tipList(tips.general)}`;
   };
 
-  const contentEl = document.getElementById("content");
-  if(contentEl){
-    let pendingPostprocess = false;
-    new MutationObserver(() => {
-      if(pendingPostprocess) return;
-      pendingPostprocess = true;
-      setTimeout(() => {
-        pendingPostprocess = false;
-        postprocess();
-      }, 80);
-    }).observe(contentEl, { childList: true, subtree: true });
-  }
+
 })();
