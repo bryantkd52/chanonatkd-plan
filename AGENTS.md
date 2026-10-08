@@ -156,3 +156,10 @@ Hasta que Bryan apruebe expresamente la integración final a `main`:
 - Se permite preparar actualizaciones de `suscripcion_activa` cuando Bryan proporcione alumno y fecha exacta.
 - No se deben generar ni publicar planes nuevos automáticamente sin validar.
 - No se deben cambiar los archivos de la interfaz sin revisión previa de Bryan.
+
+## ChanonaTKD System — biblioteca y frase del encabezado
+
+- En cada cambio grande del plan System, renovar la frase motivacional del encabezado: máximo cinco palabras. Mantenerla consistente en `plan/app.js` y `plan/system-finalizer.js`.
+- Pestañas: Principiantes, Intermedios, Avanzados, Pateo, Poomsae, Clases, Herramientas.
+- Clases: Poomsae, Pateo, Flexibilidad y Sesiones, sin días en los títulos de categoría.
+- Nuevas grabaciones: agregarlas a `window.systemClassLibraries` en `plan/system-finalizer-classes.js` dentro de su categoría, con el enlace exacto proporcionado por Bryan. Conservar todas las anteriores. Las 26 históricas quedan en Sesiones, sin reclasificar.

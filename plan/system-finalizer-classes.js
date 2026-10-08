@@ -32,104 +32,11 @@
     { numero:26, titulo:"Sesión 26 - Fuerza, golpes y defensas", enfoque:"Fuerza, golpes y defensas.", reps:"1 clase completa", tipo:"video", url:"https://drive.google.com/open?id=1iCeSlnW2BYzTMPNMjC5b9EtPk4OD4CUK&usp=drive_copy" }
   ].map(session => ({ ...session, dia:"Clase grabada" }));
 
-  function isSystem(){
-    return new URL(location.href).searchParams.get("alumno") === SYSTEM_ID;
-  }
-
-  function h(value){
-    const div = document.createElement("div");
-    div.textContent = String(value ?? "");
-    return div.innerHTML;
-  }
-
-  function renderSession(session){
-    return `
-      <div class="poomsaeResultTitle"><strong>Resultado:</strong> ${h(session.titulo)}</div>
-      <div class="cardsGrid">
-        <article class="itemRow">
-          <div class="itemTop">
-            <div>
-              <p class="itemTitle">${h(session.titulo)}</p>
-              <div class="meta daysMeta"><b>Días:</b> ${h(session.dia)}</div>
-              <div class="meta"><b>Enfoque:</b> ${h(session.enfoque)}</div>
-              <div class="meta"><b>Reps:</b> ${h(session.reps)}</div>
-            </div>
-            <div class="badgeRow">
-              <span class="badge">${session.numero}</span>
-              <span class="badge ok">VIDEO</span>
-              <span class="badge red">Clase</span>
-            </div>
-          </div>
-          <div class="actions"><a class="action primary" href="${h(session.url)}" target="_blank" rel="noreferrer">▶ Reproducir</a></div>
-        </article>
-      </div>`;
-  }
-
-  function renderSelector(selected){
-    const options = SESSIONS.map(session => `
-      <option value="${session.numero}" ${session.numero === selected ? "selected" : ""}>${h(session.titulo)}</option>`).join("");
-
-    return `
-      <div class="poomsaeFinder" id="sessionFinalFinder" data-version="${VERSION}">
-        <div class="poomsaeFinderGrid">
-          <label><span>Clase grabada</span><select id="sessionSelect">${options}</select></label>
-          <button id="sessionSearch" class="action primary" type="button">🔎 Ver sesión</button>
-        </div>
-        <div class="systemNotice"><strong>Uso:</strong> Selecciona cualquier sesión y presiona <b>Ver sesión</b>. Las clases 1 a 26 se mantienen guardadas con sus links.</div>
-      </div>
-      <div id="sessionResults" class="poomsaeSearchResults"></div>`;
-  }
-
-  function setupSessionFinder(){
-    const select = document.getElementById("sessionSelect");
-    const button = document.getElementById("sessionSearch");
-    const results = document.getElementById("sessionResults");
-    if(!select || !button || !results) return;
-
-    const show = () => {
-      const selected = Number(select.value) || LATEST_SESSION;
-      const session = SESSIONS.find(item => item.numero === selected) || SESSIONS[SESSIONS.length - 1];
-      results.innerHTML = renderSession(session);
-    };
-
-    button.onclick = show;
-    show();
-  }
-
-  function installClasses(){
-    if(!isSystem()) return;
-
-    const destacado = document.getElementById("tab-poomsae-poomsae-destacado");
-    if(destacado) destacado.remove();
-
-    const section = document.getElementById("tab-poomsae-clases");
-    if(!section) return;
-
-    const eyebrow = section.querySelector(".sectionHead .eyebrow, .eyebrow");
-    const title = section.querySelector("h3");
-    const body = section.querySelector(".sectionBody");
-    if(eyebrow) eyebrow.textContent = "Selector de sesiones";
-    if(title) title.textContent = "Clases grabadas";
-    if(!body) return;
-
-    if(body.dataset.sessionFinalVersion === VERSION && document.getElementById("sessionFinalFinder")) return;
-
-    body.dataset.sessionFinalVersion = VERSION;
-    body.innerHTML = renderSelector(LATEST_SESSION);
-    setupSessionFinder();
-  }
-
-  function installOnPoomsaeOpen(event){
-    const button = event.target && event.target.closest ? event.target.closest("[data-system-tab]") : null;
-    if(!button || button.dataset.systemTab !== "poomsae") return;
-    setTimeout(installClasses, 0);
-  }
-
-  document.addEventListener("click", installOnPoomsaeOpen, true);
-
-  if(document.readyState === "loading"){
-    document.addEventListener("DOMContentLoaded", () => setTimeout(installClasses, 0), { once:true });
-  }else{
-    setTimeout(installClasses, 0);
-  }
+  // Append new recordings to the matching library; never remove historical sessions.
+  window.systemClassLibraries = {
+    poomsae: [],
+    pateo: [],
+    flexibilidad: [],
+    sesiones: SESSIONS
+  };
 })();

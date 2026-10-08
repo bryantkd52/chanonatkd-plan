@@ -356,3 +356,12 @@ body.light .poomsaeInstructionGroup{
     animation:none;
   }
 }
+
+/* Accessible class libraries and full-width System header. */
+.systemHeaderClean #chipSubscription,
+.systemHeaderClean #renewalCard { display:none; }
+.systemHeaderClean .heroGrid { grid-template-columns:1fr; }
+.classListToggle { min-height:56px; width:100%; box-sizing:border-box; cursor:pointer; justify-content:center; font-size:17px; margin-bottom:16px; }
+.classLibrary select { min-height:56px; width:100%; font-size:16px; }
+.classLibrary [data-class-search] { min-height:56px; }
+.classListToggle:focus-visible { outline:3px solid var(--red); outline-offset:4px; }

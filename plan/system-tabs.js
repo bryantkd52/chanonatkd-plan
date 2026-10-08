@@ -234,7 +234,8 @@
   function getSystemTabs(plan){
     const tabs = Array.isArray(plan?.sistemaTabs) ? plan.sistemaTabs : [];
     return [
-      ...tabs,
+      ...tabs.filter(tab => tab.id !== "clases" && tab.id !== "herramientas"),
+      { id: "clases", titulo: "Clases" },
       {
         id: "herramientas",
         titulo: "Herramientas",
@@ -504,8 +505,8 @@
     }else if(tab.id === "poomsae"){
       parts.push(renderPoomsaeLibrary(tab));
       parts.push(renderPoomsaeInstructions(tab));
-      if(split.poomsae.length) parts.push(section(`tab-${tab.id}-poomsae-destacado`, "Poomsae destacado", "Recursos seleccionados", renderList(split.poomsae, "Poomsae", tab.poomsaeDias)));
-      if(split.clasesGrabadas.length) parts.push(section(`tab-${tab.id}-clases`, "Clases grabadas", "Sesiones completas", renderList(split.clasesGrabadas, "Clase", "Cuando corresponda")));
+
+
     }else{
       if(Array.isArray(tab.calentamiento) && tab.calentamiento.length) parts.push(section(`tab-${tab.id}-calentamiento`, calentamientoTitulo, "Preparación inicial", renderList(tab.calentamiento, "Calentamiento", "Antes de entrenar")));
       if(Array.isArray(tab.chanonaflex) && tab.chanonaflex.length) parts.push(section(`tab-${tab.id}-chanonaflex`, "ChanonaFlex", "Flexibilidad", renderList(tab.chanonaflex, "ChanonaFlex", tab.chanonaflexDias)));
@@ -520,6 +521,40 @@
     }
     parts.push(section(`tab-${tab.id}-notas`, "Notas finales", "Mensaje del profesor", notas.length ? `<ul>${notas.map(x=>`<li>${safeHtml(x)}</li>`).join("")}</ul>` : `<div class="empty">Sin notas finales.</div>`));
     return parts.join("");
+  }
+
+  function renderClassesTab(){
+    const libraries = window.systemClassLibraries || {};
+    return [["poomsae", "Poomsae"], ["pateo", "Pateo"], ["flexibilidad", "Flexibilidad"], ["sesiones", "Sesiones"]].map(([id, title]) => {
+      const items = libraries[id] || [];
+      return `<section class="section classLibrary" data-toggle-ready="true">
+        <div class="sectionHead"><h3>${title}</h3></div>
+        <div class="sectionBody">
+          <details><summary class="action primary classListToggle">⬇ Ver listado</summary>
+            ${items.length ? `<div class="poomsaeFinderGrid">
+              <label for="class-select-${id}">Selecciona una clase<select id="class-select-${id}">${items.map((item, index) => `<option value="${index}">${safeHtml(item.titulo)}</option>`).join("")}</select></label>
+              <button class="action primary" type="button" data-class-search="${id}">🔎 Buscar</button>
+            </div>` : `<p class="empty">Todavía no hay clases disponibles.</p>`}
+          </details>
+          <div id="class-results-${id}" class="poomsaeSearchResults" aria-live="polite"></div>
+        </div>
+      </section>`;
+    }).join("");
+  }
+
+  function setupClassesTab(){
+    document.querySelectorAll("[data-class-search]").forEach(button => {
+      button.addEventListener("click", () => {
+        const id = button.dataset.classSearch;
+        const item = window.systemClassLibraries[id][Number(document.getElementById(`class-select-${id}`).value)];
+        if(!item) return;
+        document.getElementById(`class-results-${id}`).innerHTML = `<article class="itemRow">
+          <p class="itemTitle">${safeHtml(item.titulo)}</p>
+          <div class="meta">${safeHtml(item.enfoque || "")}</div>
+          <div class="actions"><a class="action primary" href="${safeHtml(item.url)}" target="_blank" rel="noreferrer">▶ Ver video</a></div>
+        </article>`;
+      });
+    });
   }
 
   function renderToolsTab(){
@@ -551,7 +586,7 @@
     if(!root) return;
     const tabs = getSystemTabs(plan);
     const active = tabs.find(t => t.id === activeTabKey) || tabs[0];
-    const activeContent = active.id === "herramientas" ? renderToolsTab() : renderTrainingTab(active);
+    const activeContent = active.id === "herramientas" ? renderToolsTab() : active.id === "clases" ? renderClassesTab() : renderTrainingTab(active);
 
     root.innerHTML = [
       renderSystemIntro(plan),
@@ -568,6 +603,7 @@
     });
 
     setupFloatingTopButton();
+    if(active.id === "clases") setupClassesTab();
 
     if(active.id === "herramientas"){
       setupStreak();

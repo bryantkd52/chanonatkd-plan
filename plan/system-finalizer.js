@@ -40,7 +40,7 @@
 
   function applyBaseText(plan){
     plan.updated_at = "Vista previa rumbo a versión final - lun 20 de julio de 2026";
-    plan.enfoque_corto = "Mejorar flexibilidad desde cero, técnica de pateo y poomsae";
+    plan.enfoque_corto = "Cada entrenamiento cuenta. Sigue avanzando.";
     plan.enfoque = "Trabaja en base a la pestaña que el Profesor Chanona te haya asignado. Esta plataforma organiza flexibilidad desde cero, técnica de pateo y poomsae para que entrenes de forma clara, progresiva y sin brincar niveles.";
     plan.chanonaflexDias = "Depende de la pestaña asignada por el Profesor Chanona";
     plan.isometricoDias = "Depende de la pestaña asignada por el Profesor Chanona";
