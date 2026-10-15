@@ -1,9 +1,9 @@
 {
-  "updated_at": "Actualizado lun 20 de julio de 2026",
+  "updated_at": "2026-10-15",
   "nivel": "Nivel Dragones",
-  "ciclo": "Lunes 20 de julio al sábado 1 de agosto de 2026",
-  "enfoque_corto": "Flexibilidad adaptiva + progreso técnico suave",
-  "enfoque": "En este ciclo continuaremos con el trabajo adaptado que Benyoced ya venía realizando. No se asignan nuevos bloques de Chanonaflex, isométricos de Yop Chagui, isométricos de Ap Chagui, pateo técnico ni poomsae. La prioridad será mantener un progreso suave, constante y correcto, cuidando que el cuerpo se adapte paso a paso sin forzar de más.",
+  "ciclo": "Jueves 15 al miércoles 28 de octubre de 2026",
+  "enfoque_corto": "Seguimos avanzando con técnica limpia",
+  "enfoque": "ChanonaFlex: lunes a sábado. Isométrico activo: lunes y viernes / martes y jueves / miércoles y sábado. Pateo técnico: lunes y miércoles.",
   "chanonaflexDias": "FLEXIBILIDAD ADAPTIVA: LUNES A SÁBADO / 1 SERIE",
   "chanonaflex": [
     {
@@ -11,37 +11,76 @@
       "dia": "LUNES A SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1OuVq4E61Dxm3kUVB-5JTHuzQSTJxKi4P/view?usp=sharing"
+    },
+    {
+      "titulo": "Flexibilidad nivel 2 - Benyoced",
+      "dia": "Según indicación del Profesor Chanona",
+      "enfoque": "Clase complementaria de flexibilidad nivel 2.",
+      "reps": "1 clase completa",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1PQZMTjewQ8-gdkR1cME_t55gC4bIkG4D/view?usp=drive_link"
     }
   ],
-  "isometricoDias": "MARTES - JUEVES - SÁBADO / GLÚTEO ADAPTADO",
+  "isometricoDias": "Lunes y viernes / Martes y jueves / Miércoles y sábado",
   "isometrico": [
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
-      "dia": "MARTES - JUEVES - SÁBADO",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "tags": ["GLÚTEO", "GANCHO", "FUERZA", "CADERA"]
+      "dia": "Lunes y viernes",
+      "enfoque": "Trabaja el glúteo y el gancho con control.",
+      "reps": "Según indicación del video"
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
+      "dia": "Martes y jueves",
+      "enfoque": "Cuida la cámara, la postura y la pierna de apoyo.",
+      "reps": "Según indicación del video"
+    },
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
+      "dia": "Miércoles y sábado",
+      "enfoque": "Mantén la alineación y controla el regreso de la pierna.",
+      "reps": "Según indicación del video"
     }
   ],
-  "pateoDias": "NO ASIGNADO EN ESTE CICLO",
-  "pateoTecnico": [],
-  "poomsaeDias": "NO ASIGNADO EN ESTE CICLO",
+  "pateoDias": "Lunes y miércoles",
+  "pateoTecnico": [
+    {
+      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link",
+      "dia": "Lunes y miércoles",
+      "enfoque": "Realiza cada repetición extremadamente lento.",
+      "reps": "5 repeticiones por lado / 1 serie"
+    },
+    {
+      "titulo": "Ejercicio 8 - Yop Chagui",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1tntiO-sLdDcmO5Jhivvyq6qyzsO6gISC/view?usp=sharing",
+      "dia": "Lunes y miércoles",
+      "enfoque": "Patea como máximo a la altura de la cintura. Cuida la técnica y la postura.",
+      "reps": "3 repeticiones por pierna / 2 series"
+    },
+    {
+      "titulo": "Silla + Ap Chaguis 3 niveles",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=sharing",
+      "dia": "Lunes y miércoles",
+      "enfoque": "Cuida la técnica en los tres niveles.",
+      "reps": "5 repeticiones por pierna / 2 series"
+    }
+  ],
+  "poomsaeDias": "No asignado en este ciclo",
   "poomsae": [],
-  "indicacionesExtras": [
-    "Busca seguir trabajando con técnica correcta.",
-    "Admira tu progreso por muy pequeño que sea.",
-    "Continuamos con excelente trabajo."
-  ],
-  "apuntes": [
-    "Trabaja suavemente. Continuaremos con los ejercicios que hemos venido trabajando para que el cuerpo se adapte poco a poco.",
-    "En las clases iremos aumentando el trabajo de forma progresiva, siempre cuidando que el estímulo sea positivo y controlado.",
-    "Cuando sientas cansancio, descansa. Escucha tu cuerpo y reconoce cuándo necesita un pequeño reposo.",
-    "Si algún ejercicio se siente demasiado fuerte, toma un pequeño espacio de recuperación y después continúa con mejor calidad.",
-    "En este ciclo la prioridad será flexibilidad, adaptación corporal y trabajo de glúteo."
-  ],
+  "indicacionesExtras": [],
+  "apuntes": [],
   "notasFinales": [
-    "Seguimos poco a poco, trabajando con nuestra flexibilidad de una forma progresiva, pero correcta.",
-    "Usa las herramientas que te dejo en este plan, te ayudarán mucho.",
-    "Feliz entrenamiento y espero te guste la actualización de la plataforma."
+    "¡Excelente trabajo, Benyo! Al tener la oportunidad de conectarnos, he podido ver el gran progreso que has tenido. Sigue superándote y ejecutando tus movimientos de manera técnica y limpia.",
+    "¡Feliz entrenamiento y seguimos dándole con todo como se debe!"
   ]
 }

@@ -187,6 +187,7 @@
       if(TARGETS.has(id) && /\/data\/planes\/|\.\.\/data\/planes\//.test(String(url || ""))){
         const clone = response.clone();
         const plan = await clone.json();
+if(plan.updated_at === "2026-10-15") return response;
         apply(plan, id);
         const headers = new Headers(response.headers);
         headers.set("content-type", "application/json; charset=utf-8");

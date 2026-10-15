@@ -78,6 +78,7 @@ const m=String(url).match(/data\/planes\/([^?#/]+\.json)/);
 const id=m?FILES.get(m[1]):null;
 if(id){
 const data=await response.clone().json();
+if(data.updated_at === "2026-10-15") return response;
 const headers=new Headers(response.headers);headers.set("content-type","application/json; charset=utf-8");
 return new Response(JSON.stringify(patch(data,id)),{status:response.status,statusText:response.statusText,headers})
 }
