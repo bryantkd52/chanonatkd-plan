@@ -1,0 +1,218 @@
+{
+  "updated_at": "2026-10-15",
+  "nivel": "Nivel Dragones",
+  "ciclo": "Jueves 15 al miércoles 28 de octubre de 2026",
+  "enfoque_corto": "Técnica limpia, progreso constante",
+  "enfoque": "ChanonaFlex: lunes a sábado. Isométrico activo: lunes y viernes / martes y jueves / miércoles y sábado. Pateo técnico: lunes y miércoles / martes y jueves. Poomsae: lunes a sábado.",
+  "chanonaflexDias": "Lunes a sábado",
+  "chanonaflex": [
+    {
+      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing",
+      "dia": "Lunes a sábado",
+      "enfoque": "Prepara el cuerpo antes del trabajo principal.",
+      "reps": "Según indicación del video"
+    },
+    {
+      "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=sharing",
+      "dia": "Lunes a sábado",
+      "enfoque": "Trabaja el rango, el control y la alineación.",
+      "reps": "Según indicación del video"
+    }
+  ],
+  "isometricoDias": "Lunes y viernes / Martes y jueves / Miércoles y sábado",
+  "isometrico": [
+    {
+      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
+      "dia": "Lunes y viernes",
+      "enfoque": "Trabaja la fuerza de glúteo y el control de cadera.",
+      "reps": "Según indicación del video"
+    },
+    {
+      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
+      "dia": "Martes y jueves",
+      "enfoque": "Cuida la cámara, la pierna de apoyo y la alineación.",
+      "reps": "Según indicación del video"
+    },
+    {
+      "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
+      "dia": "Miércoles y sábado",
+      "enfoque": "Cuida la fuerza de Ap Chagui y el regreso de la pierna.",
+      "reps": "Según indicación del video"
+    }
+  ],
+  "pateoDias": "Lunes y miércoles / Martes y jueves",
+  "pateoTecnico": [
+    {
+      "titulo": "Torción de cadera con banda elástica",
+      "tipo": "video",
+      "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy",
+      "dia": "Lunes y miércoles",
+      "enfoque": "Trabaja a máxima velocidad. Descansa 15 segundos entre series.",
+      "reps": "20 repeticiones / 4 series"
+    },
+    {
+      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link",
+      "dia": "Lunes y miércoles",
+      "enfoque": "Realiza cada repetición extremadamente lento.",
+      "reps": "5 repeticiones por lado / 1 serie"
+    },
+    {
+      "titulo": "Balance Ap + Dollyo + Yop",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=sharing",
+      "dia": "Lunes y miércoles",
+      "enfoque": "Cuida el equilibrio y el control durante la secuencia.",
+      "reps": "10 repeticiones por pierna / 2 series"
+    },
+    {
+      "titulo": "Ap Chagui Extension completa",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing",
+      "dia": "Lunes y miércoles",
+      "enfoque": "No tuerzas el torso ni subas los hombros. Mantén siempre extendida la pierna de apoyo.",
+      "reps": "30 repeticiones por pierna / 2 series"
+    },
+    {
+      "titulo": "Split de Yop Chagui",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=sharing",
+      "dia": "Martes y jueves",
+      "enfoque": "Llega a tu máxima extensión sin modificar el glúteo ni la cadera. No debe doler la rodilla.",
+      "reps": "30 repeticiones / 2 series"
+    },
+    {
+      "titulo": "Yop Chagui + toque piso + equilibrio",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1ZQ3ud3bkEQJcvSnUelWDVR4ECdwv1_Vn/view?usp=sharing",
+      "dia": "Martes y jueves",
+      "enfoque": "No muevas el pie de apoyo, aunque caiga la pierna que patea.",
+      "reps": "10 repeticiones por lado / 2 series"
+    },
+    {
+      "titulo": "Camara + L3 Koryo + L5 T5",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/15eKiPwUQSRQAutTZ1s1XD8s-stSXe9PE/view?usp=sharing",
+      "dia": "Martes y jueves",
+      "enfoque": "No muevas el pie de apoyo, aunque caiga la pierna que está arriba.",
+      "reps": "10 repeticiones por lado / 2 series"
+    },
+    {
+      "titulo": "Circuito Yop chagui con Bloque",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/10nz0e_wowhkr4rk7uUlobLrKCFpA6OXy/view?usp=sharing",
+      "dia": "Martes y jueves",
+      "enfoque": "Mantente completamente firme en cada posición estática.",
+      "reps": "5 repeticiones por lado / 1 serie"
+    }
+  ],
+  "poomsaeDias": "Lunes a sábado",
+  "poomsae": [
+    {
+      "titulo": "Jueves 15 de Octubre de 2026",
+      "dia": "Jueves 15 de Octubre de 2026",
+      "enfoque": "Taeguk 8 (Línea 4): 10 min | Pyeonwong (Lado izquierdo - Enfoque en la ap chagi más yop chagi): 10 min",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Viernes 16 de Octubre de 2026",
+      "dia": "Viernes 16 de Octubre de 2026",
+      "enfoque": "Koryo (Línea 2): 10 min | Keumgang (Línea 2 y 6): 10 min | Poomsaes completas del día: Taeguk 8, Koryo, Keumgang y Pyeonwon (4 series de las 4 formas seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Sábado 17 de Octubre de 2026",
+      "dia": "Sábado 17 de Octubre de 2026",
+      "enfoque": "Taeguk 8 (Línea 4): 10 min | Pyeonwong (Lado izquierdo - Enfoque en la ap chagi más yop chagi): 10 min",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Lunes 19 de Octubre de 2026",
+      "dia": "Lunes 19 de Octubre de 2026",
+      "enfoque": "Koryo (Línea 2): 10 min | Keumgang (Línea 2 y 6): 10 min",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Martes 20 de Octubre de 2026",
+      "dia": "Martes 20 de Octubre de 2026",
+      "enfoque": "Taeguk 8 (Línea 4): 10 min | Pyeonwong (Lado izquierdo - Enfoque en la ap chagi más yop chagi): 10 min",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Miércoles 21 de Octubre de 2026",
+      "dia": "Miércoles 21 de Octubre de 2026",
+      "enfoque": "Koryo (Línea 2): 10 min | Keumgang (Línea 2 y 6): 10 min | Poomsaes completas del día: Taeguk 8, Koryo, Keumgang y Pyeonwon (4 series de las 4 formas seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Jueves 22 de Octubre de 2026",
+      "dia": "Jueves 22 de Octubre de 2026",
+      "enfoque": "Taeguk 8 (Línea 2): 10 min | Pyeonwong (Lado derecho - Enfoque en la ap chagi más yop chagi): 10 min",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Viernes 23 de Octubre de 2026",
+      "dia": "Viernes 23 de Octubre de 2026",
+      "enfoque": "Koryo (Línea 3): 10 min | Keumgang (Línea 4): 10 min | Poomsaes completas del día: Taeguk 8, Koryo, Keumgang y Pyeonwon (4 series de las 4 formas seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Sábado 24 de Octubre de 2026",
+      "dia": "Sábado 24 de Octubre de 2026",
+      "enfoque": "Taeguk 8 (Línea 2): 10 min | Pyeonwong (Lado derecho - Enfoque en la ap chagi más yop chagi): 10 min",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Lunes 26 de Octubre de 2026",
+      "dia": "Lunes 26 de Octubre de 2026",
+      "enfoque": "Koryo (Línea 3): 10 min | Keumgang (Línea 4): 10 min",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Martes 27 de Octubre de 2026",
+      "dia": "Martes 27 de Octubre de 2026",
+      "enfoque": "Taeguk 8 (Línea 2): 10 min | Pyeonwong (Lado derecho - Enfoque en la ap chagi más yop chagi): 10 min",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Miércoles 28 de Octubre de 2026",
+      "dia": "Miércoles 28 de Octubre de 2026",
+      "enfoque": "Koryo (Línea 3): 10 min | Keumgang (Línea 4): 10 min | Poomsaes completas del día: Taeguk 8, Koryo, Keumgang y Pyeonwon (4 series de las 4 formas seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
+      "reps": "Respeta los tiempos, las series y los descansos indicados.",
+      "tipo": "info"
+    }
+  ],
+  "indicacionesExtras": [
+    "Tu esfuerzo sigue dando frutos. No te preocupes por lo que aún no logras; reconoce lo que ya has mejorado.",
+    "Enfócate en los puntos de mejora que hemos visto en nuestros entrenamientos por Meet.",
+    "No saques los puños de la cintura cuando se trate de la mano asistente. Mantén la estructura corporal, aunque a veces se sienta raro.",
+    "Coordina los aterrizajes de las patadas con los movimientos de los brazos. Al recoger la pierna, prepara el movimiento y ejecútalo justo al aterrizar, de forma fluida y sin cortes."
+  ],
+  "apuntes": [],
+  "notasFinales": [
+    "Disfruta de tu entrenamiento de este ciclo. Trabajaremos con un poco más de intensidad; adapta el trabajo a tus tiempos y a tu capacidad física actual.",
+    "¡Feliz entrenamiento y seguimos dándole con todo como se debe!"
+  ]
+}

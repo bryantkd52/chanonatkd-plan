@@ -1,5 +1,5 @@
 (function(){
-const TARGETS=new Set(["karen_sanchez","rodrigo_gonzalez","leonardo_gonzalez","omar_azi","rafa_hernandez","scarlet_arianna","anna_georgia","patricio_leigh","maria_ponce","leticia_erguera","nancy_vermilus","ximena_palacios"]);
+const TARGETS=new Set(["diego_pineda","karen_sanchez","rodrigo_gonzalez","leonardo_gonzalez","omar_azi","rafa_hernandez","scarlet_arianna","anna_georgia","patricio_leigh","maria_ponce","leticia_erguera","nancy_vermilus","ximena_palacios"]);
 function current(){return new URL(location.href).searchParams.get("alumno")||""}
 function locale(){return current()==="anna_georgia"?"en":current()==="nancy_vermilus"?"fr":"es"}
 function esc(v){const d=document.createElement("div");d.textContent=String(v??"");return d.innerHTML}

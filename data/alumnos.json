@@ -340,5 +340,13 @@
     "suscripcion_activa": "Próxima renovación día 29 de cada mes",
     "link_entrenamiento": "https://meet.google.com/hkr-jjth-gmr",
     "objetivo_proximo": "Mejorar a nivel poomsae"
+  },
+  "diego_pineda": {
+    "nombre": "Diego Pineda",
+    "plan": "plan_diego_pineda.json",
+    "plan_activo": "Dragones",
+    "suscripcion_activa": "Por confirmar",
+    "link_entrenamiento": "https://meet.google.com/zvo-ratx-scp",
+    "objetivo_proximo": "Mejora de poomsae y flexibilidad"
   }
 }
