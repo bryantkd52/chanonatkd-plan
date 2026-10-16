@@ -96,6 +96,12 @@
       "items": {
         "$ref": "#/$defs/resource"
       }
+    },
+    "sistemaTabs": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/systemTab"
+      }
     }
   },
   "$defs": {
@@ -177,6 +183,91 @@
           }
         }
       ]
+    },
+    "systemTab": {
+      "type": "object",
+      "required": [
+        "id",
+        "titulo"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "titulo": {
+          "type": "string"
+        },
+        "subtitulo": {
+          "type": "string"
+        },
+        "descripcion": {
+          "type": "string"
+        },
+        "recomendacion": {
+          "type": "string"
+        },
+        "calentamientoTitulo": {
+          "type": "string"
+        },
+        "chanonaflexDias": {
+          "type": "string"
+        },
+        "isometricoDias": {
+          "type": "string"
+        },
+        "pateoDias": {
+          "type": "string"
+        },
+        "poomsaeDias": {
+          "type": "string"
+        },
+        "calentamiento": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/resource"
+          }
+        },
+        "chanonaflex": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/resource"
+          }
+        },
+        "isometrico": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/resource"
+          }
+        },
+        "pateoTecnico": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/resource"
+          }
+        },
+        "poomsae": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/resource"
+          }
+        },
+        "clasesGrabadas": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/resource"
+          }
+        },
+        "frecuencias": {
+          "$ref": "#/$defs/textList"
+        },
+        "indicacionesExtras": {
+          "$ref": "#/$defs/textList"
+        },
+        "notasFinales": {
+          "$ref": "#/$defs/textList"
+        }
+      }
     }
   }
 }

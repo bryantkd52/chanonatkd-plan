@@ -1,4 +1,6 @@
 (function(){
+  // Current System data already contains the corrected chair video.
+  if(new URL(location.href).searchParams.get("alumno") === "chanonatkd_system") return;
   const SYSTEM_ID = "chanonatkd_system";
   const TARGET_TITLE = "chanonaflex con silla";
   const FIXED_TITLE = "Chanonaflex - Con silla";

@@ -305,11 +305,12 @@
 
   function groupPoomsaeInstructions(items){
     const arr = Array.isArray(items) ? items.filter(Boolean).map(x=>String(typeof x === "string" ? x : (x.texto || x.text || x.titulo || ""))) : [];
-    const groups = { "Taeguk 5":[], "Taeguk 6":[], "Taeguk 7":[] };
+    const groups = {};
     let intro = "";
     arr.forEach(text=>{
-      const match = text.match(/^(Taeguk [567])\s*[—-]\s*(.+)$/);
-      if(match && groups[match[1]]){
+      const match = text.match(/^(Taeguk \d+|Koryo|Keumgang)\s*[—-]\s*(.+)$/);
+      if(match){
+        if(!groups[match[1]]) groups[match[1]] = [];
         groups[match[1]].push(match[2]);
       }else if(!intro){
         intro = text;
@@ -334,7 +335,7 @@
         </section>`;
     }).join("");
 
-    return section(`tab-${tab.id}-indicaciones-boton`, "Indicaciones del profesor", "Taeguk 5, 6 y 7", `
+    return section(`tab-${tab.id}-indicaciones-boton`, "Indicaciones del profesor", Object.keys(grouped.groups).join(", "), `
       <div class="poomsaeInstructionsLauncher">
         <button id="openPoomsaeInstructions" class="action primary poomsaeInstructionsOpen" type="button">Abrir indicaciones</button>
       </div>
@@ -503,6 +504,7 @@
     }else if(tab.id === "pateo"){
       parts.push(section(`tab-${tab.id}-pateo`, "Pateo técnico", "Común para intermedios y avanzados", renderList(tab.pateoTecnico, "Pateo", tab.pateoDias)));
     }else if(tab.id === "poomsae"){
+      if(tab.poomsae?.length) parts.push(section("tab-poomsae-cronograma", "Cronograma de entrenamiento de poomsae", "15 al 28 de octubre de 2026", window.renderPoomsaeSchedule(tab.poomsae, "es")));
       parts.push(renderPoomsaeLibrary(tab));
       parts.push(renderPoomsaeInstructions(tab));
 
@@ -602,6 +604,7 @@
       });
     });
 
+    window.preparePlanSections?.();
     setupFloatingTopButton();
     if(active.id === "clases") setupClassesTab();
 

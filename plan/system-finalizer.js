@@ -40,7 +40,7 @@
 
   function applyBaseText(plan){
     plan.updated_at = "Vista previa rumbo a versión final - lun 20 de julio de 2026";
-    plan.enfoque_corto = "Cada entrenamiento cuenta. Sigue avanzando.";
+    plan.enfoque_corto = "Cada detalle construye tu progreso.";
     plan.enfoque = "Trabaja en base a la pestaña que el Profesor Chanona te haya asignado. Esta plataforma organiza flexibilidad desde cero, técnica de pateo y poomsae para que entrenes de forma clara, progresiva y sin brincar niveles.";
     plan.chanonaflexDias = "Depende de la pestaña asignada por el Profesor Chanona";
     plan.isometricoDias = "Depende de la pestaña asignada por el Profesor Chanona";
@@ -55,7 +55,7 @@
   }
 
   function applySystemAdjustments(plan){
-    if(!plan || !Array.isArray(plan.sistemaTabs)) return;
+    if(!plan || !Array.isArray(plan.sistemaTabs) || plan.updated_at === "2026-10-16") return;
     applyBaseText(plan);
     const tabs = Object.fromEntries(plan.sistemaTabs.map(tab => [tab.id, tab]));
 
@@ -316,7 +316,7 @@
     if(q.includes("taeguk 8") || q.includes("t8")) return `En Taeguk 8, revisa línea 2, brazo trasero, golpe de meditación, dobles/triples golpes y aterrizajes.${tipList(tips.t8)}`;
     if(q.includes("yop")) return `Para Yop Chagui: rodilla al pecho, torso alineado y regreso controlado. No busques altura si pierdes postura.${tipList(tips.koryo.slice(0,3))}`;
     if(q.includes("ap chagui") || q.includes("frontal")) return `Para Ap Chagui: puños al pecho, pierna de apoyo firme y recobro claro. Evita mover cuello o barbilla para generar fuerza.${tipList(tips.t6.slice(1,4))}`;
-    if(q.includes("esta semana") || q.includes("poomsae asignada") || q.includes("que trabajo") || q.includes("que toca")) return "Esta semana el trabajo indicado en Poomsae es <b>Koryo - Línea 3</b>. Entra a la pestaña Poomsae, selecciona Koryo, luego Línea 3 y presiona Buscar.";
+    if(q.includes("esta semana") || q.includes("poomsae asignada") || q.includes("que trabajo") || q.includes("que toca")) return "Entra a la pestaña Poomsae y revisa el cronograma del 15 al 28 de octubre. Busca la fecha de tu entrenamiento y respeta las líneas, los tiempos y las series que aparecen para ese día.";
     return `Revisa la pestaña que el Profesor Chanona te asignó. Trabaja con técnica limpia, base fuerte, preparación completa y ritmo constante.${tipList(tips.general)}`;
   };
 

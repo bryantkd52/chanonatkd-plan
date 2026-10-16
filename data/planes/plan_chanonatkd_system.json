@@ -1,13 +1,13 @@
 {
-  "updated_at": "Actualizado miércoles 30 de septiembre de 2026",
+  "updated_at": "2026-10-16",
   "nivel": "ChanonaTKD System",
-  "ciclo": "Miércoles 30 de septiembre al miércoles 14 de octubre del 2026",
-  "enfoque_corto": "Ciclo 30 de septiembre al 14 de octubre",
-  "enfoque": "Principiantes: ChanonaFlex lunes a sábado / lunes, miércoles y viernes; Isométrico activo lunes, miércoles y viernes; Pateo técnico lunes y miércoles / martes y jueves. Intermedios: ChanonaFlex lunes a sábado / lunes, miércoles y viernes; Isométrico activo lunes, miércoles y viernes. Avanzados: ChanonaFlex lunes a sábado / lunes, miércoles y viernes / martes y jueves; Isométrico activo lunes, miércoles y viernes. Poomsae: según indicación.",
-  "chanonaflexDias": "Depende del nivel indicado por Bryan",
-  "isometricoDias": "Depende del nivel indicado por Bryan",
-  "pateoDias": "Pateo principiante dentro de Principiantes / pateo común en pestaña Pateo",
-  "poomsaeDias": "Solo para alumnos con indicación de Poomsae",
+  "ciclo": "Jueves 15 al miércoles 28 de octubre de 2026",
+  "enfoque_corto": "Cada detalle construye tu progreso.",
+  "enfoque": "ChanonaFlex: lunes a sábado según tu nivel. Isométrico activo: lunes, miércoles y viernes. Pateo técnico: lunes y miércoles / martes y jueves. Poomsae: lunes a sábado.",
+  "chanonaflexDias": "Depende de la pestaña asignada por el Profesor Chanona",
+  "isometricoDias": "Depende de la pestaña asignada por el Profesor Chanona",
+  "pateoDias": "Pateo principiante dentro de Principiantes / pateo común en la pestaña Pateo",
+  "poomsaeDias": "Solo si el Profesor Chanona te asignó trabajo de Poomsae",
   "chanonaflex": [],
   "isometrico": [],
   "pateoTecnico": [],
@@ -16,9 +16,10 @@
     "Usa solamente la pestaña que Bryan te indique."
   ],
   "apuntes": [
-    "Usa solamente la pestaña que Bryan te indique.",
-    "Si Bryan te indica combinar dos pestañas, respeta ese orden.",
-    "No cambies de nivel por tu cuenta."
+    "Trabaja solamente la pestaña que el Profesor Chanona te haya asignado.",
+    "Si el Profesor Chanona te indica combinar dos pestañas, respeta ese orden.",
+    "No cambies de nivel por tu cuenta.",
+    "Cuida técnica, control y continuidad antes de buscar mayor dificultad."
   ],
   "notasFinales": [
     "Entrena con calma, técnica limpia y constancia.",
@@ -29,46 +30,45 @@
       "id": "principiantes",
       "titulo": "Principiantes",
       "subtitulo": "Base suave / adaptación",
-      "descripcion": "Para alumnos nuevos o que necesitan una entrada suave, casi rehabilitadora. La prioridad es moverse bien antes de exigir altura.",
-      "recomendacion": "Usa esta pestaña cuando Bryan te indique nivel principiante o adaptación.",
+      "descripcion": "",
+      "recomendacion": "",
       "frecuencias": [
-        "ChanonaFlex: lunes a sábado / lunes, miércoles y viernes.",
+        "Calentamiento: antes de cada entrenamiento.",
+        "ChanonaFlex: lunes, miércoles y viernes / martes, jueves y sábado.",
         "Isométrico activo: lunes, miércoles y viernes.",
         "Pateo técnico: lunes y miércoles / martes y jueves."
       ],
       "calentamientoTitulo": "Calentamiento",
       "calentamiento": [
         {
-          "titulo": "Calentamiento articular general",
-          "dia": "Antes de entrenar",
-          "tipo": "info",
-          "enfoque": "Mover cuello, hombros, cadera, rodillas y tobillos sin prisa.",
-          "reps": "5 a 8 minutos"
-        },
-        {
-          "titulo": "Activación suave de piernas",
-          "dia": "Antes de ChanonaFlex",
-          "tipo": "info",
-          "enfoque": "Sentadillas suaves, balanceos controlados y respiración.",
-          "reps": "2 vueltas tranquilas"
+          "titulo": "Lubricacion - ChanonaTKD",
+          "dia": "Antes de cada entrenamiento",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/1RuhdS9If2L6QBhR6xplM5CEhFmLxR-Wq/view?usp=drive_link",
+          "enfoque": "Preparar articulaciones, movilidad general y cuerpo completo antes de iniciar el trabajo fuerte.",
+          "reps": "antes de cada entrenamiento"
         }
       ],
-      "chanonaflexDias": "PRE-CHANONAFLEX: LUNES A SÁBADO / BÁSICO: LUNES - MIÉRCOLES - VIERNES",
+      "chanonaflexDias": "ESTIRAMIENTO INICIAL CON BLOQUE: LUNES - MIÉRCOLES - VIERNES / CHANONAFLEX CON SILLA: MARTES - JUEVES - SÁBADO",
       "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1 SUAVE",
-      "pateoDias": "Sentadilla Ap Chagui y Circuito elevacion + sostener + circular: LUNES - MIÉRCOLES / Circuito Yop chagui con Bloque y Ejercicio 5 - Yop Chagui: MARTES - JUEVES",
+      "pateoDias": "Lunes y miércoles / Martes y jueves",
       "poomsaeDias": "NO ASIGNADO EN ESTE NIVEL",
       "chanonaflex": [
         {
-          "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-          "dia": "LUNES A SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
-        },
-        {
-          "titulo": "Circuito Chanonaflex - Básico",
+          "titulo": "Estiramiento inicial con bloque",
           "dia": "LUNES - MIÉRCOLES - VIERNES",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/13FYNM5nMd65YYPXZC9iuQTQ_dJUvnH1m/view?usp=sharing",
+          "enfoque": "Abrir movilidad y flexibilidad de forma progresiva usando bloque.",
+          "reps": "1 vez / según video"
+        },
+        {
+          "titulo": "Chanonaflex - Con silla",
+          "dia": "MARTES - JUEVES - SÁBADO",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/1JuMZJNBn1U6euSphL1qrAgu6bN89p_VM/view?usp=drive_link",
+          "enfoque": "Trabajar flexibilidad con apoyo de silla para cuidar postura y control.",
+          "reps": "1 vez / según video"
         }
       ],
       "isometrico": [
@@ -106,91 +106,90 @@
       ],
       "pateoTecnico": [
         {
-          "titulo": "Sentadilla Ap Chagui",
-          "dia": "LUNES - MIÉRCOLES",
+          "titulo": "Ap + Extensión",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=drive_link",
-          "enfoque": "Trabajar fuerza, cámara y control de Ap Chagui desde sentadilla.",
-          "reps": "7 repeticiones x pierna / 45 seg descanso / 2 series"
+          "url": "https://drive.google.com/file/d/1ZyIyNBp104LrxnSukkJkzaNiWSGVEXdk/view?usp=sharing",
+          "dia": "Lunes y miércoles",
+          "reps": "7 repeticiones por pierna / 2 series / 45 segundos de descanso",
+          "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición."
         },
         {
-          "titulo": "Circuito elevacion + sostener + circular",
-          "dia": "LUNES - MIÉRCOLES",
+          "titulo": "Ap Chagui 3 niveles",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP/view?usp=drive_link",
-          "enfoque": "Trabajar elevación, sostén y recorrido circular con control técnico.",
-          "reps": "10 repeticiones x pierna / 35 seg descanso / 4 series"
+          "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view?usp=sharing",
+          "dia": "Lunes y miércoles",
+          "reps": "10 repeticiones por pierna / 4 series / 35 segundos de descanso",
+          "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición."
         },
         {
-          "titulo": "Circuito Yop chagui con Bloque",
-          "dia": "MARTES - JUEVES",
+          "titulo": "Ap Chagui acostado",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo/view?usp=drive_link",
-          "enfoque": "Trabajar cámara, alineación y control de Yop Chagui utilizando el bloque.",
-          "reps": "5 repeticiones x pierna / 45 seg descanso / 2 series"
+          "url": "https://drive.google.com/file/d/1xBYwqBnmBpuATtaVqUoXbUtPiTTTUZIC/view?usp=sharing",
+          "dia": "Martes y jueves",
+          "reps": "5 repeticiones por pierna / 2 series / 45 segundos de descanso",
+          "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición."
         },
         {
-          "titulo": "Ejercicio 5 - Yop Chagui",
-          "dia": "MARTES - JUEVES",
+          "titulo": "Ap Chagui sentado",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1m7kLYBbo-a9gyy0xKyzY_aoXJVainWBl/view?usp=drive_link",
-          "enfoque": "Trabajar ejecución técnica y control de Yop Chagui sin sacrificar postura.",
-          "reps": "4 a 5 repeticiones x pierna / 75 seg descanso / 2 series"
+          "url": "https://drive.google.com/file/d/1kgNL9L8yGHWr_vMbbCZYIelzlZvqIqzX/view?usp=sharing",
+          "dia": "Martes y jueves",
+          "reps": "4 a 5 repeticiones por pierna / 2 series / 75 segundos de descanso",
+          "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición."
         }
       ],
       "poomsae": [],
       "clasesGrabadas": [],
       "indicacionesExtras": [
-        "La sección de flexibilidad e isométricos activos continuaremos trabajándola de la misma forma, mientras que en la sección de Poomsae pueden verificar que tenemos trabajo nuevo, como así también en nuestro trabajo de pateo."
+        "Revisa el trabajo nuevo de poomsae y pateo que tienes en sus respectivas pestañas."
       ],
       "notasFinales": [
-        "Excelente trabajo y agradezco a quienes han enviado sus videos para que les comparta retroalimentación. Continúen enfocándose en los puntos débiles o donde todavía falte desarrollo y denle un extra de atención.",
-        "Mucho éxito en este ciclo y cualquier duda, coméntenme."
+        "¡Muy buen trabajo esta semana! Ahora tienes clases de flexibilidad, pateo y poomsae organizadas por separado para entrenar con una estructura clara, incluso si dispones de poco tiempo.",
+        "Coméntame cualquier inconveniente para resolverlo a la brevedad. ¡Disfruta de tu entrenamiento!"
       ]
     },
     {
       "id": "intermedios",
       "titulo": "Intermedios",
       "subtitulo": "Flexibilidad + fuerza de base",
-      "descripcion": "Para alumnos que ya tienen base y pueden sostener más trabajo sin perder técnica. El pateo común está en la pestaña Pateo.",
-      "recomendacion": "Usa esta pestaña si Bryan te indicó nivel intermedio. Para pateo, usa también la pestaña Pateo si Bryan te lo indicó.",
+      "descripcion": "",
+      "recomendacion": "",
       "frecuencias": [
-        "ChanonaFlex: lunes a sábado / lunes, miércoles y viernes.",
+        "Calentamiento: antes de cada entrenamiento.",
+        "ChanonaFlex: lunes, miércoles y viernes / martes, jueves y sábado.",
         "Isométrico activo: lunes, miércoles y viernes."
       ],
       "calentamientoTitulo": "Calentamiento y activación",
       "calentamiento": [
         {
-          "titulo": "Calentamiento y activación general",
-          "dia": "Antes de entrenar",
-          "tipo": "info",
-          "enfoque": "Preparar articulaciones, abdomen, glúteo y piernas antes de exigir flexibilidad.",
-          "reps": "8 a 10 minutos"
-        },
-        {
-          "titulo": "Activación de cadera y base",
-          "dia": "Antes de ChanonaFlex",
-          "tipo": "info",
-          "enfoque": "Trabajar movilidad de cadera, control de apoyo y respiración activa.",
-          "reps": "2 series controladas"
+          "titulo": "Lubricacion - ChanonaTKD",
+          "dia": "Antes de cada entrenamiento",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/1RuhdS9If2L6QBhR6xplM5CEhFmLxR-Wq/view?usp=drive_link",
+          "enfoque": "Preparar articulaciones, movilidad general y cuerpo completo antes de iniciar el trabajo fuerte.",
+          "reps": "antes de cada entrenamiento"
         }
       ],
-      "chanonaflexDias": "PRE-CHANONAFLEX: LUNES A SÁBADO / INTERMEDIO: LUNES - MIÉRCOLES - VIERNES",
+      "chanonaflexDias": "PRE-CHANONAFLEX: LUNES - MIÉRCOLES - VIERNES / CHANONAFLEX BÁSICO: MARTES - JUEVES - SÁBADO",
       "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP NIVEL 1 + AP NIVEL 1",
-      "pateoDias": "VER PESTAÑA PATEO SI BRYAN LA ASIGNÓ",
+      "pateoDias": "VER PESTAÑA PATEO SI EL PROFESOR CHANONA LA ASIGNÓ",
       "poomsaeDias": "NO ASIGNADO EN ESTE NIVEL",
       "chanonaflex": [
         {
           "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-          "dia": "LUNES A SÁBADO",
-          "tipo": "video",
-          "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
-        },
-        {
-          "titulo": "Chanonaflex - intermedio",
           "dia": "LUNES - MIÉRCOLES - VIERNES",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1mYFY4MKpp85CG6aVN1s3bqLn1p12Tb74/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing",
+          "enfoque": "Preparar el cuerpo para flexibilidad sin perder alineación.",
+          "reps": "1 vez / según video"
+        },
+        {
+          "titulo": "Circuito Chanonaflex - Básico",
+          "dia": "MARTES - JUEVES - SÁBADO",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=sharing",
+          "enfoque": "Trabajo base de flexibilidad con control y continuidad.",
+          "reps": "1 vez / según video"
         }
       ],
       "isometrico": [
@@ -230,62 +229,65 @@
       "poomsae": [],
       "clasesGrabadas": [],
       "indicacionesExtras": [
-        "La sección de flexibilidad e isométricos activos continuaremos trabajándola de la misma forma, mientras que en la sección de Poomsae pueden verificar que tenemos trabajo nuevo, como así también en nuestro trabajo de pateo."
+        "Comenzaremos a combinar algunos ejercicios de esta sección con los de Avanzados para hacer la transición de manera progresiva.",
+        "Respeta los tiempos y las velocidades de poomsae que te dejo en su sección.",
+        "En Clases encontrarás los nuevos entrenamientos de pateo, flexibilidad y poomsae organizados por separado."
       ],
       "notasFinales": [
-        "Excelente trabajo y agradezco a quienes han enviado sus videos para que les comparta retroalimentación. Continúen enfocándose en los puntos débiles o donde todavía falte desarrollo y denle un extra de atención.",
-        "Mucho éxito en este ciclo y cualquier duda, coméntenme."
+        "¡Excelente trabajo este ciclo! Nos acercaremos progresivamente al nivel avanzado. Comunícate conmigo para que te indique cómo realizar esa transición.",
+        "Quedo atento a tus comentarios. ¡A entrenar con todo como se debe!"
       ]
     },
     {
       "id": "avanzados",
       "titulo": "Avanzados",
       "subtitulo": "Mayor exigencia / control fuerte",
-      "descripcion": "Para alumnos que ya toleran volumen, fuerza y control. El pateo avanzado común está separado en la pestaña Pateo.",
-      "recomendacion": "Usa esta pestaña solo si Bryan te indicó nivel avanzado. Para pateo, usa también la pestaña Pateo si Bryan te lo indicó.",
+      "descripcion": "",
+      "recomendacion": "",
       "frecuencias": [
-        "ChanonaFlex: lunes a sábado / lunes, miércoles y viernes / martes y jueves.",
+        "Calentamiento: antes de cada entrenamiento.",
+        "ChanonaFlex: lunes, miércoles y viernes / martes, jueves y sábado.",
         "Isométrico activo: lunes, miércoles y viernes."
       ],
       "calentamientoTitulo": "Calentamiento y activación",
       "calentamiento": [
         {
-          "titulo": "Calentamiento y activación general",
-          "dia": "Antes de entrenar",
-          "tipo": "info",
-          "enfoque": "Preparar articulaciones, abdomen, glúteo y piernas antes de exigir flexibilidad.",
-          "reps": "8 a 10 minutos"
-        },
-        {
-          "titulo": "Activación de cadera y base",
-          "dia": "Antes de ChanonaFlex",
-          "tipo": "info",
-          "enfoque": "Trabajar movilidad de cadera, control de apoyo y respiración activa.",
-          "reps": "2 series controladas"
+          "titulo": "Lubricacion - ChanonaTKD",
+          "dia": "Antes de cada entrenamiento",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/1RuhdS9If2L6QBhR6xplM5CEhFmLxR-Wq/view?usp=drive_link",
+          "enfoque": "Preparar articulaciones, movilidad general y cuerpo completo antes de iniciar el trabajo fuerte.",
+          "reps": "antes de cada entrenamiento"
         }
       ],
-      "chanonaflexDias": "PRE-CHANONAFLEX: LUNES A SÁBADO / BÁSICO: LUNES - MIÉRCOLES - VIERNES / DESDE PROPUESTA NIVEL 3: MARTES - JUEVES",
+      "chanonaflexDias": "PRE-CHANONAFLEX: LUNES - MIÉRCOLES - VIERNES / BÁSICO: MARTES - JUEVES - SÁBADO / DESDE PROPUESTA NIVEL 3: MARTES - JUEVES",
       "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / GLÚTEO + YOP NIVEL 2 + AP NIVEL 2",
-      "pateoDias": "VER PESTAÑA PATEO SI BRYAN LA ASIGNÓ",
+      "pateoDias": "VER PESTAÑA PATEO SI EL PROFESOR CHANONA LA ASIGNÓ",
       "poomsaeDias": "NO ASIGNADO EN ESTE NIVEL",
       "chanonaflex": [
         {
           "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-          "dia": "LUNES A SÁBADO",
+          "dia": "LUNES - MIÉRCOLES - VIERNES",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing",
+          "enfoque": "Preparar el cuerpo antes de exigir rango y control.",
+          "reps": "1 vez / según video"
         },
         {
           "titulo": "Circuito Chanonaflex - Básico",
-          "dia": "LUNES - MIÉRCOLES - VIERNES",
+          "dia": "MARTES - JUEVES - SÁBADO",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/1jnSjVKx7mPFKco3HttgzmQUQgAsMm9Kt/view?usp=sharing",
+          "enfoque": "Mantener base y continuidad de flexibilidad.",
+          "reps": "1 vez / según video"
         },
         {
           "titulo": "Chanonaflex Desde Propuesta - Nivel 3",
           "dia": "MARTES - JUEVES",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=sharing",
+          "enfoque": "Trabajo más exigente para rango, control y tolerancia progresiva.",
+          "reps": "1 vez / según video"
         }
       ],
       "isometrico": [
@@ -325,26 +327,26 @@
       "poomsae": [],
       "clasesGrabadas": [],
       "indicacionesExtras": [
-        "La sección de flexibilidad e isométricos activos continuaremos trabajándola de la misma forma, mientras que en la sección de Poomsae pueden verificar que tenemos trabajo nuevo, como así también en nuestro trabajo de pateo."
+        "Si quieres un reto extra, entra a Clases y prueba los nuevos entrenamientos de flexibilidad, pateo y poomsae. Están organizados por separado para que tengas una mejor experiencia.",
+        "Respeta los tiempos y las velocidades de poomsae que te dejo en su sección."
       ],
       "notasFinales": [
-        "Excelente trabajo y agradezco a quienes han enviado sus videos para que les comparta retroalimentación. Continúen enfocándose en los puntos débiles o donde todavía falte desarrollo y denle un extra de atención.",
-        "Mucho éxito en este ciclo y cualquier duda, coméntenme."
+        "¡Excelente trabajo este ciclo! Coméntame cualquier duda que te surja sobre el plan.",
+        "Quedo atento a tus comentarios. ¡A entrenar con todo como se debe!"
       ]
     },
     {
       "id": "pateo",
       "titulo": "Pateo",
       "subtitulo": "Común para intermedios y avanzados",
-      "descripcion": "Pestaña independiente para el pateo técnico que pueden usar alumnos intermedios o avanzados cuando Bryan lo indique.",
-      "recomendacion": "Usa esta pestaña solo si Bryan te indicó agregar pateo técnico a tu nivel.",
+      "descripcion": "",
+      "recomendacion": "",
       "frecuencias": [
-        "Pateo técnico: lunes y miércoles.",
-        "Pateo técnico: martes y jueves."
+        "Pateo técnico: lunes y miércoles / martes y jueves."
       ],
       "chanonaflexDias": "NO APLICA EN ESTA PESTAÑA",
       "isometricoDias": "NO APLICA EN ESTA PESTAÑA",
-      "pateoDias": "LUNES - MIÉRCOLES / MARTES - JUEVES",
+      "pateoDias": "Lunes y miércoles / Martes y jueves",
       "poomsaeDias": "NO APLICA EN ESTA PESTAÑA",
       "calentamiento": [],
       "chanonaflex": [],
@@ -352,183 +354,224 @@
       "pateoTecnico": [
         {
           "titulo": "Torción de cadera con banda elástica",
-          "dia": "LUNES - MIÉRCOLES",
           "tipo": "video",
           "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy",
-          "enfoque": "Trabajar a máxima velocidad sin perder control técnico.",
-          "reps": "20 reps a máxima velocidad / 4 series / 15 seg descanso entre series"
+          "dia": "Lunes y miércoles",
+          "enfoque": "Trabaja a máxima velocidad. Descansa 15 segundos entre series.",
+          "reps": "20 repeticiones / 4 series"
         },
         {
           "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
-          "dia": "LUNES - MIÉRCOLES",
           "tipo": "video",
           "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link",
-          "enfoque": "Realizar cada repetición extremadamente lento.",
-          "reps": "5 reps por lado extremadamente lento / 1 serie"
+          "dia": "Lunes y miércoles",
+          "enfoque": "Realiza cada repetición extremadamente lento.",
+          "reps": "5 repeticiones por lado / 1 serie"
         },
         {
-          "titulo": "Propuesta + ap chagui reps",
-          "dia": "LUNES - MIÉRCOLES",
+          "titulo": "Balance Ap + Dollyo + Yop",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1dmkR7vXtDA1P19Ymc8cgoIUFqoUVsdO4/view?usp=sharing",
-          "enfoque": "Una serie rápida y una serie normal.",
-          "reps": "10 reps x pierna / 2 series (1 rápida y 1 normal)"
+          "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=sharing",
+          "dia": "Lunes y miércoles",
+          "enfoque": "Cuida el equilibrio y el control durante la secuencia.",
+          "reps": "10 repeticiones por pierna / 2 series"
         },
         {
-          "titulo": "Silla + Ap Chaguis 3 niveles",
-          "dia": "LUNES - MIÉRCOLES",
+          "titulo": "Ap Chagui Extension completa",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=sharing",
-          "enfoque": "Una serie ultra rápida y una serie normal.",
-          "reps": "10 reps x pierna / 2 series (1 ultra rápida y 1 normal)"
+          "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing",
+          "dia": "Lunes y miércoles",
+          "enfoque": "No tuerzas el torso ni subas los hombros. Mantén siempre extendida la pierna de apoyo.",
+          "reps": "30 repeticiones por pierna / 2 series"
         },
         {
           "titulo": "Split de Yop Chagui",
-          "dia": "MARTES - JUEVES",
           "tipo": "video",
           "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=sharing",
-          "enfoque": "No debe doler la rodilla.",
-          "reps": "10 reps / 2 series / no debe doler rodilla"
+          "dia": "Martes y jueves",
+          "enfoque": "Llega a tu máxima extensión sin modificar el glúteo ni la cadera. No debe doler la rodilla.",
+          "reps": "30 repeticiones / 2 series"
         },
         {
           "titulo": "Yop Chagui + toque piso + equilibrio",
-          "dia": "MARTES - JUEVES",
           "tipo": "video",
           "url": "https://drive.google.com/file/d/1ZQ3ud3bkEQJcvSnUelWDVR4ECdwv1_Vn/view?usp=sharing",
-          "enfoque": "Importante no mover el pie de apoyo aunque caiga la pierna que patea.",
-          "reps": "5 reps x lado / 2 series"
+          "dia": "Martes y jueves",
+          "enfoque": "No muevas el pie de apoyo, aunque caiga la pierna que patea.",
+          "reps": "10 repeticiones por lado / 2 series"
         },
         {
-          "titulo": "Linea 3 Koryo - Sentadilla y camara",
-          "dia": "MARTES - JUEVES",
+          "titulo": "Camara + L3 Koryo + L5 T5",
           "tipo": "video",
-          "url": "https://drive.google.com/file/d/1dlhr114oOT6oiKKaD_02J-MUBPEma9Gn/view?usp=sharing",
-          "enfoque": "Importante no mover el pie de apoyo aunque caiga la pierna que patea.",
-          "reps": "5 reps x lado / 2 series"
+          "url": "https://drive.google.com/file/d/15eKiPwUQSRQAutTZ1s1XD8s-stSXe9PE/view?usp=sharing",
+          "dia": "Martes y jueves",
+          "enfoque": "No muevas el pie de apoyo, aunque caiga la pierna que está arriba.",
+          "reps": "10 repeticiones por lado / 2 series"
+        },
+        {
+          "titulo": "Circuito Yop chagui con Bloque",
+          "tipo": "video",
+          "url": "https://drive.google.com/file/d/10nz0e_wowhkr4rk7uUlobLrKCFpA6OXy/view?usp=sharing",
+          "dia": "Martes y jueves",
+          "enfoque": "Mantente completamente firme en cada posición estática.",
+          "reps": "5 repeticiones por lado / 1 serie"
         }
       ],
       "poomsae": [],
       "clasesGrabadas": [],
       "indicacionesExtras": [
-        "Mantén la cámara limpia al subir y al regresar.",
-        "No dejes que el torso se vaya hacia adelante o hacia atrás.",
-        "Usa abdomen, glúteo y pierna de apoyo para sostener la patada.",
-        "Primero control, después altura y velocidad."
+        "Los ejercicios y las repeticiones de este ciclo son más intensos. Tómalo con calma, reconoce tus límites y trabaja con el enfoque técnico y explosivo que buscamos."
       ],
       "notasFinales": [
-        "El pateo debe sentirse exigente, pero siempre técnico."
+        "Manténme al tanto de cualquier duda sobre estos ejercicios. Como el trabajo es más exigente, es importante que me comentes cómo te sientes y si notas algo raro al ejecutarlos.",
+        "¡A darle con todo! Mucho éxito y disfruta del entrenamiento."
       ]
     },
     {
       "id": "poomsae",
       "titulo": "Poomsae",
       "subtitulo": "Líneas técnicas / clases grabadas",
-      "descripcion": "Para alumnos que Bryan indique con trabajo de poomsae. Puede usarse solo o combinado con otro nivel.",
-      "recomendacion": "Usa esta pestaña solo si Bryan te indicó trabajar Poomsae.",
+      "descripcion": "",
+      "recomendacion": "",
       "frecuencias": [
-        "Poomsae: según indicación de Bryan.",
-        "Clases grabadas: cuando Bryan lo indique."
+        "Poomsae: lunes a sábado."
       ],
       "chanonaflexDias": "NO APLICA EN ESTA PESTAÑA",
       "isometricoDias": "NO APLICA EN ESTA PESTAÑA",
       "pateoDias": "NO APLICA EN ESTA PESTAÑA",
-      "poomsaeDias": "SEGÚN INDICACIÓN DE BRYAN / LÍNEAS Y CLASES ACUMULADAS",
+      "poomsaeDias": "Lunes a sábado",
       "calentamiento": [],
       "chanonaflex": [],
       "isometrico": [],
       "pateoTecnico": [],
       "poomsae": [
         {
-          "titulo": "Koryo L3 - Lado derecho",
-          "dia": "Según indicación de Bryan",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=116eSAk3WUKVvXneFxAAyuyrG0mu7pwIi&usp=drive_copy",
-          "enfoque": "Línea 3 de Koryo con alineación, cabeza, cadera y control de Yop Chagui.",
-          "reps": "15 reps / 1 serie"
+          "titulo": "Jueves 15 de Octubre de 2026",
+          "dia": "Jueves 15 de Octubre de 2026",
+          "enfoque": "Taeguk 4 (Línea 2): 10 min | Taeguk 5 (Línea 2): 10 min",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
         },
         {
-          "titulo": "Koryo L3 - Lado izquierdo",
-          "dia": "Según indicación de Bryan",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=1d39Oz_ASS6Yb-BIUclGe9QrT-WP9BgwS&usp=drive_copy",
-          "enfoque": "Línea 3 de Koryo con control de eje, cadera y torso.",
-          "reps": "15 reps / 1 serie"
+          "titulo": "Viernes 16 de Octubre de 2026",
+          "dia": "Viernes 16 de Octubre de 2026",
+          "enfoque": "Koryo (Línea 2): 10 min | Keumgang (Línea 2): 10 min | Poomsaes completas del día: Taeguk 4, Taeguk 5 y Koryo (4 series de las 3 seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
         },
         {
-          "titulo": "Koryo L3 - Concentración 8 seg",
-          "dia": "Según indicación de Bryan",
-          "tipo": "video",
-          "url": "https://drive.google.com/open?id=12W8m2JmF9ICQiA6T1q8DB2TNpoSa_wNJ&usp=drive_copy",
-          "enfoque": "Timing, respiración y postura.",
-          "reps": "10 reps / 1 serie"
+          "titulo": "Sábado 17 de Octubre de 2026",
+          "dia": "Sábado 17 de Octubre de 2026",
+          "enfoque": "Keumgang (Línea 6): 10 min | Taeguk 4 (Línea 2): 10 min",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
+        },
+        {
+          "titulo": "Lunes 19 de Octubre de 2026",
+          "dia": "Lunes 19 de Octubre de 2026",
+          "enfoque": "Taeguk 5 (Línea 2): 10 min | Koryo (Línea 2): 10 min",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
+        },
+        {
+          "titulo": "Martes 20 de Octubre de 2026",
+          "dia": "Martes 20 de Octubre de 2026",
+          "enfoque": "Keumgang (Línea 2): 10 min | Keumgang (Línea 6): 10 min",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
+        },
+        {
+          "titulo": "Miércoles 21 de Octubre de 2026",
+          "dia": "Miércoles 21 de Octubre de 2026",
+          "enfoque": "Taeguk 4 (Línea 2): 10 min | Taeguk 5 (Línea 2): 10 min | Poomsaes completas del día: Taeguk 4, Taeguk 5 y Koryo (4 series de las 3 seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
+        },
+        {
+          "titulo": "Jueves 22 de Octubre de 2026",
+          "dia": "Jueves 22 de Octubre de 2026",
+          "enfoque": "Taeguk 4 (Línea 4): 10 min | Taeguk 5 (Línea 5): 10 min",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
+        },
+        {
+          "titulo": "Viernes 23 de Octubre de 2026",
+          "dia": "Viernes 23 de Octubre de 2026",
+          "enfoque": "Koryo (Línea 3): 10 min | Keumgang (Línea 4): 10 min | Poomsaes completas del día: Taeguk 4, Taeguk 5 y Koryo (4 series de las 3 seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
+        },
+        {
+          "titulo": "Sábado 24 de Octubre de 2026",
+          "dia": "Sábado 24 de Octubre de 2026",
+          "enfoque": "Taeguk 4 (Línea 4): 10 min | Taeguk 5 (Línea 5): 10 min",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
+        },
+        {
+          "titulo": "Lunes 26 de Octubre de 2026",
+          "dia": "Lunes 26 de Octubre de 2026",
+          "enfoque": "Koryo (Línea 3): 10 min | Keumgang (Línea 4): 10 min",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
+        },
+        {
+          "titulo": "Martes 27 de Octubre de 2026",
+          "dia": "Martes 27 de Octubre de 2026",
+          "enfoque": "Taeguk 4 (Línea 4): 10 min | Taeguk 5 (Línea 5): 10 min",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
+        },
+        {
+          "titulo": "Miércoles 28 de Octubre de 2026",
+          "dia": "Miércoles 28 de Octubre de 2026",
+          "enfoque": "Koryo (Línea 3): 10 min | Keumgang (Línea 4): 10 min | Poomsaes completas del día: Taeguk 4, Taeguk 5 y Koryo (4 series de las 3 seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
+          "reps": "Respeta los tiempos, las series y los descansos indicados.",
+          "tipo": "info"
         }
       ],
-      "clasesGrabadas": [
-        {
-          "titulo": "12va sesión - ChanonaTKD System",
-          "dia": "Clase acumulada",
-          "tipo": "video",
-          "url": "https://drive.google.com/file/d/1Fv9nYS4_4ik-d5Q2Ze6AO8u1qKfST-OC/view?usp=drive_link",
-          "enfoque": "Clase acumulada del sistema.",
-          "reps": "1 clase completa"
-        },
-        {
-          "titulo": "13va sesión - ChanonaTKD System",
-          "dia": "Clase acumulada",
-          "tipo": "video",
-          "url": "https://drive.google.com/file/d/1OtTSPo2XfByvrgmcYjzHskkE0vGbkKC2/view?usp=drive_link",
-          "enfoque": "Clase acumulada del sistema.",
-          "reps": "1 clase completa"
-        },
-        {
-          "titulo": "14va sesión - ChanonaTKD System",
-          "dia": "Clase acumulada",
-          "tipo": "video",
-          "url": "https://drive.google.com/file/d/1uLUeC9BU7gtkL2WC8fnSSVh2Ihb5HB8f/view?usp=drive_link",
-          "enfoque": "Clase acumulada del sistema.",
-          "reps": "1 clase completa"
-        },
-        {
-          "titulo": "15va sesión - ChanonaTKD System",
-          "dia": "Clase acumulada",
-          "tipo": "video",
-          "url": "https://drive.google.com/file/d/1kK8Fh9K0S-0AWCC-SK5nFuBrcRuVIfP6/view?usp=drive_link",
-          "enfoque": "Clase acumulada del sistema.",
-          "reps": "1 clase completa"
-        },
-        {
-          "titulo": "16va sesión - ChanonaTKD System",
-          "dia": "Clase acumulada",
-          "tipo": "video",
-          "url": "https://drive.google.com/file/d/1LauZUh_s79qjoMzFxfJQczSpPArrwD9Q/view?usp=drive_link",
-          "enfoque": "Clase acumulada del sistema.",
-          "reps": "1 clase completa"
-        }
-      ],
+      "clasesGrabadas": [],
       "indicacionesExtras": [
-        "Trabajaremos en base a Taeguk 5, 6 y 7. Toma en cuenta las siguientes indicaciones:",
-        "Taeguk 5 — Línea 1: Procura mantener la espalda recta durante el giro, evitando inclinar el torso hacia delante.",
-        "Taeguk 5 — Línea 1: Procura que las preparaciones sean más compactas, sin abrir demasiado los brazos ni los codos.",
-        "Taeguk 5 — Línea 2: Procura mantener la cabeza alineada con la espalda durante las transiciones y no adelantar la cervical.",
-        "Taeguk 5 — Línea 2: Procura que la técnica y la posición terminen al mismo tiempo, evitando acomodar los brazos después de llegar.",
-        "Taeguk 5 — Línea 3: En el giro, procura girar el pie delantero derecho 180° utilizando la bola del pie y no el talón.",
-        "Taeguk 5 — Línea 3: En Ap Kubi, procura entrar con mayor potencia de rodilla y extender completamente la pierna de atrás al finalizar.",
-        "Taeguk 6 — Línea 1: Procura mantener el torso sobre tu centro durante las transiciones, evitando llevar el cuerpo hacia delante o hacia atrás.",
-        "Taeguk 6 — Línea 1: En las preparaciones, procura no llevar los codos demasiado hacia atrás; mantén el movimiento compacto.",
-        "Taeguk 6 — Línea 2: La mano debe pasar por el recorrido correcto durante la preparación antes de ejecutar la defensa; no busques llegar directamente al final.",
-        "Taeguk 6 — Línea 2: En las técnicas con ambas manos, procura que las dos trabajen coordinadas y terminen al mismo tiempo.",
-        "Taeguk 6 — Línea 3: Procura que el pie de atrás no se abra demasiado hacia afuera al terminar la posición.",
-        "Taeguk 6 — Línea 3: Procura terminar completamente cada defensa antes de comenzar la siguiente transición.",
-        "Taeguk 7 — Línea 1: Procura mantener la cervical alineada durante los cambios de dirección, evitando sacar la cabeza hacia delante.",
-        "Taeguk 7 — Línea 1: En los giros, procura utilizar el movimiento del cuerpo para generar la técnica y no ejecutar primero los brazos.",
-        "Taeguk 7 — Línea 2: Procura que la cadera se mantenga correctamente alineada y evita adelantar la cadera izquierda durante la posición.",
-        "Taeguk 7 — Línea 2: Procura mantener las preparaciones compactas; los codos no deben abrirse demasiado durante el recorrido.",
-        "Taeguk 7 — Línea 3: Procura mejorar el timing entre la transición y la técnica para que los pies y las manos terminen al mismo tiempo.",
-        "Taeguk 7 — Línea 3: Procura darle un final claro a cada movimiento: preparación, aceleración y corte, sin enlazarlo antes de haber terminado."
+        "Taeguk 4 — Línea 2: Procura mantener la espalda recta durante los giros, evitando inclinar el torso hacia delante al cambiar de dirección.",
+        "Taeguk 4 — Línea 2: En Sonnal Montong Makki, procura que ambas manos lleguen coordinadas a su posición final, evitando que una termine antes que la otra.",
+        "Taeguk 4 — Línea 2: Procura mantener las preparaciones compactas, evitando abrir demasiado los codos durante el recorrido de los brazos.",
+        "Taeguk 4 — Línea 2: Procura mejorar la coordinación entre la transición y la defensa, buscando que la posición y las manos terminen al mismo tiempo.",
+        "Taeguk 4 — Línea 4: En Ap Chagui, procura mantener la cabeza alineada con la espalda, evitando adelantar el torso durante la ejecución.",
+        "Taeguk 4 — Línea 4: Procura recoger completamente la pierna después de patear, manteniendo el equilibrio antes de realizar la siguiente transición.",
+        "Taeguk 4 — Línea 4: En los golpes, procura acelerar progresivamente los brazos y finalizar con un corte firme, evitando mantener una velocidad constante.",
+        "Taeguk 4 — Línea 4: Procura mantener el abdomen firme durante las transiciones, evitando que el torso se incline hacia delante al terminar los movimientos.",
+        "Taeguk 5 — Línea 2: Procura mantener la espalda recta durante los cambios de dirección, evitando adelantar la cabeza al realizar los giros.",
+        "Taeguk 5 — Línea 2: En las preparaciones, procura mantener los codos cerca del cuerpo, evitando llevar los brazos demasiado hacia atrás.",
+        "Taeguk 5 — Línea 2: Procura que las defensas terminen al mismo tiempo que la posición, evitando acomodar los brazos después de finalizar la transición.",
+        "Taeguk 5 — Línea 2: Procura realizar los giros utilizando la bola del pie, manteniendo el control del equilibrio durante el cambio de dirección.",
+        "Taeguk 5 — Línea 5: En los cambios de posición, procura mantener la cadera alineada con el torso, evitando que un lado se adelante demasiado.",
+        "Taeguk 5 — Línea 5: Procura mantener las preparaciones correctamente dirigidas, evitando abrir los brazos más de lo necesario.",
+        "Taeguk 5 — Línea 5: Procura darle mayor potencia a la entrada de la rodilla durante las transiciones hacia Ap Kubi, evitando simplemente dejar caer el cuerpo.",
+        "Taeguk 5 — Línea 5: Procura finalizar completamente cada técnica antes de comenzar la siguiente, manteniendo una separación clara entre los movimientos.",
+        "Koryo — Línea 2: En Yop Chagui, procura mantener el torso alineado con la cadera, evitando inclinar el cuerpo excesivamente para alcanzar mayor altura.",
+        "Koryo — Línea 2: Procura mantener la cabeza alineada con la espalda durante las patadas, evitando adelantar la cervical al momento de extender la pierna.",
+        "Koryo — Línea 2: Durante la recuperación de Yop Chagui, procura mantener los hombros estables, evitando llevarlos hacia delante al recoger la pierna.",
+        "Koryo — Línea 2: Procura controlar el equilibrio después de cada patada, manteniendo el abdomen activo antes de realizar la siguiente transición.",
+        "Koryo — Línea 3: Procura mantener la espalda recta durante los giros, evitando inclinar el torso hacia delante al cambiar de dirección.",
+        "Koryo — Línea 3: En las preparaciones de las defensas, procura que las manos realicen el recorrido completo, evitando acortar el movimiento para ganar velocidad.",
+        "Koryo — Línea 3: Procura mantener los codos correctamente alineados durante las técnicas, evitando abrirlos demasiado o llevarlos excesivamente hacia atrás.",
+        "Koryo — Línea 3: Procura mejorar el timing entre las transiciones y las técnicas, buscando que la posición y los brazos finalicen de manera coordinada.",
+        "Keumgang — Línea 2: Procura mantener el torso completamente alineado durante las transiciones, evitando desplazar la cabeza hacia delante.",
+        "Keumgang — Línea 2: En las preparaciones, procura mantener los brazos cerca del cuerpo, evitando realizar recorridos demasiado amplios.",
+        "Keumgang — Línea 2: Procura controlar la distribución del peso durante los cambios de posición, evitando desplazar el cuerpo antes de establecer correctamente el apoyo.",
+        "Keumgang — Línea 2: Procura mantener una coordinación precisa entre los brazos y las piernas, buscando que cada técnica termine junto con la posición.",
+        "Keumgang — Línea 4: En los giros, procura utilizar la bola del pie como punto de apoyo, manteniendo el torso erguido durante el cambio de dirección.",
+        "Keumgang — Línea 4: Procura mantener la cabeza alineada con la columna durante las transiciones, evitando inclinar el cuello para compensar la pérdida de equilibrio.",
+        "Keumgang — Línea 4: En las técnicas de defensa, procura realizar correctamente la preparación de ambos brazos antes de ejecutar el movimiento final.",
+        "Keumgang — Línea 4: Procura darle un corte definido a cada técnica, evitando continuar el movimiento de los brazos después de terminar la posición.",
+        "Keumgang — Línea 6: Procura mantener el abdomen firme durante las transiciones, evitando que el torso se incline hacia delante o hacia atrás.",
+        "Keumgang — Línea 6: En los cambios de dirección, procura mantener los pies correctamente orientados, evitando realizar ajustes innecesarios después de finalizar la posición.",
+        "Keumgang — Línea 6: Procura coordinar la preparación de los brazos con el desplazamiento del cuerpo, evitando ejecutar ambas acciones por separado.",
+        "Keumgang — Línea 6: Procura mantener un ritmo claro entre las técnicas, diferenciando correctamente los momentos de preparación, aceleración y finalización."
       ],
       "notasFinales": [
-        "Excelente trabajo y agradezco a quienes han enviado sus videos para que les comparta retroalimentación. Continúen enfocándose en los puntos débiles o donde todavía falte desarrollo y denle un extra de atención.",
-        "Mucho éxito en este ciclo y cualquier duda, coméntenme."
+        "Trabajaremos con poomsaes de competencia. Si en tu categoría no corresponden los Taeguks menores, puedes sustituirlos por una poomsae mayor; por ejemplo, Taebaek en lugar de Taeguk 4.",
+        "¡Excelente trabajo! Sigamos entrenando duro y dándole con todo como se debe."
       ]
     }
   ]

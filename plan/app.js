@@ -544,7 +544,7 @@ function capitalize(text){ return text.charAt(0).toUpperCase()+text.slice(1); }
     chipUpdated.textContent = plan.updated_at ? `🕒 ${safeText(plan.updated_at)}` : "🕒 Actualizado";
     chipSubscription.textContent = `💳 ${safeText(alumno.suscripcion_activa || "—")}`;
     brandSub.textContent = `Modo alumno • ${para}`;
-    goalText.textContent = alumnoId === "chanonatkd_system" ? "Cada entrenamiento cuenta. Sigue avanzando." : safeText(alumno.objetivo_proximo || plan.enfoque_corto || "");
+    goalText.textContent = alumnoId === "chanonatkd_system" ? "Cada detalle construye tu progreso." : safeText(alumno.objetivo_proximo || plan.enfoque_corto || "");
     if(alumno.link_entrenamiento){
       trainingLink.href = alumno.link_entrenamiento;
     }else{

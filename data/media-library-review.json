@@ -129,7 +129,8 @@
   ],
   "approved_additions_files": [
     "data/media-library-additions-2026-05-25.json",
-    "data/media-library-additions-2026-10-15.json"
+    "data/media-library-additions-2026-10-15.json",
+    "data/media-library-additions-2026-10-16.json"
   ],
   "next_consolidation_rule": "Construir una biblioteca canónica aprobada que incluya los recursos aprobados y excluya de selección automática las URLs históricas bloqueadas."
 }

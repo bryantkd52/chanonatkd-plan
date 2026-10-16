@@ -38,6 +38,12 @@
     content.querySelectorAll(".section").forEach(prepareSection);
   }
 
+  window.preparePlanSections = prepareAllSections;
+  if(new URL(location.href).searchParams.get("alumno") === "chanonatkd_system"){
+    prepareAllSections();
+    return;
+  }
+
   const observer = new MutationObserver(prepareAllSections);
   observer.observe(content, { childList:true, subtree:true });
 

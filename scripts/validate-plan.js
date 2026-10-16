@@ -21,7 +21,7 @@ const REQUIRED_PLAN_KEYS = [
   'pateoDias', 'pateoTecnico', 'poomsaeDias', 'poomsae',
   'apuntes', 'notasFinales'
 ];
-const OPTIONAL_PLAN_KEYS = ['extras', 'indicacionesExtras', 'clasesGrabadas'];
+const OPTIONAL_PLAN_KEYS = ['extras', 'indicacionesExtras', 'clasesGrabadas', 'sistemaTabs'];
 const RESOURCE_SECTIONS = ['chanonaflex', 'isometrico', 'pateoTecnico', 'poomsae', 'extras', 'clasesGrabadas'];
 const TEXT_ARRAY_KEYS = ['apuntes', 'notasFinales', 'indicacionesExtras'];
 const RESOURCE_REQUIRED_KEYS = ['titulo', 'tipo', 'url'];
@@ -156,6 +156,29 @@ function main() {
   const errors = [];
   validateTopLevel(plan, errors);
   RESOURCE_SECTIONS.forEach((section) => { if (Array.isArray(plan[section])) plan[section].forEach((resource, index) => validateResource(resource, section, index, mediaPolicy, errors)); });
+  if (Object.prototype.hasOwnProperty.call(plan, 'sistemaTabs')) {
+    if (!Array.isArray(plan.sistemaTabs)) pushError(errors, '$.sistemaTabs', 'debe ser un array.');
+    else {
+      const ids = new Set();
+      plan.sistemaTabs.forEach((tab, index) => {
+        const location = `$.sistemaTabs[${index}]`;
+        if (!tab || typeof tab !== 'object' || Array.isArray(tab)) { pushError(errors, location, 'debe ser un objeto.'); return; }
+        if (!isNonEmptyString(tab.id) || ids.has(tab.id)) pushError(errors, location, 'id vacío o repetido.');
+        ids.add(tab.id);
+        if (!isNonEmptyString(tab.titulo)) pushError(errors, location, 'falta el título.');
+        for (const section of ['calentamiento', ...RESOURCE_SECTIONS]) {
+          if (tab[section] === undefined) continue;
+          if (!Array.isArray(tab[section])) { pushError(errors, `${location}.${section}`, 'debe ser un array.'); continue; }
+          const nestedErrors = [];
+          tab[section].forEach((resource, i) => validateResource(resource, section, i, mediaPolicy, nestedErrors));
+          nestedErrors.forEach(error => errors.push(error.replace(/^\$/, location)));
+        }
+        for (const key of ['frecuencias', 'indicacionesExtras', 'notasFinales']) {
+          if (tab[key] !== undefined && (!Array.isArray(tab[key]) || tab[key].some(value => !isNonEmptyString(value)))) pushError(errors, `${location}.${key}`, 'debe ser un array de textos no vacíos.');
+        }
+      });
+    }
+  }
   validatePrivacy(plan, errors);
   console.log(`\nValidación ChanonaTKD: ${relativePlanPath}`);
   console.log(`Recursos autorizados activos: ${mediaPolicy.allowedResources.size}`);

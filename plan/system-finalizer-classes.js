@@ -34,9 +34,42 @@
 
   // Append new recordings to the matching library; never remove historical sessions.
   window.systemClassLibraries = {
-    poomsae: [],
-    pateo: [],
-    flexibilidad: [],
+    poomsae: [
+    {
+        "titulo": "Introducción Poomsae - ChanonaTKD System",
+        "url": "https://drive.google.com/file/d/1yYf9_D7rrB1lnBYly73Yw7cKzwyoEasE/view?usp=drive_link",
+        "tipo": "video"
+    },
+    {
+        "titulo": "Taeguk 1 - L1 Pies - ChanonaTKD System",
+        "url": "https://drive.google.com/file/d/1Sq39npNKRqAsfMWXEcqPzayM0GZH7XnN/view?usp=drive_link",
+        "tipo": "video"
+    }
+],
+    pateo: [
+    {
+        "titulo": "Introducción Pateo - ChanonaTKD System",
+        "url": "https://drive.google.com/file/d/1ad_2iLvbIP7I6G-XbMTHIvuR0lZyd8HO/view?usp=sharing",
+        "tipo": "video"
+    },
+    {
+        "titulo": "Clase Pateo 1 - ChanonaTKD System",
+        "url": "https://drive.google.com/file/d/1oCtckFQwkN5SthplLvVF23LD1d6TlofY/view?usp=sharing",
+        "tipo": "video"
+    }
+],
+    flexibilidad: [
+    {
+        "titulo": "Sesión 1 - Isquiotibiales y pantorrillas - ChanonaTKD System",
+        "url": "https://drive.google.com/file/d/1ZqDvf2HG_kNswpVPkAWE7D3AKT7W015k/view?usp=sharing",
+        "tipo": "video"
+    },
+    {
+        "titulo": "Sesión 2 - Aquiles y pateo - ChanonaTKD System",
+        "url": "https://drive.google.com/file/d/1RGDmaLglGTbmyTwfxB880QPNsQUr8Cla/view?usp=sharing",
+        "tipo": "video"
+    }
+],
     sesiones: SESSIONS
   };
 })();
