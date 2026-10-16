@@ -1,132 +1,179 @@
 {
-  "updated_at": "Actualizado viernes 11 de septiembre de 2026",
+  "updated_at": "2026-10-15",
   "nivel": "Dragones",
-  "ciclo": "Lunes 7 al sábado 12 de septiembre de 2026",
-  "enfoque_corto": "Technique de Koryo en profondeur",
-  "enfoque": "Bienvenue dans le programme ChanonaTKD. Cette première semaine va nous aider à entrer dans le travail technique de Koryo avec plus de profondeur, plus de contrôle et plus de détails fins.",
-  "chanonaflexDias": "Avant l'entraînement",
-  "isometricoDias": "Lundi et vendredi / mardi et jeudi / mercredi et samedi",
-  "pateoDias": "Lundi, mercredi et vendredi / mardi, jeudi et samedi selon l'exercice",
-  "poomsaeDias": "Lundi à vendredi",
+  "ciclo": "Du jeudi 15 au mercredi 28 octobre 2026",
+  "enfoque_corto": "Technique précise, progrès constants",
+  "enfoque": "ChanonaFlex : du lundi au samedi. Isométrique actif : lundi et vendredi / mardi et jeudi / mercredi et samedi. Coups de pied techniques : lundi et mercredi. Poomsae : du lundi au samedi.",
+  "chanonaflexDias": "Du lundi au samedi",
+  "isometricoDias": "Lundi et vendredi / Mardi et jeudi / Mercredi et samedi",
+  "pateoDias": "Lundi et miércoles",
+  "poomsaeDias": "Du lundi au samedi",
   "chanonaflex": [
     {
-      "titulo": "Pre-Chanonaflex - Estiramiento inicial",
-      "dia": "AVANT L'ENTRAÎNEMENT",
+      "titulo": "Pré-Chanonaflex - Étirement initial",
+      "dia": "LUNDI À SAMEDI",
+      "enfoque": "Préparer le corps avant le travail principal.",
+      "reps": "Suivre la vidéo",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing",
-      "enfoque": "Préparer le corps avec calme avant le travail principal.",
-      "reps": "Suivre la vidéo"
+      "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing"
     },
     {
-      "titulo": "Estiramiento inicial con bloque",
-      "dia": "AVANT L'ENTRAÎNEMENT",
+      "titulo": "Chanonaflex depuis la proposition - Niveau 3",
+      "dia": "LUNDI À SAMEDI",
+      "enfoque": "Travailler l’amplitude, le contrôle et l’alignement.",
+      "reps": "Suivre la vidéo",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/13FYNM5nMd65YYPXZC9iuQTQ_dJUvnH1m/view?usp=sharing",
-      "enfoque": "Utiliser le bloc pour trouver une meilleure ouverture, sans forcer la hanche ni perdre l'alignement.",
-      "reps": "Suivre la vidéo"
+      "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=sharing"
     }
   ],
   "isometrico": [
     {
-      "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
-      "dia": "LUNDI - VENDREDI",
+      "titulo": "Fessiers et crochet - Isométrique actif - Intermédiaire",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
-      "enfoque": "Renforcer le fessier, la hanche et la base pour mieux soutenir la jambe.",
-      "reps": "Suivre la vidéo"
+      "dia": "Lundi et vendredi",
+      "enfoque": "Travaille la force des fessiers et le contrôle de la hanche.",
+      "reps": "Suis les indications de la vidéo"
     },
     {
-      "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
-      "dia": "MARDI - JEUDI",
+      "titulo": "Isométrique actif - Yop Chagui - Niveau 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
-      "enfoque": "Travailler la chambre, l'appui, la hanche et l'alignement du Yop Chagui.",
-      "reps": "Suivre la vidéo"
+      "dia": "Mardi et jeudi",
+      "enfoque": "Soigne l’armé, la jambe d’appui et l’alignement.",
+      "reps": "Suis les indications de la vidéo"
     },
     {
-      "titulo": "Isométrico activo - Ap Chagui - Nivel 1",
-      "dia": "MERCREDI - SAMEDI",
+      "titulo": "Isométrique actif - Ap Chagui - Niveau 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
-      "enfoque": "Travailler la montée du genou, la ligne du corps et le retour propre de la jambe.",
-      "reps": "Suivre la vidéo"
+      "dia": "Mercredi et samedi",
+      "enfoque": "Travaille la force d’Ap Chagui et le retour contrôlé de la jambe.",
+      "reps": "Suis les indications de la vidéo"
     }
   ],
   "pateoTecnico": [
     {
-      "titulo": "Torción de cadera con banda elástica",
-      "dia": "LUNDI - MERCREDI - VENDREDI",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy",
-      "enfoque": "Travailler la direction de la hanche avec résistance et contrôle.",
-      "reps": "10 reps / 2 séries"
-    },
-    {
-      "titulo": "Circuito elevacion + sostener + circular",
-      "dia": "LUNDI - MERCREDI - VENDREDI",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP&usp=drive_copy",
-      "enfoque": "Travailler l'élévation du genou, le maintien et le contrôle circulaire.",
-      "reps": "10 reps / 3 séries"
-    },
-    {
-      "titulo": "Ap Chagui contra pared",
-      "dia": "LUNDI - VENDREDI",
-      "tipo": "video",
-      "url": "https://drive.google.com/file/d/1CX6PkR9CrTaOvZxrZPKTyc1mPfcfJ4wp/view?usp=drive_link",
-      "enfoque": "Travailler l'alignement de l'Ap Chagui, l'appui et la posture.",
-      "reps": "10 reps / 2 séries"
-    },
-    {
-      "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
-      "dia": "LUNDI À VENDREDI",
+      "titulo": "Renforcement de la cheville avec élastique",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link",
-      "enfoque": "Renforcer la cheville et la base d'appui pour un meilleur contrôle.",
-      "reps": "10 reps par côté / 1 série"
+      "dia": "Lundi et miércoles",
+      "enfoque": "Effectue chaque répétition extrêmement lentement.",
+      "reps": "5 répétitions par côté / 1 série"
     },
     {
-      "titulo": "Sentadilla Ap Chagui",
-      "dia": "LUNDI - VENDREDI",
+      "titulo": "Exercice 8 - Yop Chagui",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1erT1zgvLi0aFMDJb562Y2t7wNwmGWPmj/view?usp=sharing",
-      "enfoque": "Travailler la force des jambes et le contrôle technique de l'Ap Chagui.",
-      "reps": "10 reps / 2 séries"
+      "url": "https://drive.google.com/file/d/1tntiO-sLdDcmO5Jhivvyq6qyzsO6gISC/view?usp=sharing",
+      "dia": "Lundi et miércoles",
+      "enfoque": "Ne dépasse pas la hauteur de la taille. Soigne la technique et la posture.",
+      "reps": "3 répétitions par jambe / 2 séries"
     },
     {
-      "titulo": "Yop Chagui + toque piso + equilibrio",
-      "dia": "LUNDI - MERCREDI",
+      "titulo": "Chaise + Ap Chagui à 3 niveaux",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1ZQ3ud3bkEQJcvSnUelWDVR4ECdwv1_Vn&usp=drive_copy",
-      "enfoque": "Travailler la chambre, le toucher au sol, l'équilibre et le retour contrôlé.",
-      "reps": "5 reps / 2 séries"
+      "url": "https://drive.google.com/file/d/1AS4bfSKwxw9duMZ6Rif4EaldzgSabrGS/view?usp=sharing",
+      "dia": "Lundi et miércoles",
+      "enfoque": "Soigne la technique aux trois niveaux.",
+      "reps": "5 répétitions par jambe / 2 séries"
     }
   ],
   "poomsae": [
     {
-      "titulo": "Koryo - Ligne 1",
-      "dia": "LUNDI À VENDREDI",
-      "tipo": "video",
-      "url": "https://drive.google.com/open?id=1F8o4BF5j1dkZdPwxREY4JodRuFLwwRMK&usp=drive_copy",
-      "enfoque": "Se concentrer sur les mouvements lents. Utilise les outils de Google Drive pour ralentir la vidéo et analyser chaque mouvement avec calme.",
-      "reps": "20 minutes"
+      "titulo": "Jeudi 15 octobre 2026",
+      "dia": "Jeudi 15 octobre 2026",
+      "enfoque": "Koryo - Ligne 1 (Mouvement 1: Sonnal Montong Bakkat Makki et Dwit Kubi - gauche et droite): 7 min | Koryo - Ligne 1 (Mouvement 2: Double Yop Chagui et préparation de la réception): 7 min",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Vendredi 16 octobre 2026",
+      "dia": "Vendredi 16 octobre 2026",
+      "enfoque": "Koryo - Ligne 1 (Mouvement 3: Frappe au cou avec la main ouverte et coup de poing au niveau moyen en Ap Kubi): 7 min | Koryo - Ligne 1 (Mouvement 4: Montong An Makki et Dwit Kubi): 7 min",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Samedi 17 octobre 2026",
+      "dia": "Samedi 17 octobre 2026",
+      "enfoque": "Koryo (Lignes 1 et 2 complètes): 3 séries avec 30 secondes de repos entre chaque série",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Lundi 19 octobre 2026",
+      "dia": "Lundi 19 octobre 2026",
+      "enfoque": "Koryo - Ligne 2 (Mouvement 1: Ap kubi, défense basse avec la main ouverte et frappe au cou): 10 min | Koryo - Ligne 2 (Mouvement 2: Ap chagui, préparation de la défense basse avec la main ouverte, ap kubi et frappe au cou): 10 min",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Mardi 20 octobre 2026",
+      "dia": "Mardi 20 octobre 2026",
+      "enfoque": "Koryo - Ligne 2 (Mouvement 3: Ap chagui, préparation de la défense basse avec la main ouverte, ap kubi et frappe au cou avec kiap): 10 min | Koryo - Ligne 2 (Mouvement 4: Ap chagui, ap kubi et frappe basse avec la main ouverte représentant une technique de rupture de la jambe): 10 min",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Mercredi 21 octobre 2026",
+      "dia": "Mercredi 21 octobre 2026",
+      "enfoque": "Koryo - Ligne 2 (Mouvement 5: Tourner, Ap Kubi et double défense extérieure): 7 min | Koryo - Ligne 2 (Mouvement 6: Ap chagui, ap kubi, frappe basse avec la main ouverte et double défense extérieure en Ap Sogui): 7 min",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Jeudi 22 octobre 2026",
+      "dia": "Jeudi 22 octobre 2026",
+      "enfoque": "Koryo - Ligne 1 (Mouvement 1: Sonnal Montong Bakkat Makki et Dwit Kubi - gauche et droite): 7 min | Koryo - Ligne 1 (Mouvement 2: Double Yop Chagui et préparation de la réception): 7 min",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Vendredi 23 octobre 2026",
+      "dia": "Vendredi 23 octobre 2026",
+      "enfoque": "Koryo - Ligne 1 (Mouvement 3: Frappe au cou avec la main ouverte et coup de poing au niveau moyen en Ap Kubi): 7 min | Koryo - Ligne 1 (Mouvement 4: Montong An Makki et Dwit Kubi): 7 min",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Samedi 24 octobre 2026",
+      "dia": "Samedi 24 octobre 2026",
+      "enfoque": "Koryo (Lignes 1 et 2 complètes): 3 séries avec 30 secondes de repos entre chaque série",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Lundi 26 octobre 2026",
+      "dia": "Lundi 26 octobre 2026",
+      "enfoque": "Koryo - Ligne 2 (Mouvement 1: Ap kubi, défense basse avec la main ouverte et frappe au cou): 10 min | Koryo - Ligne 2 (Mouvement 2: Ap chagui, préparation de la défense basse avec la main ouverte, ap kubi et frappe au cou): 10 min",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Mardi 27 octobre 2026",
+      "dia": "Mardi 27 octobre 2026",
+      "enfoque": "Koryo - Ligne 2 (Mouvement 3: Ap chagui, préparation de la défense basse avec la main ouverte, ap kubi et frappe au cou avec kiap): 10 min | Koryo - Ligne 2 (Mouvement 4: Ap chagui, ap kubi et frappe basse avec la main ouverte représentant une technique de rupture de la jambe): 10 min",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
+    },
+    {
+      "titulo": "Mercredi 28 octobre 2026",
+      "dia": "Mercredi 28 octobre 2026",
+      "enfoque": "Koryo - Ligne 2 (Mouvement 5: Tourner, Ap Kubi et double défense extérieure): 7 min | Koryo - Ligne 2 (Mouvement 6: Ap chagui, ap kubi, frappe basse avec la main ouverte et double défense extérieure en Ap Sogui): 7 min",
+      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
+      "tipo": "info"
     }
   ],
   "clasesGrabadas": [],
   "indicacionesExtras": [
-    "Bienvenue Nancy. Pour cette première semaine, utilise ce plan comme une carte simple: regarde les jours, ouvre la vidéo et travaille sans te presser.",
-    "Ne cherche pas seulement la hauteur. Cherche d'abord une hanche stable, une jambe de soutien forte et un retour propre de chaque coup de pied.",
-    "Comme tu commences avec le programme, prends ton temps pour comprendre la logique: préparation du corps, force isométrique, puis technique.",
-    "Si quelque chose n'est pas clair, demande-moi. Le but est de corriger les détails tôt pour construire Koryo avec plus de profondeur."
+    "Tes efforts continuent de porter leurs fruits. Ne t’inquiète pas de ce que tu ne réussis pas encore; reconnais tes progrès.",
+    "Concentre-toi sur les points à améliorer que nous avons travaillés pendant nos entraînements sur Meet.",
+    "Garde le poing de la main d’assistance à la taille. Maintiens ta structure corporelle, même si cela semble inhabituel.",
+    "Coordonne les réceptions des coups de pied avec les mouvements des bras. Prépare le mouvement en ramenant la jambe et exécute-le au moment de la réception, sans rupture."
   ],
-  "apuntes": [
-    "Bienvenue au programme ChanonaTKD.",
-    "Cette semaine, avance avec calme et qualité.",
-    "Le plus important est de protéger la technique dès le début."
-  ],
+  "apuntes": [],
   "notasFinales": [
-    "Bienvenue dans le programme ChanonaTKD. Ici, nous allons travailler ton Poomsae avec plus de profondeur, plus de détails fins et une meilleure lecture technique.",
-    "Ce cycle va t'aider à construire une base plus claire pour potentialiser Koryo: hanche, appui, équilibre, contrôle et finalisation de chaque mouvement.",
-    "Travaille avec calme, mais avec intention. Chaque répétition doit t'aider à comprendre un peu plus ton corps et ta technique."
+    "Profite de ce cycle d’entraînement. Nous augmenterons légèrement l’intensité; adapte le travail à ton temps et à ta capacité physique actuelle.",
+    "Bon entraînement, et continuons à donner le meilleur de nous-mêmes!"
   ]
 }

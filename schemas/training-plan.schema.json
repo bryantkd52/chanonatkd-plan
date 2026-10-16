@@ -23,30 +23,56 @@
   ],
   "additionalProperties": false,
   "properties": {
-    "updated_at": { "$ref": "#/$defs/nonEmptyText" },
-    "nivel": { "$ref": "#/$defs/nonEmptyText" },
-    "ciclo": { "$ref": "#/$defs/nonEmptyText" },
-    "enfoque_corto": { "$ref": "#/$defs/nonEmptyText" },
-    "enfoque": { "$ref": "#/$defs/nonEmptyText" },
-    "chanonaflexDias": { "$ref": "#/$defs/nonEmptyText" },
+    "updated_at": {
+      "$ref": "#/$defs/nonEmptyText"
+    },
+    "nivel": {
+      "$ref": "#/$defs/nonEmptyText"
+    },
+    "ciclo": {
+      "$ref": "#/$defs/nonEmptyText"
+    },
+    "enfoque_corto": {
+      "$ref": "#/$defs/nonEmptyText"
+    },
+    "enfoque": {
+      "$ref": "#/$defs/nonEmptyText"
+    },
+    "chanonaflexDias": {
+      "$ref": "#/$defs/nonEmptyText"
+    },
     "chanonaflex": {
       "type": "array",
-      "items": { "$ref": "#/$defs/resource" }
+      "items": {
+        "$ref": "#/$defs/resource"
+      }
     },
-    "isometricoDias": { "$ref": "#/$defs/nonEmptyText" },
+    "isometricoDias": {
+      "$ref": "#/$defs/nonEmptyText"
+    },
     "isometrico": {
       "type": "array",
-      "items": { "$ref": "#/$defs/resource" }
+      "items": {
+        "$ref": "#/$defs/resource"
+      }
     },
-    "pateoDias": { "$ref": "#/$defs/nonEmptyText" },
+    "pateoDias": {
+      "$ref": "#/$defs/nonEmptyText"
+    },
     "pateoTecnico": {
       "type": "array",
-      "items": { "$ref": "#/$defs/resource" }
+      "items": {
+        "$ref": "#/$defs/resource"
+      }
     },
-    "poomsaeDias": { "$ref": "#/$defs/nonEmptyText" },
+    "poomsaeDias": {
+      "$ref": "#/$defs/nonEmptyText"
+    },
     "poomsae": {
       "type": "array",
-      "items": { "$ref": "#/$defs/resource" }
+      "items": {
+        "$ref": "#/$defs/resource"
+      }
     },
     "indicacionesExtras": {
       "description": "Sección opcional de indicaciones textuales sin video, visible como Indicaciones extras en la plataforma.",
@@ -55,10 +81,22 @@
     "extras": {
       "description": "Sección opcional; usar únicamente cuando Bryan la solicite o ya exista en el plan actualizado.",
       "type": "array",
-      "items": { "$ref": "#/$defs/resource" }
+      "items": {
+        "$ref": "#/$defs/resource"
+      }
     },
-    "apuntes": { "$ref": "#/$defs/textList" },
-    "notasFinales": { "$ref": "#/$defs/textList" }
+    "apuntes": {
+      "$ref": "#/$defs/textList"
+    },
+    "notasFinales": {
+      "$ref": "#/$defs/textList"
+    },
+    "clasesGrabadas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/resource"
+      }
+    }
   },
   "$defs": {
     "nonEmptyText": {
@@ -67,27 +105,78 @@
     },
     "textList": {
       "type": "array",
-      "items": { "$ref": "#/$defs/nonEmptyText" }
+      "items": {
+        "$ref": "#/$defs/nonEmptyText"
+      }
     },
     "resource": {
       "type": "object",
-      "required": ["titulo", "tipo", "url"],
+      "required": [
+        "titulo",
+        "tipo"
+      ],
       "additionalProperties": false,
       "properties": {
-        "titulo": { "$ref": "#/$defs/nonEmptyText" },
-        "dia": { "$ref": "#/$defs/nonEmptyText" },
-        "enfoque": { "$ref": "#/$defs/nonEmptyText" },
-        "reps": { "$ref": "#/$defs/nonEmptyText" },
+        "titulo": {
+          "$ref": "#/$defs/nonEmptyText"
+        },
+        "dia": {
+          "$ref": "#/$defs/nonEmptyText"
+        },
+        "enfoque": {
+          "$ref": "#/$defs/nonEmptyText"
+        },
+        "reps": {
+          "$ref": "#/$defs/nonEmptyText"
+        },
         "tipo": {
           "type": "string",
-          "enum": ["video", "audio", "folder"]
+          "enum": [
+            "video",
+            "audio",
+            "folder",
+            "info"
+          ]
         },
-        "url": { "$ref": "#/$defs/nonEmptyText" },
+        "url": {
+          "$ref": "#/$defs/nonEmptyText"
+        },
         "tags": {
           "type": "array",
-          "items": { "$ref": "#/$defs/nonEmptyText" }
+          "items": {
+            "$ref": "#/$defs/nonEmptyText"
+          }
+        },
+        "boton": {
+          "$ref": "#/$defs/nonEmptyText"
         }
-      }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "tipo": {
+                "const": "info"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "enfoque"
+            ],
+            "not": {
+              "required": [
+                "url"
+              ]
+            }
+          },
+          "else": {
+            "required": [
+              "url"
+            ]
+          }
+        }
+      ]
     }
   }
 }

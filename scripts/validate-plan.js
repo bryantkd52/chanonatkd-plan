@@ -21,12 +21,12 @@ const REQUIRED_PLAN_KEYS = [
   'pateoDias', 'pateoTecnico', 'poomsaeDias', 'poomsae',
   'apuntes', 'notasFinales'
 ];
-const OPTIONAL_PLAN_KEYS = ['extras', 'indicacionesExtras'];
-const RESOURCE_SECTIONS = ['chanonaflex', 'isometrico', 'pateoTecnico', 'poomsae', 'extras'];
+const OPTIONAL_PLAN_KEYS = ['extras', 'indicacionesExtras', 'clasesGrabadas'];
+const RESOURCE_SECTIONS = ['chanonaflex', 'isometrico', 'pateoTecnico', 'poomsae', 'extras', 'clasesGrabadas'];
 const TEXT_ARRAY_KEYS = ['apuntes', 'notasFinales', 'indicacionesExtras'];
 const RESOURCE_REQUIRED_KEYS = ['titulo', 'tipo', 'url'];
-const RESOURCE_OPTIONAL_KEYS = ['dia', 'enfoque', 'reps', 'tags'];
-const ALLOWED_TYPES = new Set(['video', 'audio', 'folder']);
+const RESOURCE_OPTIONAL_KEYS = ['dia', 'enfoque', 'reps', 'tags', 'boton'];
+const ALLOWED_TYPES = new Set(['video', 'audio', 'folder', 'info']);
 const SENSITIVE_PATTERNS = [
   { label: 'correo electrónico', regex: /[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}/i },
   { label: 'teléfono o WhatsApp', regex: /(?:whats?app|tel[eé]fono|\+?52\s*)?(?:\d[\s-]?){10,}/i },
@@ -115,7 +115,8 @@ function validateTopLevel(plan, errors) {
 function validateResource(resource, section, index, mediaPolicy, errors) {
   const location = `$.${section}[${index}]`;
   if (!resource || typeof resource !== 'object' || Array.isArray(resource) || Object.keys(resource).length === 0) { pushError(errors, location, 'debe ser un objeto de recurso completo; no usar objetos vacíos.'); return; }
-  RESOURCE_REQUIRED_KEYS.forEach((key) => {
+  const requiredKeys = resource.tipo === 'info' ? ['titulo', 'tipo', 'enfoque'] : RESOURCE_REQUIRED_KEYS;
+  requiredKeys.forEach((key) => {
     if (!Object.prototype.hasOwnProperty.call(resource, key)) pushError(errors, location, `falta la llave obligatoria "${key}".`);
     else if (!isNonEmptyString(resource[key])) pushError(errors, `${location}.${key}`, 'debe ser un texto no vacío.');
   });
@@ -126,6 +127,11 @@ function validateResource(resource, section, index, mediaPolicy, errors) {
     else resource.tags.forEach((tag, tagIndex) => { if (!isNonEmptyString(tag)) pushError(errors, `${location}.tags[${tagIndex}]`, 'debe ser texto no vacío.'); });
   }
   if (isNonEmptyString(resource.tipo) && !ALLOWED_TYPES.has(resource.tipo)) pushError(errors, `${location}.tipo`, `tipo "${resource.tipo}" no permitido. Usar video, audio, folder.`);
+  if (resource.tipo === 'info') {
+    if (section !== 'poomsae') pushError(errors, location, 'las indicaciones sin video solo se admiten en poomsae.');
+    if (Object.prototype.hasOwnProperty.call(resource, 'url')) pushError(errors, location, 'una indicación sin video no debe incluir url.');
+    return;
+  }
   if (!isNonEmptyString(resource.url) || !isNonEmptyString(resource.titulo) || !isNonEmptyString(resource.tipo)) return;
   if (mediaPolicy.blockedUrls.has(resource.url)) { pushError(errors, `${location}.url`, 'URL histórica bloqueada; existe una versión canónica aprobada por Bryan.'); return; }
   const registeredForUrl = mediaPolicy.resourcesByUrl.get(resource.url);

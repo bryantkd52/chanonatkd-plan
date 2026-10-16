@@ -163,3 +163,7 @@ Hasta que Bryan apruebe expresamente la integración final a `main`:
 - Pestañas: Principiantes, Intermedios, Avanzados, Pateo, Poomsae, Clases, Herramientas.
 - Clases: Poomsae, Pateo, Flexibilidad y Sesiones, sin días en los títulos de categoría.
 - Nuevas grabaciones: agregarlas a `window.systemClassLibraries` en `plan/system-finalizer-classes.js` dentro de su categoría, con el enlace exacto proporcionado por Bryan. Conservar todas las anteriores. Las 26 históricas quedan en Sesiones, sin reclasificar.
+
+## Indicaciones de poomsae sin video — 15 de octubre de 2026
+
+Por instrucción de Bryan, los cronogramas de poomsae pueden usar `tipo: "info"`, con `titulo` y `enfoque`, sin `url`. La interfaz existente los muestra sin botón. Este caso se limita a poomsae y se valida expresamente; los videos, audios y carpetas siguen requiriendo su enlace aprobado.

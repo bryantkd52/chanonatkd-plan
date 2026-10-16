@@ -305,6 +305,7 @@
       const id = TARGET_PLAN_FILES.get(planFile);
       if(id){
         const data = await response.clone().json();
+if(data.updated_at === "2026-10-15") return response;
         const patched = patchPlan(data, id);
         const headers = new Headers(response.headers);
         headers.set("content-type", "application/json; charset=utf-8");
