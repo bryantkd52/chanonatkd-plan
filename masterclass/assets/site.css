@@ -187,3 +187,143 @@ p{color:var(--muted)}strong,b{font-weight:800;color:var(--fg)}
 }
 @media (max-width:420px){.section{padding:22px 18px;border-radius:20px}.hero h1{font-size:clamp(2.35rem,11vw,3rem)}.themeText,.menuToggle span{display:none}.themeToggle,.menuToggle{width:43px;justify-content:center;padding:7px}.lessonControls .action{padding:11px}.lessonsStage{padding:12px}.siteHeader{gap:6px}.brand{gap:7px}.brand img{width:39px;height:39px}}
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
+
+
+/* Ajuste visual oct-2026 · cristal más profundo, sin cambiar la arquitectura */
+:root{
+  --glassEdge:rgba(255,255,255,.32);
+  --glassGleam:rgba(255,255,255,.16);
+  --glassBlur:blur(26px) saturate(175%);
+}
+html[data-theme=light]{
+  --glassEdge:rgba(255,255,255,.9);
+  --glassGleam:rgba(255,255,255,.68);
+}
+.glass{
+  border-color:var(--glassEdge);
+  background:linear-gradient(157deg,var(--glassGleam) 0%,transparent 30%,rgba(255,255,255,.014) 66%),var(--glass);
+  backdrop-filter:var(--glassBlur);
+  -webkit-backdrop-filter:var(--glassBlur);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.21),inset 0 -1px 0 rgba(255,255,255,.04),0 16px 36px rgba(0,0,0,.13);
+}
+html[data-theme=light] .glass{
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.9),inset 0 -1px 0 rgba(38,45,63,.045),0 18px 40px rgba(28,35,55,.075);
+}
+.action,.themeToggle,.menuToggle,.dialogClose,.demoTabs button,.demoDays button{
+  position:relative;
+  overflow:hidden;
+  isolation:isolate;
+  backdrop-filter:blur(22px) saturate(180%);
+  -webkit-backdrop-filter:blur(22px) saturate(180%);
+  border:1px solid var(--glassEdge);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.29),inset 0 -1px 0 rgba(255,255,255,.045),0 9px 24px rgba(0,0,0,.13);
+}
+.action::before,.themeToggle::before,.menuToggle::before,.dialogClose::before,
+.demoTabs button::before,.demoDays button::before{
+  content:"";position:absolute;z-index:-1;inset:0;border-radius:inherit;
+  background:linear-gradient(180deg,rgba(255,255,255,.18),rgba(255,255,255,.015) 35%,transparent 65%);
+  pointer-events:none;
+}
+.action.primary{
+  background:linear-gradient(140deg,rgba(250,49,66,.94),rgba(164,15,33,.94));
+  border-color:rgba(255,210,216,.46);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.42),inset 0 -2px 0 rgba(60,3,17,.17),0 13px 28px rgba(194,28,46,.23);
+}
+.action.secondary,.themeToggle,.menuToggle,.dialogClose,.demoTabs button,.demoDays button{
+  background:linear-gradient(150deg,rgba(255,255,255,.125),rgba(255,255,255,.045) 48%,rgba(255,255,255,.03)),var(--glass);
+}
+html[data-theme=light] .action.secondary,
+html[data-theme=light] .themeToggle,
+html[data-theme=light] .menuToggle,
+html[data-theme=light] .dialogClose{
+  background:linear-gradient(145deg,rgba(255,255,255,.8),rgba(255,255,255,.32)),rgba(232,235,245,.45);
+}
+.action:focus-visible,.lessonTab:focus-visible,.lessonControls button:focus-visible{outline:3px solid var(--focus);outline-offset:4px}
+.action:hover,.themeToggle:hover,.menuToggle:hover{filter:brightness(1.07)}
+.purchaseNote{display:block;color:var(--muted);font-size:.81rem;line-height:1.4;font-weight:650;margin-bottom:10px}
+.hero,.exploreSection{position:relative;isolation:isolate}
+.hero::before,.exploreSection::before{
+  content:"";position:absolute;pointer-events:none;z-index:0;
+  inset:-18% -10% -25% 28%;
+  background:url("../../assets/logo-chanonatkd.png") center right / min(58vw,650px) no-repeat;
+  opacity:.048;
+  filter:blur(11px) grayscale(.35);
+}
+.hero>*,.exploreSection>*{position:relative;z-index:1}
+html[data-theme=light] .hero::before,
+html[data-theme=light] .exploreSection::before{opacity:.035}
+.exploreSection::before{inset:-30% -4% -20% 36%;opacity:.04;background-position:center right}
+
+/* Navegación entre las tres clases: piezas de vidrio individuales y diferenciadas. */
+.lessons{grid-template-columns:minmax(220px,.43fr) minmax(0,1fr);gap:18px}
+.lessonsNav{gap:13px}
+.lessonTab{
+  --lessonAccent:rgba(107,212,232,.74);
+  position:relative;
+  isolation:isolate;
+  display:grid;grid-template-columns:45px minmax(0,1fr) 18px;
+  align-items:center;gap:10px;width:100%;min-height:91px;padding:14px 13px;
+  border-radius:22px;text-align:left;color:var(--fg);
+  border:1px solid color-mix(in srgb,var(--lessonAccent) 28%,var(--glassEdge));
+  background:linear-gradient(145deg,color-mix(in srgb,var(--lessonAccent) 13%,transparent),rgba(255,255,255,.05) 53%,var(--glass));
+  backdrop-filter:blur(26px) saturate(190%);-webkit-backdrop-filter:blur(26px) saturate(190%);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.28),0 10px 25px rgba(0,0,0,.14);
+  transition:transform .18s,box-shadow .18s,border-color .18s;
+}
+.lessonTab::before{content:"";position:absolute;inset:1px;border-radius:21px;pointer-events:none;z-index:-1;background:linear-gradient(167deg,rgba(255,255,255,.11),transparent 46%)}
+.lessonTab--flex{--lessonAccent:#55c9df}
+.lessonTab--kick{--lessonAccent:#e8b363}
+.lessonTab--poomsae{--lessonAccent:#e87489}
+.lessonTabIndex{
+  display:grid;place-items:center;height:43px;width:43px;border-radius:15px;
+  border:1px solid color-mix(in srgb,var(--lessonAccent) 45%,var(--glassEdge));
+  background:linear-gradient(145deg,color-mix(in srgb,var(--lessonAccent) 23%,transparent),var(--wash));
+  font-size:1.08rem;letter-spacing:-.03em;font-weight:950;color:var(--fg);
+}
+.lessonTabContent{display:grid;min-width:0;gap:4px}
+.lessonTabContent strong{font-size:1.03rem;line-height:1.12;overflow-wrap:anywhere}
+.lessonTabContent small{font-size:.77rem;color:var(--muted)}
+.lessonTabArrow{font-size:1.2rem;opacity:.55}
+.lessonTab:hover{transform:translateY(-2px)}
+.lessonTab[aria-pressed=true]{
+  border-color:color-mix(in srgb,var(--lessonAccent) 77%,white);
+  background:linear-gradient(134deg,color-mix(in srgb,var(--lessonAccent) 27%,transparent),var(--glass) 63%);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 0 0 1px color-mix(in srgb,var(--lessonAccent) 20%,transparent),0 13px 30px rgba(0,0,0,.18),0 0 31px color-mix(in srgb,var(--lessonAccent) 14%,transparent);
+}
+.lessonTab[aria-pressed=true] .lessonTabArrow{opacity:1;transform:rotate(45deg)}
+.lessonTab[aria-pressed=true] .lessonTabIndex{background:color-mix(in srgb,var(--lessonAccent) 30%,var(--glass));border-color:var(--lessonAccent)}
+.lessonsStage{border-radius:26px;background:linear-gradient(142deg,rgba(255,255,255,.1),transparent 38%),var(--glass)}
+.lessonCounter{letter-spacing:.06em;text-transform:uppercase}
+.lessonControls{gap:14px;margin-top:20px}
+.lessonControls .action{display:flex;align-items:center;gap:13px;min-height:60px;padding:12px 16px;text-align:left;border-radius:19px}
+.lessonControls .lessonPrev{justify-content:flex-start}
+.lessonControls .lessonNext{justify-content:flex-end;background:linear-gradient(134deg,rgba(241,61,78,.18),rgba(255,255,255,.065)),var(--glass);border-color:rgba(238,132,147,.5)}
+.lessonArrow{flex:0 0 38px;width:38px;height:38px;display:grid;place-items:center;border-radius:13px;border:1px solid var(--glassEdge);background:linear-gradient(145deg,rgba(255,255,255,.18),var(--wash));font-size:1.3rem;box-shadow:inset 0 1px 0 rgba(255,255,255,.19)}
+.lessonNext .lessonArrow{order:2;background:linear-gradient(145deg,rgba(251,85,111,.28),rgba(255,255,255,.09))}
+.lessonBtnCopy{font-size:.87rem;line-height:1.3;font-weight:850;overflow-wrap:anywhere}
+.lessonControls button:disabled{opacity:.47;cursor:not-allowed;transform:none;filter:none}
+.playerLaunch{background:radial-gradient(circle at 53% 30%,rgba(227,69,92,.21),transparent 42%),linear-gradient(145deg,#0e1220,#1c1420);letter-spacing:.015em}
+.playerLaunch span{width:65px;height:65px;border-radius:21px;border:1px solid rgba(255,255,255,.28);display:grid;place-items:center;background:rgba(255,255,255,.09);backdrop-filter:blur(12px);box-shadow:inset 0 1px 0 #fff4;font-size:2rem}
+@media (max-width:760px){
+ .lessons{grid-template-columns:1fr}
+ .lessonsNav{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+ .lessonTab{grid-template-columns:1fr;justify-items:start;min-height:125px;gap:7px;padding:12px;border-radius:18px}
+ .lessonTabIndex{height:34px;width:34px;border-radius:11px;font-size:.95rem}
+ .lessonTabArrow{display:none}
+ .lessonTabContent strong{font-size:.94rem}
+ .lessonTabContent small{font-size:.72rem}
+ .lessonTab[aria-pressed=true]{transform:none}
+ .hero::before,.exploreSection::before{background-size:65vw;opacity:.035;inset:-5% -20% -5% 18%}
+}
+@media (max-width:430px){
+ .lessonControls .action{min-height:53px;padding:8px}
+ .lessonArrow{width:31px;height:31px;flex-basis:31px;border-radius:11px}
+ .lessonBtnCopy{font-size:.75rem}
+ .lessonTab{min-height:116px;padding:9px 7px}
+ .lessonTabContent strong{font-size:.82rem}
+ .lessonTabContent small{font-size:.66rem}
+}
+@media (prefers-reduced-motion:reduce){
+ .lessonTab,.action{transition:none!important}
+ .lessonTab:hover,.action:hover{transform:none!important}
+}
