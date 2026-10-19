@@ -1,6 +1,6 @@
 # Revisión ChanonaTKD 2026–2027 (NO PUBLICADA)
 
-Esta rama contiene una propuesta de cinco páginas. **No se fusionó con main ni se modificó la web pública**.
+Esta rama conserva el historial de revisión de las cinco páginas. Su versión aprobada puede integrarse al sitio público cuando Bryan lo autorice.
 
 ## Las cinco rutas previstas tras aprobar y publicar
 - `/masterclass/` — Inicio.
@@ -31,15 +31,15 @@ Todas usan el mismo menú y modo claro/oscuro. Sus enlaces funcionan al entrar d
 ## Detalles importantes
 - La copia del plan **no reutiliza los enlaces privados de videos** de los alumnos. Los 10 recursos están sustituidos por un reproductor de prueba con el video público autorizado. La estructura de la pestaña Principiantes corresponde a la fuente real.
 - La pestaña Principiantes no tiene Poomsae ni clases grabadas asignadas individualmente en el JSON consultado; se declara así. El video provisional de la sección Clases es solo una prueba de interfaz, no una clase auténtica asociada al nivel.
-- Los nueve reproductores de miniclases usan por ahora el mismo enlace de YouTube autorizado. No se reproducen solos; al cambiar de clase se desmonta el reproductor anterior.
+- Los nueve reproductores de miniclases usan los enlaces definitivos aprobados. No se reproducen solos; al cambiar de clase se desmonta el reproductor anterior.
 - Los videos *no listados* de YouTube pueden compartirse mediante su enlace. El sitio no limita su acceso.
 - Los precios USD/EUR reflejan exactamente los tres valores confirmados; no se recalculan. Los importes internacionales publicados son los precios finales indicados por Bryan; no se muestra ningún cargo adicional.
 - Las consultas WhatsApp identifican programa y conservan información UTM del origen en la sesión cuando existe.
 - El archivo JS emite eventos `ctkd_pagina_visitada`, `ctkd_abrir_muestra_plan`, `ctkd_miniclase_iniciada`, `ctkd_avance_miniclase`, `ctkd_whatsapp_click`, `ctkd_consulta_pago_dividido` en `window.dataLayer`, pero **no está conectada ninguna analítica externa**.
 
 ## Pendiente antes de aprobar publicación
-- Nueve enlaces definitivos de miniclases.
-- Videos exclusivos de la muestra (sin enlaces originales de alumnos).
+- Nueve enlaces definitivos de miniclases: **entregados e integrados**.
+- Videos exclusivos de la muestra: **no son necesarios para este lanzamiento**; se usan mensajes desplegables en su lugar.
 - Fotografías y testimonios auténticos, así como resultados documentados.
 - Validación visual en teléfono, tableta, laptop y escritorio con navegador real.
 - Conexión/configuración de analítica (GA4, Meta Pixel u otra).

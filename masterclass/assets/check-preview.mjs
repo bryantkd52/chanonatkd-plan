@@ -27,14 +27,24 @@ ok(!pages.some(p=>read(p).includes("Forjando Bases")),"Sin planes antiguos");
 ok(read("system/index.html").includes("$1,350 MXN")&&read("system/index.html").includes("$104.69")&&read("system/index.html").includes("€92.41"),"Precio System en 3 monedas");
 ok(read("personal/index.html").includes("$2,600 MXN")&&read("personal/index.html").includes("$164.24")&&read("personal/index.html").includes("€145.02"),"Precio Personal en 3 monedas");
 ok(read("academia/index.html").includes("$2,800 MXN")&&read("academia/index.html").includes("$184.72")&&read("academia/index.html").includes("€163.04"),"Precio Academia en 3 monedas");
-ok((content.match(/"provisional": true/g)||[]).length===9,"Nueve miniclases provisionales configuradas");
+const confirmedVideoIds=[
+  ["TuMB_hCQ7iQ","KgiyepVqdlw","ecPeVfg-bN0"],
+  ["7mYwor8DNaE","TiGZvPVFXIM","lRna-IZ27_o"],
+  ["nzVEWspvXWs","8BMOdQuJrc8","OOrz4Ow0vBk"]
+];
+for(const trio of confirmedVideoIds)for(const id of trio)ok(content.includes("https://youtu.be/"+id),"Miniclase oficial "+id);
+ok((content.match(/"provisional": false/g)||[]).length===9,"Nueve miniclases definitivas");
+ok(!content.includes("2jg7b-W2QRU"),"Sin videos genéricos");
 ok((testimonials.match(/"isExample": true/g)||[]).length===10,"Diez testimonios ficticios separados");
-ok(js.includes('get("revision")!=="1"'),"Ocultos fuera de revisión");
+ok(js.includes('location.protocol!=="file:"'),"Ejemplos ficticios excluidos de la web pública");
 ok(demo.tab.id==="principiantes","Fuente Principiantes");
 ok(demoScript.includes("window.CTKD_BEGINNERS_DEMO=")&&demoScript.includes('"id": "principiantes"'),"Muestra precargada, sin fetch obligatorio");
 ok(js.includes('$$("[data-wa]").forEach'),"Inicialización de WhatsApp no detiene el resto del script");
 ok(demo.tab.calentamiento.length===1&&demo.tab.chanonaflex.length===2&&demo.tab.isometrico.length===3&&demo.tab.pateoTecnico.length===4,"Diez ejercicios reales");
 ok(!JSON.stringify(demo).includes("drive.google.com"),"Sin enlaces privados en la muestra");
 ok(css.includes("prefers-reduced-motion")&&css.includes(":focus-visible"),"Accesibilidad básica");
-ok(js.includes('dialog.addEventListener("close"')&&js.includes("about:blank"),"Cierre y detención de video");
+ok(js.includes('dialog.addEventListener("close"'),"Cierre del modal");
+ok(js.includes('class="demoClassPlaceholder"')&&js.includes('aria-expanded="false"'),"Clases demostrativas desplegables");
+ok(!js.includes('Reproducir video provisional'),"Sin videos privados ni videos provisionales en el plan");
+ok(css.includes("demoClassPlaceholder"),"Estilo de tarjetas desplegables");
 console.log("\n"+checks+" verificaciones estáticas completas. Faltan pruebas visuales reales.");
