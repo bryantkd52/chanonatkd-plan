@@ -114,7 +114,7 @@
       player.replaceChildren();
       const play=document.createElement("button");
       play.type="button";play.className="playerLaunch";
-      play.innerHTML="<span aria-hidden='true'>▶</span>Reproducir clase de "+esc(item.label)+"<small>Video de ejemplo pendiente de sustituir</small>";
+      play.innerHTML="<span aria-hidden='true'>▶</span>Ver clase de "+esc(item.label)+"<small>Aprende conmigo sin salir de la página</small>";
       play.addEventListener("click",()=>{
         player.replaceChildren(videoFrame(item.url,"Miniclase "+item.label+" - "+program,true));
         track("miniclase_iniciada",{programa:program,clase:item.label,numero:i+1,provisional:Boolean(item.provisional)});
@@ -159,7 +159,7 @@
     const real=window.CTKD_TESTIMONIALS||[];
     if(real.length){show(real,false);return}
     // Solo se muestran los diez testimonios ficticios mediante ?revision=1.
-    if(new URLSearchParams(location.search).get("revision")!=="1")return;
+    if(location.protocol!=="file:" || new URLSearchParams(location.search).get("revision")!=="1")return;
     const script=document.createElement("script");
     script.src=base+"assets/testimonios-ejemplo.js";
     script.onload=()=>show(window.CTKD_EXAMPLE_TESTIMONIALS||[],true);
