@@ -221,12 +221,15 @@
       if(scrollRegion)scrollRegion.scrollTop=0;
       $$("[data-demo-section]",app).forEach(b=>b.addEventListener("click",()=>{selectedSection=b.dataset.demoSection;selectedDay="Todos";render()}));
       $$("[data-demo-day]",app).forEach(b=>b.addEventListener("click",()=>{selectedDay=b.dataset.demoDay;render()}));
+
       $("[data-video-demo]",app).forEach(btn=>btn.addEventListener("click",()=>{
         const target=document.getElementById(btn.getAttribute("aria-controls"));
         if(!target)return;
         const previouslyOpen=btn.getAttribute("aria-expanded")==="true";
         // Cascada: se abre una clase y se cierran las demás.
+
         $("[data-video-demo]",app).forEach(x=>x.setAttribute("aria-expanded","false"));
+
         $(".demoClassPlaceholder",app).forEach(x=>{x.hidden=true});
         if(!previouslyOpen){
           target.hidden=false;
