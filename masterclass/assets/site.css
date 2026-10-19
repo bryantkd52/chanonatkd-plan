@@ -95,6 +95,7 @@ p{color:var(--muted)}strong,b{font-weight:800;color:var(--fg)}
 .priceGlass span{font-size:.82rem;text-transform:uppercase;font-weight:900;letter-spacing:.1em;color:var(--muted)}
 .priceGlass strong{font-size:clamp(2.1rem,3vw,3rem);line-height:1.12;margin:6px 0;letter-spacing:-.07em}
 .priceGlass small{font-weight:850;color:var(--green);font-size:.86rem}
+.priceGlass .paypalNote{font-size:.76rem;font-weight:650;color:var(--muted);margin-top:12px;line-height:1.45}
 .purchase{padding:26px;border-radius:22px;display:flex;flex-direction:column;align-items:stretch;box-shadow:none}
 .purchase>.action{width:100%}
 .purchase>p{margin:0 0 16px}
