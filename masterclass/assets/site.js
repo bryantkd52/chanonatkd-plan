@@ -123,20 +123,40 @@
 
   function initTestimonios(){
     const section=$(".testimonySection");if(!section)return;
-    // Exclusivamente revisión solicitada por URL. El público nunca ve reseñas ficticias.
+    const show=(data,isExample)=>{
+      const grid=$("[data-testimonials]");grid.replaceChildren();
+      for(const x of data){
+        const card=document.createElement("article");card.className="glass testimony";
+        const slot=document.createElement("div");slot.className="imageSlot";
+        if(x.image){
+          const img=document.createElement("img");img.className="studentPortrait";
+          img.src=String(x.image);img.alt="Fotografía de "+String(x.name||"alumno");
+          img.loading="lazy";
+          img.style.objectPosition=/^(center|[0-9]{1,3}% [0-9]{1,3}%)$/.test(x.imagePosition||"center")?x.imagePosition:"center";
+          slot.append(img);
+        }else slot.innerHTML="Imagen<br>opcional<br>1:1";
+        const text=document.createElement("div");text.className="testimonyText";
+        const name=document.createElement("strong");name.textContent=String(x.name||"Alumno");
+        const quote=document.createElement("q");quote.textContent=String(x.text||"");
+        text.append(name);
+        if(isExample){
+          const lab=document.createElement("span");lab.className="exampleLabel";
+          lab.textContent="Ejemplo de testimonio — pendiente de sustituir";
+          const stars=document.createElement("span");stars.className="stars";
+          stars.textContent="★★★★★ (ejemplo visual, no verificado)";
+          text.append(lab,stars);
+        }
+        text.append(quote);card.append(slot,text);grid.append(card);
+      }
+      section.hidden=!data.length;
+    };
+    const real=window.CTKD_TESTIMONIALS||[];
+    if(real.length){show(real,false);return}
+    // Solo se muestran los diez testimonios ficticios mediante ?revision=1.
     if(new URLSearchParams(location.search).get("revision")!=="1")return;
     const script=document.createElement("script");
     script.src=base+"assets/testimonios-ejemplo.js";
-    script.onload=()=>{
-      const data=window.CTKD_EXAMPLE_TESTIMONIALS||[];
-      const grid=$("[data-testimonials]");
-      data.forEach(x=>{
-        const card=document.createElement("article");card.className="glass testimony";
-        card.innerHTML='<div class="imageSlot">Imagen<br>opcional<br>1:1</div><strong>'+esc(x.name)+'</strong><span class="exampleLabel">Ejemplo de testimonio — pendiente de sustituir</span><div class="stars" aria-label="Cinco estrellas de ejemplo, no verificadas">★★★★★ <small>(ejemplo visual)</small></div><q>'+esc(x.text)+'</q>';
-        grid.append(card);
-      });
-      section.hidden=false;
-    };
+    script.onload=()=>show(window.CTKD_EXAMPLE_TESTIMONIALS||[],true);
     document.head.append(script);
   }
   initTestimonios();

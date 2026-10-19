@@ -136,7 +136,9 @@ p{color:var(--muted)}strong,b{font-weight:800;color:var(--fg)}
 .lessonControls button{flex:1}
 .testimonyGrid{grid-template-columns:repeat(2,minmax(0,1fr))}
 .testimony{border-radius:17px;padding:21px;display:grid;grid-template-columns:78px 1fr;gap:10px 15px;box-shadow:none}
-.imageSlot{grid-row:1/4;width:76px;height:76px;aspect-ratio:1;border:1px dashed var(--outline);border-radius:14px;display:grid;place-items:center;text-align:center;font-size:.66rem;color:var(--muted)}
+.imageSlot{width:76px;height:76px;aspect-ratio:1;border:1px dashed var(--outline);border-radius:14px;display:grid;place-items:center;text-align:center;font-size:.66rem;color:var(--muted);overflow:hidden}
+.studentPortrait{width:100%;height:100%;aspect-ratio:1;object-fit:cover;object-position:center;display:block}
+.testimonyText{display:grid;gap:6px;align-content:start}
 .testimony q{font-size:.98rem;color:var(--fg);font-weight:700}
 .testimony .exampleLabel{font-size:.7rem;font-weight:850;color:var(--red);text-transform:uppercase}
 .testimony .stars{color:#eab85c;letter-spacing:2px}

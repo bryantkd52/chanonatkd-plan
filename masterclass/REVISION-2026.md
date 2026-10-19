@@ -22,7 +22,7 @@ Todas usan el mismo menú y modo claro/oscuro. Sus enlaces funcionan al entrar d
 
 ## Configuración editable
 - `masterclass/assets/content.js`: nueve miniclases, tres por programa, y video provisional de la muestra de plan.
-- `masterclass/assets/testimonios-ejemplo.js`: diez ejemplos ficticios de testimonios.
+- `masterclass/assets/testimonios-ejemplo.js`: diez ejemplos ficticios de testimonios.\n- `masterclass/assets/testimonios-reales.js`: configuración vacía para publicar únicamente testimonios auténticos con imagen cuadrada y encuadre configurable.
 - `masterclass/assets/system-beginners-demo.json`: copia independiente del nivel Principiantes extraída de `data/planes/plan_chanonatkd_system.json` (estado 2026-10-16). Se conservan títulos, frecuencia, días, series, repeticiones, descansos, indicaciones y 10 ejercicios.
 - `masterclass/assets/site.js`: menú, tema, controles de video y modal, navegación y eventos analíticos.
 - `masterclass/assets/site.css`: Liquid Glass, responsive, foco y reduced-motion.
