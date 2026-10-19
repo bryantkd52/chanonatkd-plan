@@ -327,3 +327,75 @@ html[data-theme=light] .exploreSection::before{opacity:.035}
  .lessonTab,.action{transition:none!important}
  .lessonTab:hover,.action:hover{transform:none!important}
 }
+
+
+/* Revisión: modal de tamaño estable y navegación de miniclases orientada a problemas. */
+.planDialog {
+  height: min(820px, 92vh);
+  height: min(820px, 92dvh);
+  max-height: 92vh;
+  max-height: 92dvh;
+}
+.demoShell {
+  height: 100%;
+  max-height: none;
+  min-height: 0;
+}
+.demoHeader { flex: 0 0 auto; }
+.demoBody {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+}
+.lessonTabContent .lessonHook {
+  font-size: .86rem;
+  line-height: 1.4;
+  font-weight: 710;
+  color: var(--muted);
+  text-wrap: pretty;
+}
+.lessonTab[aria-pressed=true] .lessonHook { color:var(--fg); }
+.lessonQuestion {
+  font-size:clamp(1.09rem,2.2vw,1.38rem);
+  line-height:1.27;
+  letter-spacing:-.024em;
+  font-weight:860;
+  color:var(--fg);
+  margin:8px 0 17px;
+  min-height:1.45em;
+  text-wrap:balance;
+}
+@media (max-width:760px) {
+ .planDialog { height:94vh; height:94dvh; max-height:94vh; max-height:94dvh; }
+ .lessonsNav{
+   display:grid;
+   grid-template-columns:repeat(3,minmax(188px,1fr));
+   overflow-x:auto;
+   overscroll-behavior-inline:contain;
+   scroll-snap-type:x proximity;
+   padding:3px 2px 10px;
+   scrollbar-width:thin;
+   -webkit-overflow-scrolling:touch;
+ }
+ .lessonTab{
+   display:grid;
+   grid-template-columns:39px minmax(0,1fr);
+   gap:9px;
+   min-height:116px;
+   padding:13px;
+   scroll-snap-align:start;
+ }
+ .lessonTabIndex {height:37px;width:37px}
+ .lessonTabContent strong{font-size:1.02rem}
+ .lessonTabContent .lessonHook{font-size:.81rem;line-height:1.32}
+ .demoBody{scrollbar-gutter:auto}
+}
+@media (max-width:430px) {
+ .lessonsNav{grid-template-columns:repeat(3,minmax(181px,1fr))}
+ .lessonTab {min-height:115px;padding:12px}
+ .lessonTabContent strong{font-size:.98rem}
+ .lessonTabContent .lessonHook{font-size:.77rem}
+}

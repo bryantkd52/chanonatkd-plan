@@ -87,20 +87,22 @@
     const items=info.lessons?.[program]||[];
     if(items.length!==3)return;
     const navBox=$(".lessonsNav",box),player=$(".playerHolder",box);
-    const count=$(".lessonCounter",box),current=$(".lessonCurrent",box);
+    const count=$(".lessonCounter",box),current=$(".lessonCurrent",box),question=$(".lessonQuestion",box);
     const summary=$(".lessonSummary",box);
     const prev=$(".lessonPrev",box),next=$(".lessonNext",box);
     let selected=0;
     items.forEach((item,i)=>{
       const button=document.createElement("button");button.type="button";button.className="lessonTab";
       button.classList.add(["lessonTab--flex","lessonTab--kick","lessonTab--poomsae"][i]);
-      button.innerHTML='<span class="lessonTabIndex">0'+(i+1)+'</span><span class="lessonTabContent"><strong>'+esc(["Flexibilidad","Pateo","Poomsae"][i])+'</strong><small>Clase '+(i+1)+' de 3</small></span><span class="lessonTabArrow" aria-hidden="true">↗</span>';
+      button.innerHTML='<span class="lessonTabIndex">0'+(i+1)+'</span><span class="lessonTabContent"><strong>'+esc(item.label)+'</strong><small class="lessonHook">'+esc(item.question||"Descubre cómo trabajarlo")+'</small></span><span class="lessonTabArrow" aria-hidden="true">↗</span>';
+      button.setAttribute("aria-label","Clase "+(i+1)+" de 3: "+item.label+". "+(item.question||""));
       button.addEventListener("click",()=>select(i,true));navBox.append(button);
     });
     function select(i,record){
       if(i<0||i>=items.length)return;
       selected=i;const item=items[i];
       count.textContent="Clase "+(i+1)+" de 3";current.textContent=item.label;
+      if(question)question.textContent=item.question||"";
       summary.textContent=item.summary||"";
       $$(".lessonTab",navBox).forEach((b,j)=>b.setAttribute("aria-pressed",String(j===i)));
       prev.disabled=i===0;next.disabled=i===2;
@@ -214,6 +216,9 @@
       const tabs='<div class="demoTabs" aria-label="Secciones del plan">'+sections.map(([k,label])=>'<button type="button" data-demo-section="'+k+'" aria-pressed="'+(k===selectedSection)+'">'+esc(label)+'</button>').join("")+'</div>';
       const dayNav=(["resumen","clases","indicaciones"].includes(selectedSection)?"":'<div class="demoDays" aria-label="Filtrar por día">'+days.map(d=>'<button type="button" data-demo-day="'+esc(d)+'" aria-pressed="'+(d===selectedDay)+'">'+esc(d)+'</button>').join("")+"</div>");
       app.innerHTML='<p class="demoNotice">'+esc(plan.aviso)+'</p>'+tabs+dayNav+'<div class="demoContent">'+inner+"</div>";
+      // Mantén el contenedor del mismo tamaño y vuelve arriba al cambiar sección o día.
+      const scrollRegion=$(".demoBody",dialog);
+      if(scrollRegion)scrollRegion.scrollTop=0;
       $$("[data-demo-section]",app).forEach(b=>b.addEventListener("click",()=>{selectedSection=b.dataset.demoSection;selectedDay="Todos";render()}));
       $$("[data-demo-day]",app).forEach(b=>b.addEventListener("click",()=>{selectedDay=b.dataset.demoDay;render()}));
       $$("[data-video-demo]",app).forEach(btn=>btn.addEventListener("click",()=>{
