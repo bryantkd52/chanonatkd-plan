@@ -45,9 +45,9 @@ ok(!JSON.stringify(demo).includes("drive.google.com"),"Sin enlaces privados en l
 ok(css.includes("prefers-reduced-motion")&&css.includes(":focus-visible"),"Accesibilidad básica");
 ok(js.includes('dialog.addEventListener("close"'),"Cierre del modal");
 ok(js.includes('class="demoClassPlaceholder"')&&js.includes('aria-expanded="false"'),"Clases demostrativas desplegables");
-ok(js.includes('$("[data-video-demo]",app).forEach(btn=>'),"Botones de clase conectados con querySelectorAll");
-ok(js.includes('$("[data-video-demo]",app).forEach(x=>'),"Cierre de botones de clase con querySelectorAll");
-ok(js.includes('$(".demoClassPlaceholder",app).forEach(x=>'),"Cascada de paneles con querySelectorAll");
+ok(js.includes('$$("[data-video-demo]",app).forEach(btn=>'),"Botones de clase conectados con querySelectorAll");
+ok(js.includes('$$("[data-video-demo]",app).forEach(x=>'),"Cierre de botones de clase con querySelectorAll");
+ok(js.includes('$$(".demoClassPlaceholder",app).forEach(x=>'),"Cascada de paneles con querySelectorAll");
 ok(!js.includes('$("[data-video-demo]",app).forEach('),"Evita usar querySelector individual con forEach");
 ok(!js.includes('$(".demoClassPlaceholder",app).forEach('),"Evita usar querySelector individual con forEach");
 ok(!js.includes('Reproducir video provisional'),"Sin videos privados ni videos provisionales en el plan");
