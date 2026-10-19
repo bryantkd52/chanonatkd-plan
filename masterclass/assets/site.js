@@ -47,7 +47,7 @@
   const referral={};
   try{for(const k of utmNames){const v=sessionStorage.getItem("ctkd_"+k);if(v)referral[k]=v}}catch(e){}
   track("pagina_visitada",{programa:page,...referral});
-  $("[data-wa]").forEach(link=>{
+  $$("[data-wa]").forEach(link=>{
     link.addEventListener("click",()=>{
       track("whatsapp_click",{programa:page,accion:link.textContent.trim(),...referral});
       const msg=decodeURIComponent(link.dataset.wa||"");
