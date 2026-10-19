@@ -10,6 +10,7 @@ const content=read("assets/content.js");
 const demo=JSON.parse(read("assets/system-beginners-demo.json"));
 const testimonials=read("assets/testimonios-ejemplo.js");
 const css=read("assets/site.css");
+const demoScript=read("assets/system-beginners-demo-data.js");
 const js=read("assets/site.js");
 let checks=0;
 function ok(cond,msg){checks++;if(!cond)throw new Error("FALLÓ: "+msg);console.log("OK:",msg)}
@@ -30,6 +31,8 @@ ok((content.match(/"provisional": true/g)||[]).length===9,"Nueve miniclases prov
 ok((testimonials.match(/"isExample": true/g)||[]).length===10,"Diez testimonios ficticios separados");
 ok(js.includes('get("revision")!=="1"'),"Ocultos fuera de revisión");
 ok(demo.tab.id==="principiantes","Fuente Principiantes");
+ok(demoScript.includes("window.CTKD_BEGINNERS_DEMO=")&&demoScript.includes('"id": "principiantes"'),"Muestra precargada, sin fetch obligatorio");
+ok(js.includes('$("[data-wa]").forEach'),"Inicialización de WhatsApp no detiene el resto del script");
 ok(demo.tab.calentamiento.length===1&&demo.tab.chanonaflex.length===2&&demo.tab.isometrico.length===3&&demo.tab.pateoTecnico.length===4,"Diez ejercicios reales");
 ok(!JSON.stringify(demo).includes("drive.google.com"),"Sin enlaces privados en la muestra");
 ok(css.includes("prefers-reduced-motion")&&css.includes(":focus-visible"),"Accesibilidad básica");

@@ -1,0 +1,136 @@
+/* Copia pública y saneada de Principiantes. NO modificar datos ni planes reales. */
+window.CTKD_BEGINNERS_DEMO={
+  "fuente": "data/planes/plan_chanonatkd_system.json",
+  "origen_actualizado": "2026-10-16",
+  "ciclo": "Jueves 15 al miércoles 28 de octubre de 2026",
+  "nivel": "Principiantes",
+  "aviso": "Copia pública de la organización y los ejercicios del nivel Principiantes. Los videos de muestra son provisionales y no corresponden al recurso privado original.",
+  "tab": {
+    "id": "principiantes",
+    "titulo": "Principiantes",
+    "subtitulo": "Base suave / adaptación",
+    "descripcion": "",
+    "recomendacion": "",
+    "frecuencias": [
+      "Calentamiento: antes de cada entrenamiento.",
+      "ChanonaFlex: lunes, miércoles y viernes / martes, jueves y sábado.",
+      "Isométrico activo: lunes, miércoles y viernes.",
+      "Pateo técnico: lunes y miércoles / martes y jueves."
+    ],
+    "calentamientoTitulo": "Calentamiento",
+    "calentamiento": [
+      {
+        "titulo": "Lubricacion - ChanonaTKD",
+        "dia": "Antes de cada entrenamiento",
+        "tipo": "video",
+        "enfoque": "Preparar articulaciones, movilidad general y cuerpo completo antes de iniciar el trabajo fuerte.",
+        "reps": "antes de cada entrenamiento",
+        "reproductor": "video-provisional-youtube"
+      }
+    ],
+    "chanonaflexDias": "ESTIRAMIENTO INICIAL CON BLOQUE: LUNES - MIÉRCOLES - VIERNES / CHANONAFLEX CON SILLA: MARTES - JUEVES - SÁBADO",
+    "isometricoDias": "LUNES - MIÉRCOLES - VIERNES / NIVEL 1 SUAVE",
+    "pateoDias": "Lunes y miércoles / Martes y jueves",
+    "poomsaeDias": "NO ASIGNADO EN ESTE NIVEL",
+    "chanonaflex": [
+      {
+        "titulo": "Estiramiento inicial con bloque",
+        "dia": "LUNES - MIÉRCOLES - VIERNES",
+        "tipo": "video",
+        "enfoque": "Abrir movilidad y flexibilidad de forma progresiva usando bloque.",
+        "reps": "1 vez / según video",
+        "reproductor": "video-provisional-youtube"
+      },
+      {
+        "titulo": "Chanonaflex - Con silla",
+        "dia": "MARTES - JUEVES - SÁBADO",
+        "tipo": "video",
+        "enfoque": "Trabajar flexibilidad con apoyo de silla para cuidar postura y control.",
+        "reps": "1 vez / según video",
+        "reproductor": "video-provisional-youtube"
+      }
+    ],
+    "isometrico": [
+      {
+        "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
+        "dia": "LUNES - MIÉRCOLES - VIERNES",
+        "tipo": "video",
+        "tags": [
+          "GLÚTEO",
+          "FUERZA",
+          "CADERA"
+        ],
+        "reproductor": "video-provisional-youtube"
+      },
+      {
+        "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
+        "dia": "LUNES - MIÉRCOLES - VIERNES",
+        "tipo": "video",
+        "tags": [
+          "YOP CHAGUI",
+          "NIVEL 1"
+        ],
+        "reproductor": "video-provisional-youtube"
+      },
+      {
+        "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
+        "dia": "LUNES - MIÉRCOLES - VIERNES",
+        "tipo": "video",
+        "tags": [
+          "AP CHAGUI",
+          "NIVEL 1"
+        ],
+        "reproductor": "video-provisional-youtube"
+      }
+    ],
+    "pateoTecnico": [
+      {
+        "titulo": "Ap + Extensión",
+        "tipo": "video",
+        "dia": "Lunes y miércoles",
+        "reps": "7 repeticiones por pierna / 2 series / 45 segundos de descanso",
+        "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición.",
+        "reproductor": "video-provisional-youtube"
+      },
+      {
+        "titulo": "Ap Chagui 3 niveles",
+        "tipo": "video",
+        "dia": "Lunes y miércoles",
+        "reps": "10 repeticiones por pierna / 4 series / 35 segundos de descanso",
+        "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición.",
+        "reproductor": "video-provisional-youtube"
+      },
+      {
+        "titulo": "Ap Chagui acostado",
+        "tipo": "video",
+        "dia": "Martes y jueves",
+        "reps": "5 repeticiones por pierna / 2 series / 45 segundos de descanso",
+        "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición.",
+        "reproductor": "video-provisional-youtube"
+      },
+      {
+        "titulo": "Ap Chagui sentado",
+        "tipo": "video",
+        "dia": "Martes y jueves",
+        "reps": "4 a 5 repeticiones por pierna / 2 series / 75 segundos de descanso",
+        "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición.",
+        "reproductor": "video-provisional-youtube"
+      }
+    ],
+    "poomsae": [],
+    "clasesGrabadas": [],
+    "indicacionesExtras": [
+      "Revisa el trabajo nuevo de poomsae y pateo que tienes en sus respectivas pestañas."
+    ],
+    "notasFinales": [
+      "¡Muy buen trabajo esta semana! Ahora tienes clases de flexibilidad, pateo y poomsae organizadas por separado para entrenar con una estructura clara, incluso si dispones de poco tiempo.",
+      "Coméntame cualquier inconveniente para resolverlo a la brevedad. ¡Disfruta de tu entrenamiento!"
+    ]
+  },
+  "indicacionesGenerales": [
+    "Trabaja solamente la pestaña que el Profesor Chanona te haya asignado.",
+    "Si el Profesor Chanona te indica combinar dos pestañas, respeta ese orden.",
+    "No cambies de nivel por tu cuenta.",
+    "Cuida técnica, control y continuidad antes de buscar mayor dificultad."
+  ]
+};

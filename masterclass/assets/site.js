@@ -93,7 +93,8 @@
     let selected=0;
     items.forEach((item,i)=>{
       const button=document.createElement("button");button.type="button";button.className="lessonTab";
-      button.innerHTML="<span>"+esc(["1 · Flexibilidad","2 · Pateo","3 · Poomsae"][i])+"</span><small>Clase "+(i+1)+" de 3</small>";
+      button.classList.add(["lessonTab--flex","lessonTab--kick","lessonTab--poomsae"][i]);
+      button.innerHTML='<span class="lessonTabIndex">0'+(i+1)+'</span><span class="lessonTabContent"><strong>'+esc(["Flexibilidad","Pateo","Poomsae"][i])+'</strong><small>Clase '+(i+1)+' de 3</small></span><span class="lessonTabArrow" aria-hidden="true">↗</span>';
       button.addEventListener("click",()=>select(i,true));navBox.append(button);
     });
     function select(i,record){
@@ -103,7 +104,10 @@
       summary.textContent=item.summary||"";
       $$(".lessonTab",navBox).forEach((b,j)=>b.setAttribute("aria-pressed",String(j===i)));
       prev.disabled=i===0;next.disabled=i===2;
-      next.textContent=i===1?"Siguiente: Poomsae →":"Siguiente →";
+      const nextName=i<2?items[i+1].label:""; 
+      next.innerHTML='<span class="lessonArrow" aria-hidden="true">➜</span><span class="lessonBtnCopy">Siguiente'+(nextName?': '+esc(nextName):"")+'</span>';
+      prev.innerHTML='<span class="lessonArrow" aria-hidden="true">←</span><span class="lessonBtnCopy">Anterior'+(i>0?': '+esc(items[i-1].label):"")+'</span>';
+      box.dataset.currentLesson=String(i+1);
       // Cambiar de clase elimina el iframe anterior y detiene el audio.
       player.replaceChildren();
       const play=document.createElement("button");
@@ -228,9 +232,15 @@
       app.innerHTML="<p>Cargando copia independiente del plan…</p>";
       try{
         if(!plan){
-          const response=await fetch(base+"assets/system-beginners-demo.json");
-          if(!response.ok)throw new Error("No se encontró el archivo de la demostración");
-          plan=await response.json();
+          // La copia local precargada permite revisar desde un HTML abierto directamente
+          // (file://), donde los navegadores bloquean fetch() de JSON por CORS.
+          if(window.CTKD_BEGINNERS_DEMO && window.CTKD_BEGINNERS_DEMO.tab){
+            plan=window.CTKD_BEGINNERS_DEMO;
+          }else{
+            const response=await fetch(base+"assets/system-beginners-demo.json");
+            if(!response.ok)throw new Error("No se encontró el archivo de la demostración");
+            plan=await response.json();
+          }
         }
         selectedSection="resumen";selectedDay="Todos";render();
       }catch(error){app.innerHTML='<p class="demoNotice">No fue posible cargar el plan de demostración. '+esc(error.message)+'</p>'}
