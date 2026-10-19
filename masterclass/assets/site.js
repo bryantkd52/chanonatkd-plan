@@ -194,7 +194,7 @@
     function cards(items){
       const list=(items||[]).filter(matchingDay);
       if(!list.length)return '<div class="demoEmpty">No hay ejercicios asignados para este día en esta sección del plan original.</div>';
-      return list.map((x,i)=>'<article class="demoExercise"><h4>'+esc(x.titulo)+'</h4>'+infoLines(x)+(x.reproductor?'<button class="action secondary" type="button" data-video-demo="'+i+'">▶ Reproducir ejemplo</button><div class="demoVideoBox" hidden></div>':'')+'</article>').join("");
+      return list.map((x,i)=>'<article class="demoExercise"><h4>'+esc(x.titulo)+'</h4>'+infoLines(x)+(x.reproductor?'<button class="action secondary demoClassToggle" type="button" data-video-demo="'+i+'" aria-expanded="false" aria-controls="demo-class-'+i+'">Ver clase <span aria-hidden="true">⌄</span></button><div class="demoClassPlaceholder" id="demo-class-'+i+'" hidden><span class="demoClassPlaceholderIcon" aria-hidden="true">▶</span><div><strong>Aquí aparecerá tu clase de '+esc(x.titulo)+'</strong><p>Tu clase estará disponible para consultarla cuando la necesites dentro de System.</p></div></div>':'')+'</article>').join("");
     }
     function render(){
       const tab=plan.tab;
@@ -204,7 +204,7 @@
           '<h3 class="demoHeading">Indicaciones de organización</h3><ul class="demoList">'+(tab.frecuencias||[]).map(x=>"<li>"+esc(x)+"</li>").join("")+"</ul>"+
           '<p class="demoNotice"><b>Frecuencias:</b><br>'+esc(tab.chanonaflexDias)+"<br>"+esc(tab.isometricoDias)+"<br>"+esc(tab.pateoDias)+"</p>";
       }else if(selectedSection==="clases"){
-        inner='<p class="demoNotice">La pestaña Principiantes del plan vigente no tiene una clase grabada específica asignada. El System ofrece un histórico en su pestaña Clases; este reproductor es únicamente una prueba de interfaz.</p><button class="action secondary" type="button" data-video-demo="clase">▶ Reproducir video provisional</button><div class="demoVideoBox" hidden></div>';
+        inner='<p class="demoNotice">System también incluye clases de Poomsae, pateo, flexibilidad y un histórico de sesiones grabadas. Esta muestra enseña dónde podrás consultarlas.</p><button class="action secondary demoClassToggle" type="button" data-video-demo="clase" aria-expanded="false" aria-controls="demo-class-general">Ver clases disponibles <span aria-hidden="true">⌄</span></button><div class="demoClassPlaceholder" id="demo-class-general" hidden><span class="demoClassPlaceholderIcon" aria-hidden="true">▶</span><div><strong>Aquí aparecerán tus clases de Poomsae, pateo y flexibilidad.</strong><p>Podrás repasar el material y avanzar en tu entrenamiento dentro de System.</p></div></div>';
       }else if(selectedSection==="indicaciones"){
         const txt=[...(plan.indicacionesGenerales||[]),...(tab.indicacionesExtras||[]),...(tab.notasFinales||[])];
         inner='<h3 class="demoHeading">Indicaciones del profesor</h3><ol class="demoList">'+txt.map(x=>"<li>"+esc(x)+"</li>").join("")+"</ol>";
@@ -221,12 +221,18 @@
       if(scrollRegion)scrollRegion.scrollTop=0;
       $$("[data-demo-section]",app).forEach(b=>b.addEventListener("click",()=>{selectedSection=b.dataset.demoSection;selectedDay="Todos";render()}));
       $$("[data-demo-day]",app).forEach(b=>b.addEventListener("click",()=>{selectedDay=b.dataset.demoDay;render()}));
-      $$("[data-video-demo]",app).forEach(btn=>btn.addEventListener("click",()=>{
-        // Solo un video puede estar reproduciéndose dentro de esta demostración.
-        $$(".demoVideoBox",app).forEach(p=>{p.hidden=true;p.replaceChildren()});
-        const holder=$(".demoVideoBox",btn.parentElement);
-        if(holder){holder.hidden=false;holder.append(videoFrame(info.previewVideos?.plan||info.videoEjemplo,"Video de ejemplo de System",true))}
-        track("reproduccion_demo_plan",{seccion:selectedSection,provisional:true});
+      $("[data-video-demo]",app).forEach(btn=>btn.addEventListener("click",()=>{
+        const target=document.getElementById(btn.getAttribute("aria-controls"));
+        if(!target)return;
+        const previouslyOpen=btn.getAttribute("aria-expanded")==="true";
+        // Cascada: se abre una clase y se cierran las demás.
+        $("[data-video-demo]",app).forEach(x=>x.setAttribute("aria-expanded","false"));
+        $(".demoClassPlaceholder",app).forEach(x=>{x.hidden=true});
+        if(!previouslyOpen){
+          target.hidden=false;
+          btn.setAttribute("aria-expanded","true");
+          track("abrir_clase_demo_plan",{seccion:selectedSection});
+        }
       }));
     }
     async function show(){

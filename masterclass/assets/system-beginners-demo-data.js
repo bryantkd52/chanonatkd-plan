@@ -4,7 +4,7 @@ window.CTKD_BEGINNERS_DEMO={
   "origen_actualizado": "2026-10-16",
   "ciclo": "Jueves 15 al miércoles 28 de octubre de 2026",
   "nivel": "Principiantes",
-  "aviso": "Copia pública de la organización y los ejercicios del nivel Principiantes. Los videos de muestra son provisionales y no corresponden al recurso privado original.",
+  "aviso": "Copia pública del nivel Principiantes con la organización, indicaciones y ejercicios reales. Los botones muestran dónde aparecerán tus clases, sin compartir videos privados.",
   "tab": {
     "id": "principiantes",
     "titulo": "Principiantes",
@@ -25,7 +25,7 @@ window.CTKD_BEGINNERS_DEMO={
         "tipo": "video",
         "enfoque": "Preparar articulaciones, movilidad general y cuerpo completo antes de iniciar el trabajo fuerte.",
         "reps": "antes de cada entrenamiento",
-        "reproductor": "video-provisional-youtube"
+        "reproductor": "espacio-de-clase"
       }
     ],
     "chanonaflexDias": "ESTIRAMIENTO INICIAL CON BLOQUE: LUNES - MIÉRCOLES - VIERNES / CHANONAFLEX CON SILLA: MARTES - JUEVES - SÁBADO",
@@ -39,7 +39,7 @@ window.CTKD_BEGINNERS_DEMO={
         "tipo": "video",
         "enfoque": "Abrir movilidad y flexibilidad de forma progresiva usando bloque.",
         "reps": "1 vez / según video",
-        "reproductor": "video-provisional-youtube"
+        "reproductor": "espacio-de-clase"
       },
       {
         "titulo": "Chanonaflex - Con silla",
@@ -47,7 +47,7 @@ window.CTKD_BEGINNERS_DEMO={
         "tipo": "video",
         "enfoque": "Trabajar flexibilidad con apoyo de silla para cuidar postura y control.",
         "reps": "1 vez / según video",
-        "reproductor": "video-provisional-youtube"
+        "reproductor": "espacio-de-clase"
       }
     ],
     "isometrico": [
@@ -60,7 +60,7 @@ window.CTKD_BEGINNERS_DEMO={
           "FUERZA",
           "CADERA"
         ],
-        "reproductor": "video-provisional-youtube"
+        "reproductor": "espacio-de-clase"
       },
       {
         "titulo": "Isométrico Activo - Yop Chagui - Nivel 1",
@@ -70,7 +70,7 @@ window.CTKD_BEGINNERS_DEMO={
           "YOP CHAGUI",
           "NIVEL 1"
         ],
-        "reproductor": "video-provisional-youtube"
+        "reproductor": "espacio-de-clase"
       },
       {
         "titulo": "Isométrico Activo - Ap Chagui - Nivel 1",
@@ -80,7 +80,7 @@ window.CTKD_BEGINNERS_DEMO={
           "AP CHAGUI",
           "NIVEL 1"
         ],
-        "reproductor": "video-provisional-youtube"
+        "reproductor": "espacio-de-clase"
       }
     ],
     "pateoTecnico": [
@@ -90,7 +90,7 @@ window.CTKD_BEGINNERS_DEMO={
         "dia": "Lunes y miércoles",
         "reps": "7 repeticiones por pierna / 2 series / 45 segundos de descanso",
         "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición.",
-        "reproductor": "video-provisional-youtube"
+        "reproductor": "espacio-de-clase"
       },
       {
         "titulo": "Ap Chagui 3 niveles",
@@ -98,7 +98,7 @@ window.CTKD_BEGINNERS_DEMO={
         "dia": "Lunes y miércoles",
         "reps": "10 repeticiones por pierna / 4 series / 35 segundos de descanso",
         "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición.",
-        "reproductor": "video-provisional-youtube"
+        "reproductor": "espacio-de-clase"
       },
       {
         "titulo": "Ap Chagui acostado",
@@ -106,7 +106,7 @@ window.CTKD_BEGINNERS_DEMO={
         "dia": "Martes y jueves",
         "reps": "5 repeticiones por pierna / 2 series / 45 segundos de descanso",
         "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición.",
-        "reproductor": "video-provisional-youtube"
+        "reproductor": "espacio-de-clase"
       },
       {
         "titulo": "Ap Chagui sentado",
@@ -114,7 +114,7 @@ window.CTKD_BEGINNERS_DEMO={
         "dia": "Martes y jueves",
         "reps": "4 a 5 repeticiones por pierna / 2 series / 75 segundos de descanso",
         "enfoque": "Cuida la técnica, la alineación y el control durante cada repetición.",
-        "reproductor": "video-provisional-youtube"
+        "reproductor": "espacio-de-clase"
       }
     ],
     "poomsae": [],

@@ -53,3 +53,9 @@ Todas usan el mismo menú y modo claro/oscuro. Sus enlaces funcionan al entrar d
 - Se corrigió el tamaño variable de la ventana de muestra. Ahora tiene altura estable en cada dispositivo; el contenido se desplaza dentro de ella al cambiar pestaña o día.
 - En las tres páginas comerciales, las miniclases se introducen con preguntas sobre dolores técnicos (flexibilidad, patada alta, Poomsae). Los textos por clase están en `masterclass/assets/content.js`, junto a sus futuras URL definitivas; los videos siguen etiquetados como provisionales.
 - **Trabajo futuro solicitado — no implementar todavía en el sitio de alumnos**: rediseñar los planes activos con navegación diaria como acción principal. Al elegir lunes, martes, miércoles, jueves, viernes o sábado, mostrar solo los ejercicios asignados a ese día, con series, repeticiones y descansos. Repetir un mismo ejercicio entre días cuando corresponda. Evitar que el alumno deba interpretar bloques de "frecuencia" o buscar su rutina entre secciones. Mantener una altura/estructura visual estables al cambiar de día, sin modificar contenidos ni datos de alumnos hasta nueva instrucción expresa.
+
+## Publicación y miniclases definitivas (19 de octubre de 2026)
+- Miniclases confirmadas: Flexibilidad, Pateo y Poomsae para System, Personal y Academia. Los enlaces están centralizados en `assets/content.js`.
+- La muestra pública del plan Principiantes conserva los ejercicios, pero al pulsar `Ver clase` abre una leyenda desplegable. No incluye videos privados ni reproductores de prueba.
+- Los planes activos (`plan/` y `data/`) no se han rediseñado todavía. El rediseño de planes por días queda pendiente de autorización posterior.
+- Los testimonios de ejemplo se muestran solo al revisar los archivos localmente con `?revision=1`, nunca en la versión web publicada.
