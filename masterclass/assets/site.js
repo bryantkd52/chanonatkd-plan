@@ -16,7 +16,6 @@
     window.dataLayer.push(payload);
     document.dispatchEvent(new CustomEvent("ctkd:analytics",{detail:payload}));
   }
-  track("pagina_visitada",{programa:page});
   const themeBtn=$(".themeToggle");
   function themeUI(){
     const t=document.documentElement.dataset.theme||"dark";
@@ -47,7 +46,8 @@
   try{for(const k of utmNames){const v=incoming.get(k);if(v)sessionStorage.setItem("ctkd_"+k,narrow(v))}}catch(e){}
   const referral={};
   try{for(const k of utmNames){const v=sessionStorage.getItem("ctkd_"+k);if(v)referral[k]=v}}catch(e){}
-  $$("[data-wa]").forEach(link=>{
+  track("pagina_visitada",{programa:page,...referral});
+  $("[data-wa]").forEach(link=>{
     link.addEventListener("click",()=>{
       track("whatsapp_click",{programa:page,accion:link.textContent.trim(),...referral});
       const msg=decodeURIComponent(link.dataset.wa||"");
