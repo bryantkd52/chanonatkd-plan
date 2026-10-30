@@ -89,5 +89,5 @@ window.__CHANONA_CYCLE_20260930_TARGETS=TARGET_IDS;
 window.__isCycle20260930Target=function(){return TARGET_IDS.has(current()) || current() === "diego_pineda"};
 const originalFetch=window.fetch.bind(window);
 window.fetch=async function(input,init){const response=await originalFetch(input,init);try{const url=typeof input==="string"?input:(input&&input.url)||"";const m=String(url).match(/data\/planes\/([^?#/]+\.json)/);const id=m?TARGET_PLAN_FILES.get(m[1]):null;if(id){const data=await response.clone().json();
-if(data.updated_at === "2026-10-15") return response;const headers=new Headers(response.headers);headers.set("content-type","application/json; charset=utf-8");return new Response(JSON.stringify(patch(data,id)),{status:response.status,statusText:response.statusText,headers})}}catch(e){return response}return response};
+if(/^\d{4}-\d{2}-\d{2}$/.test(data.updated_at || "") && data.updated_at >= "2026-10-15") return response;const headers=new Headers(response.headers);headers.set("content-type","application/json; charset=utf-8");return new Response(JSON.stringify(patch(data,id)),{status:response.status,statusText:response.statusText,headers})}}catch(e){return response}return response};
 })();

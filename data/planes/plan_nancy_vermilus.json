@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15",
+  "updated_at": "2026-10-30",
   "nivel": "Dragones",
-  "ciclo": "Du jeudi 15 au mercredi 28 octobre 2026",
+  "ciclo": "Du vendredi 30 octobre au mercredi 11 novembre 2026",
   "enfoque_corto": "Technique précise, progrès constants",
   "enfoque": "ChanonaFlex : du lundi au samedi. Isométrique actif : lundi et vendredi / mardi et jeudi / mercredi et samedi. Coups de pied techniques : lundi et mercredi. Poomsae : du lundi au samedi.",
   "chanonaflexDias": "Du lundi au samedi",
@@ -80,85 +80,78 @@
   ],
   "poomsae": [
     {
-      "titulo": "Jeudi 15 octobre 2026",
-      "dia": "Jeudi 15 octobre 2026",
-      "enfoque": "Koryo - Ligne 1 (Mouvement 1: Sonnal Montong Bakkat Makki et Dwit Kubi - gauche et droite): 7 min | Koryo - Ligne 1 (Mouvement 2: Double Yop Chagui et préparation de la réception): 7 min",
-      "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
-      "tipo": "info"
-    },
-    {
-      "titulo": "Vendredi 16 octobre 2026",
-      "dia": "Vendredi 16 octobre 2026",
+      "titulo": "Vendredi 30 octobre 2026",
+      "dia": "Vendredi 30 octobre 2026",
       "enfoque": "Koryo - Ligne 1 (Mouvement 3: Frappe au cou avec la main ouverte et coup de poing au niveau moyen en Ap Kubi): 7 min | Koryo - Ligne 1 (Mouvement 4: Montong An Makki et Dwit Kubi): 7 min",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"
     },
     {
-      "titulo": "Samedi 17 octobre 2026",
-      "dia": "Samedi 17 octobre 2026",
+      "titulo": "Samedi 31 octobre 2026",
+      "dia": "Samedi 31 octobre 2026",
       "enfoque": "Koryo (Lignes 1 et 2 complètes): 3 séries avec 30 secondes de repos entre chaque série",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"
     },
     {
-      "titulo": "Lundi 19 octobre 2026",
-      "dia": "Lundi 19 octobre 2026",
+      "titulo": "Lundi 2 novembre 2026",
+      "dia": "Lundi 2 novembre 2026",
       "enfoque": "Koryo - Ligne 2 (Mouvement 1: Ap kubi, défense basse avec la main ouverte et frappe au cou): 10 min | Koryo - Ligne 2 (Mouvement 2: Ap chagui, préparation de la défense basse avec la main ouverte, ap kubi et frappe au cou): 10 min",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"
     },
     {
-      "titulo": "Mardi 20 octobre 2026",
-      "dia": "Mardi 20 octobre 2026",
+      "titulo": "Mardi 3 novembre 2026",
+      "dia": "Mardi 3 novembre 2026",
       "enfoque": "Koryo - Ligne 2 (Mouvement 3: Ap chagui, préparation de la défense basse avec la main ouverte, ap kubi et frappe au cou avec kiap): 10 min | Koryo - Ligne 2 (Mouvement 4: Ap chagui, ap kubi et frappe basse avec la main ouverte représentant une technique de rupture de la jambe): 10 min",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"
     },
     {
-      "titulo": "Mercredi 21 octobre 2026",
-      "dia": "Mercredi 21 octobre 2026",
+      "titulo": "Mercredi 4 novembre 2026",
+      "dia": "Mercredi 4 novembre 2026",
       "enfoque": "Koryo - Ligne 2 (Mouvement 5: Tourner, Ap Kubi et double défense extérieure): 7 min | Koryo - Ligne 2 (Mouvement 6: Ap chagui, ap kubi, frappe basse avec la main ouverte et double défense extérieure en Ap Sogui): 7 min",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"
     },
     {
-      "titulo": "Jeudi 22 octobre 2026",
-      "dia": "Jeudi 22 octobre 2026",
+      "titulo": "Jeudi 5 novembre 2026",
+      "dia": "Jeudi 5 novembre 2026",
       "enfoque": "Koryo - Ligne 1 (Mouvement 1: Sonnal Montong Bakkat Makki et Dwit Kubi - gauche et droite): 7 min | Koryo - Ligne 1 (Mouvement 2: Double Yop Chagui et préparation de la réception): 7 min",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"
     },
     {
-      "titulo": "Vendredi 23 octobre 2026",
-      "dia": "Vendredi 23 octobre 2026",
+      "titulo": "Vendredi 6 novembre 2026",
+      "dia": "Vendredi 6 novembre 2026",
       "enfoque": "Koryo - Ligne 1 (Mouvement 3: Frappe au cou avec la main ouverte et coup de poing au niveau moyen en Ap Kubi): 7 min | Koryo - Ligne 1 (Mouvement 4: Montong An Makki et Dwit Kubi): 7 min",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"
     },
     {
-      "titulo": "Samedi 24 octobre 2026",
-      "dia": "Samedi 24 octobre 2026",
+      "titulo": "Samedi 7 novembre 2026",
+      "dia": "Samedi 7 novembre 2026",
       "enfoque": "Koryo (Lignes 1 et 2 complètes): 3 séries avec 30 secondes de repos entre chaque série",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"
     },
     {
-      "titulo": "Lundi 26 octobre 2026",
-      "dia": "Lundi 26 octobre 2026",
+      "titulo": "Lundi 9 novembre 2026",
+      "dia": "Lundi 9 novembre 2026",
       "enfoque": "Koryo - Ligne 2 (Mouvement 1: Ap kubi, défense basse avec la main ouverte et frappe au cou): 10 min | Koryo - Ligne 2 (Mouvement 2: Ap chagui, préparation de la défense basse avec la main ouverte, ap kubi et frappe au cou): 10 min",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"
     },
     {
-      "titulo": "Mardi 27 octobre 2026",
-      "dia": "Mardi 27 octobre 2026",
+      "titulo": "Mardi 10 novembre 2026",
+      "dia": "Mardi 10 novembre 2026",
       "enfoque": "Koryo - Ligne 2 (Mouvement 3: Ap chagui, préparation de la défense basse avec la main ouverte, ap kubi et frappe au cou avec kiap): 10 min | Koryo - Ligne 2 (Mouvement 4: Ap chagui, ap kubi et frappe basse avec la main ouverte représentant une technique de rupture de la jambe): 10 min",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"
     },
     {
-      "titulo": "Mercredi 28 octobre 2026",
-      "dia": "Mercredi 28 octobre 2026",
+      "titulo": "Mercredi 11 novembre 2026",
+      "dia": "Mercredi 11 novembre 2026",
       "enfoque": "Koryo - Ligne 2 (Mouvement 5: Tourner, Ap Kubi et double défense extérieure): 7 min | Koryo - Ligne 2 (Mouvement 6: Ap chagui, ap kubi, frappe basse avec la main ouverte et double défense extérieure en Ap Sogui): 7 min",
       "reps": "Respecte les durées, les séries et les temps de repos indiqués.",
       "tipo": "info"

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15",
+  "updated_at": "2026-10-30",
   "nivel": "Nivel Dragones",
-  "ciclo": "Thursday, October 15 to Wednesday, October 28, 2026",
+  "ciclo": "Friday, October 30 to Wednesday, November 11, 2026",
   "enfoque_corto": "Clean technique, steady progress",
   "enfoque": "ChanonaFlex: Monday to Saturday. Active isometric: Monday and Friday / Tuesday and Thursday / Wednesday and Saturday. Technical kicking: Monday and Wednesday / Tuesday and Thursday. Poomsae: Monday to Saturday.",
   "chanonaflexDias": "Monday to Saturday",
@@ -120,85 +120,78 @@
   "poomsaeDias": "Monday to Saturday",
   "poomsae": [
     {
-      "titulo": "Thursday 15 October 2026",
-      "dia": "Thursday 15 October 2026",
-      "enfoque": "Taeguk 4 (Line 2): 10 min | Taeguk 5 (Line 2): 10 min",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
-    },
-    {
-      "titulo": "Friday 16 October 2026",
-      "dia": "Friday 16 October 2026",
+      "titulo": "Friday 30 October 2026",
+      "dia": "Friday 30 October 2026",
       "enfoque": "Koryo (Line 2): 10 min | Keumgang (Line 2): 10 min | Complete Poomsae of the day: Taeguk 4, Taeguk 5 and Koryo (4 sets of all 3 forms back-to-back at maximum timing speed, with 1 minute of rest between sets)",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
     },
     {
-      "titulo": "Saturday 17 October 2026",
-      "dia": "Saturday 17 October 2026",
+      "titulo": "Saturday 31 October 2026",
+      "dia": "Saturday 31 October 2026",
       "enfoque": "Keumgang (Line 6): 10 min | Taeguk 4 (Line 2): 10 min",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
     },
     {
-      "titulo": "Monday 19 October 2026",
-      "dia": "Monday 19 October 2026",
+      "titulo": "Monday 2 November 2026",
+      "dia": "Monday 2 November 2026",
       "enfoque": "Taeguk 5 (Line 2): 10 min | Koryo (Line 2): 10 min",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
     },
     {
-      "titulo": "Tuesday 20 October 2026",
-      "dia": "Tuesday 20 October 2026",
+      "titulo": "Tuesday 3 November 2026",
+      "dia": "Tuesday 3 November 2026",
       "enfoque": "Keumgang (Line 2): 10 min | Keumgang (Line 6): 10 min",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
     },
     {
-      "titulo": "Wednesday 21 October 2026",
-      "dia": "Wednesday 21 October 2026",
+      "titulo": "Wednesday 4 November 2026",
+      "dia": "Wednesday 4 November 2026",
       "enfoque": "Taeguk 4 (Line 2): 10 min | Taeguk 5 (Line 2): 10 min | Complete Poomsae of the day: Taeguk 4, Taeguk 5 and Koryo (4 sets of all 3 forms back-to-back at maximum timing speed, with 1 minute of rest between sets)",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
     },
     {
-      "titulo": "Thursday 22 October 2026",
-      "dia": "Thursday 22 October 2026",
+      "titulo": "Thursday 5 November 2026",
+      "dia": "Thursday 5 November 2026",
       "enfoque": "Taeguk 4 (Line 4): 10 min | Taeguk 5 (Line 5): 10 min",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
     },
     {
-      "titulo": "Friday 23 October 2026",
-      "dia": "Friday 23 October 2026",
+      "titulo": "Friday 6 November 2026",
+      "dia": "Friday 6 November 2026",
       "enfoque": "Koryo (Line 3): 10 min | Keumgang (Line 4): 10 min | Complete Poomsae of the day: Taeguk 4, Taeguk 5 and Koryo (4 sets of all 3 forms back-to-back at maximum timing speed, with 1 minute of rest between sets)",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
     },
     {
-      "titulo": "Saturday 24 October 2026",
-      "dia": "Saturday 24 October 2026",
+      "titulo": "Saturday 7 November 2026",
+      "dia": "Saturday 7 November 2026",
       "enfoque": "Taeguk 4 (Line 4): 10 min | Taeguk 5 (Line 5): 10 min",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
     },
     {
-      "titulo": "Monday 26 October 2026",
-      "dia": "Monday 26 October 2026",
+      "titulo": "Monday 9 November 2026",
+      "dia": "Monday 9 November 2026",
       "enfoque": "Koryo (Line 3): 10 min | Keumgang (Line 4): 10 min",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
     },
     {
-      "titulo": "Tuesday 27 October 2026",
-      "dia": "Tuesday 27 October 2026",
+      "titulo": "Tuesday 10 November 2026",
+      "dia": "Tuesday 10 November 2026",
       "enfoque": "Taeguk 4 (Line 4): 10 min | Taeguk 5 (Line 5): 10 min",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
     },
     {
-      "titulo": "Wednesday 28 October 2026",
-      "dia": "Wednesday 28 October 2026",
+      "titulo": "Wednesday 11 November 2026",
+      "dia": "Wednesday 11 November 2026",
       "enfoque": "Koryo (Line 3): 10 min | Keumgang (Line 4): 10 min | Complete Poomsae of the day: Taeguk 4, Taeguk 5 and Koryo (4 sets of all 3 forms back-to-back at maximum timing speed, with 1 minute of rest between sets)",
       "reps": "Follow the specified times, sets and rest periods.",
       "tipo": "info"
