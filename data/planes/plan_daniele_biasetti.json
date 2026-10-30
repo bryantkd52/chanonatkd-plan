@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15",
+  "updated_at": "2026-10-30",
   "nivel": "Nivel Dragones",
-  "ciclo": "Jueves 15 al miércoles 28 de octubre de 2026",
+  "ciclo": "Viernes 30 de octubre al miércoles 11 de noviembre de 2026",
   "enfoque_corto": "Técnica, postura y mayor intensidad",
   "enfoque": "ChanonaFlex: lunes a sábado. Isométrico activo: lunes y viernes / martes y jueves / miércoles y sábado. Pateo técnico: lunes y miércoles / martes y jueves.",
   "chanonaflexDias": "Lunes a sábado",
@@ -30,7 +30,7 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
       "dia": "Lunes y viernes",
-      "enfoque": "Trabaja el glúteo y el gancho con control.",
+      "enfoque": "Trabaja el glúteo y el gancho con control. Usa una polaina de ¼ kg (250 g) en la pierna que trabaja.",
       "reps": "Según indicación del video"
     },
     {
@@ -38,7 +38,7 @@
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1CmRB-nx4GeoPqFrpaAbClkx71BL3Yxjw/view?usp=sharing",
       "dia": "Martes y jueves",
-      "enfoque": "Cuida la cámara, la postura y la pierna de apoyo.",
+      "enfoque": "Cuida la cámara, la postura y la pierna de apoyo. Usa una polaina de ¼ kg (250 g) en la pierna que trabaja.",
       "reps": "Según indicación del video"
     },
     {
@@ -85,12 +85,12 @@
       "reps": "7 repeticiones por pierna / 2 series"
     },
     {
-      "titulo": "Split de Yop Chagui",
+      "titulo": "Ejercicio 3 - Yop Chagui",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1lBjcj7KrgG8HFLZcFKvzWPQDxVL6zwU7/view?usp=sharing",
       "dia": "Martes y jueves",
-      "enfoque": "No debe doler la rodilla. Siéntate en el bloque de yoga.",
-      "reps": "30 repeticiones por pierna / 1 serie"
+      "enfoque": "Cuida la técnica y el control en cada repetición.",
+      "reps": "20 repeticiones por pierna / 1 serie"
     }
   ],
   "poomsaeDias": "No asignado en este ciclo",
