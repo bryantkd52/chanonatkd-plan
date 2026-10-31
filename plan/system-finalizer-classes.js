@@ -44,7 +44,12 @@
         "titulo": "Taeguk 1 - L1 Pies - ChanonaTKD System",
         "url": "https://drive.google.com/file/d/1Sq39npNKRqAsfMWXEcqPzayM0GZH7XnN/view?usp=drive_link",
         "tipo": "video"
-    }
+    },
+{
+    "titulo": "Sesión 2 - Taeguk 1 L1 manos",
+    "tipo": "video",
+    "url": "https://drive.google.com/file/d/19Gttj-S0PFjDUH_vR04QCUfrhGgd8Gf9/view?usp=drivesdk"
+}
 ],
     pateo: [
     {
@@ -56,7 +61,12 @@
         "titulo": "Clase Pateo 1 - ChanonaTKD System",
         "url": "https://drive.google.com/file/d/1oCtckFQwkN5SthplLvVF23LD1d6TlofY/view?usp=sharing",
         "tipo": "video"
-    }
+    },
+{
+    "titulo": "Sesión 2 - Pateo sostenido Ap Chagui",
+    "tipo": "video",
+    "url": "https://drive.google.com/file/d/1q1whmQxRTk48xjL7ETojApFHH0wodm3o/view?usp=drivesdk"
+}
 ],
     flexibilidad: [
     {
@@ -68,7 +78,22 @@
         "titulo": "Sesión 2 - Aquiles y pateo - ChanonaTKD System",
         "url": "https://drive.google.com/file/d/1RGDmaLglGTbmyTwfxB880QPNsQUr8Cla/view?usp=sharing",
         "tipo": "video"
-    }
+    },
+{
+    "titulo": "Sesión 3 - Flex retante - ChanonaTKD System",
+    "tipo": "video",
+    "url": "https://drive.google.com/file/d/1oBg19rNQqip9-xZvInHwFxPNJiuGJEoM/view?usp=drivesdk"
+},
+{
+    "titulo": "Sesión 4 - Flex en bloque progresivo",
+    "tipo": "video",
+    "url": "https://drive.google.com/file/d/1PyUjJg-jQXM9BDFvgeHrK-Mg7-LqnyfX/view?usp=drivesdk"
+},
+{
+    "titulo": "Sesión 5 - Silla y media rana activa",
+    "tipo": "video",
+    "url": "https://drive.google.com/file/d/1x9xaB_-_PxdqhzgcmII7OxzdzJP2fa5n/view?usp=drivesdk"
+}
 ],
     sesiones: SESSIONS
   };

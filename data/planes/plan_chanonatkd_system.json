@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-16",
+  "updated_at": "2026-10-31",
   "nivel": "ChanonaTKD System",
-  "ciclo": "Jueves 15 al miércoles 28 de octubre de 2026",
-  "enfoque_corto": "Cada detalle construye tu progreso.",
+  "ciclo": "Viernes 30 de octubre al miércoles 11 de noviembre de 2026",
+  "enfoque_corto": "Tu constancia transforma tu técnica.",
   "enfoque": "ChanonaFlex: lunes a sábado según tu nivel. Isométrico activo: lunes, miércoles y viernes. Pateo técnico: lunes y miércoles / martes y jueves. Poomsae: lunes a sábado.",
   "chanonaflexDias": "Depende de la pestaña asignada por el Profesor Chanona",
   "isometricoDias": "Depende de la pestaña asignada por el Profesor Chanona",
@@ -446,86 +446,79 @@
       "pateoTecnico": [],
       "poomsae": [
         {
-          "titulo": "Jueves 15 de Octubre de 2026",
-          "dia": "Jueves 15 de Octubre de 2026",
+          "titulo": "Viernes 30 de Octubre de 2026",
+          "dia": "Viernes 30 de Octubre de 2026",
           "enfoque": "Taeguk 4 (Línea 2): 10 min | Taeguk 5 (Línea 2): 10 min",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         },
         {
-          "titulo": "Viernes 16 de Octubre de 2026",
-          "dia": "Viernes 16 de Octubre de 2026",
+          "titulo": "Sábado 31 de Octubre de 2026",
+          "dia": "Sábado 31 de Octubre de 2026",
           "enfoque": "Koryo (Línea 2): 10 min | Keumgang (Línea 2): 10 min | Poomsaes completas del día: Taeguk 4, Taeguk 5 y Koryo (4 series de las 3 seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         },
         {
-          "titulo": "Sábado 17 de Octubre de 2026",
-          "dia": "Sábado 17 de Octubre de 2026",
+          "titulo": "Lunes 2 de Noviembre de 2026",
+          "dia": "Lunes 2 de Noviembre de 2026",
           "enfoque": "Keumgang (Línea 6): 10 min | Taeguk 4 (Línea 2): 10 min",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         },
         {
-          "titulo": "Lunes 19 de Octubre de 2026",
-          "dia": "Lunes 19 de Octubre de 2026",
+          "titulo": "Martes 3 de Noviembre de 2026",
+          "dia": "Martes 3 de Noviembre de 2026",
           "enfoque": "Taeguk 5 (Línea 2): 10 min | Koryo (Línea 2): 10 min",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         },
         {
-          "titulo": "Martes 20 de Octubre de 2026",
-          "dia": "Martes 20 de Octubre de 2026",
+          "titulo": "Miércoles 4 de Noviembre de 2026",
+          "dia": "Miércoles 4 de Noviembre de 2026",
           "enfoque": "Keumgang (Línea 2): 10 min | Keumgang (Línea 6): 10 min",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         },
         {
-          "titulo": "Miércoles 21 de Octubre de 2026",
-          "dia": "Miércoles 21 de Octubre de 2026",
+          "titulo": "Jueves 5 de Noviembre de 2026",
+          "dia": "Jueves 5 de Noviembre de 2026",
           "enfoque": "Taeguk 4 (Línea 2): 10 min | Taeguk 5 (Línea 2): 10 min | Poomsaes completas del día: Taeguk 4, Taeguk 5 y Koryo (4 series de las 3 seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         },
         {
-          "titulo": "Jueves 22 de Octubre de 2026",
-          "dia": "Jueves 22 de Octubre de 2026",
+          "titulo": "Viernes 6 de Noviembre de 2026",
+          "dia": "Viernes 6 de Noviembre de 2026",
           "enfoque": "Taeguk 4 (Línea 4): 10 min | Taeguk 5 (Línea 5): 10 min",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         },
         {
-          "titulo": "Viernes 23 de Octubre de 2026",
-          "dia": "Viernes 23 de Octubre de 2026",
+          "titulo": "Sábado 7 de Noviembre de 2026",
+          "dia": "Sábado 7 de Noviembre de 2026",
           "enfoque": "Koryo (Línea 3): 10 min | Keumgang (Línea 4): 10 min | Poomsaes completas del día: Taeguk 4, Taeguk 5 y Koryo (4 series de las 3 seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         },
         {
-          "titulo": "Sábado 24 de Octubre de 2026",
-          "dia": "Sábado 24 de Octubre de 2026",
+          "titulo": "Lunes 9 de Noviembre de 2026",
+          "dia": "Lunes 9 de Noviembre de 2026",
           "enfoque": "Taeguk 4 (Línea 4): 10 min | Taeguk 5 (Línea 5): 10 min",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         },
         {
-          "titulo": "Lunes 26 de Octubre de 2026",
-          "dia": "Lunes 26 de Octubre de 2026",
+          "titulo": "Martes 10 de Noviembre de 2026",
+          "dia": "Martes 10 de Noviembre de 2026",
           "enfoque": "Koryo (Línea 3): 10 min | Keumgang (Línea 4): 10 min",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         },
         {
-          "titulo": "Martes 27 de Octubre de 2026",
-          "dia": "Martes 27 de Octubre de 2026",
-          "enfoque": "Taeguk 4 (Línea 4): 10 min | Taeguk 5 (Línea 5): 10 min",
-          "reps": "Respeta los tiempos, las series y los descansos indicados.",
-          "tipo": "info"
-        },
-        {
-          "titulo": "Miércoles 28 de Octubre de 2026",
-          "dia": "Miércoles 28 de Octubre de 2026",
-          "enfoque": "Koryo (Línea 3): 10 min | Keumgang (Línea 4): 10 min | Poomsaes completas del día: Taeguk 4, Taeguk 5 y Koryo (4 series de las 3 seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
+          "titulo": "Miércoles 11 de Noviembre de 2026",
+          "dia": "Miércoles 11 de Noviembre de 2026",
+          "enfoque": "Taeguk 4 (Línea 4): 10 min | Taeguk 5 (Línea 5): 10 min | Poomsaes completas del día: Taeguk 4, Taeguk 5 y Koryo (4 series de las 3 seguidas a máxima velocidad de timing, con 1 minuto de descanso entre series)",
           "reps": "Respeta los tiempos, las series y los descansos indicados.",
           "tipo": "info"
         }

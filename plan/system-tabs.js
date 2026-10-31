@@ -504,7 +504,7 @@
     }else if(tab.id === "pateo"){
       parts.push(section(`tab-${tab.id}-pateo`, "Pateo técnico", "Común para intermedios y avanzados", renderList(tab.pateoTecnico, "Pateo", tab.pateoDias)));
     }else if(tab.id === "poomsae"){
-      if(tab.poomsae?.length) parts.push(section("tab-poomsae-cronograma", "Cronograma de entrenamiento de poomsae", "15 al 28 de octubre de 2026", window.renderPoomsaeSchedule(tab.poomsae, "es")));
+      if(tab.poomsae?.length) parts.push(section("tab-poomsae-cronograma", "Cronograma de entrenamiento de poomsae", "Planificación por día", window.renderPoomsaeSchedule(tab.poomsae, "es")));
       parts.push(renderPoomsaeLibrary(tab));
       parts.push(renderPoomsaeInstructions(tab));
 
