@@ -137,6 +137,7 @@
   }
 
   function seedLibrary(){
+    add("Taeguk 1",2,item("Taeguk 1 - L2 pies y manos","Según indicación del Profesor Chanona","https://drive.google.com/file/d/1_7KWhl8QA4mRmQUFPKksNohcTBQBU9fk/view?usp=drivesdk","Pies y manos de la línea 2.","Según indicación del Profesor Chanona"));
     for(let line=1; line<=6; line++){
       add("Taeguk 1", line, item("Taeguk 1 - Espejo paso a paso", "Referencia", "https://drive.google.com/open?id=1AP1did1HVwyMQy8byxTCLx9fy32IHhWM&usp=drive_copy", "Referencia completa para ubicar línea, dirección y ritmo.", "1 repaso completo"));
       add("Taeguk 2", line, item("Taeguk 2 completo", "Referencia", "https://drive.google.com/open?id=153in4ZZtofBlf44rwqhrtyyIwBUrU9_8&usp=drive_copy", "Referencia completa para ubicar línea y movimientos.", "1 repaso completo"));

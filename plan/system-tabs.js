@@ -61,6 +61,7 @@
   };
 
   const LINE_RESOURCES = {
+    [key("Taeguk 1","2")]: [media("Taeguk 1 - L2 pies y manos", "https://drive.google.com/file/d/1_7KWhl8QA4mRmQUFPKksNohcTBQBU9fk/view?usp=drivesdk")],
     [key("Taeguk 4","1")]: [
       media("Inicio con twit kubi (solo posición)", "https://drive.google.com/open?id=1A70nM_-pgKRvJenFyse3ZnpLPVlxNZEz&usp=drive_copy"),
       media("Transicion manos y pies L1 T4", "https://drive.google.com/open?id=1NglZlc_b57Vsi9geRsDXEeSg97bJGQJB&usp=drive_copy"),
