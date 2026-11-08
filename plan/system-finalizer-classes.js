@@ -93,6 +93,11 @@
     "titulo": "Sesión 5 - Silla y media rana activa",
     "tipo": "video",
     "url": "https://drive.google.com/file/d/1x9xaB_-_PxdqhzgcmII7OxzdzJP2fa5n/view?usp=drivesdk"
+},
+{
+    "titulo": "Sesión 6 - Flex isquio y elevación",
+    "tipo": "video",
+    "url": "https://drive.google.com/open?id=15wa5_3WL7EORRiV-zz8aA2dQol4AoALI&usp=drive_copy"
 }
 ],
     sesiones: SESSIONS
