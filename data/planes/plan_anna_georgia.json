@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-30",
+  "updated_at": "2026-11-13",
   "nivel": "Nivel Dragones",
-  "ciclo": "Friday, October 30 to Wednesday, November 11, 2026",
-  "enfoque_corto": "Clean technique, steady progress",
-  "enfoque": "ChanonaFlex: Monday to Saturday. Active isometric: Monday and Friday / Tuesday and Thursday / Wednesday and Saturday. Technical kicking: Monday and Wednesday / Tuesday and Thursday. Poomsae: Monday to Saturday.",
+  "ciclo": "Friday, November 13 to Wednesday, November 25, 2026",
+  "enfoque_corto": "One correction at a time",
+  "enfoque": "Active isometrics: Monday through Saturday. Technical kicking: Monday through Thursday. Poomsae: Monday through Saturday.",
   "chanonaflexDias": "Monday to Saturday",
   "chanonaflex": [
     {
-      "titulo": "Pre-Chanonaflex - Initial stretch",
+      "titulo": "Pre-Chanonaflex - Initial Stretch",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1mV7dkockaExAief_qW7RsMUuouwfMKM7/view?usp=sharing",
       "dia": "Monday to Saturday",
@@ -15,7 +15,7 @@
       "reps": "Follow the video"
     },
     {
-      "titulo": "Chanonaflex From Proposal - Level 3",
+      "titulo": "Chanonaflex from Chamber Position - Level 3",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/16UN5_qf8r8Vr5SVuWnuU5KaNibrzFcDQ/view?usp=sharing",
       "dia": "Monday to Saturday",
@@ -23,10 +23,10 @@
       "reps": "Follow the video"
     }
   ],
-  "isometricoDias": "Monday and Friday / Tuesday and Thursday / Wednesday and Saturday",
+  "isometricoDias": "Monday through Saturday",
   "isometrico": [
     {
-      "titulo": "Glute and hook - Active isometric - Intermediate",
+      "titulo": "Glute and hook kick, intermediate",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1S4PWmc52Ot9k-IrXt38L-Spx0tjqj8Lr/view?usp=sharing",
       "dia": "Monday and Friday",
@@ -34,7 +34,7 @@
       "reps": "Follow the video"
     },
     {
-      "titulo": "Active Isometric - Yop Chagui - Level 1",
+      "titulo": "Yop Chagui, Level 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1ptuIEmfskjKeBhYfvW4JZVvW5hIIdCbx/view?usp=sharing",
       "dia": "Tuesday and Thursday",
@@ -42,7 +42,7 @@
       "reps": "Follow the video"
     },
     {
-      "titulo": "Active Isometric - Ap Chagui - Level 1",
+      "titulo": "Ap Chagui, Level 1",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1kbkZqudxFm3GqgXyrEiKM_ODwrMk3ppx/view?usp=sharing",
       "dia": "Wednesday and Saturday",
@@ -50,162 +50,147 @@
       "reps": "Follow the video"
     }
   ],
-  "pateoDias": "Monday and miércoles / Tuesday and Thursday",
+  "pateoDias": "Monday, Tuesday, Wednesday and Thursday",
   "pateoTecnico": [
     {
-      "titulo": "Hip rotation with resistance band",
+      "titulo": "Wall Heel Raises",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1-mLzWj3XiEzCeul7LaIWuPzP39qQ6VtQ&usp=drive_copy",
-      "dia": "Monday and miércoles",
-      "enfoque": "Work at maximum speed. Rest 15 seconds between sets.",
-      "reps": "20 repetitions / 4 sets"
+      "url": "https://drive.google.com/file/d/1OvmO3nrmM--QtIvgsREzFGANsCzzbXin/view",
+      "dia": "Monday and Wednesday",
+      "enfoque": "Raise and lower with control.",
+      "reps": "10 reps / 2 sets"
     },
     {
-      "titulo": "Ankle strengthening with resistance band",
+      "titulo": "Seated Ap Chagui",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link",
-      "dia": "Monday and miércoles",
-      "enfoque": "Perform every repetition extremely slowly.",
-      "reps": "5 repetitions per side / 1 set"
+      "url": "https://drive.google.com/file/d/1kgNL9L8yGHWr_vMbbCZYIelzlZvqizX/view",
+      "dia": "Monday and Wednesday",
+      "enfoque": "Control the lift and return.",
+      "reps": "6 reps per leg / 2 sets"
     },
     {
-      "titulo": "Balance Ap + Dollyo + Yop",
+      "titulo": "Ap Chagui at Three Heights",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=sharing",
-      "dia": "Monday and miércoles",
-      "enfoque": "Maintain balance and control throughout the sequence.",
-      "reps": "10 repetitions per leg / 2 sets"
+      "url": "https://drive.google.com/file/d/1iUBOiNH65FT8PGaRTv8kT4gxDV2M6_Az/view",
+      "dia": "Monday and Wednesday",
+      "enfoque": "Maintain your posture as you change height.",
+      "reps": "5 reps per leg / 2 sets"
     },
     {
-      "titulo": "Ap Chagui - Full extension",
+      "titulo": "Landing and Preparation Drill - Taeguk 5 L2",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=sharing",
-      "dia": "Monday and miércoles",
-      "enfoque": "Do not twist your torso or raise your shoulders. Always keep your support leg extended.",
-      "reps": "30 repetitions per leg / 2 sets"
+      "url": "https://drive.google.com/open?id=1aXojkxi9SDk10XS_OUDvYgIIkAvd5Thk&usp=drive_copy",
+      "dia": "Monday and Wednesday",
+      "enfoque": "Coordinate your arm preparation with the landing.",
+      "reps": "5 reps per side / 2 sets"
     },
     {
-      "titulo": "Yop Chagui split",
+      "titulo": "Ap + Yop + Hip Turn with a Chair",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1y5VPwL9XoGo8javxUs5KPpsFRhmVpoyA/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO/view",
       "dia": "Tuesday and Thursday",
-      "enfoque": "Reach your maximum extension without shifting your glute or hip. Your knee must not hurt.",
-      "reps": "30 repetitions / 2 sets"
+      "enfoque": "Turn your hips slowly and smoothly.",
+      "reps": "5 reps per leg / 2 sets"
     },
     {
-      "titulo": "Yop Chagui + floor touch + balance",
+      "titulo": "Drill 14 - Yop Chagui",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1ZQ3ud3bkEQJcvSnUelWDVR4ECdwv1_Vn/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1qx3PlIWmwbD45PR89PDdCo06fPBwK8Vr/view",
       "dia": "Tuesday and Thursday",
-      "enfoque": "Do not move your support foot, even if your kicking leg drops.",
-      "reps": "10 repetitions per side / 2 sets"
+      "enfoque": "Maintain your posture throughout each rep.",
+      "reps": "6 reps per leg / 2 sets"
     },
     {
-      "titulo": "Chamber + Koryo L3 + T5 L5",
+      "titulo": "Ap + Dollyo + Yop with Retraction",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/15eKiPwUQSRQAutTZ1s1XD8s-stSXe9PE/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1pUIqQv-TZfUGYydpdg8bMH9qJrEpVTXR/view",
       "dia": "Tuesday and Thursday",
-      "enfoque": "Do not move your support foot, even if your raised leg drops.",
-      "reps": "10 repetitions per side / 2 sets"
+      "enfoque": "Control your return to chamber.",
+      "reps": "4 sequences per leg / 2 sets"
     },
     {
-      "titulo": "Yop Chagui circuit with block",
+      "titulo": "Lift + Hold + Roundhouse Circuit",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/10nz0e_wowhkr4rk7uUlobLrKCFpA6OXy/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1Jrwnad5LdAZdG1d_75e2QI7U2sEVLcSP/view",
       "dia": "Tuesday and Thursday",
-      "enfoque": "Stay completely steady in every static position.",
-      "reps": "5 repetitions per side / 1 set"
+      "enfoque": "Keep your balance during the hold.",
+      "reps": "4 sequences per side / 1 set"
     }
   ],
-  "poomsaeDias": "Monday to Saturday",
+  "poomsaeDias": "Monday through Saturday",
   "poomsae": [
     {
-      "titulo": "Friday 30 October 2026",
-      "dia": "Friday 30 October 2026",
-      "enfoque": "Koryo (Line 2): 10 min | Keumgang (Line 2): 10 min | Complete Poomsae of the day: Taeguk 4, Taeguk 5 and Koryo (4 sets of all 3 forms back-to-back at maximum timing speed, with 1 minute of rest between sets)",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Friday, November 13",
+      "dia": "Friday, November 13",
+      "tipo": "info",
+      "enfoque": "Taeguk 4 (line 2) and Taeguk 5 (line 5): 8 min per line."
     },
     {
-      "titulo": "Saturday 31 October 2026",
-      "dia": "Saturday 31 October 2026",
-      "enfoque": "Keumgang (Line 6): 10 min | Taeguk 4 (Line 2): 10 min",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Saturday, November 14",
+      "dia": "Saturday, November 14",
+      "tipo": "info",
+      "enfoque": "Koryo (line 2) and Keumgang (line 2): 8 min per line."
     },
     {
-      "titulo": "Monday 2 November 2026",
-      "dia": "Monday 2 November 2026",
-      "enfoque": "Taeguk 5 (Line 2): 10 min | Koryo (Line 2): 10 min",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Monday, November 16",
+      "dia": "Monday, November 16",
+      "tipo": "info",
+      "enfoque": "Taeguk 4 (line 4) and Taeguk 5 (line 2): 8 min per line."
     },
     {
-      "titulo": "Tuesday 3 November 2026",
-      "dia": "Tuesday 3 November 2026",
-      "enfoque": "Keumgang (Line 2): 10 min | Keumgang (Line 6): 10 min",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Tuesday, November 17",
+      "dia": "Tuesday, November 17",
+      "tipo": "info",
+      "enfoque": "Koryo (line 3) and Keumgang (line 4): 8 min per line."
     },
     {
-      "titulo": "Wednesday 4 November 2026",
-      "dia": "Wednesday 4 November 2026",
-      "enfoque": "Taeguk 4 (Line 2): 10 min | Taeguk 5 (Line 2): 10 min | Complete Poomsae of the day: Taeguk 4, Taeguk 5 and Koryo (4 sets of all 3 forms back-to-back at maximum timing speed, with 1 minute of rest between sets)",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Wednesday, November 18",
+      "dia": "Wednesday, November 18",
+      "tipo": "info",
+      "enfoque": "Perform Taeguk 4, Taeguk 5, Koryo and Keumgang in order for 2 sets. Rest 1 minute between sets."
     },
     {
-      "titulo": "Thursday 5 November 2026",
-      "dia": "Thursday 5 November 2026",
-      "enfoque": "Taeguk 4 (Line 4): 10 min | Taeguk 5 (Line 5): 10 min",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Thursday, November 19",
+      "dia": "Thursday, November 19",
+      "tipo": "info",
+      "enfoque": "Taeguk 4 (line 2) and Taeguk 5 (line 5): 8 min per line."
     },
     {
-      "titulo": "Friday 6 November 2026",
-      "dia": "Friday 6 November 2026",
-      "enfoque": "Koryo (Line 3): 10 min | Keumgang (Line 4): 10 min | Complete Poomsae of the day: Taeguk 4, Taeguk 5 and Koryo (4 sets of all 3 forms back-to-back at maximum timing speed, with 1 minute of rest between sets)",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Friday, November 20",
+      "dia": "Friday, November 20",
+      "tipo": "info",
+      "enfoque": "Koryo (line 2) and Keumgang (line 2): 8 min per line."
     },
     {
-      "titulo": "Saturday 7 November 2026",
-      "dia": "Saturday 7 November 2026",
-      "enfoque": "Taeguk 4 (Line 4): 10 min | Taeguk 5 (Line 5): 10 min",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Saturday, November 21",
+      "dia": "Saturday, November 21",
+      "tipo": "info",
+      "enfoque": "Taeguk 4 (line 4) and Taeguk 5 (line 2): 8 min per line."
     },
     {
-      "titulo": "Monday 9 November 2026",
-      "dia": "Monday 9 November 2026",
-      "enfoque": "Koryo (Line 3): 10 min | Keumgang (Line 4): 10 min",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Monday, November 23",
+      "dia": "Monday, November 23",
+      "tipo": "info",
+      "enfoque": "Koryo (line 3) and Keumgang (line 4): 8 min per line."
     },
     {
-      "titulo": "Tuesday 10 November 2026",
-      "dia": "Tuesday 10 November 2026",
-      "enfoque": "Taeguk 4 (Line 4): 10 min | Taeguk 5 (Line 5): 10 min",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Tuesday, November 24",
+      "dia": "Tuesday, November 24",
+      "tipo": "info",
+      "enfoque": "Keumgang (line 6): 8 min. | Pick one line that needs more work and spend 8 min on it."
     },
     {
-      "titulo": "Wednesday 11 November 2026",
-      "dia": "Wednesday 11 November 2026",
-      "enfoque": "Koryo (Line 3): 10 min | Keumgang (Line 4): 10 min | Complete Poomsae of the day: Taeguk 4, Taeguk 5 and Koryo (4 sets of all 3 forms back-to-back at maximum timing speed, with 1 minute of rest between sets)",
-      "reps": "Follow the specified times, sets and rest periods.",
-      "tipo": "info"
+      "titulo": "Wednesday, November 25",
+      "dia": "Wednesday, November 25",
+      "tipo": "info",
+      "enfoque": "Perform Taeguk 4, Taeguk 5, Koryo and Keumgang in order for 2 sets. Rest 1 minute between sets."
     }
   ],
   "indicacionesExtras": [
-    "Your effort keeps paying off. Do not worry about what you cannot do yet; recognize how much you have already improved.",
-    "Focus on the improvements we have discussed during our Meet training sessions.",
-    "Keep your assisting fist at your waist. Maintain your body structure, even if it feels unusual.",
-    "Coordinate kick landings with your arm movements. Prepare as you rechamber, then execute as you land, smoothly and without pauses."
+    "Pick one correction from our Meet sessions and apply it from the first rep. Keep your assisting fist at your waist when the movement calls for it. As you bring your kicking leg back to chamber, start preparing your arms and finish the arm movement as you land."
   ],
   "apuntes": [],
   "notasFinales": [
-    "Enjoy this training cycle. We will increase the intensity slightly; adapt the work to your available time and current physical capacity.",
-    "Enjoy your training, and let’s keep giving it our best!"
+    "Take your time with the transitions and keep the landing smooth. Enjoy your training, Anna!"
   ]
 }
