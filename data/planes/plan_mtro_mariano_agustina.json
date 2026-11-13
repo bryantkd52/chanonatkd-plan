@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-30",
+  "updated_at": "2026-11-13",
   "nivel": "Nivel Dragones",
-  "ciclo": "Viernes 30 de octubre al miércoles 11 de noviembre de 2026",
-  "enfoque_corto": "Técnica, postura y mayor intensidad",
-  "enfoque": "ChanonaFlex: lunes a sábado. Isométrico activo: lunes y viernes / martes y jueves / miércoles y sábado. Pateo técnico: lunes y miércoles / martes y jueves.",
+  "ciclo": "Viernes 13 al miércoles 25 de noviembre de 2026",
+  "enfoque_corto": "Equilibrio y control al patear",
+  "enfoque": "ChanonaFlex: lunes a sábado. Isométrico activo: lunes a sábado. Pateo técnico: lunes, martes, miércoles y jueves.",
   "chanonaflexDias": "Lunes a sábado",
   "chanonaflex": [
     {
@@ -23,7 +23,7 @@
       "reps": "Según indicación del video"
     }
   ],
-  "isometricoDias": "Lunes y viernes / Martes y jueves / Miércoles y sábado",
+  "isometricoDias": "Lunes a sábado",
   "isometrico": [
     {
       "titulo": "Glúteo y gancho - Isométrico activo - Intermedio",
@@ -50,47 +50,47 @@
       "reps": "Según indicación del video"
     }
   ],
-  "pateoDias": "Lunes y miércoles / Martes y jueves",
+  "pateoDias": "Lunes, martes, miércoles y jueves",
   "pateoTecnico": [
     {
       "titulo": "Ejercicio de fortalecimiento de tobillo con banda",
       "tipo": "video",
       "url": "https://drive.google.com/file/d/1Sux7kXiJImkagl3ye2nN2bMjqmJOa18O/view?usp=drive_link",
       "dia": "Lunes y miércoles",
-      "enfoque": "Realiza cada repetición extremadamente lento.",
+      "enfoque": "Haz cada repetición a un ritmo extremadamente lento.",
       "reps": "10 repeticiones por lado / 1 serie"
     },
     {
-      "titulo": "Ap + Yop + Turn hips silla",
+      "titulo": "Balance Ap + Dollyo + Yop",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1x5bWaaZb97dh3Kl8KyfoBbh7c6uE_dJO&usp=drive_copy",
+      "url": "https://drive.google.com/file/d/1H5wkZLaFmtdAd9CoqllwN7m-OB156tei/view?usp=drivesdk",
       "dia": "Lunes y miércoles",
-      "enfoque": "Mantén el movimiento fluido y lento.",
-      "reps": "7 repeticiones por pierna / 2 series"
+      "enfoque": "Mantén un ritmo lento y fluido.",
+      "reps": "5 repeticiones por pierna / 2 series"
     },
     {
-      "titulo": "Ap chaguis dos bloques",
+      "titulo": "Ap Chagui Extensión completa",
       "tipo": "video",
-      "url": "https://drive.google.com/open?id=1cdbZKTfQ1kzIFEfiUBQb7wusgY2fhXXa&usp=drive_copy",
+      "url": "https://drive.google.com/file/d/1QwJjk1Ku_Vl3dOgMIhPJ9q-zSkvv6BuU/view?usp=drivesdk",
       "dia": "Lunes y miércoles",
-      "enfoque": "Haz una serie ultra rápida y una serie normal.",
-      "reps": "10 repeticiones por pierna / 2 series"
+      "enfoque": "Controla la extensión y el regreso.",
+      "reps": "8 repeticiones por pierna / 2 series"
     },
     {
-      "titulo": "Ejercicio 17 - Yop Chagui",
+      "titulo": "Yop Chagui + toque piso + equilibrio",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1pQf3ikpRZ_PsmVgj-ePf1twsz_htDIqq/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1ZQ3ud3bkEQJcvSnUelWDVR4ECdwv1_Vn/view?usp=drivesdk",
       "dia": "Lunes y miércoles",
-      "enfoque": "Ejecuta cada repetición de manera muy técnica y limpia.",
-      "reps": "7 repeticiones por pierna / 2 series"
+      "enfoque": "Cuida el equilibrio en cada repetición.",
+      "reps": "5 repeticiones por pierna / 2 series"
     },
     {
-      "titulo": "Ejercicio 3 - Yop Chagui",
+      "titulo": "Circuito Yop Chagui con Bloque",
       "tipo": "video",
-      "url": "https://drive.google.com/file/d/1lBjcj7KrgG8HFLZcFKvzWPQDxVL6zwU7/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1KM43-3SXmlc6A-4DTSN3q9aLeZ6A2kgo/view?usp=drivesdk",
       "dia": "Martes y jueves",
-      "enfoque": "Cuida la técnica y el control en cada repetición.",
-      "reps": "20 repeticiones por pierna / 1 serie"
+      "enfoque": "Sigue la secuencia del video.",
+      "reps": "1 vuelta por lado"
     }
   ],
   "poomsaeDias": "No asignado en este ciclo",
@@ -98,7 +98,7 @@
   "indicacionesExtras": [],
   "apuntes": [],
   "notasFinales": [
-    "Durante las dos semanas anteriores, nuestro entrenamiento fue ligeramente más suave. En este ciclo aumentaremos la intensidad. Busca ejecutar tus movimientos con total enfoque en la técnica y la estructura postural que siempre trabajamos en clase; esa es la base para mejorar nuestro nivel de pateo, poomsae y flexibilidad.",
-    "¡Feliz entrenamiento y seguimos dándole con todo como se debe!"
+    "En este ciclo vamos a trabajar el equilibrio al cambiar de patada, la extensión del Ap Chagui y el control del Yop. Haz cada repetición con la postura que practicamos en clase. Si pierdes el equilibrio, baja el ritmo, recupera la postura y vuelve a intentarlo.",
+    "¡Feliz entrenamiento! Seguimos dándole con todo."
   ]
 }
