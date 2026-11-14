@@ -91,6 +91,13 @@
       "dia": "Jueves",
       "enfoque": "Sigue la secuencia del video.",
       "reps": "1 vuelta por lado"
+    },
+    {
+      "titulo": "Fortalecimiento muñeca",
+      "tipo": "video",
+      "url": "https://drive.google.com/file/d/1n5rHjy-8GnsRuW92dP995xllb47UJ3mW/view?usp=drive_link",
+      "dia": "Lunes, miércoles y viernes",
+      "reps": "10 repeticiones / 2 series"
     }
   ],
   "poomsaeDias": "No asignado en este ciclo",
