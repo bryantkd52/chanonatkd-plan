@@ -69,8 +69,8 @@ ok(js.includes('class="demoClassPlaceholder"')&&js.includes('aria-expanded="fals
 ok(js.includes('$$("[data-video-demo]",app).forEach(btn=>'),"Botones de clase conectados con querySelectorAll");
 ok(js.includes('$$("[data-video-demo]",app).forEach(x=>'),"Cierre de botones de clase con querySelectorAll");
 ok(js.includes('$$(".demoClassPlaceholder",app).forEach(x=>'),"Cascada de paneles con querySelectorAll");
-ok(!/(?<!\\$)\\$\\("\\[data-video-demo\\]",app\\)\\.forEach/.test(js),"Evita usar querySelector individual con forEach");
-ok(!/(?<!\\$)\\$\\("\\.demoClassPlaceholder",app\\)\\.forEach/.test(js),"Evita usar querySelector individual con forEach");
+ok(!js.split("\n").some(line=>line.trimStart().startsWith('$("[data-video-demo]",app).forEach')),"Evita usar querySelector individual con forEach");
+ok(!js.split("\n").some(line=>line.trimStart().startsWith('$(".demoClassPlaceholder",app).forEach')),"Evita usar querySelector individual con forEach");
 ok(!js.includes('Reproducir video provisional'),"Sin videos privados ni videos provisionales en el plan");
 ok(css.includes("demoClassPlaceholder"),"Estilo de tarjetas desplegables");
 const home=read("index.html");
