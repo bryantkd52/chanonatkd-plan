@@ -23,10 +23,31 @@ for(const p of pages){
  for(const sub of ["system","personal","academia","curriculum"])ok(s.includes('href="'+prefix+sub+'/index.html"'),"Ruta "+sub+" desde "+p);
 }
 ok(!pages.some(p=>read(p).includes("System FULL")),"Sin nombre System FULL");
-ok(!pages.some(p=>read(p).includes("Forjando Bases")),"Sin planes antiguos");
-ok(read("system/index.html").includes("$1,350 MXN")&&read("system/index.html").includes("$104.69")&&read("system/index.html").includes("€92.41"),"Precio System en 3 monedas");
-ok(read("personal/index.html").includes("$2,600 MXN")&&read("personal/index.html").includes("$164.24")&&read("personal/index.html").includes("€145.02"),"Precio Personal en 3 monedas");
-ok(read("academia/index.html").includes("$2,800 MXN")&&read("academia/index.html").includes("$184.72")&&read("academia/index.html").includes("€163.04"),"Precio Academia en 3 monedas");
+ok(read("personal/index.html").includes("Forjando Bases 1")&&read("personal/index.html").includes("Forjando Bases 2")&&read("personal/index.html").includes("Avanzado de Campeones"),"Tres entrenamientos personalizados vigentes");
+const system=read("system/index.html");
+for(const [name,mxn,usd,eur] of [
+ ["System Esencial","$950 MXN","$69 USD","€65 EUR"],
+ ["System Full","$1,350 MXN","$99 USD","€89 EUR"]
+])ok([name,mxn,usd,eur].every(x=>system.includes(x)),"Oferta vigente "+name);
+ok(!/\$104\.69|€92\.41|entrenamiento grupal online semanal|sábados a las 6/.test(system),"Sin precios ni clases grupales anteriores");
+ok(system.includes("tres clases nuevas cada semana")&&system.includes("Poomsae")&&system.includes("pateo")&&system.includes("flexibilidad"),"Tres clases semanales en System");
+ok(system.includes("Esencial no incluye toda la Academia Digital"),"Esencial sin Academia completa");
+ok(system.includes("solo mientras tu membresía Full esté activa"),"Academia de Full condicionada a membresía");
+const personal=read("personal/index.html");
+for(const [name,mxn,usd,eur] of [
+ ["Forjando Bases 1","$1,400 MXN","$99 USD","€89 EUR"],
+ ["Forjando Bases 2","$1,800 MXN","$129 USD","€119 EUR"],
+ ["Avanzado de Campeones","$2,600 MXN","$164.24 USD","€145.02 EUR"]
+])ok([name,mxn,usd,eur].every(x=>personal.includes(x)),"Oferta vigente "+name);
+ok(personal.includes("los maestros Bryan Herrera Chanona y José"),"Profesores correctos");
+ok(personal.includes('data-teacher="jose" hidden'),"Espacio reservado para la presentación de José");
+ok(personal.includes("La asignación se acuerda")&&!personal.includes("ChanonaTKD Personal"),"Asignación del profesor y nombre anterior retirado");
+ok(personal.includes("dos sesiones semanales")&&personal.includes("una sesión semanal"),"Periodicidad personalizada");
+const academia=read("academia/index.html");
+ok(academia.includes("$1,950 MXN")&&academia.includes("$149 USD")&&academia.includes("€139 EUR"),"Academia con precio único aprobado");
+ok(!/\$2,800|\$184\.72|€163\.04|pago en dos partes|Super Curso Ilimitado|futuras actualizaciones/.test(academia),"Sin precios anteriores ni promesas sin confirmar");
+ok(academia.includes("Acceso de por vida")||academia.includes("acceso de por vida"),"Academia vitalicia");
+ok(academia.includes("corresponden exclusivamente a la membresía System"),"Sin promesa de tres clases semanales en Academia");
 const confirmedVideoIds=[
   ["TuMB_hCQ7iQ","KgiyepVqdlw","ecPeVfg-bN0"],
   ["7mYwor8DNaE","TiGZvPVFXIM","lRna-IZ27_o"],
@@ -52,4 +73,17 @@ ok(!js.includes('$("[data-video-demo]",app).forEach('),"Evita usar querySelector
 ok(!js.includes('$(".demoClassPlaceholder",app).forEach('),"Evita usar querySelector individual con forEach");
 ok(!js.includes('Reproducir video provisional'),"Sin videos privados ni videos provisionales en el plan");
 ok(css.includes("demoClassPlaceholder"),"Estilo de tarjetas desplegables");
+const home=read("index.html");
+ok(home.includes("Desde $1,400 MXN / mes")&&home.includes("Esencial: $950 MXN / mes")&&home.includes("Pago único: $1,950 MXN"),"Tarjetas de Inicio actualizadas");
+for(const p of pages){
+ const html=read(p);
+ ok(!html.includes("Personal Training")&&!html.includes("Academia Digital CTKD"),"Sin etiquetas antiguas en "+p);
+ ok(html.includes(">Personalizados</a>"),"Pie de página y navegación de personalizados en "+p);
+ const whatsapp=[...html.matchAll(/<a\b[^>]*data-wa="([^"]+)"[^>]*href="https:\/\/wa\.me\/(\d+)\?text=([^"]+)"[^>]*>/g)];
+ if(p!=="curriculum/index.html"&&p!=="index.html")ok(whatsapp.length>=2,"Botones WhatsApp en "+p);
+ for(const m of whatsapp)ok(m[2]==="529987406579"&&m[1]===m[3],"WhatsApp consistente en "+p);
+}
+ok(css.includes(".purchase.offerStack")&&css.includes("@media(max-width:380px)"),"Tarjetas adaptables a celular");
+ok(!js.includes("consulta_pago_dividido"),"Evento de pagos divididos retirado");
+
 console.log("\n"+checks+" verificaciones estáticas completas. Faltan pruebas visuales reales.");

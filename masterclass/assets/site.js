@@ -1,5 +1,5 @@
 /* ChanonaTKD - Interacciones compartidas para las cinco páginas.
-   Las clases y textos provisionales viven en content.js y testimonios-ejemplo.js.
+   Las miniclases oficiales viven en content.js; testimonios de ejemplo solo en revisión local.
    Eventos preparados para dataLayer; falta conectar un proveedor de analítica. */
 (function(){
   "use strict";
