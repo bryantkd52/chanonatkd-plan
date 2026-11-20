@@ -418,3 +418,75 @@ html[data-theme=light] .exploreSection::before{opacity:.035}
 .demoClassPlaceholderIcon{width:39px;height:39px;border-radius:12px}
 .demoClassPlaceholder strong{font-size:.93rem}}
 @media (prefers-reduced-motion:reduce){.demoClassPlaceholder{animation:none}.demoClassToggle span{transition:none}}
+
+
+/* Oferta comercial noviembre 2026: tarjetas en las secciones ya existentes.
+   Se conserva la estructura visual, modo claro/oscuro y navegación actual. */
+.choicePrices{
+  display:grid;
+  gap:3px;
+  margin-top:auto;
+  width:100%;
+  padding-top:9px;
+  border-top:1px solid var(--outline);
+}
+.choicePrices .choiceCost{
+  color:var(--fg);
+  font-size:.88rem;
+  font-weight:840;
+  line-height:1.5;
+}
+.choicePrices .choiceWorld{
+  color:var(--green);
+  font-size:.8rem;
+  font-weight:750;
+  line-height:1.45;
+  margin-bottom:7px;
+}
+.purchase.offerStack{gap:13px;padding:17px;align-self:start}
+.offerStack .offerOption{
+  display:flex;
+  flex-direction:column;
+  gap:11px;
+  padding:20px;
+  border:1px solid var(--outline);
+  border-radius:18px;
+  background:var(--wash);
+  min-width:0;
+}
+.offerStack .offerOption.featured{
+  border-color:rgba(238,65,79,.64);
+  background:linear-gradient(135deg,rgba(237,49,65,.13),var(--wash) 58%);
+}
+.offerStack .offerOption h3{
+  margin:0;
+  font-size:clamp(1.3rem,2vw,1.7rem);
+}
+.offerStack .offerOption p{margin:0;line-height:1.5;font-size:.94rem}
+.offerStack .offerOption .priceGlass{
+  margin:4px 0 0;
+  padding:15px;
+}
+.offerStack .offerOption .priceGlass strong{
+  font-size:clamp(1.75rem,2.8vw,2.35rem);
+}
+.offerStack .offerOption .priceGlass small{font-size:.83rem;overflow-wrap:anywhere}
+.offerStack .offerOption .action{width:100%;min-height:48px}
+.offerStack .offerFootnote{
+  color:var(--muted);
+  line-height:1.48;
+  font-size:.8rem;
+  padding:0 4px 4px;
+}
+@media(max-width:760px){
+ .purchase.offerStack{padding:13px}
+ .offerStack .offerOption{padding:15px}
+ .offerStack .offerOption .priceGlass strong{font-size:clamp(1.7rem,7vw,2.1rem)}
+ .choicePrices .choiceCost{font-size:.85rem}
+}
+@media(max-width:380px){
+ .offerStack .offerOption{padding:12px}
+ .offerStack .offerOption .priceGlass{padding:12px}
+ .offerStack .offerOption .priceGlass strong{font-size:1.65rem}
+ .offerStack .offerOption .action{font-size:.85rem;padding-inline:10px}
+}

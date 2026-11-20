@@ -53,7 +53,7 @@
       const msg=decodeURIComponent(link.dataset.wa||"");
       const origin=Object.entries(referral).map(([k,v])=>k+"="+v).join(" · ");
       link.href="https://wa.me/529987406579?text="+encodeURIComponent(msg+(origin?"\nOrigen: "+origin:""));
-      if(/dos partes/i.test(link.textContent))track("consulta_pago_dividido",{programa:"academia"});
+
     });
   });
   $$("[data-track]").forEach(btn=>btn.addEventListener("click",()=>track(btn.dataset.track)));
@@ -200,7 +200,7 @@
       const tab=plan.tab;
       let inner="";
       if(selectedSection==="resumen"){
-        inner='<div class="demoIntro"><span><b>Nivel:</b> Principiantes</span><span><b>Ciclo:</b> '+esc(plan.ciclo)+'</span></div>'+
+        inner='<div class="demoIntro"><span><b>Nivel:</b> Principiantes</span><span><b>Ciclo de ejemplo:</b> '+esc(plan.ciclo)+'</span></div>'+
           '<h3 class="demoHeading">Indicaciones de organización</h3><ul class="demoList">'+(tab.frecuencias||[]).map(x=>"<li>"+esc(x)+"</li>").join("")+"</ul>"+
           '<p class="demoNotice"><b>Frecuencias:</b><br>'+esc(tab.chanonaflexDias)+"<br>"+esc(tab.isometricoDias)+"<br>"+esc(tab.pateoDias)+"</p>";
       }else if(selectedSection==="clases"){
